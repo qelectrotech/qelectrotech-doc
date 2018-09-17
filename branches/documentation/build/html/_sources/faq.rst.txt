@@ -1,0 +1,8 @@
+.. _faq:
+
+QElectroTech FAQ
+================
+
+
+
+

@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Connector &#8212; QElectroTech 2018 documentation</title>
+    <link rel="stylesheet" href="../../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="search" type="application/opensearchdescription+xml"
+          title="Search within QElectroTech 2018 documentation"
+          href="../../_static/opensearch.xml"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="connector">
+<h1>Connector<a class="headerlink" href="#connector" title="Permalink to this headline">¶</a></h1>
+<p>Elements have terminals, a conductor generating extension to elements to connect them with other elements or connectors. Making connections between terminals can be summarized as follows:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Position the cursor on the element connector or terminal you want to connect; you will see that a blue dot appearing on the terminals you want to join.</li>
+<li>Left click the blue dot and hold and drag the pointer to the connector or terminal to join the other element you want to connect. If a green dot appears on the target terminals, it means that the conductor path between them is complete. A red dot means a <a href="#id1"><span class="problematic" id="id2">``</span></a>forbidden connection”.</li>
+<li>Release the left mouse button and the conductor will be completed. The conductor assumes a path between the two elements. However, the connectors can be edited by selecting the conductor with a left mouse click and dragging the green squares on it. Refer to <a class="reference internal" href="#section-8">Section.8</a> for more operations with conductors.</li>
+</ol>
+</div></blockquote>
+<div class="figure" id="fig-24">
+<img alt="users/manual/graphics/insert-wires_1.gif" src="users/manual/graphics/insert-wires_1.gif" />
+</div>
+<p><strong>Fig.24 Animated graphics showing making of connection (by way of conductors) between two elements</strong>  <strong>(Top)</strong> Graphic illustrates that for a connection to be made between the two terminals, blue dot should be selected and cursor should be dragged to the other terminal in a fashion shown by arrows. <strong>(Bottom)</strong> graphic animates connection between a relay and a push button. When a terminal of the coil is pointed with the mouse, a blue colored dot develops at the terminal tip. The dot turns red upon clicking and holding it. Holding and dragging the dot to the terminal of the push button causes a green colored dot to appear at the terminal of the push button, indicating that the connection is permitted. Releasing the mouse button at this point creates a conductor between the two terminals.</p>
+</div>
+<div class="section" id="resizing-conductors-connectors">
+<span id="section-8"></span><h1>Resizing conductors (connectors)<a class="headerlink" href="#resizing-conductors-connectors" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="adjusting-conductors-by-moving-elements">
+<h2>Adjusting conductors by moving elements<a class="headerlink" href="#adjusting-conductors-by-moving-elements" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Select an element in a circuit by left clicking it and hold it in the work  space.</li>
+<li>Drag the selected element in the circuit, the connectors linking the element to the rest of the circuit also moves.</li>
+</ol>
+</div></blockquote>
+<p><strong>Fig.25 Adjusting conductors by repositioning elements</strong></p>
+</div>
+<div class="section" id="adjusting-conductors-with-handles">
+<h2>Adjusting conductors with handles<a class="headerlink" href="#adjusting-conductors-with-handles" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Select a connector with a left mouse click. The segment of the selected connector between two elements turns red, indicating that the conductor is selected.</li>
+<li>Position the cursor over the selected connector; you will find thick green colored squares appear over this segment, one each in a bend.</li>
+<li>The connector can now be adjusted as per the users demands by left clicking these thick little squares and holding and dragging to a new position. The connector changes its path during this action.</li>
+<li>To reset the altered path, left click the short cut icon <a href="#id3"><span class="problematic" id="id4">`</span></a>Reset conductors’ provided in the tool bar with the connector selected (highlighted red). This action will undo all the earlier changes effected to the connector.</li>
+</ol>
+</div></blockquote>
+<p><strong>Fig.26 Animation showing adjusting conductors with handles and reset tool</strong></p>
+</div>
+<div class="section" id="adding-text-to-connectors">
+<h2>Adding text to connectors<a class="headerlink" href="#adding-text-to-connectors" title="Permalink to this headline">¶</a></h2>
+<p>Connectors are provided with text fields, which can be configured from the new project option and conductor tab. Additional text fields can be inserted at desired locations. Text fields for connectors have the same behavior as the text fields for elements discussed under creating a new diagram. Double left click a connector text field and enter the text. The text can orient horizontally or vertically depending on the section of the connector where the test field is provided. The text fields can be rotated and re-positioned as required. Refer section on <a href="#id5"><span class="problematic" id="id6">`configure conductor`_</span></a> for a complete list of configuration options.</p>
+</div>
+<div class="section" id="connector-properties-window">
+<h2>Connector properties window<a class="headerlink" href="#connector-properties-window" title="Permalink to this headline">¶</a></h2>
+<p>A connector’s properties window can be activated by double left clicking it. The connector and its text field properties can be set from this window. Only multiline connectors have text fields. Selecting the <code class="docutils literal notranslate"><span class="pre">single</span> <span class="pre">line</span></code> radio button deactivates the text field. The single line option has further options to format the connector as an earth, phase or a neutral conductor or a combination of any. Selecting the <code class="docutils literal notranslate"><span class="pre">neutral</span></code> option further facilitates formatting the conductor as <code class="docutils literal notranslate"><span class="pre">Protective</span> <span class="pre">Earth</span> <span class="pre">Neutral</span></code> (PEN). Number of phases can also be set upto 3 by selecting the <code class="docutils literal notranslate"><span class="pre">phase</span></code> radio button and using the slider or keying a value into the double spin field. Color and styles to a connector can be applied irrespective of other choices. Refer section on <a href="#id7"><span class="problematic" id="id8">`configure conductor`_</span></a>.</p>
+<span class="target" id="section-9"></span></div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../../index.html">
+              <img class="logo" src="../../_static/qet_logo.png" alt="Logo"/>
+            </a></p>
+<h1 class="logo"><a href="../../index.html">QElectroTech</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../about/introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">User documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tutorials/index.html">Tutorials</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../contributors/index.html">Contributors space</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../developers/info/index.html">Technical choices</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../developers/compiling/index.html">Instructions to compile QElectroTech</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../developers/guide/index.html">Guide for the development of the software</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../developers/index.html">Documentation for developers</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2018, The QElectroTech Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.9</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.8</a>
+      
+      |
+      <a href="../../_sources/users/manual/connector.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
