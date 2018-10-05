@@ -1,0 +1,5 @@
+.. _en/connector/collection
+
+====================
+Connector collection
+====================

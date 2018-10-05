@@ -1,0 +1,10 @@
+.. _en/interface/foliotab
+
+Folios Tab
+==========
+
+
+.. figure:: graphics/qet_folios_tab.png
+   :align: center
+
+   Figure: QElectroTech Folios Tab 

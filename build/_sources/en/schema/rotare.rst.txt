@@ -1,0 +1,32 @@
+.. _en/schema/rotate
+
+=============
+Rotate object
+=============
+
+QElectroTech allows choosing the orientation from many object that are represented at the folio. 
+The object which orientation can be choosed are the following:
+
+    * Elements
+    * Pictures
+    * Text fields
+
+QElectroTech does not allow all orientations for the objects mentioned before, only 4 different 
+orientations are possible: **0**, **90**, **180** and **270** degrees.
+
+For rotating an object:
+
+    1. Right click on element, text field or picture.
+    2. Select the option **Rotate** to rotate the object 90 degrees.
+
+    .. figure:: graphics/qet_element_right_click.png
+        :align: center
+
+        Figure: QElectroTech element PopUP window 
+
+.. note::
+
+    QElectroTech only offers the posibility to rotate **90** degress on the clock direction.
+
+    * To rotate **180** degrees the procedure should be repited once.
+    * To rotate **270** degrees the procedure should be repited twice.
