@@ -1,8 +1,0 @@
-.. _whatsnew/0.6:
-
-What's New in QElectroTech 0.6
-==============================
-
-
-
-
