@@ -1,5 +1,0 @@
-.. _en/export&print/print
-
-===============================
-How to print with QElectroTech?
-===============================

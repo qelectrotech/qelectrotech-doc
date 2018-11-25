@@ -1,5 +1,0 @@
-.. _en/connector/properties
-
-====================
-Connector properties
-====================

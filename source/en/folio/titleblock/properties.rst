@@ -1,5 +1,5 @@
-.. _en/folio/titleblock/editor
+.. _en/folio/titleblock/properties
 
 ======================
-Yiyle block properties
+Title block properties
 ======================

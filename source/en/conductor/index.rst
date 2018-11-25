@@ -8,6 +8,5 @@ Conductor
    :maxdepth: 2
 
    whatis
-   properties
-   collection
-   customize
+   type/index
+   properties/index

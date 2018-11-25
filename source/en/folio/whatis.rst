@@ -12,5 +12,10 @@ on the workspace, a folio from a project is equivalent to a page of a book. When
 PDF, each folio is one page from the document. When a project is exported to any other format (PNG, 
 JPG, DXF, etc.), each folio is one file.
 
-Inside a project, the folios should have an orther. For an easy understanding of the schema, it is 
+Inside a project, the folios should have an order. For an easy understanding of the schema, it is 
 important that the user takes care about the position and information that is included at each folio.
+
+.. figure:: graphics/qet_folios.png
+   :align: center
+
+   Figure: QElectroTech folios

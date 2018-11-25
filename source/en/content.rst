@@ -14,5 +14,7 @@ QElectroTech Manual
    element/index
    conductor/index
    schema/index
+   drawing/index
    reports/index
    export&print/index
+   annex/index

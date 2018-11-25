@@ -13,14 +13,13 @@
     <script type="text/javascript" src="../../../_static/jquery.js"></script>
     <script type="text/javascript" src="../../../_static/underscore.js"></script>
     <script type="text/javascript" src="../../../_static/doctools.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="search" type="application/opensearchdescription+xml"
           title="Search within QElectroTech 2018 documentation"
           href="../../../_static/opensearch.xml"/>
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
     <link rel="next" title="What is the element editor?" href="whatis.html" />
-    <link rel="prev" title="Element customization" href="../customize.html" />
+    <link rel="prev" title="Cross reference at slave element" href="../crossreference/crossreferenceslave.html" />
    
   <link rel="stylesheet" href="../../../_static/custom.css" type="text/css" />
   
@@ -40,8 +39,35 @@
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="whatis.html">What is the element editor?</a></li>
-<li class="toctree-l1"><a class="reference internal" href="interface.html">Interface element editor</a></li>
-<li class="toctree-l1"><a class="reference internal" href="tools.html">Tools Element editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="interface/index.html">Interface element editor</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="interface/elementsinterface.html">Element editor window</a></li>
+<li class="toctree-l2"><a class="reference internal" href="interface/menubar.html">Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="interface/workspace.html">Drawing area</a></li>
+<li class="toctree-l2"><a class="reference internal" href="interface/toolbars.html">Toolbars</a></li>
+<li class="toctree-l2"><a class="reference internal" href="interface/panels.html">Panels</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="editoropen.html">Open element editor</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="editoropen.html#open-element-editor-by-creating-a-new-element">Open element editor by creating a new element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="editoropen.html#open-element-editor-by-editing-an-element">Open element editor by editing an element</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="editorquit.html">Quit element editor</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="editorquit.html#exit-qelectrotech-element-editor-from-menu-bar">Exit QElectroTech element editor from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="editorquit.html#exit-qelectrotech-element-editor-using-keyboard-shortcut">Exit QElectroTech element editor using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="edition/index.html">Create or edit elements</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="edition/editionsteps.html">Steps to create an element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/parts/index.html">Working with parts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/layers.html">Layers in element editor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/elementsize.html">Change element size</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/editelementname.html">Define element name</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/editelementauthor.html">Define author element information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/editelementprop.html">Edit element properties</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edition/undo.html">Working with undo</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -55,16 +81,7 @@
             <p class="logo"><a href="../../../index.html">
               <img class="logo" src="../../../_static/qet_logo.png" alt="Logo"/>
             </a></p>
-<h1 class="logo"><a href="../../../index.html">QElectroTech</a></h1>
-
-
-
-
-
-
-
-
-<h3>Navigation</h3>
+<h3><a href="../../../index.html">Table Of Contents</a></h3>
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../content.html">QElectroTech Manual</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../../basics/index.html">Basics QElectroTech</a></li>
@@ -73,33 +90,43 @@
 <li class="toctree-l2"><a class="reference internal" href="../../folio/index.html">Folio</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="../index.html">Element</a><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="../whatis.html">What is an element?</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../properties.html">Element properties</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../collection.html">Element collection</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../customize.html">Element customization</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../type/index.html">Type of elements</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../properties/index.html">Element properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../collection/index.html">Element collection</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../elementparts/index.html">Element parts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../crossreference/index.html">Element cross reference</a></li>
 <li class="toctree-l3 current"><a class="current reference internal" href="#">Element editor</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../conductor/index.html">Conductor</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../schema/index.html">Schema</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../drawing/index.html">Drawing</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../reports/index.html">Reports</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/index.html">How to export and print on QElectroTech?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../annex/index.html">Annex</a></li>
 </ul>
 </li>
 </ul>
-
 <div class="relations">
 <h3>Related Topics</h3>
 <ul>
   <li><a href="../../../index.html">Documentation overview</a><ul>
   <li><a href="../../content.html">QElectroTech Manual</a><ul>
   <li><a href="../index.html">Element</a><ul>
-      <li>Previous: <a href="../customize.html" title="previous chapter">Element customization</a></li>
+      <li>Previous: <a href="../crossreference/crossreferenceslave.html" title="previous chapter">Cross reference at slave element</a></li>
       <li>Next: <a href="whatis.html" title="next chapter">What is the element editor?</a></li>
   </ul></li>
   </ul></li>
   </ul></li>
 </ul>
 </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../../_sources/en/element/elementeditor/index.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
 <div id="searchbox" style="display: none" role="search">
   <h3>Quick search</h3>
     <div class="searchformwrapper">

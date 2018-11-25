@@ -38,7 +38,7 @@ Define object layer from Menu bar
    Figure: QElectroTech Edit menu 
 
 Define object layer from toolbar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     1. Select the corresponding icon from the toolbar (icons from table) to realize the desired action.
 
@@ -47,7 +47,7 @@ Define object layer from toolbar
    If the toolbar is not displayed, it can be displayed from **Settings > Display > Depth**
 
 Define object layer by right click
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     1. Select the object which layer level should be defined.
     2. Right click and select the desired action.
@@ -58,7 +58,7 @@ Define object layer by right click
    Figure: QElectroTech element right click items
 
 Define object layer using keyboard shortcut
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
 

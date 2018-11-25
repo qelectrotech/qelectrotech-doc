@@ -13,4 +13,4 @@ Project
    saveproject
    closeproject
    cleanproject
-   properties
+   properties/index

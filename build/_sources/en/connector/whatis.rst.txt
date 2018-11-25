@@ -1,5 +1,0 @@
-.. _en/connector/whatis
-
-====================
-What is a connector?
-====================

@@ -1,26 +1,24 @@
 .. _en/schema/index
 
-=========
+======
 Schema
-=========
+======
 
 .. toctree::
    :maxdepth: 2
 
    whatis
-   element
-   connector
-   text
+   element/index
+   conductor/index
+   text/index
    table
    basics
    picture
-   link
-   select
+   select/index
    copy
    cut
    paste
+   multipaste
    delete
    rotate
    layers
-   undopanel
-

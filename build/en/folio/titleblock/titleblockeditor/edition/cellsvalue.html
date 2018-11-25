@@ -1,0 +1,227 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Define cell content &#8212; QElectroTech 2018 documentation</title>
+    <link rel="stylesheet" href="../../../../../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../../../../../" src="../../../../../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+    <link rel="search" type="application/opensearchdescription+xml"
+          title="Search within QElectroTech 2018 documentation"
+          href="../../../../../_static/opensearch.xml"/>
+    <link rel="index" title="Index" href="../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" />
+    <link rel="next" title="Merge cells" href="cellsmerge.html" />
+    <link rel="prev" title="Introduce a logo on the title block" href="logo.html" />
+   
+  <link rel="stylesheet" href="../../../../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="define-cell-content">
+<h1>Define cell content<a class="headerlink" href="#define-cell-content" title="Permalink to this headline">¶</a></h1>
+<p>QElectroTech title block editor allows defining two differen type of content at the text cell
+type: simple text and variables.</p>
+<p>Regardless of the content type, QElectroTech reads the infromation from the title block at a different
+database adress depending on the languaje selected at <strong>Setting &gt; Configure QElectroTech</strong>. This means
+that the user have always to define the languaje of the content before introduce it.</p>
+<p>QElectroTech allows defining the cell content in some languajes at the same time, this option reduce the
+project translation work. Once the project is ready, only changing the languaje at QElectroTech settings
+is enougth to display all project information at the different languajes. Defining all element and title
+block content of the text fields at the different languajes is necessary to take advantage of this option
+provided by QElectroTech.</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p>At QElectroTech, all title block information and element names are storage at the databae. This is the
+information that the user have to define indicating the languaje of the content.</p>
+<p class="last">QElectroTech still does not storage the content of simple text fields at any database, this information
+cannot be displayed at different languaje by a simple languaje selection at QElectroTech settings.</p>
+</div>
+<p>QElectroTech works according <a class="reference external" href="https://www.iso.org/iso-639-language-codes.html">ISO 639-1</a> norm. The text language is defined using 2 letter code which
+should be used at the language column from the cell value table.</p>
+<div class="figure align-center" id="id1">
+<img alt="../../../../../_images/qet_titleblock_cell_value.png" src="../../../../../_images/qet_titleblock_cell_value.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech title block editor, cell value PopUP window</span></p>
+</div>
+<div class="section" id="add-text-to-cell">
+<h2>Add text to cell<a class="headerlink" href="#add-text-to-cell" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ol class="arabic">
+<li><p class="first">Select cell where the text should be introduced.</p>
+</li>
+<li><p class="first">Press the button <strong>Edit</strong> from text field and the cell value PopUP window will be displayed.</p>
+<blockquote>
+<div><div class="figure align-center" id="id2">
+<img alt="../../../../../_images/qet_titleblock_textcell_prop1.png" src="../../../../../_images/qet_titleblock_textcell_prop1.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech title block editor, cell properties</span></p>
+</div>
+</div></blockquote>
+</li>
+<li><p class="first">Press the button <strong>Add a line</strong> to add a new row in the cell value table.</p>
+</li>
+<li><p class="first">Define the 2 letter code that identifie the languaje from the text at the Languaje column.</p>
+</li>
+<li><p class="first">Define the text at the Text column.</p>
+</li>
+<li><p class="first">Press the button <strong>OK</strong></p>
+</li>
+</ol>
+</div></blockquote>
+</div>
+<div class="section" id="add-variable-to-cell">
+<h2>Add variable to cell<a class="headerlink" href="#add-variable-to-cell" title="Permalink to this headline">¶</a></h2>
+<p>A title block variable is the name of a project or folio property. At QElectroTech, a variable is called
+using the percent symbol before the variable name (%{variable-name}).</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p>QElectroTech has some default variables that the user does not need to create (ex.: %author, %date,
+%title, %folio, %projecttitle, etc.), QElectorTech provides a list with all the defaul variables at
+the bottom cell value PopUP window.</p>
+<p>QElectroTech allows also the user the posibility to define extra variables</p>
+<blockquote class="last">
+<div><ul class="simple">
+<li>Go to <strong>Project &gt; Project properties &gt; General</strong> to define costumized project variables.</li>
+<li>Go to <strong>Edit &gt; Folio properties &gt; Title block informations &gt; Costum</strong>  to define costumized folio variables.</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="line-block">
+<div class="line">1. Select cell where the cariable should be introduced.</div>
+<div class="line">2. Press the button <strong>Edit</strong> from text field and the cell value PopUP window will be displayed.</div>
+</div>
+<blockquote>
+<div><div class="figure align-center" id="id3">
+<img alt="../../../../../_images/qet_titleblock_textcell_prop1.png" src="../../../../../_images/qet_titleblock_textcell_prop1.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech title block editor, cell properties</span></p>
+</div>
+</div></blockquote>
+<div class="line-block">
+<div class="line">3. Press the button <strong>Add a line</strong> to add a new row in the cell value table.</div>
+<div class="line">4. Define the 2 letter code that identifie the languaje from the text at the Languaje column.</div>
+<div class="line">5. Define the variable at the Text column. A variable is defined using the percent symbol (%) and the name of the variable, all together.</div>
+<div class="line">6. Press the button <strong>OK</strong></div>
+</div>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p>QElectroTech allows combining text with variable at one cell. For example, QElectroTech allows
+introducing at the same cell the label ‘Date’ and the variable date (%date).</p>
+<blockquote class="last">
+<div><ol class="arabic simple">
+<li>Click the button <strong>Display a label</strong> to introduce a label at the cell.</li>
+<li>Press the button <strong>Edit</strong> and define the label according the text procedure</li>
+<li>Define the variable at the text field according the variable procedure</li>
+</ol>
+</div></blockquote>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../../../../../index.html">
+              <img class="logo" src="../../../../../_static/qet_logo.png" alt="Logo"/>
+            </a></p>
+<h3><a href="../../../../../index.html">Table Of Contents</a></h3>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../content.html">QElectroTech Manual</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../basics/index.html">Basics QElectroTech</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../interface/index.html">Interface QElectroTech</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../project/index.html">Project</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../index.html">Folio</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../whatis.html">What is a folio?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../type/index.html">Type of folio</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../createfolio.html">Add new Folio</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../deletefolio.html">Delete Folio</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../properties/index.html">Folio properties</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../index.html">Title Block</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../element/index.html">Element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../conductor/index.html">Conductor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../schema/index.html">Schema</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../drawing/index.html">Drawing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../reports/index.html">Reports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../export&amp;print/index.html">How to export and print on QElectroTech?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../annex/index.html">Annex</a></li>
+</ul>
+</li>
+</ul>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../../../../index.html">Documentation overview</a><ul>
+  <li><a href="../../../../content.html">QElectroTech Manual</a><ul>
+  <li><a href="../../../index.html">Folio</a><ul>
+  <li><a href="../../index.html">Title Block</a><ul>
+  <li><a href="../index.html">Title block editor</a><ul>
+  <li><a href="index.html">Create or edit title block</a><ul>
+      <li>Previous: <a href="logo.html" title="previous chapter">Introduce a logo on the title block</a></li>
+      <li>Next: <a href="cellsmerge.html" title="next chapter">Merge cells</a></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../../../../_sources/en/folio/titleblock/titleblockeditor/edition/cellsvalue.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../../../../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2018, The QElectroTech Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="../../../../../_sources/en/folio/titleblock/titleblockeditor/edition/cellsvalue.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

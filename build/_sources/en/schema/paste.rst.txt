@@ -54,8 +54,10 @@ Paste object by right click
 Paste object using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Press ``Ctrl + v`` to paste the object copied or cut previously at the active folio.
 
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../en/interface/menubar.html>`_ section.

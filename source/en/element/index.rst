@@ -8,7 +8,9 @@ Element
    :maxdepth: 2
 
    whatis
-   properties
-   collection
-   customize
+   type/index
+   properties/index
+   collection/index
+   elementparts/index
+   crossreference/index
    elementeditor/index
