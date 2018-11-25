@@ -8,11 +8,8 @@ Folio
    :maxdepth: 2
 
    whatis
+   type/index
    createfolio
    deletefolio
-   properties
-   foliosize
-   foliotitleblock
-   foliotype
-   folioappearance
+   properties/index
    titleblock/index

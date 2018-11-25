@@ -91,12 +91,14 @@ Polygon properties from selection properties panel
 Polygon properties using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Select one of the edges/lines from the polygon which should be edited.
     2. Press ``Ctrl + e`` to display the polygon properties PopUP window.
 
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../interface/menubar.html>`_ section.
 
 Add new point to polygon
 ########################

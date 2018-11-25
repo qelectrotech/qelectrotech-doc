@@ -96,9 +96,11 @@ Line properties from selection properties panel
 Line properties using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Select the line which should be edited.
     2. Press ``Ctrl + e`` to display the line properties PopUP window.
 
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../interface/menubar.html>`_ section.

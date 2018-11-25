@@ -11,6 +11,12 @@ is the way to create a table.
     1. Select icon **Add textfield** |icon_textfield| from the **Add** toolbar.
     2. Click on the area where the table should be created.
     3. Right click on text field and choose **Edit the text field** item from the menu.
+
+        .. figure:: graphics/qet_text_options.png
+            :align: center
+
+            Figure: QElectroTech text field option
+
     4. Choose the **source** tab from the text field editor.
 
     .. figure:: graphics/qet_textfield_source.png
@@ -29,8 +35,7 @@ is the way to create a table.
     7. Fill the headers and cells with the corresponding information.
     8. Press **OK** button and the table will be created at the folio.
 
-The table can be move over the folio area like an element, it is a text field. Left click from the mouse and 
-displace the table before release the button.
+The table can be moved and rotated over the folio area like a text field, it is a text field object. 
 
 .. note::
 

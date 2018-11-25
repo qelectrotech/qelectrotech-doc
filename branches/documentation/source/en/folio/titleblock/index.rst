@@ -9,4 +9,8 @@ Title Block
 
    whatis
    properties
-   editor
+   titleblockelements
+   titleblocknew
+   titleblockedit
+   titleblockdelete
+   titleblockeditor/index

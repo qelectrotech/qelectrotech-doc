@@ -1,5 +1,0 @@
-.. _users/connector/customize
-
-
-Connector customization
-=======================

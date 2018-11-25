@@ -8,5 +8,7 @@ Element editor
    :maxdepth: 2
 
    whatis
-   interface
-   tools
+   interface/index
+   editoropen
+   editorquit
+   edition/index

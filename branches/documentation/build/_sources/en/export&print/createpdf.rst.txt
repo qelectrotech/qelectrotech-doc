@@ -66,10 +66,12 @@ The rest of steps to be followed are tha same than the exporting procedure from 
 Export project to PDF using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Press ``Ctrl + p`` to open the printing PopUP window.
 
 The rest of steps to be followed are tha same than the exporting procedure from the menu bar.
 
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../en/interface/menubar.html>`_ section.

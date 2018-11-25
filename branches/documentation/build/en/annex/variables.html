@@ -1,0 +1,194 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Default QElectroTech variables &#8212; QElectroTech 2018 documentation</title>
+    <link rel="stylesheet" href="../../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <link rel="search" type="application/opensearchdescription+xml"
+          title="Search within QElectroTech 2018 documentation"
+          href="../../_static/opensearch.xml"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="prev" title="Annex" href="index.html" />
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="default-qelectrotech-variables">
+<h1>Default QElectroTech variables<a class="headerlink" href="#default-qelectrotech-variables" title="Permalink to this headline">¶</a></h1>
+<p>To systematize title block templates and allow auto numbering of elements, conductors and folios;
+QElectroTech provides the posibility to work with variables.</p>
+<p>The variables are used to define the content of text field and properties from elements, folios and
+conductors. Depending on the conditions during the creation of the object (folio, element, conductor,
+etc,) The variable of the text or property field is replaced by a different value.</p>
+<p>A property is identified as a string which starts with the symbol <strong>%</strong>. The default variables provided
+by ElectroTech can be found at this section.</p>
+<div class="section" id="general-project-variables">
+<h2>General project variables<a class="headerlink" href="#general-project-variables" title="Permalink to this headline">¶</a></h2>
+<p>The following variables are global variables which can be used to create title block templates.</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>% {projecttitle}</strong>: Project title</li>
+<li><strong>% {projectpath}</strong>: Project path</li>
+<li><strong>% {projectfilename}</strong>: Project file name</li>
+<li><strong>% {saveddate}</strong>: File saving date</li>
+<li><strong>% {filename}</strong>: Project file name</li>
+<li><strong>% {savedfilename}</strong>: Registered file name</li>
+<li><strong>% {savedfilepath}</strong>: Saved file path</li>
+<li><strong>% {savedtime}</strong>: File saving time</li>
+<li><strong>% {folio-total}</strong>: Total number of folios in the project</li>
+<li><strong>% {version}</strong>: Software version</li>
+<li><strong>% {machine}</strong>: Project functional group name</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="variables-related-to-folio">
+<h2>variables related to folio<a class="headerlink" href="#variables-related-to-folio" title="Permalink to this headline">¶</a></h2>
+<p>The following variables are specific variables for each folio. They can be used to create title block
+templates.</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>% {folio-id}</strong>: Folio position in the project</li>
+<li><strong>% {title}</strong>: Folio title</li>
+<li><strong>% {author}</strong>: Folio author</li>
+<li><strong>% {date}</strong>: Folio date</li>
+<li><strong>% {folio}</strong>: Folio information (Label)</li>
+<li><strong>% {indexrev}</strong>: Folio revision index</li>
+<li><strong>% {locmach}</strong>: Name of the location in the project functional group</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="variables-related-to-element">
+<h2>variables related to element<a class="headerlink" href="#variables-related-to-element" title="Permalink to this headline">¶</a></h2>
+<p>The following variables are specific variables for each element. They can be used to create auto
+numbering patterns.</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>% {F}</strong>: Label from the folio where the element can be found</li>
+<li><strong>% {f}</strong>: Number from the folio where the element can be found</li>
+<li><strong>% {M}</strong>: Plant variable from the folio where the element can be found</li>
+<li><strong>% {LM}</strong>: Location variable of the folio where the element can be found</li>
+<li><strong>% {l}</strong>: Folio line number from the workspace where the element can be found</li>
+<li><strong>% {c}</strong>: Folio column number from the workspace where the element can be found</li>
+<li><strong>% {id}</strong>: Folio position in the project (Schema number)</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="variables-related-to-conductor">
+<h2>variables related to conductor<a class="headerlink" href="#variables-related-to-conductor" title="Permalink to this headline">¶</a></h2>
+<p>The following variables are specific variables for each conductor. They can be used to create auto numbering
+patterns.</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>% {F}</strong>: Label from the folio where the conductor can be found</li>
+<li><strong>% {f}</strong>: Number from the folio where the conductor can be found</li>
+<li><strong>% {M}</strong>: Plant variable from the folio where the conductor can be found</li>
+<li><strong>% {LM}</strong>: Location variable of the folio where the conductor can be found</li>
+<li><strong>% {l}</strong>: Folio line number from the workspace where the conductor can be found</li>
+<li><strong>% {c}</strong>: Folio column number from the workspace where the conductor can be found</li>
+<li><strong>% {id}</strong>: Folio position in the project (Schema number)</li>
+</ul>
+</div></blockquote>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../../index.html">
+              <img class="logo" src="../../_static/qet_logo.png" alt="Logo"/>
+            </a></p>
+<h3><a href="../../index.html">Table Of Contents</a></h3>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../content.html">QElectroTech Manual</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../basics/index.html">Basics QElectroTech</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../interface/index.html">Interface QElectroTech</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../project/index.html">Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../folio/index.html">Folio</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../element/index.html">Element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../conductor/index.html">Conductor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../schema/index.html">Schema</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../drawing/index.html">Drawing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reports/index.html">Reports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../export&amp;print/index.html">How to export and print on QElectroTech?</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Annex</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Default QElectroTech variables</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../index.html">Documentation overview</a><ul>
+  <li><a href="../content.html">QElectroTech Manual</a><ul>
+  <li><a href="index.html">Annex</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">Annex</a></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/en/annex/variables.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2018, The QElectroTech Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="../../_sources/en/annex/variables.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

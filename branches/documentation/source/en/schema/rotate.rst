@@ -59,12 +59,10 @@ Rotate object by right click
 Rotate object using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Select the object which should be rotated.
     2. Press ``Space`` to rotate the object.
-
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
 
 .. note::
 
@@ -72,3 +70,7 @@ For more information about keyboard shortcut, please refers to **keyboard shortc
 
     * To rotate **180** degrees the actions should be repited once.
     * To rotate **270** degrees the actions should be repited twice.
+
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../en/interface/menubar.html>`_ section.

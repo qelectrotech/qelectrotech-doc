@@ -11,8 +11,8 @@ Interface QElectroTech
    menubar
    workspace
    toolbars
-   panels
+   panels/index
    helpbar
    projecttab
    foliotab
-   customize
+   customize/index

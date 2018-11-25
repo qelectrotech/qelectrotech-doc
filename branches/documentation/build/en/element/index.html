@@ -13,14 +13,13 @@
     <script type="text/javascript" src="../../_static/jquery.js"></script>
     <script type="text/javascript" src="../../_static/underscore.js"></script>
     <script type="text/javascript" src="../../_static/doctools.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="search" type="application/opensearchdescription+xml"
           title="Search within QElectroTech 2018 documentation"
           href="../../_static/opensearch.xml"/>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="What is an element?" href="whatis.html" />
-    <link rel="prev" title="Title block editor" href="../folio/titleblock/editor.html" />
+    <link rel="prev" title="Split cells" href="../folio/titleblock/titleblockeditor/edition/cellssplit.html" />
    
   <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
   
@@ -40,13 +39,59 @@
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="whatis.html">What is an element?</a></li>
-<li class="toctree-l1"><a class="reference internal" href="properties.html">Element properties</a></li>
-<li class="toctree-l1"><a class="reference internal" href="collection.html">Element collection</a></li>
-<li class="toctree-l1"><a class="reference internal" href="customize.html">Element customization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="type/index.html">Type of elements</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="type/elementsimple.html">Simple element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="type/elementmaster.html">Master element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="type/elementslave.html">Slave element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="type/referencefoliofollowing.html">Reference folio following</a></li>
+<li class="toctree-l2"><a class="reference internal" href="type/previousreferencefolio.html">Previous reference folio</a></li>
+<li class="toctree-l2"><a class="reference internal" href="type/terminalblock.html">Terminal block</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="properties/index.html">Element properties</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="properties/elementpropertiesdisplay.html">Display element properties</a></li>
+<li class="toctree-l2"><a class="reference internal" href="properties/elementgeneral.html">General properties element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="properties/elementtext.html">Texts from element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="properties/elementinformation.html">Information element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="properties/elementnumbering.html">Element numbering</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="collection/index.html">Element collection</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="collection/whatis.html">What is a collection?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/defaultcollection.html">QET collection</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/usercollection.html">User collection</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/projectcollection.html">Project collection</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/createfolder.html">Create category</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/editfolder.html">Edit category</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/deletefolder.html">Delete category</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/propertiesfolder.html">Folder properties</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/createelement.html">Create element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/editelement.html">Edit element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="collection/deleteelement.html">Delete element</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="elementparts/index.html">Element parts</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/line.html">Line</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/rectangle.html">Rectangle</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/ellipse.html">Ellipse</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/polygon.html">Polygon</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/text.html">Text field</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/arc.html">Arc</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/terminal.html">Terminal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementparts/dynamictext.html">Dynamic text</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="crossreference/index.html">Element cross reference</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="crossreference/crossreferencemaster.html">Cross reference at master element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="crossreference/crossreferenceslave.html">Cross reference at slave element</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="elementeditor/index.html">Element editor</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="elementeditor/whatis.html">What is the element editor?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="elementeditor/interface.html">Interface element editor</a></li>
-<li class="toctree-l2"><a class="reference internal" href="elementeditor/tools.html">Tools Element editor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementeditor/interface/index.html">Interface element editor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementeditor/editoropen.html">Open element editor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementeditor/editorquit.html">Quit element editor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elementeditor/edition/index.html">Create or edit elements</a></li>
 </ul>
 </li>
 </ul>
@@ -62,16 +107,7 @@
             <p class="logo"><a href="../../index.html">
               <img class="logo" src="../../_static/qet_logo.png" alt="Logo"/>
             </a></p>
-<h1 class="logo"><a href="../../index.html">QElectroTech</a></h1>
-
-
-
-
-
-
-
-
-<h3>Navigation</h3>
+<h3><a href="../../index.html">Table Of Contents</a></h3>
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../content.html">QElectroTech Manual</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../basics/index.html">Basics QElectroTech</a></li>
@@ -80,31 +116,41 @@
 <li class="toctree-l2"><a class="reference internal" href="../folio/index.html">Folio</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Element</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="whatis.html">What is an element?</a></li>
-<li class="toctree-l3"><a class="reference internal" href="properties.html">Element properties</a></li>
-<li class="toctree-l3"><a class="reference internal" href="collection.html">Element collection</a></li>
-<li class="toctree-l3"><a class="reference internal" href="customize.html">Element customization</a></li>
+<li class="toctree-l3"><a class="reference internal" href="type/index.html">Type of elements</a></li>
+<li class="toctree-l3"><a class="reference internal" href="properties/index.html">Element properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="collection/index.html">Element collection</a></li>
+<li class="toctree-l3"><a class="reference internal" href="elementparts/index.html">Element parts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="crossreference/index.html">Element cross reference</a></li>
 <li class="toctree-l3"><a class="reference internal" href="elementeditor/index.html">Element editor</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../conductor/index.html">Conductor</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../schema/index.html">Schema</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../drawing/index.html">Drawing</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../reports/index.html">Reports</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../export&amp;print/index.html">How to export and print on QElectroTech?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../annex/index.html">Annex</a></li>
 </ul>
 </li>
 </ul>
-
 <div class="relations">
 <h3>Related Topics</h3>
 <ul>
   <li><a href="../../index.html">Documentation overview</a><ul>
   <li><a href="../content.html">QElectroTech Manual</a><ul>
-      <li>Previous: <a href="../folio/titleblock/editor.html" title="previous chapter">Title block editor</a></li>
+      <li>Previous: <a href="../folio/titleblock/titleblockeditor/edition/cellssplit.html" title="previous chapter">Split cells</a></li>
       <li>Next: <a href="whatis.html" title="next chapter">What is an element?</a></li>
   </ul></li>
   </ul></li>
 </ul>
 </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/en/element/index.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
 <div id="searchbox" style="display: none" role="search">
   <h3>Quick search</h3>
     <div class="searchformwrapper">

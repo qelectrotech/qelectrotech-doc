@@ -43,11 +43,13 @@ different name and/or directory:
 Save project using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Press ``Ctrl + s`` to save the active project.
 
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../en/interface/menubar.html>`_ section.
 
 .. note::
 

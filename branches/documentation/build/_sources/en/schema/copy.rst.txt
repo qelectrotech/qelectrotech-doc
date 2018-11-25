@@ -4,7 +4,7 @@
 Copy object
 =============
 
-QElectroTech allows copy objects (elements, connectors, text fields and pictures) to pate it later on 
+QElectroTech allows copy objects (elements, connectors, text fields and pictures) to paste it later on 
 at the same folio or at different folio and/or project.
 
 .. note::
@@ -56,9 +56,11 @@ Copy object by right click
 Copy object using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
+QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     1. Select the object which should be copied.
     2. Press ``Ctrl + c`` to copy the object.
 
-For more information about keyboard shortcut, please refers to **keyboard shortcut** section.
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, please refers to `Menu bar <../../en/interface/menubar.html>`_ section.
