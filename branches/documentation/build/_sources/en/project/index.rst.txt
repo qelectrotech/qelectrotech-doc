@@ -7,10 +7,10 @@ Project
 .. toctree::
    :maxdepth: 2
 
-   whatis
-   newproject
-   openproject
-   saveproject
-   closeproject
-   cleanproject
+   what_is
+   new_project
+   open_project
+   save_project
+   close_project
+   clean_project
    properties/index

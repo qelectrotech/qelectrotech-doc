@@ -1,5 +1,6 @@
 .. _en/content
 
+===================
 QElectroTech Manual
 ===================
 
@@ -9,6 +10,7 @@ QElectroTech Manual
 
    basics/index
    interface/index
+   preferences/index
    project/index
    folio/index
    element/index

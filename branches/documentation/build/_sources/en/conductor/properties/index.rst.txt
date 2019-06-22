@@ -7,7 +7,7 @@ Conductor properties
 .. toctree::
    :maxdepth: 2
 
-   displayconductorproperties
-   conductortype
-   conductorappearance
-   conductornumbering
+   display_conductor_properties
+   conductor_type
+   conductor_appearance
+   conductor_numbering

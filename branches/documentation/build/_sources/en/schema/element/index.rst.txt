@@ -7,6 +7,6 @@ Working with elements
 .. toctree::
    :maxdepth: 2
 
-   elementadd
-   elementedit
+   element_add
+   element_edit
    references/index

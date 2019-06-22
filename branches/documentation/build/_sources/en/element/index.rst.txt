@@ -7,10 +7,10 @@ Element
 .. toctree::
    :maxdepth: 2
 
-   whatis
+   what_is
    type/index
    properties/index
    collection/index
-   elementparts/index
-   crossreference/index
-   elementeditor/index
+   element_parts/index
+   cross_reference/index
+   element_editor/index

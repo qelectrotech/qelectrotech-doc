@@ -4,8 +4,8 @@
 Working with pictures
 =====================
 
-QElectroTech allows adding and working with pictures at the folios. The format from the picture should be 
-**PNG**, **JPG**, **JPEG**, **SVG** or Bitmap.
+QElectroTech allows adding and working with pictures at the `folios`_. The format from the picture 
+should be **PNG**, **JPG**, **JPEG**, **SVG** or **Bitmap**.
 
 .. figure:: graphics/qet_cover_arduino.png
         :align: center
@@ -15,12 +15,16 @@ QElectroTech allows adding and working with pictures at the folios. The format f
 Add picture
 ~~~~~~~~~~~
 
-    1. Select icon **Add a picture** |icon_picture| from the **Add** toolbar to open the search file PopUP window.
+    1. Select icon **Add a picture** |icon_picture| from the `toolbar`_ to open the search file PopUP window.
     2. Select the picture at the corresponding directory.
     3. Select **Open** button to add the picture.
-    4. Left click on the area from the folio where the picture should be placed.
+    4. Left click on the `workspace`_ area where the picture should be placed.
     
 .. |icon_picture| image:: graphics/qet_picture_icon.png
+
+.. note::
+
+   If the `toolbar`_ is not displayed, it can be displayed from **Settings > Display > Add**.
 
 Resize picture
 ~~~~~~~~~~~~~~
@@ -49,3 +53,8 @@ Move picture
 
         The position from the picture can be locked to prevent involuntary movement. Go to picture 
         editor and check the **Lock position** button.
+
+
+.. _workspace: ../../en/interface/workspace.html
+.. _toolbar: ../../en/interface/toolbars.html
+.. _folios: ../../en/folio/index.html

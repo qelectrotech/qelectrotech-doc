@@ -1,18 +1,19 @@
 .. _en/interface/index
 
-======================
-Interface QElectroTech
-======================
+=========
+Interface
+=========
 
 .. toctree::
    :maxdepth: 2
 
    elements
-   menubar
+   menu_bar
    workspace
    toolbars
    panels/index
-   helpbar
-   projecttab
-   foliotab
+   help_bar
+   projects_tab
+   folios_tab
+   search_menu
    customize/index

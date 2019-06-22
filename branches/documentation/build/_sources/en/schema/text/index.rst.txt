@@ -7,9 +7,9 @@ Working with text field
 .. toctree::
    :maxdepth: 2
 
-   textinsert
-   textedit
-   texteditor
-   textmove
-   textrotate
-   linkurl
+   text_insert
+   text_edit
+   text_editor
+   text_move
+   text_rotate
+   link_url

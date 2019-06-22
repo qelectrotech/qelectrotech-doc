@@ -8,7 +8,7 @@ Folio properties
    :maxdepth: 2
 
    display
-   foliosize
-   foliotitleblock
-   foliotype
-   folioappearance
+   folio_size
+   folio_title_block
+   folio_type
+   folio_appearance

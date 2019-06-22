@@ -7,5 +7,5 @@ Type of conductors
 .. toctree::
    :maxdepth: 2
 
-   singlelineconductor
-   multilineconductor
+   single_line_conductor
+   multiline_conductor

@@ -7,7 +7,5 @@ Drawing
 .. toctree::
    :maxdepth: 2
 
-   mountingplate
+   mounting_plate
    lop
-
-

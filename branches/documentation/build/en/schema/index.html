@@ -9,6 +9,7 @@
     <title>Schema &#8212; QElectroTech 2018 documentation</title>
     <link rel="stylesheet" href="../../_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../_templates/static/qet-theme.css" type="text/css" />
     <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
     <script type="text/javascript" src="../../_static/jquery.js"></script>
     <script type="text/javascript" src="../../_static/underscore.js"></script>
@@ -18,8 +19,8 @@
           href="../../_static/opensearch.xml"/>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="What is a schema?" href="whatis.html" />
-    <link rel="prev" title="Conductor numbering" href="../conductor/properties/conductornumbering.html" />
+    <link rel="next" title="What is a schema?" href="what_is.html" />
+    <link rel="prev" title="Conductor numbering" href="../conductor/properties/conductor_numbering.html" />
    
   <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
   
@@ -27,160 +28,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
 
   </head><body>
-  
-
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          <div class="body" role="main">
-            
-  <div class="section" id="schema">
-<h1>Schema<a class="headerlink" href="#schema" title="Permalink to this headline">¶</a></h1>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="whatis.html">What is a schema?</a></li>
-<li class="toctree-l1"><a class="reference internal" href="element/index.html">Working with elements</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="element/elementadd.html">Add element</a></li>
-<li class="toctree-l2"><a class="reference internal" href="element/elementedit.html">Edit element</a></li>
-<li class="toctree-l2"><a class="reference internal" href="element/references/index.html">Working with cross reference</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="conductor/index.html">Working with conductors</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="conductor/conductorcreation.html">Create conductor</a></li>
-<li class="toctree-l2"><a class="reference internal" href="conductor/conductormodify.html">Modify conductor</a></li>
-<li class="toctree-l2"><a class="reference internal" href="conductor/conductorreset.html">Reset conductors</a></li>
-<li class="toctree-l2"><a class="reference internal" href="conductor/conductortext.html">Define text at conductor</a></li>
-<li class="toctree-l2"><a class="reference internal" href="conductor/conductorchangeappearance.html">Change appearance conductor</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="text/index.html">Working with text field</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="text/textinsert.html">Insert text field</a></li>
-<li class="toctree-l2"><a class="reference internal" href="text/textedit.html">Edit text field</a></li>
-<li class="toctree-l2"><a class="reference internal" href="text/texteditor.html">Text editor</a></li>
-<li class="toctree-l2"><a class="reference internal" href="text/textmove.html">Move text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="text/textrotate.html">Rotate text</a></li>
-<li class="toctree-l2"><a class="reference internal" href="text/linkurl.html">Insert URL link</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="table.html">Working with tables</a></li>
-<li class="toctree-l1"><a class="reference internal" href="basics.html">Working with basic objects</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="basics/line.html">Working with lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="basics/rectangle.html">Working with rectangles</a></li>
-<li class="toctree-l2"><a class="reference internal" href="basics/ellipse.html">Working with ellipses</a></li>
-<li class="toctree-l2"><a class="reference internal" href="basics/polygon.html">Working with polygons</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="picture.html">Working with pictures</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="picture.html#add-picture">Add picture</a></li>
-<li class="toctree-l2"><a class="reference internal" href="picture.html#resize-picture">Resize picture</a></li>
-<li class="toctree-l2"><a class="reference internal" href="picture.html#move-picture">Move picture</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="select/index.html">Select objects from workspace</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="select/selectobject.html">Select one object</a></li>
-<li class="toctree-l2"><a class="reference internal" href="select/selectmultipleobjects.html">Select multiple objects</a></li>
-<li class="toctree-l2"><a class="reference internal" href="select/selectall.html">Select all objects</a></li>
-<li class="toctree-l2"><a class="reference internal" href="select/selectnone.html">Select none</a></li>
-<li class="toctree-l2"><a class="reference internal" href="select/selectinvert.html">Invert the selection</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="copy.html">Copy object</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-from-menu-bar">Copy object from Menu bar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-from-toolbar">Copy object from toolbar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-by-right-click">Copy object by right click</a></li>
-<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-using-keyboard-shortcut">Copy object using keyboard shortcut</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="cut.html">Cut object</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-from-menu-bar">Cut object from Menu bar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-from-toolbar">Cut object from toolbar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-by-right-click">Cut object by right click</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-using-keyboard-shortcut">Cut object using keyboard shortcut</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="paste.html">Paste object</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-from-menu-bar">Paste object from Menu bar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-from-toolbar">Paste object from toolbar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-by-right-click">Paste object by right click</a></li>
-<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-using-keyboard-shortcut">Paste object using keyboard shortcut</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="multipaste.html">Multipaste object</a></li>
-<li class="toctree-l1"><a class="reference internal" href="delete.html">Delete object</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-from-menu-bar">Delete object from Menu bar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-from-toolbar">Delete object from toolbar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-by-right-click">Delete object by right click</a></li>
-<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-using-keyboard-shortcut">Delete object using keyboard shortcut</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="rotate.html">Rotate object</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-from-menu-bar">Rotate object from Menu bar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-from-toolbar">Rotate object from toolbar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-by-right-click">Rotate object by right click</a></li>
-<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-using-keyboard-shortcut">Rotate object using keyboard shortcut</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="layers.html">Working with layers</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-from-menu-bar">Define object layer from Menu bar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-from-toolbar">Define object layer from toolbar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-by-right-click">Define object layer by right click</a></li>
-<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-using-keyboard-shortcut">Define object layer using keyboard shortcut</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-          </div>
-        </div>
-      </div>
+  <div class="document">
+    
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
             <p class="logo"><a href="../../index.html">
               <img class="logo" src="../../_static/qet_logo.png" alt="Logo"/>
             </a></p>
 <h3><a href="../../index.html">Table Of Contents</a></h3>
-<ul class="current">
-<li class="toctree-l1 current"><a class="reference internal" href="../content.html">QElectroTech Manual</a><ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="../basics/index.html">Basics QElectroTech</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../interface/index.html">Interface QElectroTech</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../project/index.html">Project</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../folio/index.html">Folio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../element/index.html">Element</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../conductor/index.html">Conductor</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Schema</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="whatis.html">What is a schema?</a></li>
-<li class="toctree-l3"><a class="reference internal" href="element/index.html">Working with elements</a></li>
-<li class="toctree-l3"><a class="reference internal" href="conductor/index.html">Working with conductors</a></li>
-<li class="toctree-l3"><a class="reference internal" href="text/index.html">Working with text field</a></li>
-<li class="toctree-l3"><a class="reference internal" href="table.html">Working with tables</a></li>
-<li class="toctree-l3"><a class="reference internal" href="basics.html">Working with basic objects</a></li>
-<li class="toctree-l3"><a class="reference internal" href="picture.html">Working with pictures</a></li>
-<li class="toctree-l3"><a class="reference internal" href="select/index.html">Select objects from workspace</a></li>
-<li class="toctree-l3"><a class="reference internal" href="copy.html">Copy object</a></li>
-<li class="toctree-l3"><a class="reference internal" href="cut.html">Cut object</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paste.html">Paste object</a></li>
-<li class="toctree-l3"><a class="reference internal" href="multipaste.html">Multipaste object</a></li>
-<li class="toctree-l3"><a class="reference internal" href="delete.html">Delete object</a></li>
-<li class="toctree-l3"><a class="reference internal" href="rotate.html">Rotate object</a></li>
-<li class="toctree-l3"><a class="reference internal" href="layers.html">Working with layers</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="../drawing/index.html">Drawing</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../reports/index.html">Reports</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../export&amp;print/index.html">How to export and print on QElectroTech?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../annex/index.html">Annex</a></li>
-</ul>
-</li>
-</ul>
 <div class="relations">
 <h3>Related Topics</h3>
 <ul>
   <li><a href="../../index.html">Documentation overview</a><ul>
   <li><a href="../content.html">QElectroTech Manual</a><ul>
-      <li>Previous: <a href="../conductor/properties/conductornumbering.html" title="previous chapter">Conductor numbering</a></li>
-      <li>Next: <a href="whatis.html" title="next chapter">What is a schema?</a></li>
+      <li>Previous: <a href="../conductor/properties/conductor_numbering.html" title="previous chapter">Conductor numbering</a></li>
+      <li>Next: <a href="what_is.html" title="next chapter">What is a schema?</a></li>
   </ul></li>
   </ul></li>
 </ul>
@@ -206,10 +68,124 @@
 <script type="text/javascript">$('#searchbox').show(0);</script>
         </div>
       </div>
-      <div class="clearer"></div>
-    </div>
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="schema">
+<h1>Schema<a class="headerlink" href="#schema" title="Permalink to this headline">¶</a></h1>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="what_is.html">What is a schema?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="element/index.html">Working with elements</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="element/element_add.html">Add element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="element/element_edit.html">Edit element</a></li>
+<li class="toctree-l2"><a class="reference internal" href="element/references/index.html">Working with cross reference</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="conductor/index.html">Working with conductors</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="conductor/conductor_creation.html">Create conductor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="conductor/conductor_modify.html">Modify conductor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="conductor/conductor_reset.html">Reset conductors</a></li>
+<li class="toctree-l2"><a class="reference internal" href="conductor/conductor_text.html">Define text at conductor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="conductor/conductor_change_appearance.html">Change appearance conductor</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="text/index.html">Working with text field</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="text/text_insert.html">Insert text field</a></li>
+<li class="toctree-l2"><a class="reference internal" href="text/text_edit.html">Edit text field</a></li>
+<li class="toctree-l2"><a class="reference internal" href="text/text_editor.html">Text editor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="text/text_move.html">Move text</a></li>
+<li class="toctree-l2"><a class="reference internal" href="text/text_rotate.html">Rotate text</a></li>
+<li class="toctree-l2"><a class="reference internal" href="text/link_url.html">Insert URL link</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="table.html">Working with tables</a></li>
+<li class="toctree-l1"><a class="reference internal" href="basics/index.html">Working with basic objects</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="basics/line.html">Working with lines</a></li>
+<li class="toctree-l2"><a class="reference internal" href="basics/rectangle.html">Working with rectangles</a></li>
+<li class="toctree-l2"><a class="reference internal" href="basics/ellipse.html">Working with ellipses</a></li>
+<li class="toctree-l2"><a class="reference internal" href="basics/polygon.html">Working with polygons</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="picture.html">Working with pictures</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="picture.html#add-picture">Add picture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="picture.html#resize-picture">Resize picture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="picture.html#move-picture">Move picture</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="select/index.html">Select objects from workspace</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="select/select_object.html">Select one object</a></li>
+<li class="toctree-l2"><a class="reference internal" href="select/select_multiple_objects.html">Select multiple objects</a></li>
+<li class="toctree-l2"><a class="reference internal" href="select/select_all.html">Select all objects</a></li>
+<li class="toctree-l2"><a class="reference internal" href="select/select_none.html">Select none</a></li>
+<li class="toctree-l2"><a class="reference internal" href="select/select_invert.html">Invert the selection</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="copy.html">Copy object</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-from-menu-bar">Copy object from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-from-toolbar">Copy object from toolbar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-by-right-click">Copy object by right click</a></li>
+<li class="toctree-l2"><a class="reference internal" href="copy.html#copy-object-using-keyboard-shortcut">Copy object using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="cut.html">Cut object</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-from-menu-bar">Cut object from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-from-toolbar">Cut object from toolbar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-by-right-click">Cut object by right click</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cut.html#cut-object-using-keyboard-shortcut">Cut object using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="paste.html">Paste object</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-from-menu-bar">Paste object from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-from-toolbar">Paste object from toolbar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-by-right-click">Paste object by right click</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paste.html#paste-object-using-keyboard-shortcut">Paste object using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="multiple_paste.html">Multiple paste</a></li>
+<li class="toctree-l1"><a class="reference internal" href="delete.html">Delete object</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-from-menu-bar">Delete object from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-from-toolbar">Delete object from toolbar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-by-right-click">Delete object by right click</a></li>
+<li class="toctree-l2"><a class="reference internal" href="delete.html#delete-object-using-keyboard-shortcut">Delete object using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="rotate.html">Rotate object</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-from-menu-bar">Rotate object from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-from-toolbar">Rotate object from toolbar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-by-right-click">Rotate object by right click</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rotate.html#rotate-object-using-keyboard-shortcut">Rotate object using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="layers.html">Working with layers</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-from-menu-bar">Define object layer from Menu bar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-from-toolbar">Define object layer from toolbar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-by-right-click">Define object layer by right click</a></li>
+<li class="toctree-l2"><a class="reference internal" href="layers.html#define-object-layer-using-keyboard-shortcut">Define object layer using keyboard shortcut</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="search.html">Search</a></li>
+<li class="toctree-l1"><a class="reference internal" href="replace/index.html">Replace</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="replace/text_field_replace.html">Replace text field content</a></li>
+<li class="toctree-l2"><a class="reference internal" href="replace/folio_prop_replace.html">Replace folio property</a></li>
+<li class="toctree-l2"><a class="reference internal" href="replace/element_prop_replace.html">Replace element property</a></li>
+<li class="toctree-l2"><a class="reference internal" href="replace/conductor_prop_replace.html">Replace conductor property</a></li>
+<li class="toctree-l2"><a class="reference internal" href="replace/advanced_replace.html">Advanced replace</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    <div class="clearer"></div>
+  </div>
     <div class="footer">
-      &copy;2018, The QElectroTech Team.
+      &copy;2019, The QElectroTech Team.
       
       |
       Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.6</a>

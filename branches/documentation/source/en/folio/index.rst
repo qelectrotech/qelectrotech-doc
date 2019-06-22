@@ -7,9 +7,9 @@ Folio
 .. toctree::
    :maxdepth: 2
 
-   whatis
+   what_is
    type/index
-   createfolio
-   deletefolio
+   add_folio
+   delete_folio
    properties/index
-   titleblock/index
+   title_block/index

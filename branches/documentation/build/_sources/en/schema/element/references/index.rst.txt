@@ -7,8 +7,8 @@ Working with cross reference
 .. toctree::
    :maxdepth: 2
 
-   masteritembind
-   slaveitembind
-   masteritemuntie
-   slaveitemuntie
-   relateditems
+   master_item_bind
+   slave_item_bind
+   master_item_untie
+   slave_item_untie
+   related_items
