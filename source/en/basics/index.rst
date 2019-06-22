@@ -1,14 +1,14 @@
 .. _en/basics/index
 
-===================
-Basics QElectroTech
-===================
+======
+Basics
+======
 
 .. toctree::
    :maxdepth: 2
 
-   startlinux
-   startwindows
-   startmac
+   start_linux
+   start_windows
+   start_mac
    help
    quit

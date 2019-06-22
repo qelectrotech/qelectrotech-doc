@@ -3,10 +3,10 @@
 Exit QElectroTech
 =================
 
-The user can exit QElectroTech at any time. The user does not need to close the projects before 
+The user can exit QElectroTech at any time. The user does not need to `Close project <../../en/project/closeproject.html>`_ before 
 clossing the application. 
 
-If the current work wants to be saved before closing the project, please refers to **Save** section.
+If the current work wants to be saved before closing the project, please refers to `Save project <../../en/project/saveproject.html>`_ section.
 Even so, QElectroTech display an automatic message to save the current job if any modification has been 
 created. 
 
@@ -16,14 +16,14 @@ created.
    Figure: QElectroTech Save message
 
 As a large amoung of applications which has been developed using `Qt`_, QElectroTech can be closed from 
-the close tab |close_tab| that can be found at the top right from the main window, from Menu bar and 
+the close tab |close_tab| which can be found at top right from main window, from Menu bar or 
 using the corresponding keyboard shortcut. 
 
 
 Exit QElectroTech from Menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **File > Quit** menu item to close the current project.
+    1. Select **File > Quit** menu item to quit QElectroTech.
 
 .. figure:: graphics/qet_file.png
    :align: center

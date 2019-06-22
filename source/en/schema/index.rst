@@ -7,18 +7,20 @@ Schema
 .. toctree::
    :maxdepth: 2
 
-   whatis
+   what_is
    element/index
    conductor/index
    text/index
    table
-   basics
+   basics/index
    picture
    select/index
    copy
    cut
    paste
-   multipaste
+   multiple_paste
    delete
    rotate
    layers
+   search
+   replace/index

@@ -1,14 +1,14 @@
 .. _en/export&print/index
 
-========================================
-How to export and print on QElectroTech?
-========================================
+================
+Export and print
+================
 
 .. toctree::
    :maxdepth: 2
 
    print
-   createpdf
-   exportschema
-   exportcomponentlist
+   create_pdf
+   export_schema
+   export_component_list
    

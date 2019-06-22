@@ -7,9 +7,9 @@ Type of elements
 .. toctree::
    :maxdepth: 2
 
-   elementsimple
-   elementmaster
-   elementslave
-   referencefoliofollowing
-   previousreferencefolio
-   terminalblock
+   element_simple
+   element_master
+   element_slave
+   reference_folio_following
+   previous_reference_folio
+   terminal_block

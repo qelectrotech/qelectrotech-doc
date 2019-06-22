@@ -7,6 +7,6 @@ Conductor
 .. toctree::
    :maxdepth: 2
 
-   whatis
+   what_is
    type/index
    properties/index

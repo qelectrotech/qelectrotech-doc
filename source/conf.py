@@ -19,8 +19,8 @@
 #
 import os
 import sys; sys.setrecursionlimit(2000)
-# sys.path.insert(0, os.path.abspath('.'))
 
+# sys.path.insert(0, os.path.abspath('.'))
 
 # -- General configuration ------------------------------------------------
 
@@ -53,6 +53,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
+#html_theme_path = ['_templates']
 templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
@@ -66,7 +67,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'QElectroTech'
-copyright = '2018, The QElectroTech Team'
+copyright = '2019, The QElectroTech Team'
 author = 'Fernando Mateu'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -110,6 +111,9 @@ html_theme = 'alabaster'
 #
 html_theme_options = {
     'show_related' : 'true',
+    'fixed_sidebar' : 'true',
+    'sidebar_includehidden' : 'true',
+    'body_text_align' : 'justify',
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
@@ -199,6 +203,10 @@ html_use_opensearch = 'True'
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
+
+html_context = {
+    'css_files': ['_templates/static/qet-theme.css'],
+}
 
 # -- Options for HTMLHelp output ------------------------------------------
 

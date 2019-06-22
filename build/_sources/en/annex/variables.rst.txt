@@ -44,6 +44,8 @@ templates.
     * **% {folio}**: Folio information (Label)
     * **% {indexrev}**: Folio revision index
     * **% {locmach}**: Name of the location in the project functional group    
+    * **% {previous-folio-num}**: Number previous folio  
+    * **% {next-folio-num}**: Number next folio  
 
 variables related to element
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

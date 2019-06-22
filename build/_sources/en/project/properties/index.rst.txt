@@ -8,6 +8,6 @@ Project properties
    :maxdepth: 2
 
    display
-   generalprop
-   folioprop
-   numberingprop
+   general_prop
+   new_folio/index
+   numbering_prop

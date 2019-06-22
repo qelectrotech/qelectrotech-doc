@@ -7,8 +7,8 @@ Panels
 .. toctree::
    :maxdepth: 2
 
-   panelproject
-   panelcollection
-   panelproperties
-   panelautonumbering
-   panelundo
+   projects_panel
+   collections_panel
+   selection_properties_panel
+   autonumbering_panel
+   undo_panel
