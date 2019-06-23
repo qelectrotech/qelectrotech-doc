@@ -1,0 +1,161 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Layers in element editor &#8212; QElectroTech 2018 documentation</title>
+    <link rel="stylesheet" href="../../../../../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../../_templates/static/qet-theme.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../../../../../" src="../../../../../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+    <link rel="search" type="application/opensearchdescription+xml"
+          title="Search within QElectroTech 2018 documentation"
+          href="../../../../../_static/opensearch.xml"/>
+    <link rel="index" title="Index" href="../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" />
+    <link rel="next" title="Change element size" href="element_size.html" />
+    <link rel="prev" title="Delete part" href="parts/delete.html" />
+   
+  <link rel="stylesheet" href="../../../../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  <div class="document">
+    
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../../../../../index.html">
+              <img class="logo" src="../../../../../_static/qet_logo.png" alt="Logo"/>
+            </a></p>
+<h3><a href="../../../../../index.html">Table Of Contents</a></h3>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../../../../index.html">Documentation overview</a><ul>
+  <li><a href="../../../../content.html">QElectroTech Manual</a><ul>
+  <li><a href="../../../index.html">Element</a><ul>
+  <li><a href="../../index.html">Element editor</a><ul>
+  <li><a href="../index.html">Create or edit elements</a><ul>
+  <li><a href="index.html">Graphic definition</a><ul>
+      <li>Previous: <a href="parts/delete.html" title="previous chapter">Delete part</a></li>
+      <li>Next: <a href="element_size.html" title="next chapter">Change element size</a></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../../../../_sources/en/element/element_editor/edition/graphic/layers.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../../../../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="layers-in-element-editor">
+<h1>Layers in element editor<a class="headerlink" href="#layers-in-element-editor" title="Permalink to this headline">¶</a></h1>
+<p>Overlap of part, graphical elements, may occur at the graphical representation of an element. QElectroTech
+allows defining the representation order from the part. Working with layers will be necessary, for example,
+when a filled part as rectangle or ellipse hides a text.</p>
+<p>The definition of layer level from each part can only be done from the Menu bar.</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>Select the element part which layer level should be defined.</li>
+<li>Select <strong>Edit</strong> from the main bar and the desired layer action.</li>
+</ol>
+</div></blockquote>
+<div class="figure align-center" id="id1">
+<img alt="../../../../../_images/qet_elementeditor_menu_edit.png" src="../../../../../_images/qet_elementeditor_menu_edit.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech element editor Edit Menu</span></p>
+</div>
+<p>Regarding the layer actions allowed by QElectroTech, the following table defines all possibilities.</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="13%" />
+<col width="10%" />
+<col width="59%" />
+<col width="18%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Icon</th>
+<th class="head">Action</th>
+<th class="head">Definition</th>
+<th class="head">Keyboard shortcut</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><img alt="icon_bring_front" src="../../../../../_images/qet_bring_front_icon.png" /></td>
+<td>Bring to front</td>
+<td>The element or picture will be at the top and completly visible</td>
+<td><code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Shift</span> <span class="pre">+</span> <span class="pre">Home</span></code></td>
+</tr>
+<tr class="row-odd"><td><img alt="icon_raise" src="../../../../../_images/qet_raise_icon.png" /></td>
+<td>Raise</td>
+<td>The element or image will be sent one level up</td>
+<td><code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Shift</span> <span class="pre">+</span> <span class="pre">Up</span></code></td>
+</tr>
+<tr class="row-even"><td><img alt="icon_lower" src="../../../../../_images/qet_lower_icon.png" /></td>
+<td>Lower</td>
+<td>The element or image will be sent one level down</td>
+<td><code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Shift</span> <span class="pre">+</span> <span class="pre">Down</span></code></td>
+</tr>
+<tr class="row-odd"><td><img alt="icon_backward" src="../../../../../_images/qet_backward_icon.png" /></td>
+<td>Send backwards</td>
+<td>The element or picture will be at the bottom and probably will be partially covered</td>
+<td><code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">Shift</span> <span class="pre">+</span> <span class="pre">End</span></code></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    <div class="clearer"></div>
+  </div>
+    <div class="footer">
+      &copy;2019, The QElectroTech Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="../../../../../_sources/en/element/element_editor/edition/graphic/layers.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
