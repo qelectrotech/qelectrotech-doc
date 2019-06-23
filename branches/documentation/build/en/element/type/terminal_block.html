@@ -1,0 +1,151 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Terminal block &#8212; QElectroTech 2018 documentation</title>
+    <link rel="stylesheet" href="../../../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_templates/static/qet-theme.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../../../" src="../../../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../../_static/doctools.js"></script>
+    <link rel="search" type="application/opensearchdescription+xml"
+          title="Search within QElectroTech 2018 documentation"
+          href="../../../_static/opensearch.xml"/>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Element properties" href="../properties/index.html" />
+    <link rel="prev" title="Previous reference folio" href="previous_reference_folio.html" />
+   
+  <link rel="stylesheet" href="../../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  <div class="document">
+    
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../../../index.html">
+              <img class="logo" src="../../../_static/qet_logo.png" alt="Logo"/>
+            </a></p>
+<h3><a href="../../../index.html">Table Of Contents</a></h3>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../../index.html">Documentation overview</a><ul>
+  <li><a href="../../content.html">QElectroTech Manual</a><ul>
+  <li><a href="../index.html">Element</a><ul>
+  <li><a href="index.html">Type of elements</a><ul>
+      <li>Previous: <a href="previous_reference_folio.html" title="previous chapter">Previous reference folio</a></li>
+      <li>Next: <a href="../properties/index.html" title="next chapter">Element properties</a></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../../_sources/en/element/type/terminal_block.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="terminal-block">
+<h1>Terminal block<a class="headerlink" href="#terminal-block" title="Permalink to this headline">¶</a></h1>
+<p>Element which represents a terminal block, connection between two cables from the same potential.</p>
+<div class="figure align-center" id="id1">
+<img alt="../../../_images/qet_element_terminal_block.png" src="../../../_images/qet_element_terminal_block.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech Terminal block</span></p>
+</div>
+<p>For terminal block element exist two type of variables, the general variables that are
+common for all type of elements and managed internally by QElectroTech, and the specific
+variables for this type of element.</p>
+<p>QElectroTech allows defining variable values from this type of element at the <strong>Selection properties</strong>
+panel. QElectroTech does not allow defining new variables. QElectroTech allows only displaying
+variables at dynamic texts and define value of the specific variables.</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">If the Selection properties panel is not displayed, it can be displayed from <strong>Settings &gt; Display &gt; Selection properties</strong>.</p>
+</div>
+<p>General variables</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>% {F}</strong>: Label from the folio where the element can be found</li>
+<li><strong>% {f}</strong>: Number from the folio where the element can be found</li>
+<li><strong>% {M}</strong>: Plant variable from the folio where the element can be found</li>
+<li><strong>% {LM}</strong>: Location variable of the folio where the element can be found</li>
+<li><strong>% {l}</strong>: Folio line number from the workspace where the element can be found</li>
+<li><strong>% {c}</strong>: Folio column number from the workspace where the element can be found</li>
+<li><strong>% {id}</strong>: Folio position in the project (Schema number)</li>
+</ul>
+</div></blockquote>
+<p>Specific variables</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>Label formula</strong>: Definition of the formula which defines the <strong>Label</strong> value. If a auto numbering pattern is selected during terminal creation, QElectroTech defiens <code class="docutils literal notranslate"><span class="pre">%autnum</span></code> as default formula.</li>
+<li><strong>Label</strong>: Internal variable which is used to defines the element code.</li>
+<li><strong>Annotation</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Textual description</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Article number</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Manufacturer</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Order number</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Supplier</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Auxiliry block 1</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Auxiliry block 2</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Internal number</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Location</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Function</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+<li><strong>Voltage/Protocol</strong>: Internal variable, it cannot be a formula (group of other variables).</li>
+</ul>
+</div></blockquote>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    <div class="clearer"></div>
+  </div>
+    <div class="footer">
+      &copy;2019, The QElectroTech Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.10</a>
+      
+      |
+      <a href="../../../_sources/en/element/type/terminal_block.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
