@@ -51,8 +51,8 @@ on the creation of auto numbering pattern using text, variables and sequential n
 
 .. seealso::
 
-    For more information about how to define auto numbering patterns, please refers to: `project auto numbering properties <../../project/properties/numberingprop.html>`_ section.
+    For more information about how to define auto numbering patterns, please refers to: `project auto numbering properties <../../project/properties/numbering_prop.html>`_ section.
 
-    For more information about how to manage the codification of conductors, please refers to: `Add element <../../schema/element/elementadd.html>`_ section.
+    For more information about how to manage the codification of conductors, please refers to: `Add element <../../schema/element/element_add.html>`_ section.
 
 .. _IEC 81346: https://www.iso.org/standard/50858.html
