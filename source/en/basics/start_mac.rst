@@ -13,10 +13,9 @@ After installation, QElectroTech can be launched from the applications folder.
 
 .. note::
 
-   For easy access, QElectroTech can be added to the dock. Just open the Applications 
-   folder and drag QEelectroTech to the dock.
+   For easier access, QElectroTech can be added to the dock. Just open the Applications folder and drag QEelectroTech to the dock.
 
-Once QElectroTech has been started, the main window looks like the figure bellow.
+Once QElectroTech has been started, the main window looks as follow:
 
 .. figure:: graphics/qet_window.png
    :scale: 50 %
