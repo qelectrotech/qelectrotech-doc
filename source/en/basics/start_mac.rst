@@ -3,7 +3,7 @@
 Start QElectroTech on Mac
 =========================
 
-After installation, QElectroTech can be launched from the applications folder. 
+After installation, QElectroTech can be launched from applications folder. 
 
 .. figure:: graphics/qet_start.png
    :scale: 50 %
@@ -13,8 +13,7 @@ After installation, QElectroTech can be launched from the applications folder.
 
 .. note::
 
-   For easier access, QElectroTech can be added to the dock. Just open the 
-   Applications folder and drag QEelectroTech to the dock.
+   For easier access, QElectroTech can be added to the dock. Just open the applications folder and drag QEelectroTech to the dock.
 
 Once QElectroTech has been started, the main window looks as follow:
 
