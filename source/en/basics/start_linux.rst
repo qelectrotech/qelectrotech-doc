@@ -18,7 +18,7 @@ The command mentioned above blocks the terminal for other processes. If the term
 
 .. note::
 
-   If the command is not working, list the applications installed and check with which name QElectroTech has been installed.
+   If the command is not working, list the applications installed and check the name with which QElectroTech has been installed.
 
    * Ubuntu command: ``$ apt list --installed``
 
