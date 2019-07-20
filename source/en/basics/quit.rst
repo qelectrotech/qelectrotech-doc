@@ -38,6 +38,6 @@ QElectroTech allows using keyboard shortcut to increase the working efficiency.
 .. |close_tab| image:: graphics/close_tab.png
 .. _Qt: https://www.qt.io/
 
-.. _close the project: ../../en/project/closeproject.html
-.. _Save project: ../../en/project/saveproject.html
+.. _close the project: ../../en/project/close_project.html
+.. _Save project: ../../en/project/save_project.html
 .. _Menu bar: ../../en/interface/menu_bar.html
