@@ -18,7 +18,7 @@ To find an object which contains an string:
             Figure: QElectroTech search menu
 
     2. Write at the text box from the menu the string which should be search over the `project`_.
-    3. Press ``Intro`` and QElectroTech will zoom and display the first object from the list of matches at the `workspace`_ after the seach process. 
+    3. Press ``Intro`` and QElectroTech will zoom and display the first object from the list of matches at the `workspace`_ after the search process. 
     4. Press |icon_next| or |icon_previous| button to zoom the next or previous object from the list of matches.
     5. Press |icon_actualize| button to clean the search.
 

@@ -1,11 +1,11 @@
 .. _en/interface/search_menu
 
 ==========
-Seach menu
+Search menu
 ==========
 
 The search menu allows searching element, folios or conductor which have a text field or property with 
-an specific value. The seach menu alows finding automatically an element with a desired label, list 
+an specific value. The search menu alows finding automatically an element with a desired label, list 
 the folios from an specific author, etc. 
 
 QElectrotech provides a basic and simple search menu composed by a text box which allows writing the 
