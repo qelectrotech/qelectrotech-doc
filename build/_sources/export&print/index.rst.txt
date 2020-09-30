@@ -10,5 +10,7 @@ Export and print
    print
    create_pdf
    export_schema
-   export_component_list
+   export_nomenclature
+   export_wires
+   export_internal_project_database
    

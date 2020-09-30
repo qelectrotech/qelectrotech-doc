@@ -1,0 +1,44 @@
+====== ChangeLog from 0.7 to 0.8 ======
+
+
+# Interface
+
+## Menu bar
+
+* Project menu updated (add the new options).
+
+
+# Conductor
+
+## Conductor type
+
+### Multiline conductor
+
+* Add the new conductor display properties (Text color).
+* Add the new conductor properties (Conductor color, conductor section, cable and bus).
+
+
+# Reports
+
+## Summary
+
+* Functionality updated in the new release.
+
+## Nomenclature
+
+* Functionality included in the new release.
+
+
+# Export & print
+
+## Export nomenclature
+
+* Functionality updated from export component list.
+
+## Export wires
+
+* Functionality included in the new release.
+
+## Export internal project database
+
+* Functionality included in the new release.

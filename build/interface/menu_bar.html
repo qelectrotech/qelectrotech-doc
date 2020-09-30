@@ -35,7 +35,7 @@
            <a class="navbar-brand py-1" href="../index.html">
                   QElectroTech
           </a>
-          <span class="navbar-text navbar-version pb-0 pt-1"><b>0.7</b></span>
+          <span class="navbar-text navbar-version pb-0 pt-1"><b>0.8</b></span>
           <ul class="navbar-nav mr-auto">
           
               <li class="nav-item dropdown d-none d-sm-block" id="navbar-pages">
@@ -617,8 +617,22 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../reports/index.html">Reports</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../reports/project_index.html">Project index</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../reports/component_list.html">Component list</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reports/summary/index.html">Summary</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../reports/summary/create_summary.html">Create summary</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../reports/summary/edit_summary.html">Edit summary</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#summary-geometry-and-line">Summary geometry and line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#header">Header</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#table">Table</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#content-request">Content request</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../reports/summary/reload_summary.html">Reload summary</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../reports/nomenclature/index.html">Nomenclature</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../reports/nomenclature/component_list.html">Component list</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="../reports/conductor_list.html">Conductor list</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../reports/io_list.html">I/O list</a></li>
 </ul>
@@ -1310,8 +1324,22 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../reports/index.html">Reports</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="../reports/project_index.html">Project index</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../reports/component_list.html">Component list</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../reports/summary/index.html">Summary</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../reports/summary/create_summary.html">Create summary</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../reports/summary/edit_summary.html">Edit summary</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#summary-geometry-and-line">Summary geometry and line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#header">Header</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#table">Table</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../reports/summary/edit_summary.html#content-request">Content request</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../reports/summary/reload_summary.html">Reload summary</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../reports/nomenclature/index.html">Nomenclature</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../reports/nomenclature/component_list.html">Component list</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="../reports/conductor_list.html">Conductor list</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../reports/io_list.html">I/O list</a></li>
 </ul>
@@ -1597,10 +1625,10 @@ menus <code class="docutils literal notranslate"><span class="pre">File</span></
 </div>
 <table class="docutils align-default">
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 50%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
+<col style="width: 20%" />
+<col style="width: 58%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
 </colgroup>
 <thead>
 <tr class="row-odd"><th class="head"><p>Option</p></th>
@@ -1631,12 +1659,22 @@ menus <code class="docutils literal notranslate"><span class="pre">File</span></
 <td><p><img alt="edit-clear" src="../_images/edit-clear.png" /></p></td>
 </tr>
 <tr class="row-even"><td><p>Add a summary</p></td>
-<td><p>Creates an index folio for the active project</p></td>
+<td><p>Creates an index table for the active project</p></td>
 <td></td>
 <td><p><img alt="table-of-content" src="../_images/table-of-content.png" /></p></td>
 </tr>
-<tr class="row-odd"><td><p>Export parts list</p></td>
-<td><p>Generates a <code class="docutils literal notranslate"><span class="pre">.csv</span></code> file summary of all elements used in the active project</p></td>
+<tr class="row-odd"><td><p>Add a nomenclature</p></td>
+<td><p>Creates a Bill Of Material (BOM) table for the active project</p></td>
+<td></td>
+<td><p><img alt="table-of-content" src="../_images/table-of-content.png" /></p></td>
+</tr>
+<tr class="row-even"><td><p>Export to CSV</p></td>
+<td><p>Generates a <code class="docutils literal notranslate"><span class="pre">.csv</span></code> file summary of elements used in the active project according to defined filtering options</p></td>
+<td></td>
+<td><p><img alt="export-csv" src="../_images/export-csv.png" /></p></td>
+</tr>
+<tr class="row-odd"><td><p>Export the list of names of wires</p></td>
+<td><p>Generates a <code class="docutils literal notranslate"><span class="pre">.csv</span></code> file summary of conductors used in the active project</p></td>
 <td></td>
 <td><p><img alt="export-csv" src="../_images/export-csv.png" /></p></td>
 </tr>
@@ -1644,6 +1682,11 @@ menus <code class="docutils literal notranslate"><span class="pre">File</span></
 <td></td>
 <td></td>
 <td><p><img alt="terminalstrip" src="../_images/terminalstrip.png" /></p></td>
+</tr>
+<tr class="row-odd"><td><p>Export the internal project database</p></td>
+<td><p>Generates a SQLite database of the active project</p></td>
+<td></td>
+<td><p><img alt="export-csv" src="../_images/export-csv.png" /></p></td>
 </tr>
 </tbody>
 </table>
@@ -1882,7 +1925,7 @@ menus <code class="docutils literal notranslate"><span class="pre">File</span></
 <footer class="footer d-flex justify-content-between flex-wrap">
     <div class="copyright">
         <div>&copy; Copyright 2020, The QElectroTech Team.</div>
-      <div>Generated by <a href="http://sphinx.pocoo.org/">Sphinx</a> 2.4.3 using <a href="https://github.com/myyasuda/sphinxbootstrap4theme">sphinxbootstrap4theme</a> 0.6.0.</div>
+      <div>Generated by <a href="http://sphinx.pocoo.org/">Sphinx</a> 2.4.0 using <a href="https://github.com/myyasuda/sphinxbootstrap4theme">sphinxbootstrap4theme</a> 0.6.0.</div>
     </div>
     <div>
         <a href="#" class="btn btn-primary btn-sm" role="botton">Back to top</a>

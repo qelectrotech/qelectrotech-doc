@@ -4,4 +4,4 @@
 Conductor list
 ==============
 
-Feature still not available in QElectroTech 0.7
+Feature still not available in QElectroTech 0.8

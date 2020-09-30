@@ -7,7 +7,7 @@ Reports
 .. toctree::
    :maxdepth: 2
 
-   project_index
-   component_list
+   summary/index
+   nomenclature/index
    conductor_list
    io_list

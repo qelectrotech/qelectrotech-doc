@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The QElectroTech Team
+# This file is distributed under the same license as the QElectroTech package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech 0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-29 14:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../reports/project_index.rst:5
+msgid "Project index"
+msgstr ""
+
+#: ../reports/project_index.rst:7
+msgid "A `project`_ can be a group of `folios`_, for this reason the possibility to make index which shows some information about the different `folios`_ is necessary. QElectroTech allows creating this index as a table in an automatic way, see figure below."
+msgstr ""
+
+#: ../reports/project_index.rst:14
+msgid "Figure: QElectroTech list of folios"
+msgstr ""
+
+#: ../reports/project_index.rst:16
+msgid "To create the table of folios automatically:"
+msgstr ""
+
+#: ../reports/project_index.rst:18
+msgid "Select **Project > Add a summary** to add a new `folio`_ in second position of the project tree and create the list of folios."
+msgstr ""
+
+#: ../reports/project_index.rst:23
+msgid "Figure: QElectroTech project menu"
+msgstr ""
+
+#: ../reports/project_index.rst:27
+msgid "The list of folios can be created at any time and it will be automatically updated if any `folio`_ is added or deleted."
+msgstr ""
+
+#: ../reports/project_index.rst:30
+msgid "It will also be automatically updated if any folio data is changed (ex.: revision, author, date, etc.)."
+msgstr ""

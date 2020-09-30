@@ -8,14 +8,24 @@ Multiline conductor
 ~~~~~~~~~~~~~~~~~~~
 
 For `multiline conductors`_, QElectroTech allows defining many different parameters from the 
-conductor text. All parameters which can be defined are listed bellow.
+conductor. All parameters which can be defined are listed below.
+
+* Display parameters:
 
    1. **Text size**: Size of the test displayed.
    2. **Text formula**: To be used if a variable value is desired at the **Text** field during `conductor creation`_.
    3. **Text**: Text field content to be displayed at `folio`_.
-   4. **Function**: Variable from `conductor`_, it is used to define the phase from the `conductor`_ (L1, L2, L3, N, etc.).
-   5. **Voltage/Protocol**: Variable from the `conductor`_, it is used to define the voltage (0v,230V,400V, 6kV, etc.) or the network protocol (IP).
-   6. Positioning and orientation from the text displayed at `folio`_, vertical and horizontal `conductor`_.
+   4. **Text color**: Font color to be displayed at `folio`_.
+   5. Positioning and orientation from the text displayed at `folio`_, vertical and horizontal `conductor`_.
+
+* Conductor properties:
+
+   6. **Function**: Variable from `conductor`_, it is used to define the wire phase (L1, L2, L3, N, etc.).
+   7. **Voltage / Protocol**: Variable from the `conductor`_, it is used to define the wire voltage (0v,230V,400V, 6kV, etc.) or the wires network protocol (IP).
+   8. **Conductor color**: Variable from the `conductor`_, it is used to define the wire color.
+   9. **Conductor section**: Variable from the `conductor`_, it is used to define the wire section.
+   10. **Cable**:
+   11. **Bus**:
 
 .. figure:: ../../images/qet_conductor_properties_type_multiline.png
    :align: center
@@ -24,7 +34,7 @@ conductor text. All parameters which can be defined are listed bellow.
 
 .. note::
 
-    Display the `conductor TAG (code)`_ at `multiline diagrams`_ is ussual for an easyly manage of the 
+    Display the `conductor TAG (code)`_ at `multiline diagrams`_ is usual for an easily manage of the 
     manufacturing, erection, commisioning and maintenace phase of the product.
 
     QElectroTech allows an automatic conducto number definition for the text using the variable 

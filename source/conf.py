@@ -22,7 +22,6 @@ import sys; sys.setrecursionlimit(2000)
 import sphinxbootstrap4theme
 # sys.path.insert(0, os.path.abspath('.'))
 
-
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -64,7 +63,7 @@ author = 'Fernando Mateu'
 # built documents.
 #
 # The short X.Y version.
-version = '0.7'
+version = '0.8'
 # The full version, including alpha/beta/rc tags.
 release = '2020'
 
