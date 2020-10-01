@@ -293,4 +293,3 @@ Help menu
 .. |show-video| image:: ../images/ico/16x16/kdenlive-show-video.png
 .. |help-donate| image:: ../images/ico/16x16/help-donate.png
 .. |qt-icon| image:: ../images/ico/16x16/qt.png
-
