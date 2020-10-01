@@ -1414,9 +1414,9 @@
             
   <div class="section" id="create-nomenclature">
 <h1>Create nomenclature<a class="headerlink" href="#create-nomenclature" title="Permalink to this headline">¶</a></h1>
-<p>A <a class="reference external" href="../../project/index.html">project</a> is a combination / assembly of <a class="reference external" href="../../element/index.html">elements</a> / components, for this reason the possibility to make a nomenclature, also known
-as Bill Of Materials (BOM), which shows the information about the different <a class="reference external" href="../../element/index.html">elements</a> / components is necessary. QElectroTech allows
-creating this nomenclature as a table automatically.</p>
+<p>A <a class="reference external" href="../../project/index.html">project</a> is a combination / assembly of <a class="reference external" href="../../element/index.html">elements</a> / components, QElectroTech provides the feature to create a nomenclature,
+also known as Bill Of Materials (BOM), which shows the information about the different <a class="reference external" href="../../element/index.html">elements</a> / components. QElectroTech allows
+creating the nomenclature automatically.</p>
 <div class="figure align-center" id="id1">
 <img alt="reports/nomenclature/../../images/qet_bom.png" src="reports/nomenclature/../../images/qet_bom.png" />
 <p class="caption"><span class="caption-text">Figure: QElectroTech Bill Of Materials (BOM)</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
@@ -1424,7 +1424,7 @@ creating this nomenclature as a table automatically.</p>
 <p>To create a project nomenclature:</p>
 <blockquote>
 <div><ol class="arabic">
-<li><p>Activate the folio where the nomenclature table has to be created in the <a class="reference external" href="../../interface/workspace.html">workspace</a>.</p></li>
+<li><p>Activate the folio where the nomenclature table has to be created.</p></li>
 <li><p>Select <strong>Project &gt; Add a nomenclature</strong> to display the configuration PopUp window of the nomenclature creator.</p>
 <div class="figure align-center" id="id2">
 <img alt="../../_images/qet_menu_project.png" src="../../_images/qet_menu_project.png" />
@@ -1439,12 +1439,7 @@ creating this nomenclature as a table automatically.</p>
 <p class="caption"><span class="caption-text">Figure: QElectroTech project menu</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
 </div>
 </li>
-<li><p>Go to <strong>Content</strong> tab to define table columns.</p>
-<div class="figure align-center" id="id4">
-<img alt="../../_images/qet_nomenclature_add_content.png" src="../../_images/qet_nomenclature_add_content.png" />
-<p class="caption"><span class="caption-text">Figure: QElectroTech project menu</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
-</div>
-</li>
+<li><p>Go to <strong>Content</strong> tab to define table columns.</p></li>
 <li><p>Modify the list of information to be displayed according the commands of the following table.</p>
 <table class="docutils align-default">
 <colgroup>
@@ -1477,6 +1472,15 @@ creating this nomenclature as a table automatically.</p>
 </tr>
 </tbody>
 </table>
+<div class="figure align-center" id="id4">
+<img alt="../../_images/qet_nomenclature_add_content.png" src="../../_images/qet_nomenclature_add_content.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech project menu</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The content request configuration can be saved and chosen from <strong>Configuration</strong> section to increase working efficiency.</p>
+<p>QElectroTech is working with SQLite database, nomenclature table content can also be defined by SQL query.</p>
+</div>
 </li>
 <li><p>Define the filtering parameters (<strong>Filter by</strong> and type of <a class="reference external" href="../../element/index.html">elements</a>).</p></li>
 <li><p>Once the desired configuration is defined, press <strong>OK</strong> to create nomenclature tables and close the PopUp window.</p></li>

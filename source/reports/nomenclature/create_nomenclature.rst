@@ -4,9 +4,9 @@
 Create nomenclature
 ===================
 
-A `project`_ is a combination / assembly of `elements`_ / components, for this reason the possibility to make a nomenclature, also known 
-as Bill Of Materials (BOM), which shows the information about the different `elements`_ / components is necessary. QElectroTech allows 
-creating this nomenclature as a table automatically.
+A `project`_ is a combination / assembly of `elements`_ / components, QElectroTech provides the feature to create a nomenclature, 
+also known as Bill Of Materials (BOM), which shows the information about the different `elements`_ / components. QElectroTech allows 
+creating the nomenclature automatically.
 
 .. figure:: ../../images/qet_bom.png
         :align: center
@@ -15,7 +15,7 @@ creating this nomenclature as a table automatically.
 
 To create a project nomenclature:
 
-   1. Activate the folio where the nomenclature table has to be created in the `workspace`_.
+   1. Activate the folio where the nomenclature table has to be created.
    2. Select **Project > Add a nomenclature** to display the configuration PopUp window of the nomenclature creator.
 
       .. figure:: ../../images/qet_menu_project.png
@@ -33,12 +33,6 @@ To create a project nomenclature:
          Figure: QElectroTech project menu
 
    6. Go to **Content** tab to define table columns.
-
-      .. figure:: ../../images/qet_nomenclature_add_content.png
-         :align: center
-
-         Figure: QElectroTech project menu
-   
    7. Modify the list of information to be displayed according the commands of the following table.
 
       =================      ===============================      ========================================
@@ -49,6 +43,17 @@ To create a project nomenclature:
       |list-remove|          Remove field from display list       Double click on field at display list
       |go-down|              Move down this field                 
       =================      ===============================      ========================================
+
+      .. figure:: ../../images/qet_nomenclature_add_content.png
+         :align: center
+
+         Figure: QElectroTech project menu
+
+      .. note::
+
+         The content request configuration can be saved and chosen from **Configuration** section to increase working efficiency.
+
+         QElectroTech is working with SQLite database, nomenclature table content can also be defined by SQL query. 
 
    8. Define the filtering parameters (**Filter by** and type of `elements`_).
    9. Once the desired configuration is defined, press **OK** to create nomenclature tables and close the PopUp window.
