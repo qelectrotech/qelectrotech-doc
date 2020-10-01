@@ -4,9 +4,8 @@
 Create summary
 ==============
 
-A `project`_ can be a group of `folios`_, for this reason the possibility to make a summary, project index, which shows some 
-information about the different `folios`_ is necessary. QElectroTech allows creating this summary as a 
-table automatically.
+A `project`_ can be a group of `folios`_, QElectroTech provides the possibility to make a summary, project index, which shows the 
+information from the different `folios`_. QElectroTech allows creating the project summary automatically.
 
 .. figure:: ../../images/qet_list_folios.png
         :align: center
@@ -33,13 +32,7 @@ To create a project summary:
          Figure: QElectroTech project menu
 
    6. Go to **Content** tab to define table columns.
-
-      .. figure:: ../../images/qet_summary_add_content.png
-         :align: center
-
-         Figure: QElectroTech project menu
-   
-   7. Modify the list of information to be displayed according the commands of the following table.
+   7. Modify the table content using the following commands:
 
       =================      ===============================      ========================================
       Icon                   Action                               Keyboard shortcut
@@ -50,7 +43,18 @@ To create a project summary:
       |go-down|              Move down this field                 
       =================      ===============================      ========================================
 
-   8. Once the desired configuration is defined, press **OK** to create summary tables and close the PopUp window.
+      .. figure:: ../../images/qet_summary_add_content.png
+         :align: center
+
+         Figure: QElectroTech project menu
+
+      .. note::
+
+         The content request configuration can be saved and chosen from **Configuration** section to increase working efficiency.
+
+         QElectroTech is working with SQLite database, summary table content can also be defined by SQL query. 
+
+   8. Once the desired configuration is defined, press **OK** to create summary tables.
 
 .. note::
 

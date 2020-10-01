@@ -630,7 +630,15 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../nomenclature/index.html">Nomenclature</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="../nomenclature/component_list.html">Component list</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../nomenclature/create_nomenclature.html">Create nomenclature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../nomenclature/edit_nomenclature.html">Edit nomenclature</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#nomenclature-geometry-and-line">Nomenclature geometry and line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#header">Header</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#table">Table</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#content-request">Content request</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../nomenclature/reload_nomenclature.html">Reload nomenclature</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../conductor_list.html">Conductor list</a></li>
@@ -1341,7 +1349,15 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../nomenclature/index.html">Nomenclature</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="../nomenclature/component_list.html">Component list</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../nomenclature/create_nomenclature.html">Create nomenclature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../nomenclature/edit_nomenclature.html">Edit nomenclature</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#nomenclature-geometry-and-line">Nomenclature geometry and line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#header">Header</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#table">Table</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../nomenclature/edit_nomenclature.html#content-request">Content request</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../nomenclature/reload_nomenclature.html">Reload nomenclature</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../conductor_list.html">Conductor list</a></li>
@@ -1482,13 +1498,8 @@ modified and re-organized at any time.</p>
 <p class="caption"><span class="caption-text">Figure: QElectroTech summary properties panel, content tab</span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
 </div>
 </li>
-<li><p>Click <strong>Request</strong> button to display the content configuration PopUp window.</p>
-<div class="figure align-center" id="id8">
-<img alt="../../_images/qet_summary_properties_content_request.png" src="../../_images/qet_summary_properties_content_request.png" />
-<p class="caption"><span class="caption-text">Figure: QElectroTech summary properties content request PopUp window</span><a class="headerlink" href="#id8" title="Permalink to this image">¶</a></p>
-</div>
-</li>
-<li><p>Modify the list of information to be displayed by the commands of the following table.</p>
+<li><p>Click <strong>Request</strong> button to display the content configuration PopUp window.</p></li>
+<li><p>Modify the table content using the following commands:</p>
 <table class="docutils align-default">
 <colgroup>
 <col style="width: 19%" />
@@ -1520,13 +1531,17 @@ modified and re-organized at any time.</p>
 </tr>
 </tbody>
 </table>
+<div class="figure align-center" id="id8">
+<img alt="../../_images/qet_summary_properties_content_request.png" src="../../_images/qet_summary_properties_content_request.png" />
+<p class="caption"><span class="caption-text">Figure: QElectroTech summary properties content request PopUp window</span><a class="headerlink" href="#id8" title="Permalink to this image">¶</a></p>
+</div>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>The content request configuration can be saved and chosen from the configuration section
-to increase working efficiency.</p>
+<p>The content request configuration can be saved and chosen from <strong>Configuration</strong> section to increase working efficiency.</p>
+<p>QElectroTech is working with SQLite database, summary table content can also be defined by SQL query.</p>
 </div>
 </li>
-<li><p>Once the desired configuration is defined, press <strong>OK</strong> to apply changes and close the PopUp window.</p></li>
+<li><p>Once the desired configuration is defined, press <strong>OK</strong> to apply changes.</p></li>
 </ol>
 </div></blockquote>
 </div>

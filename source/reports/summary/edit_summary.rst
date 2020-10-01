@@ -92,13 +92,7 @@ To modify the content request form the summary:
          Figure: QElectroTech summary properties panel, content tab
 
    3. Click **Request** button to display the content configuration PopUp window.
-
-      .. figure:: ../../images/qet_summary_properties_content_request.png
-         :align: center
-
-         Figure: QElectroTech summary properties content request PopUp window
-   
-   4. Modify the list of information to be displayed by the commands of the following table.
+   4. Modify the table content using the following commands:
 
       =================      ===============================      ========================================
       Icon                   Action                               Keyboard shortcut
@@ -109,12 +103,18 @@ To modify the content request form the summary:
       |go-down|              Move down this field                 
       =================      ===============================      ========================================
 
+      .. figure:: ../../images/qet_summary_properties_content_request.png
+         :align: center
+
+         Figure: QElectroTech summary properties content request PopUp window
+
       .. note::
 
-         The content request configuration can be saved and chosen from the configuration section 
-         to increase working efficiency. 
+         The content request configuration can be saved and chosen from **Configuration** section to increase working efficiency.
 
-   5. Once the desired configuration is defined, press **OK** to apply changes and close the PopUp window.
+         QElectroTech is working with SQLite database, summary table content can also be defined by SQL query. 
+
+   5. Once the desired configuration is defined, press **OK** to apply changes.
 
 .. |go-down| image:: ../../images/ico/16x16/go-down.png
 .. |go-up| image:: ../../images/ico/16x16/go-up.png
