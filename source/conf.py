@@ -196,7 +196,8 @@ htmlhelp_basename = 'QElectroTechdoc'
 
 # -- Options for pdf output ---------------------------------------------
 
-pdf_documents = [(master_doc, htmlhelp_basename, project, copyright),]
+#pdf_documents = [(master_doc, htmlhelp_basename, project, copyright),]
+pdf_documents = [('index', u'QElectroTechdoc-0.8', u'QElectroTech User Manual', u'2020, The QElectroTech Team'),]
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -247,6 +248,3 @@ texinfo_documents = [
      author, 'QElectroTech', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-

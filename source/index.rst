@@ -98,4 +98,4 @@ QElectroTech documentation
    export&print/index
    annex/index
 
-here is the pdf version :download:`pdf <downloads/QElectroTechdoc.pdf>`
+here is the pdf version :download:`pdf <downloads/QElectroTechdoc-0.8.pdf>`
