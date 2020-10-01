@@ -44,7 +44,11 @@ QElectroTech allows customizing different terminal properties:
 
 :Orientation:
 
-    The exit direction from the connector can be defined. The four possible orientations are North, East, South and West.
+    The exit direction from the connector can be defined. The four possible orientations are *North*, *East*, *South* and *West*.
+
+:Name:
+
+    Terminal uuid.
 
 .. _element: ../../element/index.html
 .. _conductor: ../../conductor/index.html
