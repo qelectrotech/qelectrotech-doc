@@ -29,6 +29,15 @@
 * Add the new conductor properties (Conductor color, conductor section, cable and bus).
 
 
+# Schema
+
+## Working with text field
+
+* Display text editor from selection properties panel added
+* Movement of text field from selection properties panel added
+* Text orientation definition from selection propertes panel added
+
+
 # Reports
 
 ## Summary

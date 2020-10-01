@@ -13,6 +13,21 @@ Move text field by mouse
     1. Left clik on the `text field`_ which should be moved.
     2. Without releasing, move the mouse to the new desired position.
 
+Move text field from selection properties panel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    1. Select the `text field`_ which should be moved.
+    2. Define coordinates **X** and **Y** from `text field`_ at `selection properties panel`_.
+
+        .. figure:: ../../images/qet_text_field_prop.png
+            :align: center
+
+            Figure: QElectroTech text field selection properties panel
+
+.. note::
+
+   If the `selection properties panel`_ is not displayed, it can be displayed from **Settings > Display > Selection properties**
+
 Move text field by keyboard
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -25,3 +40,4 @@ Move text field by keyboard
 .. _pictures: ../../schema/picture.html
 .. _text field: ../../schema/text/index.html
 .. _Select the text field: ../../schema/select/select_object.html
+.. _selection properties panel: ../../interface/panels/selection_properties_panel.html
