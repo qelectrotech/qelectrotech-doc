@@ -630,7 +630,15 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../reports/nomenclature/index.html">Nomenclature</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/component_list.html">Component list</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/create_nomenclature.html">Create nomenclature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html">Edit nomenclature</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#nomenclature-geometry-and-line">Nomenclature geometry and line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#header">Header</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#table">Table</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#content-request">Content request</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/reload_nomenclature.html">Reload nomenclature</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../reports/conductor_list.html">Conductor list</a></li>
@@ -651,7 +659,9 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_schema.html">Export schema</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_component_list.html">Export component list</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_nomenclature.html">Export nomenclature</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_wires.html">Export wires</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_internal_project_database.html">Export internal project database</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../annex/index.html">Annex</a><ul>
@@ -1339,7 +1349,15 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../reports/nomenclature/index.html">Nomenclature</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/component_list.html">Component list</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/create_nomenclature.html">Create nomenclature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html">Edit nomenclature</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#nomenclature-geometry-and-line">Nomenclature geometry and line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#header">Header</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#table">Table</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../reports/nomenclature/edit_nomenclature.html#content-request">Content request</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../reports/nomenclature/reload_nomenclature.html">Reload nomenclature</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../reports/conductor_list.html">Conductor list</a></li>
@@ -1360,7 +1378,9 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_schema.html">Export schema</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_component_list.html">Export component list</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_nomenclature.html">Export nomenclature</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_wires.html">Export wires</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../export&amp;print/export_internal_project_database.html">Export internal project database</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../annex/index.html">Annex</a><ul>
@@ -1397,16 +1417,16 @@
 <div class="section" id="multiline-conductor">
 <h2>Multiline conductor<a class="headerlink" href="#multiline-conductor" title="Permalink to this headline">¶</a></h2>
 <p>For <a class="reference external" href="../../folio/type/multiline_diagram.html">multiline conductors</a>, QElectroTech allows defining many different parameters from the
-conductor. All parameters which can be defined are listed below.</p>
+conductor. The parameters which can be defined are:</p>
 <ul>
 <li><p>Display parameters:</p>
 <blockquote>
 <div><ol class="arabic simple">
-<li><p><strong>Text size</strong>: Size of the test displayed.</p></li>
+<li><p><strong>Text size</strong>: Size of the displayed text.</p></li>
 <li><p><strong>Text formula</strong>: To be used if a variable value is desired at the <strong>Text</strong> field during <a class="reference external" href="../../schema/conductor/conductor_creation.html">conductor creation</a>.</p></li>
 <li><p><strong>Text</strong>: Text field content to be displayed at <a class="reference external" href="../../folio/index.html">folio</a>.</p></li>
 <li><p><strong>Text color</strong>: Font color to be displayed at <a class="reference external" href="../../folio/index.html">folio</a>.</p></li>
-<li><p>Positioning and orientation from the text displayed at <a class="reference external" href="../../folio/index.html">folio</a>, vertical and horizontal <a class="reference external" href="../../conductor/index.html">conductor</a>.</p></li>
+<li><p>Positioning and orientation from the displayed text at <a class="reference external" href="../../folio/index.html">folio</a>, vertical and horizontal <a class="reference external" href="../../conductor/index.html">conductors</a>.</p></li>
 </ol>
 </div></blockquote>
 </li>
@@ -1429,8 +1449,8 @@ conductor. All parameters which can be defined are listed below.</p>
 </div>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>Display the <a class="reference external" href="../../conductor/properties/conductor_numbering.html">conductor TAG (code)</a> at <a class="reference external" href="../../folio/type/multiline_diagram.html">multiline diagrams</a> is usual for an easily manage of the
-manufacturing, erection, commisioning and maintenace phase of the product.</p>
+<p>Displaying the <a class="reference external" href="../../conductor/properties/conductor_numbering.html">conductor TAG (code)</a> at <a class="reference external" href="../../folio/type/multiline_diagram.html">multiline diagrams</a> is usual for an easily manage of the
+manufacturing, erection, commissioning and maintenance phase of the product.</p>
 <p>QElectroTech allows an automatic conducto number definition for the text using the variable
 <code class="docutils literal notranslate"><span class="pre">%autonum</span></code> at the <strong>Text formula</strong> field. This field have to be defined at <a class="reference external" href="../../folio/properties/folio_type.html">Folio properties</a>
 before starting the <a class="reference external" href="../../schema/conductor/conductor_creation.html">conductor creation</a>.</p>
@@ -1445,7 +1465,7 @@ the type of power system should be defined to have the correct symbol representa
 <div><ol class="arabic simple">
 <li><p>System with or without <strong>Ground</strong></p></li>
 <li><p>System with or without <strong>Neutral</strong></p></li>
-<li><p><strong>PEN</strong> system, system where the <strong>Neutral</strong> and the <strong>Ground</strong> are the same conductor.</p></li>
+<li><p><strong>PEN</strong> system, system where <strong>Neutral</strong> and <strong>Ground</strong> are the same wire.</p></li>
 <li><p>Systems with one, two or three phases</p></li>
 </ol>
 </div></blockquote>

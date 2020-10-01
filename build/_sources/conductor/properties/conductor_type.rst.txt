@@ -8,15 +8,15 @@ Multiline conductor
 ~~~~~~~~~~~~~~~~~~~
 
 For `multiline conductors`_, QElectroTech allows defining many different parameters from the 
-conductor. All parameters which can be defined are listed below.
+conductor. The parameters which can be defined are:
 
 * Display parameters:
 
-   1. **Text size**: Size of the test displayed.
+   1. **Text size**: Size of the displayed text.
    2. **Text formula**: To be used if a variable value is desired at the **Text** field during `conductor creation`_.
    3. **Text**: Text field content to be displayed at `folio`_.
    4. **Text color**: Font color to be displayed at `folio`_.
-   5. Positioning and orientation from the text displayed at `folio`_, vertical and horizontal `conductor`_.
+   5. Positioning and orientation from the displayed text at `folio`_, vertical and horizontal `conductors`_.
 
 * Conductor properties:
 
@@ -34,8 +34,8 @@ conductor. All parameters which can be defined are listed below.
 
 .. note::
 
-    Display the `conductor TAG (code)`_ at `multiline diagrams`_ is usual for an easily manage of the 
-    manufacturing, erection, commisioning and maintenace phase of the product.
+    Displaying the `conductor TAG (code)`_ at `multiline diagrams`_ is usual for an easily manage of the 
+    manufacturing, erection, commissioning and maintenance phase of the product.
 
     QElectroTech allows an automatic conducto number definition for the text using the variable 
     ``%autonum`` at the **Text formula** field. This field have to be defined at `Folio properties`_ 
@@ -51,7 +51,7 @@ QElectroTech allows the following options for `single line conductors`_:
 
    1. System with or without **Ground**
    2. System with or without **Neutral**
-   3. **PEN** system, system where the **Neutral** and the **Ground** are the same conductor.
+   3. **PEN** system, system where **Neutral** and **Ground** are the same wire.
    4. Systems with one, two or three phases
 
 .. figure:: ../../images/qet_conductor_properties_type_single_line.png
