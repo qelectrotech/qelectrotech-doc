@@ -56,7 +56,7 @@ To create a project nomenclature:
          QElectroTech is working with SQLite database, nomenclature table content can also be defined by SQL query. 
 
    8. Define the filtering parameters (**Filter by** and type of `elements`_).
-   9. Once the desired configuration is defined, press **OK** to create nomenclature tables and close the PopUp window.
+   9. Once the desired configuration is defined, press **OK** to create nomenclature tables.
 
 .. note::
 
