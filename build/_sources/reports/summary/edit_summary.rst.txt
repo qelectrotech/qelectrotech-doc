@@ -27,8 +27,8 @@ Summary geometry and line
 The **Geometry and lines** section from the summary properties allows defining:
 
    * Summary table position (coordinates **X** and **Y**) in the `folio`_.
-   * Maximum number of rows of the table.
-   * Adjust the size of the tables to the `folio`_, automatic margin definition.
+   * Maximum number of table rows.
+   * Adjust the size of the table to the `folio`_, automatic margin definition.
    * Define previous summary table, property to be used if the number of `folios`_ is higher than the maximum number of rows defined. 
 
 .. note::

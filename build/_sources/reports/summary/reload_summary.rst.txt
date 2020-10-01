@@ -4,14 +4,14 @@
 Reload summary
 ==============
 
-When any `folio`_ is added or any `folio property`_ is edited, the changes are not updated at the summary tables automatically. 
-To update the `folio properties`_ at the summary tables, the summary has to be reload.
+When any `folio`_ is added or any `folio property`_ is edited, the changes are not updated at the summary automatically. 
+To update the `folio properties`_ at the summary, the summary has to be reload.
 
-To reload the summary tables:
+To reload the summary:
 
     1. Select the summary table, or one of the summary tables if there is more than one, to display the summary properties at `selection properties panel`_.
     2. Go to **Content** tab.
-    3. Click |view-refresh| **Reload** button to update `folio properties`_ at summary tables.
+    3. Click |view-refresh| **Reload** button to update `folio properties`_ at summary.
 
       .. figure:: ../../images/qet_summary_properties_content.png
          :align: center
