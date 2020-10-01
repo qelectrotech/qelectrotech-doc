@@ -35,14 +35,15 @@ To export the nomenclature list to CSV file:
 
     3. Define the filtering parameters (**Filter by** and type of `elements`_).
 
-        .. note::
+      .. note::
 
-            The content and filtering request configuration can be saved and chosen from the configuration section 
-            to increase working efficiency.
+         The content and filtering request configuration can be saved and chosen from **Configuration** section to increase working efficiency.
+
+         QElectroTech is working with SQLite database, summary table content can also be defined by SQL query. 
     
     4. Define page layout parameters (include table header and type of format).
     5. Press **OK** button to apply exporting parameters and display the **Save As** PopUp window.
-    6. Choose target directory.
+    6. Choose target directory and file name.
     7. Press **Save** button to create the file with extension ``.csv``.
 
 
