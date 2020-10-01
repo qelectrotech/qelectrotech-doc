@@ -11,7 +11,7 @@ The different field properties are listed by columns and the `conductors`_ / wir
 To export the `conductors`_ / wires list to CSV file:
 
     1. Select **Project > Export the list of names of wires** menu item to open the exporting PopUP window.
-    2. Choose target directory.
+    2. Choose target directory and file name.
     3. Press **Save** button to create the file with extension ``.csv``.
 
 .. figure:: ../images/qet_menu_project.png
