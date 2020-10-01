@@ -11,6 +11,7 @@ Project
    new_project
    open_project
    save_project
+   project_underlying_directory
    close_project
    clean_project
    properties/index
