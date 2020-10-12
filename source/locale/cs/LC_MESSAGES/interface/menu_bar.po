@@ -1,0 +1,1032 @@
+# Copyright (C) 2020, The QElectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech 0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-29 14:12+0200\n"
+"PO-Revision-Date: 2020-10-03 21:44+0200\n"
+"Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.04.0\n"
+
+#: ../interface/menu_bar.rst:5
+msgid "Menu bar"
+msgstr "Pruh s nabídkou"
+
+#: ../interface/menu_bar.rst:7
+msgid ""
+"The menu bar is placed at top from QElectroTech interface. QElectroTech "
+"contains the menus ``File``, ``Edit``, ``Project``, ``Display``, "
+"``Settings``, ``Windows`` and ``Help``. Each menu provides many diferent "
+"options."
+msgstr ""
+"Pruh s nabídkou je umístěn v horní části rozhraní QElectroTechu. QElectroTech"
+"obsahuje nabídky ``Soubor``, ``Úpravy``, ``Projekt``, ``Zobrazení``,"
+"``Nastavení``, ``Okna`` a ``Nápověda``. Každá nabídka poskytuje mnoho různých"
+"voleb."
+
+#: ../interface/menu_bar.rst:13
+msgid ""
+"A brief description of each menu option can be read from `help or "
+"information tool bar`_ by hovering over the option with the cursor."
+msgstr ""
+"Stručný popis každé položky nabídky lze přečíst v `nápovědě nebo"
+"panelu nástrojů s informacemi`_ přejetím ukazovátkem nad volbou."
+
+#: ../interface/menu_bar.rst:16
+msgid "File menu"
+msgstr "Nabídka Soubor"
+
+#: ../interface/menu_bar.rst:21
+msgid "Figure: QElectroTech file menu"
+msgstr "Obrázek: Nabídka Soubor QElectroTechu"
+
+#: ../interface/menu_bar.rst:24 ../interface/menu_bar.rst:54
+#: ../interface/menu_bar.rst:116 ../interface/menu_bar.rst:142
+#: ../interface/menu_bar.rst:174 ../interface/menu_bar.rst:192
+#: ../interface/menu_bar.rst:216
+msgid "Option"
+msgstr "Volba"
+
+#: ../interface/menu_bar.rst:24 ../interface/menu_bar.rst:54
+#: ../interface/menu_bar.rst:116 ../interface/menu_bar.rst:142
+#: ../interface/menu_bar.rst:174 ../interface/menu_bar.rst:192
+#: ../interface/menu_bar.rst:216
+msgid "Function"
+msgstr "Funkce"
+
+#: ../interface/menu_bar.rst:24 ../interface/menu_bar.rst:54
+#: ../interface/menu_bar.rst:116 ../interface/menu_bar.rst:142
+#: ../interface/menu_bar.rst:174 ../interface/menu_bar.rst:192
+#: ../interface/menu_bar.rst:216
+msgid "Keyboard shortcut"
+msgstr "Klávesová zkratka"
+
+#: ../interface/menu_bar.rst:24 ../interface/menu_bar.rst:54
+#: ../interface/menu_bar.rst:116 ../interface/menu_bar.rst:142
+#: ../interface/menu_bar.rst:174 ../interface/menu_bar.rst:192
+#: ../interface/menu_bar.rst:216
+msgid "Icon"
+msgstr "Ikona"
+
+#: ../interface/menu_bar.rst:26
+msgid "Latest files"
+msgstr "Nedávno otevřené soubory"
+
+#: ../interface/menu_bar.rst:26
+msgid "Opens a project from history (recently opened files)"
+msgstr "Otevře projekt z historie (nedávno otevřené soubory)"
+
+#: ../interface/menu_bar.rst:26
+msgid "|document-recent|"
+msgstr "|dokument-nedávný|"
+
+#: ../interface/menu_bar.rst:28
+msgid "New"
+msgstr "Nový"
+
+#: ../interface/menu_bar.rst:28
+msgid "Creates a new Project"
+msgstr "Vytvoří nový projekt"
+
+#: ../interface/menu_bar.rst:28
+msgid "``Ctrl + n``"
+msgstr "``Ctrl + n``"
+
+#: ../interface/menu_bar.rst:28
+msgid "|project-new|"
+msgstr "|projekt-nový|"
+
+#: ../interface/menu_bar.rst:30
+msgid "Open"
+msgstr "Otevřít"
+
+#: ../interface/menu_bar.rst:30
+msgid "Opens an existing project"
+msgstr "Otevře existující projekt"
+
+#: ../interface/menu_bar.rst:30
+msgid "``Ctrl + o``"
+msgstr "``Ctrl + o``"
+
+#: ../interface/menu_bar.rst:30
+msgid "|project|"
+msgstr "|projekt|"
+
+#: ../interface/menu_bar.rst:32
+msgid "Save"
+msgstr "Uložit"
+
+#: ../interface/menu_bar.rst:32
+msgid "Saves the current project and all its folios"
+msgstr "Uloží nynější projekt a všechny jeho listy"
+
+#: ../interface/menu_bar.rst:32
+msgid "``Ctrl + s``"
+msgstr "``Ctrl + s``"
+
+#: ../interface/menu_bar.rst:32
+msgid "|document-save|"
+msgstr "|dokument-uložit|"
+
+#: ../interface/menu_bar.rst:34
+msgid "Save as"
+msgstr "Uložit jako"
+
+#: ../interface/menu_bar.rst:34
+msgid "Saves the current project with a different file name"
+msgstr "Uloží nynější projekt pod jiným souborovým názvem"
+
+#: ../interface/menu_bar.rst:34
+msgid "|document-save-as|"
+msgstr "|dokument-uložit-jako|"
+
+#: ../interface/menu_bar.rst:36 ../interface/menu_bar.rst:194
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../interface/menu_bar.rst:36 ../interface/menu_bar.rst:194
+msgid "Closes the current project"
+msgstr "Zavře nynější projekt"
+
+#: ../interface/menu_bar.rst:36
+msgid "``Ctrl + w``"
+msgstr "``Ctrl + w``"
+
+#: ../interface/menu_bar.rst:36 ../interface/menu_bar.rst:194
+msgid "|project-close|"
+msgstr "|projekt-zavřít|"
+
+#: ../interface/menu_bar.rst:38
+msgid "Export"
+msgstr "Vyvést"
+
+#: ../interface/menu_bar.rst:38
+msgid "Exports the curret folio to another format"
+msgstr "Vyvede nynější list do jiného formátu"
+
+#: ../interface/menu_bar.rst:38
+msgid "``Ctrl + Shift + x``"
+msgstr "``Ctrl + Shift + x``"
+
+#: ../interface/menu_bar.rst:38
+msgid "|document-export|"
+msgstr "|dokument-vyvést|"
+
+#: ../interface/menu_bar.rst:40
+msgid "Print"
+msgstr "Tisk"
+
+#: ../interface/menu_bar.rst:40
+msgid "Print one or more folio of the current project"
+msgstr "Vytisknout jeden nebo více listů nynějšího projektu"
+
+#: ../interface/menu_bar.rst:40
+msgid "``Ctrl + p``"
+msgstr "``Ctrl + p``"
+
+#: ../interface/menu_bar.rst:40
+msgid "|document-print|"
+msgstr "|dokument-tisk|"
+
+#: ../interface/menu_bar.rst:42
+msgid "Quit"
+msgstr "Ukončit"
+
+#: ../interface/menu_bar.rst:42
+msgid "Closes QElectroTech"
+msgstr "Zavře QElectroTech"
+
+#: ../interface/menu_bar.rst:42
+msgid "``Ctrl + q``/ ``Alt + F4``"
+msgstr "``Ctrl + q``/ ``Alt + F4``"
+
+#: ../interface/menu_bar.rst:42
+msgid "|application-exit|"
+msgstr "|program-ukončit|"
+
+#: ../interface/menu_bar.rst:46
+msgid "Edit menu"
+msgstr "Nabídka pro úpravy"
+
+#: ../interface/menu_bar.rst:51
+msgid "Figure: QElectroTech edit menu"
+msgstr "Obrázek: Nabídka pro úpravy QElectroTechu"
+
+#: ../interface/menu_bar.rst:56
+msgid "Undo"
+msgstr "Zpět"
+
+#: ../interface/menu_bar.rst:56
+msgid "Undoes the previous action"
+msgstr "Vrátí zpět předchozí krok"
+
+#: ../interface/menu_bar.rst:56
+msgid "``Ctrl + z``"
+msgstr "``Ctrl + z``"
+
+#: ../interface/menu_bar.rst:56
+msgid "|edit-undo|"
+msgstr "|upravit-zpět|"
+
+#: ../interface/menu_bar.rst:58
+msgid "Redo"
+msgstr "Znovu"
+
+#: ../interface/menu_bar.rst:58
+msgid "Restores the undone action"
+msgstr "Obnoví krok vrácený zpět"
+
+#: ../interface/menu_bar.rst:58
+msgid "``Ctrl + y``"
+msgstr "``Ctrl + y``"
+
+#: ../interface/menu_bar.rst:58
+msgid "|edit-redo|"
+msgstr "|upravit-znovu|"
+
+#: ../interface/menu_bar.rst:60
+msgid "Cut"
+msgstr "Vyjmout"
+
+#: ../interface/menu_bar.rst:60
+msgid "Puts selected elements into the clipboard"
+msgstr "Vloží vybrané prvky do schránky"
+
+#: ../interface/menu_bar.rst:60
+msgid "``Ctrl + x``"
+msgstr "``Ctrl + x``"
+
+#: ../interface/menu_bar.rst:60
+msgid "|edit-cut|"
+msgstr "|upravit-vyjmout|"
+
+#: ../interface/menu_bar.rst:62
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: ../interface/menu_bar.rst:62
+msgid "Copies selected elements"
+msgstr "Zkopíruje vybrané prvky"
+
+#: ../interface/menu_bar.rst:62
+msgid "``Ctrl + c``"
+msgstr "``Ctrl + c``"
+
+#: ../interface/menu_bar.rst:62
+msgid "|edit-copy|"
+msgstr "|upravit-kopírovat|"
+
+#: ../interface/menu_bar.rst:64
+msgid "Paste"
+msgstr "Vložit"
+
+#: ../interface/menu_bar.rst:64
+msgid "Pastes elements from the clipboard into the folio"
+msgstr "Vloží prvky ze schránky do listu"
+
+#: ../interface/menu_bar.rst:64
+msgid "``Ctrl + v``"
+msgstr "``Ctrl + v``"
+
+#: ../interface/menu_bar.rst:64
+msgid "|edit-paste|"
+msgstr "|upravit-vložit|"
+
+#: ../interface/menu_bar.rst:66
+msgid "Select All"
+msgstr "Vybrat vše"
+
+#: ../interface/menu_bar.rst:66
+msgid "Selects all elments on the folio"
+msgstr "Vybere všechny prvky na listu"
+
+#: ../interface/menu_bar.rst:66
+msgid "``Ctrl + a``"
+msgstr "``Ctrl + a``"
+
+#: ../interface/menu_bar.rst:66
+msgid "|edit-select-all|"
+msgstr "|upravit-vybrat-vše|"
+
+#: ../interface/menu_bar.rst:68
+msgid "Select none"
+msgstr "Nevybrat nic"
+
+#: ../interface/menu_bar.rst:68
+msgid "Deselect all elments on the folio"
+msgstr "Zrušit výběr všech prvků na listu"
+
+#: ../interface/menu_bar.rst:68
+msgid "``Ctrl + Shift + a``"
+msgstr "``Ctrl + Shift + a``"
+
+#: ../interface/menu_bar.rst:68
+msgid "|edit-select-none|"
+msgstr "|upravit-vybrat-žádný|"
+
+#: ../interface/menu_bar.rst:70
+msgid "Invert selection"
+msgstr "Obrátit výběr"
+
+#: ../interface/menu_bar.rst:70
+msgid "Inverts selection of elements"
+msgstr "Obrátí výběr prvků"
+
+#: ../interface/menu_bar.rst:70
+msgid "``Ctrl + i``"
+msgstr "``Ctrl + i``"
+
+#: ../interface/menu_bar.rst:70
+msgid "|edit-select-invert|"
+msgstr "|upravit-vybrat-obrátit|"
+
+#: ../interface/menu_bar.rst:72
+msgid "Delete"
+msgstr "Smazat"
+
+#: ../interface/menu_bar.rst:72
+msgid "Removes selected elements from the folio"
+msgstr "Odebere vybrané prvky z listu"
+
+#: ../interface/menu_bar.rst:72
+msgid "``Del``"
+msgstr "``Del``"
+
+#: ../interface/menu_bar.rst:72
+msgid "|edit-delete|"
+msgstr "|upravit-smazat|"
+
+#: ../interface/menu_bar.rst:74
+msgid "Rotate"
+msgstr "Otočit"
+
+#: ../interface/menu_bar.rst:74
+msgid "Rotates selected elements and texts"
+msgstr "Otočí vybrané prvky a texty"
+
+#: ../interface/menu_bar.rst:74
+msgid "``Space``"
+msgstr "``Mezerník``"
+
+#: ../interface/menu_bar.rst:74
+msgid "|transform-rotate|"
+msgstr "|proměnit-otočit|"
+
+#: ../interface/menu_bar.rst:76
+msgid "Choose texts orientation"
+msgstr "Vybrat natočení textu"
+
+#: ../interface/menu_bar.rst:76
+msgid "Rotates selected texts to a specific angle"
+msgstr "Otočí vybrané texty do určitého úhlu"
+
+#: ../interface/menu_bar.rst:76
+msgid "``Ctrl + Space``"
+msgstr "``Ctrl + mezerník``"
+
+#: ../interface/menu_bar.rst:76
+msgid "|object-rotate-right|"
+msgstr "|předmět-otočit-vpravo|"
+
+#: ../interface/menu_bar.rst:78
+msgid "Find in the panel"
+msgstr "Najít v panelu"
+
+#: ../interface/menu_bar.rst:78
+msgid "Finds the selected element in the collections panel"
+msgstr "Vyhledá vybraný prvek v panelu se sbírkami"
+
+#: ../interface/menu_bar.rst:78 ../interface/menu_bar.rst:158
+msgid "|zoom-draw|"
+msgstr "|přiblížit-kreslit|"
+
+#: ../interface/menu_bar.rst:80
+msgid "Edit the selected object"
+msgstr "Upravit vybraný předmět"
+
+#: ../interface/menu_bar.rst:80
+msgid "Displays properties for the selected element / conductor"
+msgstr "Zobrazí vlastnosti vybraného prvku/vodiče"
+
+#: ../interface/menu_bar.rst:80
+msgid "``Ctrl + e``"
+msgstr "``Ctrl + e``"
+
+#: ../interface/menu_bar.rst:80
+msgid "|element-edit|"
+msgstr "|prvek-upravit|"
+
+#: ../interface/menu_bar.rst:82
+msgid "Group selected texts"
+msgstr "Seskupit vybrané texty"
+
+#: ../interface/menu_bar.rst:84
+msgid "Reset conductors"
+msgstr "Obnovit výchozí vodiče"
+
+#: ../interface/menu_bar.rst:84
+msgid "Resets the conductors path ignoring the user changes"
+msgstr "Obnoví výchozí cestu vodičů přehlížeje uživatelské změny"
+
+#: ../interface/menu_bar.rst:84
+msgid "``Ctrl + k``"
+msgstr "``Ctrl + k``"
+
+#: ../interface/menu_bar.rst:84
+msgid "|conductor-reset|"
+msgstr "|vodič-obnovit výchozí|"
+
+#: ../interface/menu_bar.rst:86
+msgid "Folio properties"
+msgstr "Vlastnosti listu"
+
+#: ../interface/menu_bar.rst:86
+msgid "Edits the properties of the folio"
+msgstr "Upraví vlastnosti listu"
+
+#: ../interface/menu_bar.rst:86
+msgid "``Ctrl + l``"
+msgstr "``Ctrl + l``"
+
+#: ../interface/menu_bar.rst:86
+msgid "|folio-properties|"
+msgstr "|list-vlastnosti|"
+
+#: ../interface/menu_bar.rst:88
+msgid "Add a column"
+msgstr "Přidat sloupec"
+
+#: ../interface/menu_bar.rst:88
+msgid "Adds a column to the folio"
+msgstr "Přidá sloupec do listu"
+
+#: ../interface/menu_bar.rst:88
+msgid "|insert-column-right|"
+msgstr "|vložit-sloupec-vpravo|"
+
+#: ../interface/menu_bar.rst:90
+msgid "Remove a column"
+msgstr "Odstranit sloupec"
+
+#: ../interface/menu_bar.rst:90
+msgid "Removes a column from the folio"
+msgstr "Odebere sloupec z listu"
+
+#: ../interface/menu_bar.rst:90
+msgid "|delete-column|"
+msgstr "|smazat-sloupec|"
+
+#: ../interface/menu_bar.rst:92
+msgid "Add a row"
+msgstr "Přidat řádek"
+
+#: ../interface/menu_bar.rst:92
+msgid "Adds a row to the folio"
+msgstr "Přidá řádek do listu"
+
+#: ../interface/menu_bar.rst:92
+msgid "|insert-row-under|"
+msgstr "|vložit-řádek-pod|"
+
+#: ../interface/menu_bar.rst:94
+msgid "Remove a row"
+msgstr "Odstranit řádek"
+
+#: ../interface/menu_bar.rst:94
+msgid "Removes a row from the folio"
+msgstr "Odebere řádek z listu"
+
+#: ../interface/menu_bar.rst:94
+msgid "|delete-row|"
+msgstr "|smazat-řádek|"
+
+#: ../interface/menu_bar.rst:96
+msgid "Bring to front"
+msgstr "Přesunout dopředu"
+
+#: ../interface/menu_bar.rst:96
+msgid "Brings the selection (s) to front"
+msgstr "Přesune výběr dopředu (s)"
+
+#: ../interface/menu_bar.rst:96
+msgid "``Ctrl + Shift + Home``"
+msgstr "``Ctrl + Shift + Home``"
+
+#: ../interface/menu_bar.rst:96
+msgid "|bring_forward|"
+msgstr "|přesunout_dopředu|"
+
+#: ../interface/menu_bar.rst:98
+msgid "Raise"
+msgstr "Zvýšit"
+
+#: ../interface/menu_bar.rst:98
+msgid "Aproachs the selection (s)"
+msgstr "Přistoupí k výběru (s)"
+
+#: ../interface/menu_bar.rst:98
+msgid "``Ctrl + Shift + Up``"
+msgstr "``Ctrl + Shift + Nahoru``"
+
+#: ../interface/menu_bar.rst:98
+msgid "|raise|"
+msgstr "|zvýšit|"
+
+#: ../interface/menu_bar.rst:100
+msgid "Lower"
+msgstr "Snížit"
+
+#: ../interface/menu_bar.rst:100
+msgid "Moves away the selection (s)"
+msgstr "Vzdálí výběr (s)"
+
+#: ../interface/menu_bar.rst:100
+msgid "``Ctrl + Shift + Down``"
+msgstr "``Ctrl + Shift + Dolů``"
+
+#: ../interface/menu_bar.rst:100
+msgid "|lower|"
+msgstr "|snížit|"
+
+#: ../interface/menu_bar.rst:102
+msgid "Send backwards"
+msgstr "Přesunout dozadu"
+
+#: ../interface/menu_bar.rst:102
+msgid "Sends in the backwards the selection (s)"
+msgstr "Přesune výběr dozadu (s)"
+
+#: ../interface/menu_bar.rst:102
+msgid "``Ctrl + Shift + End``"
+msgstr "``Ctrl + Shift + End``"
+
+#: ../interface/menu_bar.rst:102
+msgid "|send_backward|"
+msgstr "|přesunout_dozadu|"
+
+#: ../interface/menu_bar.rst:104
+msgid "Search / Replace"
+msgstr "Hledat/Nahradit"
+
+#: ../interface/menu_bar.rst:104
+msgid "Display Search / Replace panel"
+msgstr "Zobrazit panel Hledat/Nahradit"
+
+#: ../interface/menu_bar.rst:104
+msgid "``Ctrl + f``"
+msgstr "``Ctrl + f``"
+
+#: ../interface/menu_bar.rst:108
+msgid "Project menu"
+msgstr "Nabídka projektu"
+
+#: ../interface/menu_bar.rst:113
+msgid "Figure: QElectroTech project menu"
+msgstr "Obrázek: Nabídka projektu QElectroTechu"
+
+#: ../interface/menu_bar.rst:118
+msgid "Project properties"
+msgstr "Vlastnosti projektu"
+
+#: ../interface/menu_bar.rst:118
+msgid "Display project properties PopUp window"
+msgstr "Zobrazit vyskakovací okno s vlastnostmi projektu"
+
+#: ../interface/menu_bar.rst:118
+msgid "|project-properties|"
+msgstr "|projekt-vlastnosti|"
+
+#: ../interface/menu_bar.rst:120
+msgid "Add a folio"
+msgstr "Přidat list"
+
+#: ../interface/menu_bar.rst:120
+msgid "Adds a new folio (drawing sheet) to the active project."
+msgstr "Přidá do činného projektu nový list (list výkresu)."
+
+#: ../interface/menu_bar.rst:120
+msgid "``Ctrl + t``"
+msgstr "``Ctrl + t``"
+
+#: ../interface/menu_bar.rst:120
+msgid "|folio-new|"
+msgstr "|list-nový|"
+
+#: ../interface/menu_bar.rst:122
+msgid "Delete this folio"
+msgstr "Smazat tento list"
+
+#: ../interface/menu_bar.rst:122
+msgid "Deletes the active folio (drawing sheet) of the project"
+msgstr "Smaže činný list (list výkresu) z projektu"
+
+#: ../interface/menu_bar.rst:122
+msgid "|folio-delete|"
+msgstr "|list-smazat|"
+
+#: ../interface/menu_bar.rst:124
+msgid "Clean project"
+msgstr "Vyčistit projekt"
+
+#: ../interface/menu_bar.rst:124
+msgid ""
+"Purges the active project of unused elements and empty categories and "
+"templates"
+msgstr ""
+"Zbaví činný projekt nepoužívaných prvků a prázdných skupin a"
+"vzorů"
+
+#: ../interface/menu_bar.rst:124
+msgid "|edit-clear|"
+msgstr "|upravit-vyprázdnit|"
+
+#: ../interface/menu_bar.rst:126
+msgid "Add a summary"
+msgstr "Přidat stručný obsah"
+
+#: ../interface/menu_bar.rst:126
+msgid "Creates an index folio for the active project"
+msgstr "Vytvoří list rejstříku pro činný projekt"
+
+#: ../interface/menu_bar.rst:126
+msgid "|table-of-content|"
+msgstr "|obsah|"
+
+#: ../interface/menu_bar.rst:128
+msgid "Export parts list"
+msgstr "Vyvést seznam částí"
+
+#: ../interface/menu_bar.rst:128
+msgid ""
+"Generates a ``.csv`` file summary of all elements used in the active "
+"project"
+msgstr ""
+"Vytvoří přehledový soubor ``.csv`` všech prvků použitých v činném"
+"projektu"
+
+#: ../interface/menu_bar.rst:128
+msgid "|export-csv|"
+msgstr "|vyvést-csv|"
+
+#: ../interface/menu_bar.rst:130
+msgid "Launch the terminal block creation pluging"
+msgstr "Spustit přídavný modul pro vytvoření svorkovnice"
+
+#: ../interface/menu_bar.rst:130
+msgid "|terminalstrip|"
+msgstr "|terminálový-proužek|"
+
+#: ../interface/menu_bar.rst:134
+msgid "Display menu"
+msgstr "Nabídka pro zobrazení"
+
+#: ../interface/menu_bar.rst:139
+msgid "Figure: QElectroTech display menu"
+msgstr "Obrázek: Nabídka QElectroTechu pro zobrazení"
+
+#: ../interface/menu_bar.rst:144
+msgid "Display projects"
+msgstr "Pohled na projekty"
+
+#: ../interface/menu_bar.rst:144
+msgid "Shows the various opened projects in windows or tabs"
+msgstr "Ukáže různé otevřené projekty v oknech nebo v kartách"
+
+#: ../interface/menu_bar.rst:144 ../interface/menu_bar.rst:176
+msgid "|configure-toolbars|"
+msgstr "|nastavit-nástrojové pruhy|"
+
+#: ../interface/menu_bar.rst:146
+msgid "Select"
+msgstr "Vybrat"
+
+#: ../interface/menu_bar.rst:146
+msgid "Allows to select elements"
+msgstr "Umožňuje vybrat prvky"
+
+#: ../interface/menu_bar.rst:146
+msgid "|select|"
+msgstr "|vybrat|"
+
+#: ../interface/menu_bar.rst:148
+msgid "Move"
+msgstr "Přesunout"
+
+#: ../interface/menu_bar.rst:148
+msgid "Allows to view the folio without modifying it"
+msgstr "Umožňuje list zobrazit bez jeho úpravy"
+
+#: ../interface/menu_bar.rst:148
+msgid "|move|"
+msgstr "|přesunout|"
+
+#: ../interface/menu_bar.rst:150
+msgid "Display the grid"
+msgstr "Zobrazit mřížku"
+
+#: ../interface/menu_bar.rst:150
+msgid "Displays or hidden the grid of folio"
+msgstr "Zobrazí nebo skryje mřížku listu"
+
+#: ../interface/menu_bar.rst:150
+msgid "|grid|"
+msgstr "|mřížka|"
+
+#: ../interface/menu_bar.rst:152
+msgid "Background color white / gray"
+msgstr "Barva pozadí bílá/šedá"
+
+#: ../interface/menu_bar.rst:152
+msgid "Displays the background color of the folio in white or gray"
+msgstr "Zobrazí barvu pozadí listu v bílé nebo šedé barvě"
+
+#: ../interface/menu_bar.rst:152
+msgid "|diagram_bg|"
+msgstr "|diagram_pozadí|"
+
+#: ../interface/menu_bar.rst:154
+msgid "Zoom In"
+msgstr "Přiblížit"
+
+#: ../interface/menu_bar.rst:154
+msgid "Expands the folio"
+msgstr "Zvětší list"
+
+#: ../interface/menu_bar.rst:154
+msgid "``Ctrl + +``"
+msgstr "``Ctrl + +``"
+
+#: ../interface/menu_bar.rst:154
+msgid "|zoom-in|"
+msgstr "|přiblížit|"
+
+#: ../interface/menu_bar.rst:156
+msgid "Zoom Out"
+msgstr "Oddálit"
+
+#: ../interface/menu_bar.rst:156
+msgid "Shrinks the folio"
+msgstr "Zmenší list"
+
+#: ../interface/menu_bar.rst:156
+msgid "``Ctrl + -``"
+msgstr "``Ctrl + -``"
+
+#: ../interface/menu_bar.rst:156
+msgid "|zoom-out|"
+msgstr "|oddálit|"
+
+#: ../interface/menu_bar.rst:158
+msgid "Zoom content"
+msgstr "Přiblížit obsah"
+
+#: ../interface/menu_bar.rst:158
+msgid ""
+"Adjusts the zoom to display all the content of folio regardless of context"
+msgstr ""
+"Upraví přiblížení tak, aby se zobrazoval veškerý obsah listu bez ohledu na"
+" souvislosti"
+
+#: ../interface/menu_bar.rst:158
+msgid "``Ctrl + 8``"
+msgstr "``Ctrl + 8``"
+
+#: ../interface/menu_bar.rst:160
+msgid "Fit in view"
+msgstr "Přizpůsobit přiblížení"
+
+#: ../interface/menu_bar.rst:160
+msgid "Adjusts the zoom on exactly trhe part of the folio"
+msgstr "Nastaví přiblížení přesně na část listu"
+
+#: ../interface/menu_bar.rst:160
+msgid "``Ctrl + 9``"
+msgstr "``Ctrl + 9``"
+
+#: ../interface/menu_bar.rst:160
+msgid "|view-fit-window|"
+msgstr "|pohled-přizpůsobit-oknu|"
+
+#: ../interface/menu_bar.rst:162
+msgid "Reset zoom"
+msgstr "Bez přiblížení"
+
+#: ../interface/menu_bar.rst:162
+msgid "Restores default zoom level"
+msgstr "Obnoví výchozí úroveň přiblížení"
+
+#: ../interface/menu_bar.rst:162
+msgid "``Ctrl + 0``"
+msgstr "``Ctrl + 0``"
+
+#: ../interface/menu_bar.rst:162
+msgid "|zoom-original|"
+msgstr "|zvětšení-původní|"
+
+#: ../interface/menu_bar.rst:166
+msgid "Settings menu"
+msgstr "Nabídka pro nastavení"
+
+#: ../interface/menu_bar.rst:171
+msgid "Figure: QElectroTech settings menu"
+msgstr "Obrázek: Nabídka pro nastavení QElectroTechu"
+
+#: ../interface/menu_bar.rst:176
+msgid "Display"
+msgstr "Zobrazení"
+
+#: ../interface/menu_bar.rst:176
+msgid "Displays or hides toolbars and panels"
+msgstr "Zobrazí nebo skryje nástrojové pruhy a panely"
+
+#: ../interface/menu_bar.rst:178
+msgid "Full screen mode"
+msgstr "Režim na celou obrazovku"
+
+#: ../interface/menu_bar.rst:178
+msgid "Displays QElectroTech in full screen mode"
+msgstr "Zobrazí QElectroTech v režimu na celou obrazovku"
+
+#: ../interface/menu_bar.rst:178
+msgid "``Ctrl + Shift + f``"
+msgstr "``Ctrl + Shift + f``"
+
+#: ../interface/menu_bar.rst:178
+msgid "|view-fullscreen|"
+msgstr "|pohled-celá-obrazovka|"
+
+#: ../interface/menu_bar.rst:180
+msgid "Configure QElectroTech"
+msgstr "Nastavit QElectroTech"
+
+#: ../interface/menu_bar.rst:180
+msgid "Allows specifying various parameters for QElectroTech"
+msgstr "Umožňuje zadat různé parametry pro QElectroTech"
+
+#: ../interface/menu_bar.rst:180
+msgid "|configure|"
+msgstr "|nastavit|"
+
+#: ../interface/menu_bar.rst:184
+msgid "Windows menu"
+msgstr "Nabídka pro okna"
+
+#: ../interface/menu_bar.rst:189
+msgid "Figure: QElectroTech windows menu"
+msgstr "Obrázek: Nabídka pro okna QElectroTechu"
+
+#: ../interface/menu_bar.rst:194
+msgid "``Ctrl + f4``"
+msgstr "``Ctrl + f4``"
+
+#: ../interface/menu_bar.rst:196
+msgid "Tile"
+msgstr "Klást jedno vedle druhého"
+
+#: ../interface/menu_bar.rst:196
+msgid ""
+"Adds a new drawing sheet to the active project. (Folio means drawing "
+"sheet)"
+msgstr ""
+"Přidá do činného projektu nový list výkresu. (List znamená list výkresu)"
+
+#: ../interface/menu_bar.rst:198
+msgid "Cascade"
+msgstr "Překrývat"
+
+#: ../interface/menu_bar.rst:198
+msgid "Deletes the active drawing of the project"
+msgstr "Smaže činný list výkresu z projektu"
+
+#: ../interface/menu_bar.rst:200
+msgid "Next Project"
+msgstr "Nový projekt"
+
+#: ../interface/menu_bar.rst:200
+msgid "Activates the next project"
+msgstr "Spustí další projekt"
+
+#: ../interface/menu_bar.rst:200
+msgid "``Ctrl + tab``"
+msgstr "``Ctrl + tab``"
+
+#: ../interface/menu_bar.rst:202
+msgid "Previous Project"
+msgstr "Předchozí projekt"
+
+#: ../interface/menu_bar.rst:202
+msgid "Activates the previous project"
+msgstr "Spustí předchozí projekt"
+
+#: ../interface/menu_bar.rst:202
+msgid "``Ctrl + Shift + Backtab``"
+msgstr "``Ctrl + Shift + Backtab``"
+
+#: ../interface/menu_bar.rst:204
+msgid "(Opened Projects)"
+msgstr "(otevřené projekty)"
+
+#: ../interface/menu_bar.rst:204
+msgid ""
+"Below **Previous Project** QElectroTech list all opened projects to "
+"select the active project"
+msgstr ""
+"Pod **Předchozí projekt ** QElectroTech uvádí seznam všech otevřených projektů"
+"pro vybrání činného projektu"
+
+#: ../interface/menu_bar.rst:208
+msgid "Help menu"
+msgstr "Nabídka s nápovědou"
+
+#: ../interface/menu_bar.rst:213
+msgid "Figure: QElectroTech help menu"
+msgstr "Obrázek: Nabídka s nápovědou QElectroTechu"
+
+#: ../interface/menu_bar.rst:218
+msgid "What's This?"
+msgstr "Co je to?"
+
+#: ../interface/menu_bar.rst:218
+msgid "Enquires main menu options"
+msgstr "Zjišťuje možnosti hlavní nabídky"
+
+#: ../interface/menu_bar.rst:218
+msgid "``Shift + f1``"
+msgstr "``Shift + f1``"
+
+#: ../interface/menu_bar.rst:220
+msgid "About QElectroTech"
+msgstr "O programu QElectroTech"
+
+#: ../interface/menu_bar.rst:220
+msgid "Displays information about QElectroTech"
+msgstr "Zobrazí informace o programu QElectroTech"
+
+#: ../interface/menu_bar.rst:220
+msgid "|qet-icon|"
+msgstr "|qet-ikona|"
+
+#: ../interface/menu_bar.rst:222
+msgid "Online manual"
+msgstr "Příručka na internetu"
+
+#: ../interface/menu_bar.rst:222
+msgid "Lauches the default browser to the online manual of QElectroTech"
+msgstr "Spustí výchozí prohlížeč internetové příručky pro QElectroTech"
+
+#: ../interface/menu_bar.rst:222
+msgid "``f1``"
+msgstr "``f1``"
+
+#: ../interface/menu_bar.rst:222
+msgid "|help-contents|"
+msgstr "|nápověda-obsah|"
+
+#: ../interface/menu_bar.rst:224
+msgid "Youtube channel"
+msgstr "Kanál Youtube"
+
+#: ../interface/menu_bar.rst:224
+msgid "Lauches the default browser on the Youtube channel of QElectroTech"
+msgstr "Spustí výchozí prohlížeč na kanál Youtube pro QElectroTech"
+
+#: ../interface/menu_bar.rst:224
+msgid "|show-video|"
+msgstr "|ukázat-video|"
+
+#: ../interface/menu_bar.rst:226
+msgid "Support the project with a donation"
+msgstr "Podpořte projekt darem"
+
+#: ../interface/menu_bar.rst:226
+msgid "Lauches the default browser on the QElectroTech donation paypal account"
+msgstr "Spustí výchozí prohlížeč na dárcovský účet Paypal pro QElectroTech"
+
+#: ../interface/menu_bar.rst:226
+msgid "|help-donate|"
+msgstr "|nápověda-darovat|"
+
+#: ../interface/menu_bar.rst:228
+msgid "About Qt"
+msgstr "O Qt"
+
+#: ../interface/menu_bar.rst:228
+msgid "Displays information about `Qt`_ library"
+msgstr "Zobrazí informace o knihovně `Qt`_"
+
+#: ../interface/menu_bar.rst:228
+msgid "|qt-icon|"
+msgstr "|qt-ikona|"
+

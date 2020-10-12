@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QElectroTech 0.7\n"
+"Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-29 14:12+0200\n"
+"POT-Creation-Date: 2020-10-12 21:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,40 +39,40 @@ msgstr ""
 #: ../interface/menu_bar.rst:24
 #: ../interface/menu_bar.rst:54
 #: ../interface/menu_bar.rst:116
-#: ../interface/menu_bar.rst:142
-#: ../interface/menu_bar.rst:174
-#: ../interface/menu_bar.rst:192
-#: ../interface/menu_bar.rst:216
+#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:198
+#: ../interface/menu_bar.rst:222
 msgid "Option"
 msgstr ""
 
 #: ../interface/menu_bar.rst:24
 #: ../interface/menu_bar.rst:54
 #: ../interface/menu_bar.rst:116
-#: ../interface/menu_bar.rst:142
-#: ../interface/menu_bar.rst:174
-#: ../interface/menu_bar.rst:192
-#: ../interface/menu_bar.rst:216
+#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:198
+#: ../interface/menu_bar.rst:222
 msgid "Function"
 msgstr ""
 
 #: ../interface/menu_bar.rst:24
 #: ../interface/menu_bar.rst:54
 #: ../interface/menu_bar.rst:116
-#: ../interface/menu_bar.rst:142
-#: ../interface/menu_bar.rst:174
-#: ../interface/menu_bar.rst:192
-#: ../interface/menu_bar.rst:216
+#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:198
+#: ../interface/menu_bar.rst:222
 msgid "Keyboard shortcut"
 msgstr ""
 
 #: ../interface/menu_bar.rst:24
 #: ../interface/menu_bar.rst:54
 #: ../interface/menu_bar.rst:116
-#: ../interface/menu_bar.rst:142
-#: ../interface/menu_bar.rst:174
-#: ../interface/menu_bar.rst:192
-#: ../interface/menu_bar.rst:216
+#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:198
+#: ../interface/menu_bar.rst:222
 msgid "Icon"
 msgstr ""
 
@@ -149,12 +149,12 @@ msgid "|document-save-as|"
 msgstr ""
 
 #: ../interface/menu_bar.rst:36
-#: ../interface/menu_bar.rst:194
+#: ../interface/menu_bar.rst:200
 msgid "Close"
 msgstr ""
 
 #: ../interface/menu_bar.rst:36
-#: ../interface/menu_bar.rst:194
+#: ../interface/menu_bar.rst:200
 msgid "Closes the current project"
 msgstr ""
 
@@ -163,7 +163,7 @@ msgid "``Ctrl + w``"
 msgstr ""
 
 #: ../interface/menu_bar.rst:36
-#: ../interface/menu_bar.rst:194
+#: ../interface/menu_bar.rst:200
 msgid "|project-close|"
 msgstr ""
 
@@ -408,7 +408,7 @@ msgid "Finds the selected element in the collections panel"
 msgstr ""
 
 #: ../interface/menu_bar.rst:78
-#: ../interface/menu_bar.rst:158
+#: ../interface/menu_bar.rst:164
 msgid "|zoom-draw|"
 msgstr ""
 
@@ -653,362 +653,389 @@ msgid "Add a summary"
 msgstr ""
 
 #: ../interface/menu_bar.rst:126
-msgid "Creates an index folio for the active project"
+msgid "Creates an index table for the active project"
 msgstr ""
 
 #: ../interface/menu_bar.rst:126
+#: ../interface/menu_bar.rst:128
 msgid "|table-of-content|"
 msgstr ""
 
 #: ../interface/menu_bar.rst:128
-msgid "Export parts list"
+msgid "Add a nomenclature"
 msgstr ""
 
 #: ../interface/menu_bar.rst:128
-msgid "Generates a ``.csv`` file summary of all elements used in the active project"
+msgid "Creates a Bill Of Material (BOM) table for the active project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:128
+#: ../interface/menu_bar.rst:130
+msgid "Export to CSV"
+msgstr ""
+
+#: ../interface/menu_bar.rst:130
+msgid "Generates a ``.csv`` file summary of elements used in the active project according to defined filtering options"
+msgstr ""
+
+#: ../interface/menu_bar.rst:130
+#: ../interface/menu_bar.rst:132
+#: ../interface/menu_bar.rst:136
 msgid "|export-csv|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:130
-msgid "Launch the terminal block creation pluging"
+#: ../interface/menu_bar.rst:132
+msgid "Export the list of names of wires"
 msgstr ""
 
-#: ../interface/menu_bar.rst:130
-msgid "|terminalstrip|"
+#: ../interface/menu_bar.rst:132
+msgid "Generates a ``.csv`` file summary of conductors used in the active project"
 msgstr ""
 
 #: ../interface/menu_bar.rst:134
+msgid "Launch the terminal block creation pluging"
+msgstr ""
+
+#: ../interface/menu_bar.rst:134
+msgid "|terminalstrip|"
+msgstr ""
+
+#: ../interface/menu_bar.rst:136
+msgid "Export the internal project database"
+msgstr ""
+
+#: ../interface/menu_bar.rst:136
+msgid "Generates a SQLite database of the active project"
+msgstr ""
+
+#: ../interface/menu_bar.rst:140
 msgid "Display menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:139
+#: ../interface/menu_bar.rst:145
 msgid "Figure: QElectroTech display menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:144
+#: ../interface/menu_bar.rst:150
 msgid "Display projects"
 msgstr ""
 
-#: ../interface/menu_bar.rst:144
+#: ../interface/menu_bar.rst:150
 msgid "Shows the various opened projects in windows or tabs"
 msgstr ""
 
-#: ../interface/menu_bar.rst:144
-#: ../interface/menu_bar.rst:176
+#: ../interface/menu_bar.rst:150
+#: ../interface/menu_bar.rst:182
 msgid "|configure-toolbars|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:146
+#: ../interface/menu_bar.rst:152
 msgid "Select"
 msgstr ""
 
-#: ../interface/menu_bar.rst:146
+#: ../interface/menu_bar.rst:152
 msgid "Allows to select elements"
 msgstr ""
 
-#: ../interface/menu_bar.rst:146
+#: ../interface/menu_bar.rst:152
 msgid "|select|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:154
 msgid "Move"
 msgstr ""
 
-#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:154
 msgid "Allows to view the folio without modifying it"
 msgstr ""
 
-#: ../interface/menu_bar.rst:148
+#: ../interface/menu_bar.rst:154
 msgid "|move|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:150
+#: ../interface/menu_bar.rst:156
 msgid "Display the grid"
 msgstr ""
 
-#: ../interface/menu_bar.rst:150
+#: ../interface/menu_bar.rst:156
 msgid "Displays or hidden the grid of folio"
 msgstr ""
 
-#: ../interface/menu_bar.rst:150
+#: ../interface/menu_bar.rst:156
 msgid "|grid|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:152
+#: ../interface/menu_bar.rst:158
 msgid "Background color white / gray"
 msgstr ""
 
-#: ../interface/menu_bar.rst:152
+#: ../interface/menu_bar.rst:158
 msgid "Displays the background color of the folio in white or gray"
 msgstr ""
 
-#: ../interface/menu_bar.rst:152
+#: ../interface/menu_bar.rst:158
 msgid "|diagram_bg|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:154
+#: ../interface/menu_bar.rst:160
 msgid "Zoom In"
 msgstr ""
 
-#: ../interface/menu_bar.rst:154
+#: ../interface/menu_bar.rst:160
 msgid "Expands the folio"
 msgstr ""
 
-#: ../interface/menu_bar.rst:154
+#: ../interface/menu_bar.rst:160
 msgid "``Ctrl + +``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:154
+#: ../interface/menu_bar.rst:160
 msgid "|zoom-in|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:156
+#: ../interface/menu_bar.rst:162
 msgid "Zoom Out"
 msgstr ""
 
-#: ../interface/menu_bar.rst:156
+#: ../interface/menu_bar.rst:162
 msgid "Shrinks the folio"
 msgstr ""
 
-#: ../interface/menu_bar.rst:156
+#: ../interface/menu_bar.rst:162
 msgid "``Ctrl + -``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:156
+#: ../interface/menu_bar.rst:162
 msgid "|zoom-out|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:158
+#: ../interface/menu_bar.rst:164
 msgid "Zoom content"
 msgstr ""
 
-#: ../interface/menu_bar.rst:158
+#: ../interface/menu_bar.rst:164
 msgid "Adjusts the zoom to display all the content of folio regardless of context"
 msgstr ""
 
-#: ../interface/menu_bar.rst:158
+#: ../interface/menu_bar.rst:164
 msgid "``Ctrl + 8``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:160
+#: ../interface/menu_bar.rst:166
 msgid "Fit in view"
 msgstr ""
 
-#: ../interface/menu_bar.rst:160
+#: ../interface/menu_bar.rst:166
 msgid "Adjusts the zoom on exactly trhe part of the folio"
 msgstr ""
 
-#: ../interface/menu_bar.rst:160
+#: ../interface/menu_bar.rst:166
 msgid "``Ctrl + 9``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:160
+#: ../interface/menu_bar.rst:166
 msgid "|view-fit-window|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:162
+#: ../interface/menu_bar.rst:168
 msgid "Reset zoom"
 msgstr ""
 
-#: ../interface/menu_bar.rst:162
+#: ../interface/menu_bar.rst:168
 msgid "Restores default zoom level"
 msgstr ""
 
-#: ../interface/menu_bar.rst:162
+#: ../interface/menu_bar.rst:168
 msgid "``Ctrl + 0``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:162
+#: ../interface/menu_bar.rst:168
 msgid "|zoom-original|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:166
+#: ../interface/menu_bar.rst:172
 msgid "Settings menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:171
+#: ../interface/menu_bar.rst:177
 msgid "Figure: QElectroTech settings menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:176
+#: ../interface/menu_bar.rst:182
 msgid "Display"
 msgstr ""
 
-#: ../interface/menu_bar.rst:176
+#: ../interface/menu_bar.rst:182
 msgid "Displays or hides toolbars and panels"
 msgstr ""
 
-#: ../interface/menu_bar.rst:178
+#: ../interface/menu_bar.rst:184
 msgid "Full screen mode"
 msgstr ""
 
-#: ../interface/menu_bar.rst:178
+#: ../interface/menu_bar.rst:184
 msgid "Displays QElectroTech in full screen mode"
 msgstr ""
 
-#: ../interface/menu_bar.rst:178
+#: ../interface/menu_bar.rst:184
 msgid "``Ctrl + Shift + f``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:178
+#: ../interface/menu_bar.rst:184
 msgid "|view-fullscreen|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:186
 msgid "Configure QElectroTech"
 msgstr ""
 
-#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:186
 msgid "Allows specifying various parameters for QElectroTech"
 msgstr ""
 
-#: ../interface/menu_bar.rst:180
+#: ../interface/menu_bar.rst:186
 msgid "|configure|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:184
+#: ../interface/menu_bar.rst:190
 msgid "Windows menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:189
+#: ../interface/menu_bar.rst:195
 msgid "Figure: QElectroTech windows menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:194
+#: ../interface/menu_bar.rst:200
 msgid "``Ctrl + f4``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:196
+#: ../interface/menu_bar.rst:202
 msgid "Tile"
 msgstr ""
 
-#: ../interface/menu_bar.rst:196
+#: ../interface/menu_bar.rst:202
 msgid "Adds a new drawing sheet to the active project. (Folio means drawing sheet)"
 msgstr ""
 
-#: ../interface/menu_bar.rst:198
+#: ../interface/menu_bar.rst:204
 msgid "Cascade"
 msgstr ""
 
-#: ../interface/menu_bar.rst:198
+#: ../interface/menu_bar.rst:204
 msgid "Deletes the active drawing of the project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:200
+#: ../interface/menu_bar.rst:206
 msgid "Next Project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:200
+#: ../interface/menu_bar.rst:206
 msgid "Activates the next project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:200
+#: ../interface/menu_bar.rst:206
 msgid "``Ctrl + tab``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:202
+#: ../interface/menu_bar.rst:208
 msgid "Previous Project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:202
+#: ../interface/menu_bar.rst:208
 msgid "Activates the previous project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:202
+#: ../interface/menu_bar.rst:208
 msgid "``Ctrl + Shift + Backtab``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:204
+#: ../interface/menu_bar.rst:210
 msgid "(Opened Projects)"
 msgstr ""
 
-#: ../interface/menu_bar.rst:204
+#: ../interface/menu_bar.rst:210
 msgid "Below **Previous Project** QElectroTech list all opened projects to select the active project"
 msgstr ""
 
-#: ../interface/menu_bar.rst:208
+#: ../interface/menu_bar.rst:214
 msgid "Help menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:213
+#: ../interface/menu_bar.rst:219
 msgid "Figure: QElectroTech help menu"
 msgstr ""
 
-#: ../interface/menu_bar.rst:218
+#: ../interface/menu_bar.rst:224
 msgid "What's This?"
 msgstr ""
 
-#: ../interface/menu_bar.rst:218
+#: ../interface/menu_bar.rst:224
 msgid "Enquires main menu options"
 msgstr ""
 
-#: ../interface/menu_bar.rst:218
+#: ../interface/menu_bar.rst:224
 msgid "``Shift + f1``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:220
+#: ../interface/menu_bar.rst:226
 msgid "About QElectroTech"
 msgstr ""
 
-#: ../interface/menu_bar.rst:220
+#: ../interface/menu_bar.rst:226
 msgid "Displays information about QElectroTech"
 msgstr ""
 
-#: ../interface/menu_bar.rst:220
+#: ../interface/menu_bar.rst:226
 msgid "|qet-icon|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:222
+#: ../interface/menu_bar.rst:228
 msgid "Online manual"
 msgstr ""
 
-#: ../interface/menu_bar.rst:222
+#: ../interface/menu_bar.rst:228
 msgid "Lauches the default browser to the online manual of QElectroTech"
 msgstr ""
 
-#: ../interface/menu_bar.rst:222
+#: ../interface/menu_bar.rst:228
 msgid "``f1``"
 msgstr ""
 
-#: ../interface/menu_bar.rst:222
+#: ../interface/menu_bar.rst:228
 msgid "|help-contents|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:224
+#: ../interface/menu_bar.rst:230
 msgid "Youtube channel"
 msgstr ""
 
-#: ../interface/menu_bar.rst:224
+#: ../interface/menu_bar.rst:230
 msgid "Lauches the default browser on the Youtube channel of QElectroTech"
 msgstr ""
 
-#: ../interface/menu_bar.rst:224
+#: ../interface/menu_bar.rst:230
 msgid "|show-video|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:226
+#: ../interface/menu_bar.rst:232
 msgid "Support the project with a donation"
 msgstr ""
 
-#: ../interface/menu_bar.rst:226
+#: ../interface/menu_bar.rst:232
 msgid "Lauches the default browser on the QElectroTech donation paypal account"
 msgstr ""
 
-#: ../interface/menu_bar.rst:226
+#: ../interface/menu_bar.rst:232
 msgid "|help-donate|"
 msgstr ""
 
-#: ../interface/menu_bar.rst:228
+#: ../interface/menu_bar.rst:234
 msgid "About Qt"
 msgstr ""
 
-#: ../interface/menu_bar.rst:228
+#: ../interface/menu_bar.rst:234
 msgid "Displays information about `Qt`_ library"
 msgstr ""
 
-#: ../interface/menu_bar.rst:228
+#: ../interface/menu_bar.rst:234
 msgid "|qt-icon|"
 msgstr ""

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QElectroTech 0.7\n"
+"Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-29 14:12+0200\n"
+"POT-Creation-Date: 2020-10-12 21:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,11 +33,11 @@ msgid "Defining the text orientation inside the `text field`_."
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:13
-msgid "Rotate the text field"
+msgid "Rotate text field"
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:15
-msgid "The text field is considered an object by QElectroTech, it can be selected, placed and rotated as `elements`_ and `pictures`_. It can be rorated 90, 180 or 270 degrees."
+msgid "The text field is considered an object by QElectroTech, it can be selected, placed and rotated as `elements`_ and `pictures`_. It can be rorated *90*, *180* or *270* degrees."
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:18
@@ -45,12 +45,12 @@ msgid "Right click on the `text field`_ which should be rotated."
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:23
-#: ../schema/text/text_rotate.rst:43
+#: ../schema/text/text_rotate.rst:46
 msgid "Figure: QElectroTech text field options"
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:25
-msgid "Select the option **Rotate** to rotate the `text field`_ 90 degrees on the clock direction."
+msgid "Select the option **Rotate** to rotate the `text field`_ *90* degrees on the clock direction."
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:29
@@ -62,25 +62,49 @@ msgid "Define text orientation"
 msgstr ""
 
 #: ../schema/text/text_rotate.rst:34
-msgid "Defining the text orientation rotates only the content from the `text field`_. The advantage of choosing the text orientation is the possibility to choose any angle value between -360 and 360 degrees."
+msgid "Defining the text orientation rotates only the content from the `text field`_. The advantage of choosing the text orientation is the possibility to choose any angle between *-360* and *360* degrees."
 msgstr ""
 
-#: ../schema/text/text_rotate.rst:38
+#: ../schema/text/text_rotate.rst:39
+msgid "Define text orientation from workspace"
+msgstr ""
+
+#: ../schema/text/text_rotate.rst:41
 msgid "Right click on the `text field`_ which should be oriented."
 msgstr ""
 
-#: ../schema/text/text_rotate.rst:45
+#: ../schema/text/text_rotate.rst:48
 msgid "Select the option **Choose text orientation** to display the text orientation PopUP window."
 msgstr ""
 
-#: ../schema/text/text_rotate.rst:50
+#: ../schema/text/text_rotate.rst:53
 msgid "Figure: QElectroTech choose orientation PopUP window"
 msgstr ""
 
-#: ../schema/text/text_rotate.rst:52
-msgid "Define the angle of orientation from the text."
+#: ../schema/text/text_rotate.rst:55
+msgid "Define the orientation angle of the text."
 msgstr ""
 
-#: ../schema/text/text_rotate.rst:53
-msgid "Press **OK** to save the changes and close the text orientation PopUP window."
+#: ../schema/text/text_rotate.rst:56
+msgid "Press **OK** to save the changes."
+msgstr ""
+
+#: ../schema/text/text_rotate.rst:59
+msgid "Define text orientation from selection properties panel"
+msgstr ""
+
+#: ../schema/text/text_rotate.rst:61
+msgid "Select the `text field`_ which should be oriented."
+msgstr ""
+
+#: ../schema/text/text_rotate.rst:62
+msgid "Define the orientation angle of the text at **Angle** field from `selection properties panel`_."
+msgstr ""
+
+#: ../schema/text/text_rotate.rst:67
+msgid "Figure: QElectroTech text field selection properties panel"
+msgstr ""
+
+#: ../schema/text/text_rotate.rst:71
+msgid "If the `selection properties panel`_ is not displayed, it can be displayed from **Settings > Display > Selection properties**"
 msgstr ""
