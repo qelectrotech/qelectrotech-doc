@@ -1,26 +1,28 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020, The QElectroTech Team
 # This file is distributed under the same license as the QElectroTech
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-14 22:15+0200\n"
+"Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.04.0\n"
 
 #: ../project/properties/new_folio/folio_referencing.rst:5
 msgid "Folio referencing properties"
-msgstr ""
+msgstr "Vlastnosti odkazu na list"
 
 #: ../project/properties/new_folio/folio_referencing.rst:7
 msgid ""
@@ -29,6 +31,10 @@ msgid ""
 " a `conductor`_ can be at one `folio`_ and the continuation at a "
 "different `folio`_."
 msgstr ""
+"QElectroTech umožňuje vytvářet výkresy s více `listy`_. Na každém `listu`_ "
+"je zastoupena pouze část `výkresu`_. To znamená, že část"
+"`vodiče`_ může být na jednom `listu`_ a pokračování na"
+"jiném `listu`_."
 
 #: ../project/properties/new_folio/folio_referencing.rst:11
 msgid ""
@@ -39,40 +45,50 @@ msgid ""
 "displayed can be defiend by the user at **Folio referencing** tab from "
 "**New Folio** section of the `project properties`_."
 msgstr ""
+"QElectroTech poskytuje prvky odkazující na list, které označují, odkud"
+"`vodič`_ přichází nebo kam směřuje. Tyto `prvky`_ mohou"
+"zobrazit na `pracovní ploše`_ `listu`_ některé informace o"
+"propojeném prvku odkazujícím na list. Informace, které se mají"
+"zobrazit, může uživatel stanovit na kartě **Odkazování na list** v části"
+"**Nový list** `vlastností projektu`_."
 
 #: ../project/properties/new_folio/folio_referencing.rst:18
 msgid ""
 "For more information about folio referencing, refer to `Reference folio "
 "following`_ and `Previous reference folio`_."
 msgstr ""
+"Další informace o odkazování na list najdete v `Odkaz na následující list` "
+"a `Odkaz na předchozí list`."
 
 #: ../project/properties/new_folio/folio_referencing.rst:24
 msgid "Figure: Project folio referencing properties window"
-msgstr ""
+msgstr "Obrázek: Okno s vlastnostmi odkazu na list projektu"
 
 #: ../project/properties/new_folio/folio_referencing.rst:26
 msgid "To define folio referencing Label:"
-msgstr ""
+msgstr "Pro stanovení štítku s odkazem na list:"
 
 #: ../project/properties/new_folio/folio_referencing.rst:28
 msgid "`Display`_ project properties PopUP window."
-msgstr ""
+msgstr "`Zobrazit`_ vyskakovací okno s vlastnostmi projektu."
 
 #: ../project/properties/new_folio/folio_referencing.rst:29
 msgid "Go to **New folio** section."
-msgstr ""
+msgstr "Jděte do části **Nový list**."
 
 #: ../project/properties/new_folio/folio_referencing.rst:30
 msgid "Go to **Folio referencings** tab."
-msgstr ""
+msgstr "Jděte na kartu **Odkazování listů**."
 
 #: ../project/properties/new_folio/folio_referencing.rst:31
 msgid "Define the desired parameters for each field."
-msgstr ""
+msgstr "Stanovte požadované parametry pro každé pole."
 
 #: ../project/properties/new_folio/folio_referencing.rst:32
 msgid ""
 "Press **OK** button to save the configuration changes and close project "
 "properties PopUP window."
 msgstr ""
+"Stiskněte tlačítko **OK** pro uložení změn v nastavení a zavřete "
+"vyskakovací okno s vlastnostmi projektu."
 
