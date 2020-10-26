@@ -1,26 +1,28 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020, The QElectroTech Team
 # This file is distributed under the same license as the QElectroTech
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-17 22:23+0200\n"
+"Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.04.0\n"
 
 #: ../element/element_editor/interface/toolbars.rst:5
 msgid "Element editor toolbars"
-msgstr ""
+msgstr "Pruhy s nástroji v editoru prvku"
 
 #: ../element/element_editor/interface/toolbars.rst:7
 msgid ""
@@ -29,6 +31,11 @@ msgid ""
 "In general, these buttons have its counterpart at one of the menus from "
 "the `menu bar`_."
 msgstr ""
+"Kromě různých `nabídek`_ poskytuje QElectroTech také"
+"panely nástrojů. Panely nástrojů jsou skupiny tlačítek s ikonami, které"
+" spouštějí"
+"činnosti. Obecně mají tato tlačítka protějšek v jedné z"
+"nabídek `hlavní nabídky`_."
 
 #: ../element/element_editor/interface/toolbars.rst:11
 msgid ""
@@ -36,440 +43,458 @@ msgid ""
 "the `menu bar`_. The toolbars can also be placed on column at the left or"
 " right side from the main window."
 msgstr ""
+"Různé panely nástrojů lze skrýt nebo umístit do jednoho nebo více řádků pod"
+"`hlavní nabídkou`_. Panely nástrojů lze také umístit na sloupec nalevo nebo"
+"napravo od hlavního okna."
 
 #: ../element/element_editor/interface/toolbars.rst:16
 msgid ""
 "To help the user, a tooltip is displayed when the arrow is placed on each"
 " button."
 msgstr ""
+"Pro pomoc uživateli je nástrojová rada zobrazena, "
+"když je šipka umístěna na tlačítku."
 
 #: ../element/element_editor/interface/toolbars.rst:19
 msgid "Toolbar Tools"
-msgstr ""
+msgstr "Nástroje v pruhu s nástroji"
 
 #: ../element/element_editor/interface/toolbars.rst:24
 msgid "Figure: QElectroTech element editor toolbar Tools"
-msgstr ""
+msgstr "Obrázek: Nástroje v pruhu s nástroji v editoru prvku v QElectroTechu"
 
 #: ../element/element_editor/interface/toolbars.rst:26
 msgid "The different buttons from toolbar **Tools** are:"
-msgstr ""
+msgstr "Různá tlačítka na panelu nástrojů **Nástroje** jsou:"
 
 #: ../element/element_editor/interface/toolbars.rst:29
 #: ../element/element_editor/interface/toolbars.rst:86
 #: ../element/element_editor/interface/toolbars.rst:108
 #: ../element/element_editor/interface/toolbars.rst:142
 msgid "Tool"
-msgstr ""
+msgstr "Nástroj"
 
 #: ../element/element_editor/interface/toolbars.rst:29
 #: ../element/element_editor/interface/toolbars.rst:86
 #: ../element/element_editor/interface/toolbars.rst:108
 #: ../element/element_editor/interface/toolbars.rst:142
 msgid "Function"
-msgstr ""
+msgstr "Funkce"
 
 #: ../element/element_editor/interface/toolbars.rst:29
 #: ../element/element_editor/interface/toolbars.rst:86
 #: ../element/element_editor/interface/toolbars.rst:108
 #: ../element/element_editor/interface/toolbars.rst:142
 msgid "Keyboard shortcut"
-msgstr ""
+msgstr "Klávesová zkratka"
 
 #: ../element/element_editor/interface/toolbars.rst:29
 #: ../element/element_editor/interface/toolbars.rst:86
 #: ../element/element_editor/interface/toolbars.rst:108
 #: ../element/element_editor/interface/toolbars.rst:142
 msgid "Icon"
-msgstr ""
+msgstr "Ikona"
 
 #: ../element/element_editor/interface/toolbars.rst:31
 msgid "New"
-msgstr ""
+msgstr "Nový"
 
 #: ../element/element_editor/interface/toolbars.rst:31
 msgid "Creates a new element"
-msgstr ""
+msgstr "Vytvoří nový prvek"
 
 #: ../element/element_editor/interface/toolbars.rst:31
 msgid "``Ctrl + n``"
-msgstr ""
+msgstr "``Ctrl + n``"
 
 #: ../element/element_editor/interface/toolbars.rst:31
 msgid "|document-new|"
-msgstr ""
+msgstr "|document-new|"
 
 #: ../element/element_editor/interface/toolbars.rst:33
 msgid "Open"
-msgstr ""
+msgstr "Otevřít"
 
 #: ../element/element_editor/interface/toolbars.rst:33
 msgid "Opens an existing element from collection"
-msgstr ""
+msgstr "Otevře stávající prvek ve sbírce"
 
 #: ../element/element_editor/interface/toolbars.rst:33
 msgid "``Ctrl + o``"
-msgstr ""
+msgstr "``Ctrl + o``"
 
 #: ../element/element_editor/interface/toolbars.rst:33
 msgid "|folder-open|"
-msgstr ""
+msgstr "|folder-open|"
 
 #: ../element/element_editor/interface/toolbars.rst:35
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: ../element/element_editor/interface/toolbars.rst:35
 msgid "Saves the current element changes (overwrites)"
-msgstr ""
+msgstr "Uloží nynější změny prvku (přepíše)"
 
 #: ../element/element_editor/interface/toolbars.rst:35
 msgid "``Ctrl + s``"
-msgstr ""
+msgstr "``Ctrl + s``"
 
 #: ../element/element_editor/interface/toolbars.rst:35
 msgid "|document-save|"
-msgstr ""
+msgstr "|document-save|"
 
 #: ../element/element_editor/interface/toolbars.rst:37
 msgid "Save as"
-msgstr ""
+msgstr "Uložit jako"
 
 #: ../element/element_editor/interface/toolbars.rst:37
 msgid "Saves the element as a new element from a library"
-msgstr ""
+msgstr "Uloží prvek jako nový prvek v knihovně"
 
 #: ../element/element_editor/interface/toolbars.rst:37
 msgid "|document-save-as|"
-msgstr ""
+msgstr "|document-save-as|"
 
 #: ../element/element_editor/interface/toolbars.rst:39
 msgid "Reload"
-msgstr ""
+msgstr "Nahrát znovu"
 
 #: ../element/element_editor/interface/toolbars.rst:39
 msgid "Reloads the opened element (all changes which are not saved are lost)"
 msgstr ""
+"Nahraje otevřený prvek (všechny změny, které nejsou uloženy, jsou ztraceny)"
 
 #: ../element/element_editor/interface/toolbars.rst:39
 msgid "``Ctrl + p``"
-msgstr ""
+msgstr "``Ctrl + p``"
 
 #: ../element/element_editor/interface/toolbars.rst:39
 msgid "|view-refresh|"
-msgstr ""
+msgstr "|view-refresh|"
 
 #: ../element/element_editor/interface/toolbars.rst:41
 msgid "Undo"
-msgstr ""
+msgstr "Zpět"
 
 #: ../element/element_editor/interface/toolbars.rst:41
 msgid "Undoes the previous action"
-msgstr ""
+msgstr "Vrátí zpět předchozí krok"
 
 #: ../element/element_editor/interface/toolbars.rst:41
 msgid "``Ctrl + z``"
-msgstr ""
+msgstr "``Ctrl + z``"
 
 #: ../element/element_editor/interface/toolbars.rst:41
 msgid "|edit-undo|"
-msgstr ""
+msgstr "|edit-undo|"
 
 #: ../element/element_editor/interface/toolbars.rst:43
 msgid "Redo"
-msgstr ""
+msgstr "Znovu"
 
 #: ../element/element_editor/interface/toolbars.rst:43
 msgid "Restores the undone action"
-msgstr ""
+msgstr "Obnoví krok vrácený zpět"
 
 #: ../element/element_editor/interface/toolbars.rst:43
 msgid "``Ctrl + y``"
-msgstr ""
+msgstr "``Ctrl + y``"
 
 #: ../element/element_editor/interface/toolbars.rst:43
 msgid "|edit-redo|"
-msgstr ""
+msgstr "|edit-redo|"
 
 #: ../element/element_editor/interface/toolbars.rst:45
 msgid "Delete"
-msgstr ""
+msgstr "Smazat"
 
 #: ../element/element_editor/interface/toolbars.rst:45
 msgid "Removes selected elements from the folio"
-msgstr ""
+msgstr "Odebere vybrané prvky z listu"
 
 #: ../element/element_editor/interface/toolbars.rst:45
 msgid "``Del``"
-msgstr ""
+msgstr "``Del``"
 
 #: ../element/element_editor/interface/toolbars.rst:45
 msgid "|edit-delete|"
-msgstr ""
+msgstr "|edit-delete|"
 
 #: ../element/element_editor/interface/toolbars.rst:51
 msgid ""
 "Select **Settings > Display > Tools** menu item to display or hidden the "
 "toolbar **Tools**."
 msgstr ""
+"Pro zobrazení nebo skrytí panelu nástrojů **Nástroje** vyberte položku"
+" nabídky "
+"**Nastavení > Zobrazení > Nástroje**."
 
 #: ../element/element_editor/interface/toolbars.rst:54
 msgid "Toolbar Display"
-msgstr ""
+msgstr "Pruh s nástroji pro zobrazení"
 
 #: ../element/element_editor/interface/toolbars.rst:59
 msgid "Figure: QElectroTech element editor toolbar Display"
-msgstr ""
+msgstr "Obrázek: Zobrazení pruhu s nástroji v editoru prvku v QElectroTechu"
 
 #: ../element/element_editor/interface/toolbars.rst:61
 msgid "The different buttons from toolbar **Display** are:"
-msgstr ""
+msgstr "Různá tlačítka na panelu nástrojů **Zobrazení** jsou:"
 
 #: ../element/element_editor/interface/toolbars.rst:73
 msgid ""
 "Select **Settings > Display > Display** menu item to display or hidden "
 "the toolbar **Display**."
 msgstr ""
+"Pro zobrazení nebo skrytí panelu nástrojů **Zobrazení** vyberte položku"
+" nabídky "
+"**Nastavení > Zobrazení > Zobrazení**."
 
 #: ../element/element_editor/interface/toolbars.rst:76
 msgid "Toolbar Element"
-msgstr ""
+msgstr "Prvek v pruhu s nástroji"
 
 #: ../element/element_editor/interface/toolbars.rst:81
 msgid "Figure: QElectroTech element editor toolbar Element"
-msgstr ""
+msgstr "Obrázek: Prvek v pruhu s nástroji v editoru prvku v QElectroTechu"
 
 #: ../element/element_editor/interface/toolbars.rst:83
 msgid "The different buttons from toolbar **Element** are:"
-msgstr ""
+msgstr "Různá tlačítka na panelu nástrojů **Prvek** jsou:"
 
 #: ../element/element_editor/interface/toolbars.rst:88
 msgid "Information"
-msgstr ""
+msgstr "Informace"
 
 #: ../element/element_editor/interface/toolbars.rst:88
 msgid "Edit name and information of the element"
-msgstr ""
+msgstr "Upravit název a údaje o prvku"
 
 #: ../element/element_editor/interface/toolbars.rst:88
 msgid "``Ctrl + e``"
-msgstr ""
+msgstr "``Ctrl + e``"
 
 #: ../element/element_editor/interface/toolbars.rst:88
 msgid "|names|"
-msgstr ""
+msgstr "|names|"
 
 #: ../element/element_editor/interface/toolbars.rst:90
 msgid "Properties"
-msgstr ""
+msgstr "Vlastnosti"
 
 #: ../element/element_editor/interface/toolbars.rst:90
 msgid "Edit element properties"
-msgstr ""
+msgstr "Upravení vlastností prvku"
 
 #: ../element/element_editor/interface/toolbars.rst:90
 msgid "|element-edit|"
-msgstr ""
+msgstr "|element-edit|"
 
 #: ../element/element_editor/interface/toolbars.rst:95
 msgid ""
 "Select **Settings > Display > Diagrams** menu item to display or hidden "
 "the toolbar **Element**."
 msgstr ""
+"Pro zobrazení nebo skrytí panelu nástrojů **Prvek** vyberte položku nabídky "
+"**Nastavení > Zobrazení > Výkresy**."
 
 #: ../element/element_editor/interface/toolbars.rst:98
 msgid "Toolbar Parts"
-msgstr ""
+msgstr "Pruh s nástroji pro části"
 
 #: ../element/element_editor/interface/toolbars.rst:103
 msgid "Figure: QElectroTech element editor toolbar Parts"
-msgstr ""
+msgstr "Obrázek: Pruh s nástroji pro části v editoru prvku v QElectroTechu"
 
 #: ../element/element_editor/interface/toolbars.rst:105
 msgid "The different buttons from toolbar **Parts** are:"
-msgstr ""
+msgstr "Různá tlačítka na panelu nástrojů **Části** jsou:"
 
 #: ../element/element_editor/interface/toolbars.rst:110
 msgid "Line"
-msgstr ""
+msgstr "Čára"
 
 #: ../element/element_editor/interface/toolbars.rst:110
 msgid "Add line to the workspace"
-msgstr ""
+msgstr "Přidat čáru do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:110
 msgid "|line|"
-msgstr ""
+msgstr "|line|"
 
 #: ../element/element_editor/interface/toolbars.rst:112
 msgid "Rectangle"
-msgstr ""
+msgstr "Obdélník"
 
 #: ../element/element_editor/interface/toolbars.rst:112
 msgid "Add rectangle to the workspace"
-msgstr ""
+msgstr "Přidat obdélník do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:112
 msgid "|rectangle|"
-msgstr ""
+msgstr "|rectangle|"
 
 #: ../element/element_editor/interface/toolbars.rst:114
 msgid "Ellipse"
-msgstr ""
+msgstr "Elipsa"
 
 #: ../element/element_editor/interface/toolbars.rst:114
 msgid "Add ellipse to the workspace"
-msgstr ""
+msgstr "Přidat elipsu do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:114
 msgid "|ellipse|"
-msgstr ""
+msgstr "|ellipse|"
 
 #: ../element/element_editor/interface/toolbars.rst:116
 msgid "Polygon"
-msgstr ""
+msgstr "Mnohoúhelník"
 
 #: ../element/element_editor/interface/toolbars.rst:116
 msgid "Add polygon to the workspace"
-msgstr ""
+msgstr "Přidat mnohoúhelník do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:116
 msgid "|polygon|"
-msgstr ""
+msgstr "|polygon|"
 
 #: ../element/element_editor/interface/toolbars.rst:118
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: ../element/element_editor/interface/toolbars.rst:118
 msgid "Add text field to the workspace"
-msgstr ""
+msgstr "Přidat text do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:118
 msgid "|text|"
-msgstr ""
+msgstr "|text|"
 
 #: ../element/element_editor/interface/toolbars.rst:120
 msgid "Arc"
-msgstr ""
+msgstr "Oblouk"
 
 #: ../element/element_editor/interface/toolbars.rst:120
 msgid "Add arc to the workspace"
-msgstr ""
+msgstr "Přidat oblouk do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:120
 msgid "|arc|"
-msgstr ""
+msgstr "|arc|"
 
 #: ../element/element_editor/interface/toolbars.rst:122
 msgid "Terminal"
-msgstr ""
+msgstr "Svorka"
 
 #: ../element/element_editor/interface/toolbars.rst:122
 msgid "Add terminal to the workspace"
-msgstr ""
+msgstr "Přidat svorku do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:122
 msgid "|terminal|"
-msgstr ""
+msgstr "|terminal|"
 
 #: ../element/element_editor/interface/toolbars.rst:124
 msgid "Text field"
-msgstr ""
+msgstr "Textové pole"
 
 #: ../element/element_editor/interface/toolbars.rst:124
 msgid "Add dynamic text field to the workspace"
-msgstr ""
+msgstr "Přidat dynamické textové pole do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:124
 msgid "|textfield|"
-msgstr ""
+msgstr "|textfield|"
 
 #: ../element/element_editor/interface/toolbars.rst:129
 msgid ""
 "Select **Settings > Display > Diagrams** menu item to display or hidden "
 "the toolbar **Parts**."
 msgstr ""
+"Pro zobrazení nebo skrytí panelu nástrojů **Části** vyberte položku nabídky "
+"**Nastavení > Zobrazení > Výkresy**."
 
 #: ../element/element_editor/interface/toolbars.rst:132
 msgid "Toolbar Depth"
-msgstr ""
+msgstr "Pruh s nástroji pro hloubku"
 
 #: ../element/element_editor/interface/toolbars.rst:137
 msgid "Figure: QElectroTech element editor toolbar Depth"
-msgstr ""
+msgstr "Obrázek: Pruh s nástroji pro hloubku v editoru prvku v QElectroTechu"
 
 #: ../element/element_editor/interface/toolbars.rst:139
 msgid "The different buttons from toolbar **Depth** are:"
-msgstr ""
+msgstr "Různá tlačítka na panelu nástrojů **Hloubka** jsou:"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "Bring forward"
-msgstr ""
+msgstr "Přesunout dopředu"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "Brings the selection (s) to front"
-msgstr ""
+msgstr "Přesune výběr dopředu (s)"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "``Ctrl + shift + Home``"
-msgstr ""
+msgstr "``Ctrl + Shift + Home``"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "|bring_forward|"
-msgstr ""
+msgstr "|bring_forward|"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "Raise"
-msgstr ""
+msgstr "Zvýšit"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "Aproachs the selection (s)"
-msgstr ""
+msgstr "Přistoupí k výběru (s)"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "``Ctrl + shift + Up``"
-msgstr ""
+msgstr "``Ctrl + Shift + Nahoru``"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "|raise|"
-msgstr ""
+msgstr "|raise|"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "Lower"
-msgstr ""
+msgstr "Snížit"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "Moves away the selection (s)"
-msgstr ""
+msgstr "Vzdálí výběr (s)"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "``Ctrl + shift + Down``"
-msgstr ""
+msgstr "``Ctrl + Shift + Dolů``"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "|lower|"
-msgstr ""
+msgstr "|lower|"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "Send backwards"
-msgstr ""
+msgstr "Přesunout dozadu"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "Sends in the backwards the selection (s)"
-msgstr ""
+msgstr "Přesune výběr dozadu (s)"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "``Ctrl + shift + End``"
-msgstr ""
+msgstr "``Ctrl + Shift + End``"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "|send_backward|"
-msgstr ""
+msgstr "|send_backward|"
 
 #: ../element/element_editor/interface/toolbars.rst:155
 msgid ""
 "Select **Settings > Display > Diagrams** menu item to display or hidden "
 "the toolbar **Depth**."
 msgstr ""
+"Pro zobrazení nebo skrytí panelu nástrojů **Hloubka** vyberte položku nabídky "
+"**Nastavení > Zobrazení > Výkresy**."
 

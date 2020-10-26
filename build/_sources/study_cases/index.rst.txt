@@ -1,0 +1,10 @@
+.. _study_cases/index
+
+===========
+Study cases
+===========
+
+.. toctree::
+   :maxdepth: 2
+
+   automotive_lighting

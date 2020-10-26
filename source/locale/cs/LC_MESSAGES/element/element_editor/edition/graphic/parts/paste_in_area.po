@@ -1,26 +1,28 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020, The QElectroTech Team
 # This file is distributed under the same license as the QElectroTech
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-18 13:58+0200\n"
+"Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.04.0\n"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:5
 msgid "Paste in area"
-msgstr ""
+msgstr "Vložit do oblasti"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:7
 msgid ""
@@ -30,22 +32,33 @@ msgid ""
 "at paste in area command the user is free to choose the place where the "
 "object has to be pasted by using left clik on the desired place."
 msgstr ""
+"Vložit do oblasti je podobný příkaz jako vložit `část`_. Hlavní rozdílem je"
+"místo, kde lze `část`_ vložit. Při normálním příkazu pro vložení"
+"QElectroTech vloží `část`_ automaticky do předem stanovené polohy."
+"Při příkazu vložit do oblasti si uživatel může zvolit místo, kde"
+"předmět musí být vložen pomocí klepnutí levým tlačítkem myši na požadované"
+" místo."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:11
 msgid ""
 "Pasting `parts`_ in area can be done from `menu bar`_, by right click on "
 "the `drawing area`_ and from the corresponding keyboard shortcut."
 msgstr ""
+"Vkládání `částí` do oblasti lze provádět přes `hlavní nabídku`_, klepnutím"
+" pravým "
+"tlačítkem na `kreslicí plochu`_ a pomocí odpovídající klávesové zkratky."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:15
 msgid "Paste part from menu bar"
-msgstr ""
+msgstr "Vložení části přes hlavní nabídku"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:17
 msgid ""
 "Select **Edit > Paste in the area...** menu item to paste the `part`_ "
 "copied or cut previously from `drawing area`_."
 msgstr ""
+"Pro vložení předtím v `kreslicí ploše`_ zkopírované nebo z ní vyjmuté"
+" `části`_ vyberte položku nabídky **Úpravy > Vložit do oblasti...**."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:18
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:43
@@ -53,54 +66,66 @@ msgid ""
 "Left click at the `Drawing area`_ point where the `part`_ should be "
 "pasted."
 msgstr ""
+"Klepněte pravým tlačítkem myši na bod v `kreslicí ploše`_, kde se má `část`_"
+" vložit."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:23
 msgid "Figure: QElectroTech Edit menu"
-msgstr ""
+msgstr "Obrázek: Nabídka pro úpravy v QElectroTechu"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:26
 msgid "Paste part by right click"
-msgstr ""
+msgstr "Vložení části klepnutím pravým tlačítkem myši"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:28
 msgid "Right click somewhere from `drawing area`_."
-msgstr ""
+msgstr "Klepněte pravým tlačítkem myši někam v `kreslicí ploše`_"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:29
 msgid ""
 "Select the option **Paste in the area...** to paste the `part`_ copied or"
 " cut previously."
 msgstr ""
+"Pro vložení předtím zkopírované nebo vyjmuté `části`_ "
+"vyberte volbu **Vložit do oblasti...**."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:30
 msgid ""
 "Left click at the `drawing area`_ point where the `part`_ should be "
 "pasted."
 msgstr ""
+"Klepněte pravým tlačítkem myši na bod v `kreslicí ploše`_, kde se má `část`_"
+" vložit."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:35
 msgid "Figure: QElectroTech right click PopUP window"
 msgstr ""
+"Obrázek: Vyskakovací okno po klepnutí pravým tlačítkem myši v QElectroTechu"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:38
 msgid "Paste part using keyboard shortcut"
-msgstr ""
+msgstr "Vložení části pomocí klávesové zkratky"
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:40
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
 msgstr ""
+"QElectroTech umožňuje používat klávesovou zkratku ke zvýšení účinnosti práce."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:42
 msgid ""
 "Press ``Ctrl + Shift + v`` to paste the `part`_ copied or cut previously "
 "from `drawing area`_."
 msgstr ""
+"Pro vložení předtím v `kreslicí ploše`_ zkopírované nebo z ní vyjmuté "
+"`části`_ stiskněte ``Ctrl + Shift + v``."
 
 #: ../element/element_editor/edition/graphic/parts/paste_in_area.rst:47
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu"
 " bar`_ section."
 msgstr ""
+"Další informace o klávesové zkratce pro QElectroTech najdete v části k"
+" `hlavní nabídce`_."
 

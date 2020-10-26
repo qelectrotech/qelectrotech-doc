@@ -1,26 +1,28 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020, The QElectroTech Team
 # This file is distributed under the same license as the QElectroTech
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-22 23:19+0200\n"
+"Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.04.0\n"
 
 #: ../schema/layers.rst:5
 msgid "Object layer level"
-msgstr ""
+msgstr "Úroveň vrstvy předmětu"
 
 #: ../schema/layers.rst:7
 msgid ""
@@ -28,96 +30,101 @@ msgid ""
 "QElectroTech allows defining the level order from `elements`_ and "
 "`pictures`_ at each `folio`_."
 msgstr ""
+"Na `pracovní ploše`_ může docházet k překrývání `prvků`_ nebo `obrázků`_."
+"QElectroTech umožňuje stanovit pořadí úrovní `prvků`_ a"
+"`obrázků`_ v každém `listu`_."
 
 #: ../schema/layers.rst:10
 msgid "QElectroTech allows the following actions:"
-msgstr ""
+msgstr "QElectroTech umožňuje následující činnosti:"
 
 #: ../schema/layers.rst:13
 msgid "Icon"
-msgstr ""
+msgstr "Ikona"
 
 #: ../schema/layers.rst:13
 msgid "Action"
-msgstr ""
+msgstr "Činnost"
 
 #: ../schema/layers.rst:13
 msgid "Definition"
-msgstr ""
+msgstr "Popis"
 
 #: ../schema/layers.rst:13
 msgid "Keyboard shortcut"
-msgstr ""
+msgstr "Klávesová zkratka"
 
 #: ../schema/layers.rst:15
 msgid "|bring_forward|"
-msgstr ""
+msgstr "|bring_forward|"
 
 #: ../schema/layers.rst:15
 msgid "Bring to front"
-msgstr ""
+msgstr "Přesunout dopředu"
 
 #: ../schema/layers.rst:15
 msgid "Brings the selection (s) to front"
-msgstr ""
+msgstr "Přesune výběr dopředu (s)"
 
 #: ../schema/layers.rst:15
 msgid "``Ctrl + Shift + Home``"
-msgstr ""
+msgstr "``Ctrl + Shift + Home``"
 
 #: ../schema/layers.rst:16
 msgid "|raise|"
-msgstr ""
+msgstr "|raise|"
 
 #: ../schema/layers.rst:16
 msgid "Raise"
-msgstr ""
+msgstr "Zvýšit"
 
 #: ../schema/layers.rst:16
 msgid "Aproachs the selection (s)"
-msgstr ""
+msgstr "Přistoupí k výběru (s)"
 
 #: ../schema/layers.rst:16
 msgid "``Ctrl + Shift + Up``"
-msgstr ""
+msgstr "``Ctrl + Shift + Nahoru``"
 
 #: ../schema/layers.rst:17
 msgid "|lower|"
-msgstr ""
+msgstr "|lower|"
 
 #: ../schema/layers.rst:17
 msgid "Lower"
-msgstr ""
+msgstr "Snížit"
 
 #: ../schema/layers.rst:17
 msgid "Moves away the selection (s)"
-msgstr ""
+msgstr "Vzdálí výběr (s)"
 
 #: ../schema/layers.rst:17
 msgid "``Ctrl + Shift + Down``"
-msgstr ""
+msgstr "``Ctrl + Shift + Dolů``"
 
 #: ../schema/layers.rst:18
 msgid "|send_backward|"
-msgstr ""
+msgstr "|send_backward|"
 
 #: ../schema/layers.rst:18
 msgid "Send backwards"
-msgstr ""
+msgstr "Přesunout dozadu"
 
 #: ../schema/layers.rst:18
 msgid "Sends in the backwards the selection (s)"
-msgstr ""
+msgstr "Přesune výběr dozadu (s)"
 
 #: ../schema/layers.rst:18
 msgid "``Ctrl + Shift + End``"
-msgstr ""
+msgstr "``Ctrl + Shift + End``"
 
 #: ../schema/layers.rst:28
 msgid ""
 "The layer level from multiples objects can be defined at the same time "
 "`selecting multiple objects`_."
 msgstr ""
+"Ve stejnou dobu lze po `vybrání více předmětů`_ stanovit úroveň vrstvy více"
+" předmětů."
 
 #: ../schema/layers.rst:30
 msgid ""
@@ -125,71 +132,88 @@ msgid ""
 "bar`_, `toolbar`_, by right click on the object and using the "
 "corresponding keyboard shortcut."
 msgstr ""
+"Úroveň každého `předmětu`_ nebo `obrázku`_ lze stanovit přes "
+"`hlavní nabídku`_, `panel nástrojů`_, klepnutím pravým "
+"tlačítkem na předmět a pomocí odpovídající klávesové zkratky."
 
 #: ../schema/layers.rst:34
 msgid "Define object layer from menu bar"
-msgstr ""
+msgstr "Stanovení vrstvy předmětu přes hlavní nabídku"
 
 #: ../schema/layers.rst:36 ../schema/layers.rst:47 ../schema/layers.rst:57
 #: ../schema/layers.rst:70
 msgid "`Select the object/s`_ which layer level should be defined."
-msgstr ""
+msgstr "`Vyberte předmět(y)`_, jehož úroveň vrstvy má být stanovena."
 
 #: ../schema/layers.rst:37
 msgid "Select **Edit** menu and the desired action."
-msgstr ""
+msgstr "Vyberte hlavní nabídku **Úpravy** a požadovanou činnost."
 
 #: ../schema/layers.rst:42
 msgid "Figure: QElectroTech Edit menu"
-msgstr ""
+msgstr "Obrázek: Nabídka pro úpravy QElectroTechu"
 
 #: ../schema/layers.rst:45
 msgid "Define object layer from toolbar"
-msgstr ""
+msgstr "Stanovení vrstvy předmětu přes pruh s nástroji"
 
 #: ../schema/layers.rst:48
 msgid ""
 "Select the corresponding icon from `toolbar`_ (icons from above table) to"
 " realize the desired action."
 msgstr ""
+"Vyberte odpovídající ikonu v `panelu nástrojů`_ (ikony z výše uvedené"
+" tabulky) pro"
+"uskutečnění požadované činnosti."
 
 #: ../schema/layers.rst:52
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings >"
 " Display > Depth**"
 msgstr ""
+"Pokud se `pruh s nástroji`_ nezobrazí, lze jej zobrazit přes"
+"**Nastavení > Zobrazení > Hloubka**"
 
 #: ../schema/layers.rst:55
 msgid "Define object layer by right click"
-msgstr ""
+msgstr "Stanovení vrstvy předmětu klepnutím pravým tlačítkem myši"
 
 #: ../schema/layers.rst:58
 msgid "Right click and select the desired layer definition action."
 msgstr ""
+"Klepněte pravým tlačítkem myši a vyberte činnost stanovení požadované vrstvy."
 
 #: ../schema/layers.rst:63
 msgid "Figure: QElectroTech element right click items"
 msgstr ""
+"Obrázek: Položky po klepnutí pravým tlačítkem myši na prvek v QElectroTechu"
 
 #: ../schema/layers.rst:66
 msgid "Define object layer using keyboard shortcut"
-msgstr ""
+msgstr "Stanovení vrstvy předmětu pomocí klávesové zkratky"
 
 #: ../schema/layers.rst:68
 msgid ""
 "As many other tools, QElectroTech is an applications which allows using "
 "keyboard shortcut."
 msgstr ""
+"Stejně jako mnoho dalších nástrojů, QElectroTech je program, který umožňuje"
+" použití"
+"klávesové zkratky."
 
 #: ../schema/layers.rst:71
 msgid ""
 "Press the corresponding keyboard shortcut (keyboard shortcut from above "
 "table) to realize the desired action."
 msgstr ""
+"Stiskněte příslušnou klávesovou zkratku (klávesová zkratka z hořejší"
+"tabulky) k provedení požadované činnosti."
 
 #: ../schema/layers.rst:75
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to "
 "`menu bar`_ section."
 msgstr ""
+"Další informace o klávesových zkratkách v QElectroTechu najdete v části k"
+" `hlavní nabídce`_."
 
