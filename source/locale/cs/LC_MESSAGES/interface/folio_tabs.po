@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-03 16:29+0200\n"
+"PO-Revision-Date: 2020-10-31 14:55+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../interface/folio_tabs.rst:13
 msgid "Figure: QElectroTech folio tabs bar"
-msgstr "Obrázek: Pruh s kartami listů QElectroTechu"
+msgstr "Obrázek: Pruh s kartami listů v QElectroTechu"
 
 #: ../interface/folio_tabs.rst:15
 msgid "The folio tabs bar allows the following actions:"
@@ -57,6 +57,6 @@ msgid ""
 "Adding new folio to the project by simple click on the **Add folio** icon"
 " |add_folio| from right side."
 msgstr ""
-"Přidání nového listu do projektu jedním klepnutím na ikonu **Přidat list**"
-"  |přidat_list| na pravé straně."
+"Přidání nového listu do projektu jedním klepnutím na ikonu "
+"**Přidat list** |add_folio| na pravé straně."
 

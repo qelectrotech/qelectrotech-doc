@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-11 12:16+0200\n"
+"PO-Revision-Date: 2020-10-28 00:50+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Pro vybrání pracovního jazyka:"
 
 #: ../preferences/language.rst:11
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`Zobrazení` vyskakovacího okna s nastavením QElectroTechu."
+msgstr "`Zobrazte` vyskakovací okno s nastavením QElectroTechu."
 
 #: ../preferences/language.rst:12
 msgid "Go to **General** section."

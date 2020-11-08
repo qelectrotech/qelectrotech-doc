@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-13 20:41+0200\n"
+"PO-Revision-Date: 2020-10-27 16:02+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -55,5 +55,5 @@ msgstr ""
 
 #: ../export&print/export_internal_project_database.rst:17
 msgid "Figure: QElectroTech project menu"
-msgstr "Obrázek: Nabídka projektu QElectroTechu"
+msgstr "Obrázek: Nabídka pro projekt v QElectroTechu"
 

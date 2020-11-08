@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-11 13:21+0200\n"
+"PO-Revision-Date: 2020-10-28 00:54+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,9 +29,9 @@ msgid ""
 "QElectroTech allows predefining export settings for reducing the working "
 "configuration effort each time that a `project`_ have to be exported."
 msgstr ""
-"QElectroTech umožňuje předem stanovit nastavení vyvedení pro omezení"
-" pracovního"
-"úsilí spojeného s nastavováním pokaždé, když je třeba `projekt`_ vyvést."
+"QElectroTech umožňuje předem stanovit nastavení vyvedení pro "
+"omezení pracovního úsilí spojeného s nastavováním pokaždé, "
+"když je třeba `projekt`_ vyvést."
 
 #: ../preferences/settings_export.rst:10
 msgid "The default exporting settings which can be choosed are:"
@@ -67,7 +67,7 @@ msgstr "Kreslit mřížku."
 
 #: ../preferences/settings_export.rst:18
 msgid "Draw terminals."
-msgstr "Kreslit koncovky."
+msgstr "Kreslit svorky."
 
 #: ../preferences/settings_export.rst:19
 msgid "Keep conductor colors or monochrome."
@@ -79,7 +79,7 @@ msgstr "Pro stanovení výchozího nastavení vyvedení:"
 
 #: ../preferences/settings_export.rst:23
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`Zobrazení` vyskakovacího okna s nastavením QElectroTechu."
+msgstr "`Zobrazte` vyskakovací okno s nastavením QElectroTechu."
 
 #: ../preferences/settings_export.rst:24
 msgid "Go to **Export** section."
@@ -102,6 +102,6 @@ msgid ""
 "For more information about QElectroTech export options, refer to "
 "`export`_ section."
 msgstr ""
-"Další informace o volbách pro vyvádění v QElectroTech najdete v části k"
-" `vyvedení`_."
+"Další informace o volbách pro vyvádění v QElectroTech najdete "
+"v části k `vyvedení`_."
 

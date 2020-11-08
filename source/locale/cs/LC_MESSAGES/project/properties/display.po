@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-14 20:57+0200\n"
+"PO-Revision-Date: 2020-10-31 13:08+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,9 +29,8 @@ msgid ""
 "The `project properties`_ can be displayed in a PopUP window from `menu "
 "bar`_ and `projects panel`_."
 msgstr ""
-"`Vlastnosti projektu`_ lze zobrazit ve vyskakovacím okně přes `hlavní"
-" nabídku`_"
-"a `panel projektů`_."
+"`Vlastnosti projektu`_ lze zobrazit ve vyskakovacím okně přes "
+"`hlavní nabídku`_ a `panel projektů`_."
 
 #: ../project/properties/display.rst:9
 msgid "Project properties from menu bar"
@@ -47,20 +46,19 @@ msgstr ""
 
 #: ../project/properties/display.rst:16
 msgid "Figure: QElectroTech project menu"
-msgstr "Obrázek: Nabídka projektu QElectroTechu"
+msgstr "Obrázek: Nabídka pro projekt v QElectroTechu"
 
 #: ../project/properties/display.rst:21
 msgid ""
 "If more than one `projects`_ is opened, be sure that the active "
 "`projects`_ is the correct before changing properties."
 msgstr ""
-"Pokud je otevřen více než jeden `projekt`_, ujistěte se  před změnou"
-" vlastností, že činný"
-"`projekt`_ je ten správný."
+"Pokud je otevřen více než jeden `projekt`_, ujistěte se  před "
+"změnou vlastností, že činný `projekt`_ je ten správný."
 
 #: ../project/properties/display.rst:25
 msgid "Project properties from project panel"
-msgstr "Vlastností projektu přes panel s projektem"
+msgstr "Vlastnosti projektu přes panel s projektem"
 
 #: ../project/properties/display.rst:27
 msgid ""

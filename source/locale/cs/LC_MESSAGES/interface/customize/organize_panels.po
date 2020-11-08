@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-04 12:25+0200\n"
+"PO-Revision-Date: 2020-10-31 17:16+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,10 +30,9 @@ msgid ""
 "`panels`_. The `menu bar`_ is fixed at top. The `panels`_ can be "
 "displayed and hidden."
 msgstr ""
-"Uživatelské rozhraní QElectroTechu bylo navrženo tak, aby fungovalo pomocí"
-" `hlavní nabídky`_ a"
-"`panelů`_. `Hlavní nabídka`_ je umístěna nahoře. `Panely`_ mohou být"
-"zobrazené a skryté."
+"Uživatelské rozhraní QElectroTechu bylo navrženo tak, aby fungovalo "
+"s pomocí `hlavní nabídky`_ a `panelů`_. `Hlavní nabídka`_ je umístěna "
+"nahoře. `Panely`_ mohou být zobrazeny a skryty."
 
 #: ../interface/customize/organize_panels.rst:10
 msgid "To display or hide `panels`_:"
@@ -44,9 +43,8 @@ msgid ""
 "Select **Settings > Display** menu item to display the `panels`_ and "
 "`toolbars`_ list."
 msgstr ""
-"Pro zobrazení `panelů`_ a seznamu `nástrojových pruhů`_ vyberte položku"
-" nabídky "
-"**Nastavení > Zobrazení**."
+"Pro zobrazení `panelů`_ a seznamu `nástrojových pruhů`_ vyberte "
+"položku nabídky **Nastavení > Zobrazení**."
 
 #: ../interface/customize/organize_panels.rst:13
 msgid ""
@@ -60,7 +58,7 @@ msgstr ""
 
 #: ../interface/customize/organize_panels.rst:18
 msgid "Figure: QElectroTech Settings > Display menu"
-msgstr "Obrázek: Nabídka nastavení > zobrazení v QElectroTechu"
+msgstr "Obrázek: Nabídka nastavení pro zobrazení panelů v QElectroTechu"
 
 #: ../interface/customize/organize_panels.rst:20
 msgid ""
@@ -82,7 +80,7 @@ msgstr "Pro změnu uspořádání `panelů`_:"
 
 #: ../interface/customize/organize_panels.rst:31
 msgid "Left click at the title bar from the `panel`_."
-msgstr "Klepnutí levým tlačítkem myši na proužek s názvem `panelu`_."
+msgstr "Klepněte levým tlačítkem myši na proužek s názvem `panelu`_."
 
 #: ../interface/customize/organize_panels.rst:32
 msgid "Without releasing the `panel`_, move the mouse to the final position."
@@ -94,5 +92,5 @@ msgstr "Uvolněte `panel`_."
 
 #: ../interface/customize/organize_panels.rst:38
 msgid "Figure: QElectroTech panels placement"
-msgstr "Obrázek: Umístění panelů QElectroTechu"
+msgstr "Obrázek: Umístění panelu v QElectroTechu"
 

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-11 21:00+0200\n"
+"PO-Revision-Date: 2020-10-31 14:48+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "Pro stanovení nastavení vodiče:"
 
 #: ../preferences/new_project/conductor_settings.rst:23
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`Zobrazení` vyskakovacího okna s nastavením QElectroTechu."
+msgstr "`Zobrazte` vyskakovací okno s nastavením QElectroTechu."
 
 #: ../preferences/new_project/conductor_settings.rst:24
 msgid "Go to **New project** section."
@@ -81,8 +81,8 @@ msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
 msgstr ""
-"Stiskněte tlačítko **OK** pro uložení změn v nastavení a zavřete "
-"vyskakovací okno s nastavením."
+"Stiskněte tlačítko **OK** pro uložení změn v nastavení a zavření "
+"vyskakovacího okna s nastavením."
 
 #: ../preferences/new_project/conductor_settings.rst:31
 msgid ""

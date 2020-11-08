@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-25 12:09+0100\n"
+"PO-Revision-Date: 2020-10-31 14:28+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -99,7 +99,7 @@ msgstr "|go-up|"
 
 #: ../reports/nomenclature/create_nomenclature.rst:41
 msgid "Move up this field"
-msgstr "Posunout toto pole nahoru"
+msgstr "Posunutí pole nahoru"
 
 #: ../reports/nomenclature/create_nomenclature.rst:42
 msgid "|list-add|"
@@ -107,7 +107,7 @@ msgstr "|list-add|"
 
 #: ../reports/nomenclature/create_nomenclature.rst:42
 msgid "Add field to display list"
-msgstr "Přidání pole do seznamu k zobrazení"
+msgstr "Přidání pole do seznamu zobrazených"
 
 #: ../reports/nomenclature/create_nomenclature.rst:42
 msgid "Double click on field at available list"
@@ -119,11 +119,11 @@ msgstr "|list-remove|"
 
 #: ../reports/nomenclature/create_nomenclature.rst:43
 msgid "Remove field from display list"
-msgstr "Odstranění pole ze seznamu k zobrazení"
+msgstr "Odstranění pole ze seznamu zobrazených"
 
 #: ../reports/nomenclature/create_nomenclature.rst:43
 msgid "Double click on field at display list"
-msgstr "Dvakrát klepněte na pole v seznamu k zobrazení"
+msgstr "Dvakrát klepněte na pole v seznamu zobrazených"
 
 #: ../reports/nomenclature/create_nomenclature.rst:44
 msgid "|go-down|"
@@ -131,7 +131,7 @@ msgstr "|go-down|"
 
 #: ../reports/nomenclature/create_nomenclature.rst:44
 msgid "Move down this field"
-msgstr "Posunout toto pole dolů"
+msgstr "Posunutí pole dolů"
 
 #: ../reports/nomenclature/create_nomenclature.rst:54
 msgid ""
@@ -146,9 +146,8 @@ msgid ""
 "QElectroTech is working with SQLite database, nomenclature table content "
 "can also be defined by SQL query."
 msgstr ""
-"QElectroTech pracuje s databází SQLite, obsah tabulky se seznamem součástí"
-" může"
-"být stanoven také dotazem SQL."
+"QElectroTech pracuje s databází SQLite, obsah tabulky se seznamem "
+"součástí může být stanoven také dotazem SQL."
 
 #: ../reports/nomenclature/create_nomenclature.rst:58
 msgid ""
@@ -161,11 +160,10 @@ msgid ""
 "nomenclature tables."
 msgstr ""
 "Jakmile je požadované nastavení stanoveno, stiskněte **OK** "
-"a vytvořte  se seznamy součástí."
+"pro vytvoření tabulek se seznamy součástí."
 
 #: ../reports/nomenclature/create_nomenclature.rst:63
 msgid ""
 "The project nomenclature can be created, modified and updated at any time."
-msgstr ""
-"Seznam součástí v projektu lze kdykoli vytvořit, upravit a aktualizovat."
+msgstr "Seznam součástí projektu lze kdykoli vytvořit, upravit a aktualizovat."
 

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-18 13:18+0200\n"
+"PO-Revision-Date: 2020-10-31 18:11+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -92,7 +92,7 @@ msgstr "Přesunout dopředu"
 
 #: ../element/element_editor/edition/graphic/layers.rst:26
 msgid "Brings the selection (s) to front"
-msgstr "Přesune výběr dopředu (s)"
+msgstr "Přesune výběr(y) dopředu"
 
 #: ../element/element_editor/edition/graphic/layers.rst:26
 msgid "``Ctrl + Shift + Home``"
@@ -108,7 +108,7 @@ msgstr "Zvýšit"
 
 #: ../element/element_editor/edition/graphic/layers.rst:27
 msgid "Aproachs the selection (s)"
-msgstr "Přistoupí k výběru (s)"
+msgstr "Přistoupí k výběru(ům)"
 
 #: ../element/element_editor/edition/graphic/layers.rst:27
 msgid "``Ctrl + Shift + Up``"
@@ -124,7 +124,7 @@ msgstr "Snížit"
 
 #: ../element/element_editor/edition/graphic/layers.rst:28
 msgid "Moves away the selection (s)"
-msgstr "Vzdálí výběr (s)"
+msgstr "Vzdálí výběr(y)"
 
 #: ../element/element_editor/edition/graphic/layers.rst:28
 msgid "``Ctrl + Shift + Down``"
@@ -140,7 +140,7 @@ msgstr "Přesunout dozadu"
 
 #: ../element/element_editor/edition/graphic/layers.rst:29
 msgid "Sends in the backwards the selection (s)"
-msgstr "Přesune výběr dozadu (s)"
+msgstr "Přesune výběr(y) dozadu"
 
 #: ../element/element_editor/edition/graphic/layers.rst:29
 msgid "``Ctrl + Shift + End``"

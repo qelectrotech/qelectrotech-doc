@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-11 13:34+0200\n"
+"PO-Revision-Date: 2020-10-28 00:56+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +55,7 @@ msgstr "Kreslit mřížku."
 
 #: ../preferences/settings_printing.rst:16
 msgid "Draw terminals."
-msgstr "Kreslit koncovky."
+msgstr "Kreslit svorky."
 
 #: ../preferences/settings_printing.rst:17
 msgid "Keep conductor colors or monochrome."
@@ -67,7 +67,7 @@ msgstr "Pro stanovení výchozího nastavení tisku:"
 
 #: ../preferences/settings_printing.rst:21
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`Zobrazení` vyskakovacího okna s nastavením QElectroTechu."
+msgstr "`Zobrazte` vyskakovací okno s nastavením QElectroTechu."
 
 #: ../preferences/settings_printing.rst:22
 msgid "Go to **Printing** section."

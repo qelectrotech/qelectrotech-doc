@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-25 12:10+0100\n"
+"PO-Revision-Date: 2020-10-31 14:29+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr ""
 "`Projekt`_ může být skupina `listů`_. QElectroTech poskytuje"
 "možnost vytvořit souhrn, rejstřík projektu, přehled zobrazující údaje"
 "z různých `listů`_. QElectroTech umožňuje automatické vytvoření "
-"obsahu projektu."
+"souhrnu projektu."
 
 #: ../reports/summary/create_summary.rst:13
 msgid "Figure: QElectroTech list of folios"
@@ -49,22 +49,22 @@ msgid ""
 "Activate the folio where the summary table has to be created in the "
 "`workspace`_."
 msgstr ""
-"Vyvolejte list, v jehož `pracovní ploše`_ má být tabulka se souhrnem"
-" vytvořena."
+"Vyvolejte list, v jehož `pracovní ploše`_ má být tabulka se "
+"souhrnem vytvořena."
 
 #: ../reports/summary/create_summary.rst:18
 msgid ""
 "Select **Project > Add a summary** to display the configuration PopUp "
 "window of the summary creator."
 msgstr ""
-"Pro zobrazení nastavovacího vyskakovacího okna tvůrce souhrnu "
+"Pro zobrazení vyskakovacího okna s nastavením tvůrce souhrnu "
 "vyberte **Projekt > Přidat obsah**."
 
 #: ../reports/summary/create_summary.rst:23
 #: ../reports/summary/create_summary.rst:32
 #: ../reports/summary/create_summary.rst:49
 msgid "Figure: QElectroTech project menu"
-msgstr "Obrázek: Nabídka k projektu v QElectroTechu"
+msgstr "Obrázek: Nabídka pro projekt v QElectroTechu"
 
 #: ../reports/summary/create_summary.rst:25
 msgid "Go to **Display** tab to define display table properties."
@@ -108,7 +108,7 @@ msgstr "|go-up|"
 
 #: ../reports/summary/create_summary.rst:40
 msgid "Move up this field"
-msgstr "Posunout toto pole nahoru"
+msgstr "Posunutí pole nahoru"
 
 #: ../reports/summary/create_summary.rst:41
 msgid "|list-add|"
@@ -116,7 +116,7 @@ msgstr "|list-add|"
 
 #: ../reports/summary/create_summary.rst:41
 msgid "Add field to display list"
-msgstr "Přidání pole do seznamu k zobrazení"
+msgstr "Přidání pole do seznamu zobrazených"
 
 #: ../reports/summary/create_summary.rst:41
 msgid "Double click on field at available list"
@@ -128,11 +128,11 @@ msgstr "|list-remove|"
 
 #: ../reports/summary/create_summary.rst:42
 msgid "Remove field from display list"
-msgstr "Odstranění pole ze seznamu k zobrazení"
+msgstr "Odstranění pole ze seznamu zobrazených"
 
 #: ../reports/summary/create_summary.rst:42
 msgid "Double click on field at display list"
-msgstr "Dvakrát klepněte na pole v seznamu k zobrazení"
+msgstr "Dvakrát klepněte na pole v seznamu zobrazených"
 
 #: ../reports/summary/create_summary.rst:43
 msgid "|go-down|"
@@ -140,7 +140,7 @@ msgstr "|go-down|"
 
 #: ../reports/summary/create_summary.rst:43
 msgid "Move down this field"
-msgstr "Posunout toto pole dolů"
+msgstr "Posunutí pole dolů"
 
 #: ../reports/summary/create_summary.rst:53
 msgid ""
@@ -164,9 +164,9 @@ msgid ""
 " tables."
 msgstr ""
 "Jakmile je požadované nastavení stanoveno, stiskněte **OK** "
-"a vytvořte souhrnné tabulky."
+"pro vytvoření souhrnných tabulek."
 
 #: ../reports/summary/create_summary.rst:61
 msgid "The project summary can be created, modified and updated at any time."
-msgstr "Souhrn v projektu lze kdykoli vytvořit, upravit a aktualizovat."
+msgstr "Souhrn projektu lze kdykoli vytvořit, upravit a aktualizovat."
 

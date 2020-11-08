@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-14 21:16+0200\n"
+"PO-Revision-Date: 2020-10-31 13:12+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,9 +32,8 @@ msgid ""
 "filling of the `title block`_."
 msgstr ""
 "Část s obecnými vlastnostmi ve vyskakovacích oknech s `vlastnostmi projektu`_"
-"je oblast, kde může uživatel stanovit celkové proměnné projektu, které lze"
-" později"
-"použít ve `vzorech záhlaví výkresu listů`_ k automatizaci"
+"je oblast, kde může uživatel stanovit celkové proměnné projektu, které lze "
+"později použít ve `vzorech záhlaví výkresu listů`_ k automatizaci"
 "vyplnění `záhlaví výkresu`_."
 
 #: ../project/properties/general_prop.rst:11
@@ -55,11 +54,11 @@ msgstr "**% {saveddate}**: Datum uložení souboru"
 
 #: ../project/properties/general_prop.rst:16
 msgid "**% {savedfilename}**: Registered file name"
-msgstr "**% {savedfilename}**: Zapsaný název souboru"
+msgstr "**% {savedfilename}**: Název zapsaného souboru"
 
 #: ../project/properties/general_prop.rst:17
 msgid "**% {savedfilepath}**: Saved file path"
-msgstr "**% {savedfilepath}**: Uložená souborová cesta"
+msgstr "**% {savedfilepath}**: Cesta k uloženému souboru"
 
 #: ../project/properties/general_prop.rst:18
 msgid "**% {savedtime}**: File saving time"
@@ -97,8 +96,7 @@ msgstr "Stanovte hodnotu proměnné v pravé buňce řádku s proměnnou."
 #: ../project/properties/general_prop.rst:31
 msgid "Press the button **OK** to save the changes and close the PopUp window."
 msgstr ""
-"Pro uložení změn stiskněte tlačítko **OK** "
-"a zavřete vyskakovací okno."
+"Pro uložení změn a zavření vyskakovacího okna stiskněte tlačítko **OK**."
 
 #: ../project/properties/general_prop.rst:35
 msgid ""

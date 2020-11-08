@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-11 13:43+0200\n"
+"PO-Revision-Date: 2020-10-28 00:57+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -70,11 +70,11 @@ msgstr ""
 
 #: ../preferences/settings_text.rst:27 ../preferences/settings_text.rst:46
 msgid "Figure: QElectroTech dynamic texts settings"
-msgstr "Obrázek: Dynamické nastavení textu v QElectroTechu"
+msgstr "Obrázek: Nastavení dynamického textu v QElectroTechu"
 
 #: ../preferences/settings_text.rst:30
 msgid "Summary pages"
-msgstr "Strany s přehledy"
+msgstr "Strany souhrnu"
 
 #: ../preferences/settings_text.rst:32
 msgid ""

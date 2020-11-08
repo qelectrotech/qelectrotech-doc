@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-03 16:28+0200\n"
+"PO-Revision-Date: 2020-10-31 16:20+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,13 +32,13 @@ msgid ""
 "QElectroTech contains the following areas:"
 msgstr ""
 "QElectroTech byl navržen s použitím systému a sady doplňkových nástrojů `Qt`_."
-"Hlavní okno QElectroTechu je stejné pro všechny platformy, pro něž je"
+"Hlavní okno v QElectroTechu je stejné pro všechny platformy, pro něž je"
 "dostupné (Windows, Linux / Unix a MacOS). Hlavní okno"
 "QElectroTechu obsahuje následující oblasti:"
 
 #: ../interface/elements.rst:17
 msgid ":greentext:`Menu bar`"
-msgstr ":greentext:`Pruh s nabídkou`"
+msgstr ":greentext:`Hlavní nabídka`"
 
 #: ../interface/elements.rst:18
 msgid ":bluetext:`Toolbars`"
@@ -70,5 +70,5 @@ msgstr ":pinktext:`Nabídka pro vyhledávání`"
 
 #: ../interface/elements.rst:29
 msgid "Figure: QElectroTech main window"
-msgstr "Obrázek: Hlavní okno QElectroTechu"
+msgstr "Obrázek: Hlavní okno v QElectroTechu"
 

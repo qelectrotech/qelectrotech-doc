@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-21 21:38+0200\n"
+"PO-Revision-Date: 2020-10-31 17:48+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr "**% {f}**: Číslo listu, kde lze prvek najít"
 
 #: ../element/type/element_master.rst:31
 msgid "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**: Proměnná instalace v listu, kde lze prvek najít"
+msgstr "**% {M}**: Proměnná plant listu, kde lze prvek najít"
 
 #: ../element/type/element_master.rst:32
 msgid ""
@@ -91,13 +91,13 @@ msgstr "**% {LM}**: Proměnná umístění listu, kde lze prvek najít"
 msgid ""
 "**% {l}**: Folio line number from the workspace where the element can be "
 "found"
-msgstr "**% {l}**: Číslo řádku v listu pracovní plochy, kde lze prvek najít"
+msgstr "**% {l}**: Číslo řádku listu pracovní plochy, kde lze prvek najít"
 
 #: ../element/type/element_master.rst:34
 msgid ""
 "**% {c}**: Folio column number from the workspace where the element can "
 "be found"
-msgstr "**% {c}**: Číslo sloupce v listu pracovní plochy, kde lze prvek najít"
+msgstr "**% {c}**: Číslo sloupce listu pracovní plochy, kde lze prvek najít"
 
 #: ../element/type/element_master.rst:35
 msgid "**% {id}**: Folio position in the project (Schema number)"

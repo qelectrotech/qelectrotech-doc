@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-25 11:53+0100\n"
+"PO-Revision-Date: 2020-10-31 14:31+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../reports/summary/edit_summary.rst:5
 msgid "Edit summary"
-msgstr "Upravit souhrn"
+msgstr "Upravení souhrnu"
 
 #: ../reports/summary/edit_summary.rst:7
 msgid ""
@@ -47,18 +47,18 @@ msgstr ""
 
 #: ../reports/summary/edit_summary.rst:20
 msgid "Summary geometry and line"
-msgstr "Sestavení a řádky souhrnu"
+msgstr "Umístění a řádky souhrnu"
 
 #: ../reports/summary/edit_summary.rst:25
 msgid "Figure: QElectroTech summary geometry and lines properties"
-msgstr "Obrázek: Vlastnosti sestavení a řádků souhrnu v QElectroTechu"
+msgstr "Obrázek: Vlastnosti umístění a řádků souhrnu v QElectroTechu"
 
 #: ../reports/summary/edit_summary.rst:27
 msgid ""
 "The **Geometry and lines** section from the summary properties allows "
 "defining:"
 msgstr ""
-"Část **Sestavení a řádky** vlastností souhrnu umožňuje"
+"Část **Umístění a řádky** vlastností souhrnu umožňuje"
 "stanovit:"
 
 #: ../reports/summary/edit_summary.rst:29
@@ -79,9 +79,8 @@ msgid ""
 "Define previous summary table, property to be used if the number of "
 "`folios`_ is higher than the maximum number of rows defined."
 msgstr ""
-"Stanovit předchozí tabulku souhrnu, vlastnost, která se má použít, pokud je"
-" počet"
-"`listů`_ vyšší než stanovený nejvyšší počet řádků."
+"Stanovit předchozí tabulku souhrnu, vlastnost, která se má použít, "
+"pokud je počet `listů`_ vyšší než stanovený nejvyšší počet řádků."
 
 #: ../reports/summary/edit_summary.rst:36
 msgid ""
@@ -208,7 +207,7 @@ msgstr "|go-up|"
 
 #: ../reports/summary/edit_summary.rst:100
 msgid "Move up this field"
-msgstr "Posunout toto pole nahoru"
+msgstr "Posunutí pole nahoru"
 
 #: ../reports/summary/edit_summary.rst:101
 msgid "|list-add|"
@@ -216,7 +215,7 @@ msgstr "|list-add|"
 
 #: ../reports/summary/edit_summary.rst:101
 msgid "Add field to display list"
-msgstr "Přidání pole do seznamu k zobrazení"
+msgstr "Přidání pole do seznamu zobrazených"
 
 #: ../reports/summary/edit_summary.rst:101
 msgid "Double click on field at available list"
@@ -228,11 +227,11 @@ msgstr "|list-remove|"
 
 #: ../reports/summary/edit_summary.rst:102
 msgid "Remove field from display list"
-msgstr "Odstranění pole ze seznamu k zobrazení"
+msgstr "Odstranění pole ze seznamu zobrazených"
 
 #: ../reports/summary/edit_summary.rst:102
 msgid "Double click on field at display list"
-msgstr "Dvakrát klepněte na pole v seznamu k zobrazení"
+msgstr "Dvakrát klepněte na pole v seznamu zobrazených"
 
 #: ../reports/summary/edit_summary.rst:103
 msgid "|go-down|"
@@ -240,7 +239,7 @@ msgstr "|go-down|"
 
 #: ../reports/summary/edit_summary.rst:103
 msgid "Move down this field"
-msgstr "Posunout toto pole dolů"
+msgstr "Posunutí pole dolů"
 
 #: ../reports/summary/edit_summary.rst:109
 msgid "Figure: QElectroTech summary properties content request PopUp window"
@@ -268,6 +267,6 @@ msgstr ""
 msgid ""
 "Once the desired configuration is defined, press **OK** to apply changes."
 msgstr ""
-"Jakmile je požadované nastavení stanoveno, stiskněte **OK** pro provedení"
-" změn."
+"Jakmile je požadované nastavení stanoveno, stiskněte **OK** pro "
+"provedení změn."
 

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-19 22:22+0200\n"
+"PO-Revision-Date: 2020-10-31 18:03+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "Vytvoření elipsy"
 
 #: ../element/element_parts/ellipse.rst:10
 msgid "The ellipse can only be added to `workspace`_ from `toolbar`_."
-msgstr "Elipsu lze do `pracovní plochy`_ přidat pouze z `panelu nástrojů`_."
+msgstr "Elipsu lze do `pracovní plochy`_ přidat pouze z `pruhu s nástroji`_."
 
 #: ../element/element_parts/ellipse.rst:12
 msgid "Select the icon |icon_ellipse| from `toolbar`_ to add an ellipse."

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-13 20:47+0200\n"
+"PO-Revision-Date: 2020-10-27 16:06+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid ""
 " edited with tools as `LibreOffice Calc`_."
 msgstr ""
 "QElectroTech umožňuje vytvořit soubor CSV, který obsahuje seznam všech"
-"`vodičů`_ / drátů v `projektu`_. Soubor CSV lze otevřít a upravit pomocí"
+"`vodičů`_/drátů v `projektu`_. Soubor CSV lze otevřít a upravit pomocí"
 "nástroje jako je `LibreOffice Calc`_."
 
 #: ../export&print/export_wires.rst:9
@@ -39,12 +39,12 @@ msgid ""
 "The different field properties are listed by columns and the "
 "`conductors`_ / wires are ordered by `folio`_."
 msgstr ""
-"Vlastnosti různých polí jsou uvedeny podle sloupců a `vodiče`_ / dráty"
+"Vlastnosti různých polí jsou uvedeny podle sloupců a `vodiče`_/dráty"
 "jsou seřazeny podle `listu`_."
 
 #: ../export&print/export_wires.rst:11
 msgid "To export the `conductors`_ / wires list to CSV file:"
-msgstr "Pro vyvedení seznamu `vodičů`_ / drátů do souboru CSV:"
+msgstr "Pro vyvedení seznamu `vodičů`_/drátů do souboru CSV:"
 
 #: ../export&print/export_wires.rst:13
 msgid ""
@@ -65,5 +65,5 @@ msgstr ""
 
 #: ../export&print/export_wires.rst:20
 msgid "Figure: QElectroTech project menu"
-msgstr "Obrázek: Nabídka projektu QElectroTechu"
+msgstr "Obrázek: Nabídka pro projekt v QElectroTechu"
 

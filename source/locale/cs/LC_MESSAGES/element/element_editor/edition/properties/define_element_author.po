@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-18 01:16+0200\n"
+"PO-Revision-Date: 2020-10-31 18:09+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 "Select **Edit > Edit author information** menu item to display the "
 "`author information PopUp window`_."
 msgstr ""
-"Pro zobrazení `vyskakovacího okna s doplňujícími údaji`_ "
+"Pro zobrazení `vyskakovacího okna s údaji o autorovi`_ "
 "vyberte položku nabídky **Úpravy > Upravit údaje o autorovi**."
 
 #: ../element/element_editor/edition/properties/define_element_author.rst:15
@@ -68,7 +68,7 @@ msgstr ""
 #: ../element/element_editor/edition/properties/define_element_author.rst:25
 msgid "Press ``Ctrl + y`` to display the `author information PopUp window`_."
 msgstr ""
-"Stiskněte ``Ctrl + y`` pro zobrazení `vyskakovacího okna s údaji`_ o autorovi"
+"Stiskněte ``Ctrl + Y`` pro zobrazení `vyskakovacího okna s údaji`_ o autorovi"
 " prvku."
 
 #: ../element/element_editor/edition/properties/define_element_author.rst:31

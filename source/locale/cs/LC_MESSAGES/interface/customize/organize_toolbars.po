@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-04 12:30+0200\n"
+"PO-Revision-Date: 2020-10-31 17:24+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,34 +29,32 @@ msgid ""
 "The QElectroTech GUI allows having many different `toolbars`_ switched on"
 " to make more friendly the application."
 msgstr ""
-"Uživatelské rozhraní QElectroTechu umožňuje mít zapnuto mnoho různých `panelů"
-" nástrojů`_, "
-"aby byla aplikace přátelštější."
+"Uživatelské rozhraní QElectroTechu umožňuje mít zapnuto, aby byla aplikace "
+"přátelštější, mnoho různých `pruhů s nástroji`_."
 
 #: ../interface/customize/organize_toolbars.rst:9
 msgid "To display or hide `toolbars`_:"
-msgstr "Pro zobrazení nebo skrytí `nástrojových pruhů`_:"
+msgstr "Pro zobrazení nebo skrytí `pruhů s nástroji`_:"
 
 #: ../interface/customize/organize_toolbars.rst:11
 msgid ""
 "Select **Settings > Display** menu item to display the `panels`_ and "
 "`toolbars`_ list."
 msgstr ""
-"Pro zobrazení `panelů`_ a seznamu `nástrojových pruhů`_ vyberte položku"
-" nabídky "
-"**Nastavení > Zobrazení**."
+"Pro zobrazení seznamu `panelů`_ a `pruhů s nástroji`_ vyberte "
+"položku nabídky **Nastavení > Zobrazení**."
 
 #: ../interface/customize/organize_toolbars.rst:12
 msgid ""
 "Click on the different `toolbars`_ (Tools, Display, Diagram, Add and "
 "Depth) which should be displayed or hidden."
 msgstr ""
-"Klepněte na různé `panely nástrojů`_ (Nástroje, Zobrazení, Diagram, Přidat a"
+"Klepněte na různé `pruhy s nástroji`_ (Nástroje, Zobrazení, Výkres, Přidání a"
 "Hloubka), které by měly být zobrazeny nebo skryty."
 
 #: ../interface/customize/organize_toolbars.rst:17
 msgid "Figure: QElectroTech Settings > Display menu"
-msgstr "Obrázek: Nabídka nastavení > zobrazení v QElectroTechu"
+msgstr "Obrázek: Nabídka nastavení pro zobrazení panelů v QElectroTechu"
 
 #: ../interface/customize/organize_toolbars.rst:19
 msgid ""
@@ -66,8 +64,8 @@ msgid ""
 "`workspace`_ or as floating toolbar."
 msgstr ""
 "Všechny `pruhy s nástroji`_ jsou ve výchozím nastavení umístěny "
-"v jednom řádku pod `hlavní nabídkou`_. Uživatel může  `panely "
-"nástrojů`_ volně přeuspořádávat. `Panely nástrojů`_ mohou být"
+"v jednom řádku pod `hlavní nabídkou`_. Uživatel může `pruhy "
+"s nástroji`_ volně přeuspořádávat. `Pruhy s nástroji`_ mohou být"
 "uspořádány do řádků, sloupců na levé nebo pravé straně"
 "`pracovní plochy`_ nebo jako plovoucí panel nástrojů."
 
@@ -81,17 +79,17 @@ msgstr "Pro změnu uspořádání `pruhů s nástroji`_:"
 
 #: ../interface/customize/organize_toolbars.rst:30
 msgid "Left click at the left side from the `toolbar`_."
-msgstr "Klepnutí levým tlačítkem myši na levou stranu `nástrojového pruhu`_."
+msgstr "Klepněte levým tlačítkem myši na levou stranu `pruhu s nástroji`_."
 
 #: ../interface/customize/organize_toolbars.rst:31
 msgid "Without releasing the `toolbar`_, move the mouse to the final position."
-msgstr "Bez uvolnění `nástrojového pruhu`_ přesuňte myš do konečné polohy."
+msgstr "Bez uvolnění `pruhu s nástroji`_ přesuňte myš do konečné polohy."
 
 #: ../interface/customize/organize_toolbars.rst:32
 msgid "Release the `toolbar`_."
-msgstr "Uvolněte `nástrojový pruh`_."
+msgstr "Uvolněte `pruh s nástroji`_."
 
 #: ../interface/customize/organize_toolbars.rst:37
 msgid "Figure: QElectroTech toolbars placement"
-msgstr "Obrázek: Umístění nástrojových pruhů QElectroTechu"
+msgstr "Obrázek: Umístění nástrojového pruhu QElectroTechu"
 

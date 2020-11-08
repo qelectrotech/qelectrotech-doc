@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-03 22:05+0200\n"
+"PO-Revision-Date: 2020-10-31 17:10+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,13 +30,13 @@ msgid ""
 " was saved. Once the `project`_ is saved, undo panel is automatically "
 "cleared."
 msgstr ""
-"Panel Zpět zobrazuje historii od posledního uložení dokumentu. "
-"Jakmile je `projekt`__ uložen, panel zpět je automaticky"
+"Panel pro zpět zobrazuje historii od posledního uložení dokumentu. "
+"Jakmile je `projekt`_ uložen, panel zpět je automaticky"
 "vymazán."
 
 #: ../interface/panels/undo_panel.rst:13
 msgid "Figure: QElectroTech Undo panel"
-msgstr "Obrázek: Panel QElectroTechu pro zpět"
+msgstr "Obrázek: Panel pro zpět v QElectroTechu"
 
 #: ../interface/panels/undo_panel.rst:15
 msgid "To display or hidden the undo panel:"
@@ -89,12 +89,12 @@ msgid ""
 "object`_."
 msgstr ""
 "Obnovení předmětu, který byl před několika kroky odstraněn. Předmět může"
-"být obnoven vrácením se o jeden krok před odstraněním, \"kopírováním"
+"být obnoven vrácením se o jeden krok před odstraněním, `kopírováním"
 "předmětu`_, návratem do posledního stavu historie a `vložením předmětu`_."
 
 #: ../interface/panels/undo_panel.rst:34
 msgid "Checking the status from the `project`_ some steps before."
-msgstr "Kontrola stavu `projektu`_ o několik kroků dříve."
+msgstr "Ověření stavu `projektu`_ o několik kroků dříve."
 
 #: ../interface/panels/undo_panel.rst:35
 msgid "Etc."

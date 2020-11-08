@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-21 21:37+0200\n"
+"PO-Revision-Date: 2020-10-31 17:50+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -74,7 +74,7 @@ msgstr "**% {f}**: Číslo listu, kde lze prvek najít"
 
 #: ../element/type/element_slave.rst:29
 msgid "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**: Proměnná instalace v listu, kde lze prvek najít"
+msgstr "**% {M}**: Proměnná plant listu, kde lze prvek najít"
 
 #: ../element/type/element_slave.rst:30
 msgid ""

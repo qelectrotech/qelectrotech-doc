@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-20 20:43+0200\n"
+"PO-Revision-Date: 2020-10-31 17:55+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -149,7 +149,7 @@ msgstr "**X**: Spojování předmětů."
 
 #: ../element/properties/element_numbering.rst:48
 msgid "Alphanumeric code which identify the element."
-msgstr "Alfanumerický kód, který identifikuje prvek."
+msgstr "Alfanumerický kód, který určuje prvek."
 
 #: ../element/properties/element_numbering.rst:52
 msgid ""

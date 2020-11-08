@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-11 13:31+0200\n"
+"PO-Revision-Date: 2020-10-28 00:56+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgid ""
 "QElectroTech provides a grid displayer for the `workspace`_ which makes "
 "easier the drawing work."
 msgstr ""
-"QElectroTech poskytuje mřížkový zobrazovač pro `pracovní plochu`_, který dělá"
+"QElectroTech poskytuje zobrazovač mřížky pro `pracovní plochu`_, který dělá"
 "kreslicí práce snadnějšími."
 
 #: ../preferences/settings_grid.rst:9
@@ -38,7 +38,7 @@ msgstr "Pro nastavení zobrazené mřížky:"
 
 #: ../preferences/settings_grid.rst:11
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`Zobrazení` vyskakovacího okna s nastavením QElectroTechu."
+msgstr "`Zobrazte` vyskakovací okno s nastavením QElectroTechu."
 
 #: ../preferences/settings_grid.rst:12
 msgid "Go to **General** section."
@@ -53,7 +53,8 @@ msgid ""
 "Define the X and Y pixels of the grid cell. The cell size can be between "
 "1 and 30 pixels."
 msgstr ""
-"Stanovte pixely X a Y buňky mřížky. Velikost buňky může být mezi"
+"Stanovte obrazové body (pixely) X a Y buňky mřížky. Velikost buňky může být"
+" mezi"
 "1 a 30 obrazovými body (pixely)."
 
 #: ../preferences/settings_grid.rst:16
@@ -64,8 +65,8 @@ msgid ""
 "key) can be defined."
 msgstr ""
 "Počet posunutí buněk mřížky pomocí klávesnice nebo posuvníku "
-"lze tstanovit i ve stejné části, kde jsou stanoveny charakteristiky mřížky."
-"Lze stanovit standarní a přesný posuv (pomocí klávesy **Alt**)."
+"lze stanovit i ve stejné části, kde jsou stanoveny charakteristiky mřížky."
+"Lze stanovit standardní a přesný posuv (pomocí klávesy **Alt**)."
 
 #: ../preferences/settings_grid.rst:20
 msgid "To display the grid at the `workspace`_, refer to `toolbars`_ section."

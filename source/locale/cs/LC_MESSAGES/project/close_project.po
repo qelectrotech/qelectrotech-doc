@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-13 21:46+0200\n"
+"PO-Revision-Date: 2020-10-31 12:26+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -46,10 +46,9 @@ msgid ""
 "`projects panel`_, `projects tab bar`_ and using the corresponding "
 "keyboard shortcut."
 msgstr ""
-"Zavření nynějšího projektu lze udělat přes `hlavní nabídku`_, `panel"
-" nástrojů`_"
-"`panel s projekty`_, `pruh karet s projekty`_ a pomocí odpovídající klávesové"
-" zkratky."
+"Zavření nynějšího projektu lze udělat přes `hlavní nabídku`_, "
+"`panel nástrojů`_, `panel s projekty`_, `pruh karet s projekty`_ "
+"a pomocí odpovídající klávesové zkratky."
 
 #: ../project/close_project.rst:19
 msgid ""
@@ -57,7 +56,7 @@ msgid ""
 "`project`_ will be the `project`_ which will be closed."
 msgstr ""
 "V případě, že je otevřen více než jeden `projekt`_, činný"
-"`projekt`_ bude `projekt`_, který bude uzavřen."
+"`projekt`_ bude `projektem`_, který bude uzavřen."
 
 #: ../project/close_project.rst:23
 msgid "Close project from menu bar"
@@ -70,7 +69,7 @@ msgstr ""
 
 #: ../project/close_project.rst:30
 msgid "Figure: QElectroTech File menu"
-msgstr "Obrázek: Nabídka Soubor QElectroTechu"
+msgstr "Obrázek: Nabídka pro soubor v QElectroTechu"
 
 #: ../project/close_project.rst:33
 msgid "Close project from toolbar"
@@ -81,8 +80,8 @@ msgid ""
 "Select the icon |project-close| from `toolbar`_ to close the active "
 "`project`_."
 msgstr ""
-"Pro zavření činného `projektu`_ vyberte ikonu |projekt-zavřít| v `panelu"
-" nástrojů`_"
+"Pro zavření činného `projektu`_ vyberte ikonu |project-close| "
+"v `pruhu s nástroji`_"
 
 #: ../project/close_project.rst:41
 msgid ""
@@ -94,7 +93,7 @@ msgstr ""
 
 #: ../project/close_project.rst:44
 msgid "Close project from projects panel"
-msgstr "Zavření projektu přes pruh s projekty"
+msgstr "Zavření projektu přes panel s projekty"
 
 #: ../project/close_project.rst:46
 msgid ""
@@ -102,7 +101,7 @@ msgid ""
 "posibility to close `projects`_ which are opened and are not the active "
 "`project`_."
 msgstr ""
-"Výhodou uzavření `projektů`_ přes `panel s projekty`_ je"
+"Výhodou zavření `projektů`_ přes `panel s projekty`_ je"
 "možnost uzavřít `projekty`_, které jsou otevřené a nejsou činnými"
 "`projekty`_."
 
@@ -117,8 +116,8 @@ msgstr ""
 #: ../project/close_project.rst:50
 msgid "Select **Close this project** to close the selected `project`_."
 msgstr ""
-"Pro zavření vybraného `projektu`_ vyberte položku nabídky **Zavřít tento"
-" projekt**."
+"Pro zavření vybraného `projektu`_ vyberte položku nabídky "
+"**Zavřít tento projekt**."
 
 #: ../project/close_project.rst:55
 msgid "Figure: QElectroTech projects panel"
@@ -163,9 +162,8 @@ msgid ""
 "Displaying the `projects`_ using a tab bar or using PopUP windows can be "
 "choosed at **Display > Display projects**."
 msgstr ""
-"Zobrazení `projektů`_ pomocí pruhu karet nebo pomocí vyskakovacích oken může"
-" být"
-"vybráno v **Zobrazení > Zobrazit projekty**."
+"Zobrazení `projektů`_ pomocí pruhu karet nebo pomocí vyskakovacích "
+"oken může být vybráno v **Zobrazení > Zobrazit projekty**."
 
 #: ../project/close_project.rst:77
 msgid "Close project using keyboard shortcut"
@@ -187,6 +185,6 @@ msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to "
 "`menu bar`_ section."
 msgstr ""
-"Další informace o klávesových zkratkách v QElectroTechu najdete v části k"
-" `hlavní nabídce`_."
+"Další informace o klávesových zkratkách v QElectroTechu najdete "
+"v části k `hlavní nabídce`_."
 

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-03 16:30+0200\n"
+"PO-Revision-Date: 2020-10-31 16:20+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +31,8 @@ msgid ""
 "glosary, etc.) are created."
 msgstr ""
 "Pracovní plocha, také nazývaná grafický editor, je oblast, kde"
-"jsou vytvářeny diagramy, schémata a zprávy (indexová tabulka, "
-"seznam  součástí, slovník symbolů atd.)."
+"jsou vytvářeny diagramy, výkresy a souhrny (rejstříková tabulka, "
+"seznam součástí, slovník značek atd.)."
 
 #: ../interface/workspace.rst:9
 msgid "The QElectroTech workspace looks as follow:"
@@ -40,5 +40,5 @@ msgstr "Pracovní plocha QElectroTechu vypadá následovně:"
 
 #: ../interface/workspace.rst:15
 msgid "Figure: QElectroTech Workspace"
-msgstr "Obrázek: Pracovní plocha QElectroTechu"
+msgstr "Obrázek: Pracovní plocha v QElectroTechu"
 

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-13 21:50+0200\n"
+"PO-Revision-Date: 2020-10-31 12:29+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../project/new_project.rst:18
 msgid "Figure: QElectroTech file menu"
-msgstr "Obrázek: Nabídka Soubor QElectroTechu"
+msgstr "Obrázek: Nabídka pro soubor v QElectroTechu"
 
 #: ../project/new_project.rst:21
 msgid "Create new project from toolbar"
@@ -53,8 +53,8 @@ msgstr "Vytvoření nového projektu přes pruh s nástroji"
 msgid ""
 "Select the icon |project-new| from `toolbar`_ to create a new `project`_."
 msgstr ""
-"Pro vytvoření nového `projektu`_ vyberte ikonu |projekt-nový| v `panelu"
-" nástrojů`_"
+"Pro vytvoření nového `projektu`_ vyberte ikonu |project-new| "
+"v `panelu nástrojů`_"
 
 #: ../project/new_project.rst:29
 msgid ""

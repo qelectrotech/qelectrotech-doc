@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-04 11:53+0200\n"
+"PO-Revision-Date: 2020-10-31 17:11+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,21 +30,20 @@ msgid ""
 "screen mode can be selected from `menu bar`_ and using keyboard shortcut."
 msgstr ""
 "QElectroTech poskytuje možnost zobrazení na celou obrazovku. "
-"Režim celé obrazovky lze vybrat z `hlavní nabídky`_ a pomocí klávesové"
+"Režim celé obrazovky lze vybrat přes `hlavní nabídku`_ a pomocí klávesové"
 " zkratky."
 
 #: ../interface/customize/full_screen.rst:11
 msgid "Full screen mode from menu bar"
-msgstr "Režim na celou obrazovku z hlavní nabídky"
+msgstr "Režim na celou obrazovku přes hlavní nabídku"
 
 #: ../interface/customize/full_screen.rst:13
 msgid ""
 "Select **Settings > FullScreen Mode** menu item to display QElectroTech "
 "in full screen mode."
 msgstr ""
-"Vyberte položku **Nastavení > Režim na celou obrazovku** pro zobrazení"
-" QElectroTechu"
-"v režimu celé obrazovky."
+"Vyberte položku **Nastavení > Režim na celou obrazovku** "
+"pro zobrazení QElectroTechu v režimu celé obrazovky."
 
 #: ../interface/customize/full_screen.rst:18
 msgid "Figure: QElectroTech settings menu"
@@ -64,7 +63,7 @@ msgstr ""
 #: ../interface/customize/full_screen.rst:25
 msgid "Press ``Ctrl + Shift + f`` to display QElectroTech in full screen mode."
 msgstr ""
-"Stiskněte klávesy ``Ctrl + Shift + f`` pro zobrazení QElectroTechu v režimu"
+"Stiskněte klávesy ``Ctrl + Shift + F`` pro zobrazení QElectroTechu v režimu"
 " celé obrazovky."
 
 #: ../interface/customize/full_screen.rst:29
@@ -82,5 +81,5 @@ msgid ""
 msgstr ""
 "Pro opuštění režimu celé obrazovky vyberte položku nabídky "
 "**Nastavení > Ukončit režim na celou obrazovku**"
-"nebo znovu použijte klávesovou zkratku ``Ctrl + Shift + f``."
+"nebo znovu použijte klávesovou zkratku ``Ctrl + Shift + F``."
 

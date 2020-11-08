@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-13 22:10+0200\n"
+"PO-Revision-Date: 2020-10-31 12:39+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -41,10 +41,10 @@ msgid ""
 "QElectroTech allows also working with Extensible Markup Language files, "
 "files with extension ``.xml``."
 msgstr ""
-"`Projekt`_ je odpovídá jednomu souboru ve formátu ``.qet``. Přípona"
-"``.qet`` je původní přípona QElectroTechu. I tak,"
-"QElectroTech umožňuje práci i se soubory Extensible Markup Language,"
-"soubory s příponou ``.xml``."
+"`Projekt`_ odpovídá jednomu souboru ve formátu ``.qet``. "
+"Přípona ``.qet`` je původní přípona QElectroTechu. QElectroTech "
+"ovšem umožňuje práci i se soubory Extensible Markup Language,"
+"což jsou soubory s příponou ``.xml``."
 
 #: ../project/open_project.rst:15
 msgid "Open project from menu bar"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../project/open_project.rst:22
 msgid "Figure: QElectroTech file menu"
-msgstr "Obrázek: Nabídka Soubor QElectroTechu"
+msgstr "Obrázek: Nabídka pro soubor v QElectroTechu"
 
 #: ../project/open_project.rst:24
 msgid "Search the `project`_ in the computer"
@@ -70,9 +70,8 @@ msgid ""
 "Press **Open** button to close the search file PopUP window and open the "
 "`project`_."
 msgstr ""
-"Pro zavření vyskakovacího okna pro hledání souboru stiskněte tlačítko"
-" **Otevřít** "
-"a otevřete `projekt`_."
+"Pro zavření vyskakovacího okna pro hledání souboru a otevření `projektu`_ "
+"stiskněte tlačítko  **Otevřít**."
 
 #: ../project/open_project.rst:28
 msgid "Open project from toolbar"
@@ -84,7 +83,7 @@ msgid ""
 "window."
 msgstr ""
 "Pro otevření vyskakovacího okna pro hledání souboru vyberte "
-"ikonu |projekt| v `pruhu s nástroji`_"
+"ikonu |project| v `pruhu s nástroji`_"
 
 #: ../project/open_project.rst:31 ../project/open_project.rst:46
 msgid "Search the `project`_ at the computer"
@@ -142,7 +141,7 @@ msgid ""
 " QElectroTech."
 msgstr ""
 "Pro zobrazení historie souboru v QElectroTechu vyberte položku nabídky "
-"**Soubor > Nedávno otevřený**."
+"**Soubor > Nedávno otevřené**."
 
 #: ../project/open_project.rst:60
 msgid "Click on the `project`_ file that should be opened."

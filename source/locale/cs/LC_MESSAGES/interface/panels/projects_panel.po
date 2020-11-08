@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-03 22:41+0200\n"
+"PO-Revision-Date: 2020-10-31 16:28+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +31,8 @@ msgid ""
 "are also displayed at the projects panel."
 msgstr ""
 "Panel s projekty zobrazuje stromy otevřených projektů, `listy`_ a"
-"ʻvložená záhlaví`_. Záhlaví sbírek `QET`_ a ʻuživatele`_"
-"se  zobrazujítaké v panelu projektů."
+"`vložená záhlaví výkresu`_. Záhlaví sbírek `QET`_ a `vlastní`_"
+"se  zobrazují také v panelu projektů."
 
 #: ../interface/panels/projects_panel.rst:13
 msgid "Figure: QElectroTech Projects panel"
@@ -54,19 +54,19 @@ msgstr "Úkoly, které lze provést z panelu s projekty, jsou:"
 msgid ""
 "Manage `folios`_ (Add folios, define folio order at each project, etc.)."
 msgstr ""
-"Spravovat `listy`_ (Přidat listy, určit pořadí listů u každého projektu atd.)."
+"Spravovat `listy`_ (přidat listy, určit pořadí listů u každého projektu atd.)."
 
 #: ../interface/panels/projects_panel.rst:22
 msgid "Manage the `embedded title blocks`_ from the project."
-msgstr "Spravovat `vložená záhlaví`_ z projektu."
+msgstr "Spravovat `vložená záhlaví výkresu`_ projektu."
 
 #: ../interface/panels/projects_panel.rst:23
 msgid "Manage the default `QET`_ title block collection."
-msgstr "Spravovat výchozí sbírku záhlaví `QET`_."
+msgstr "Spravovat výchozí sbírku záhlaví výkresu `QET`_."
 
 #: ../interface/panels/projects_panel.rst:24
 msgid "Manage the `user`_ title block collection."
-msgstr "Spravovat sbírku záhlaví `uživatele`_."
+msgstr "Spravovat `vlastní`_ sbírku záhlaví výkresu."
 
 #: ../interface/panels/projects_panel.rst:25
 msgid "Define the active project."
@@ -91,6 +91,6 @@ msgid ""
 "part of a string can be hidden."
 msgstr ""
 "Pro usnadnění práce s projektovým panelem nabízí QElectroTech"
-"filtr. Všechny `listy`_,`projekty`_ a `záhlaví`_ bez názvu nebo"
+"filtr. Všechny `listy`_,`projekty`_ a `záhlaví výkresu`_ bez názvu nebo"
 "část řetězce mohou být skryty."
 

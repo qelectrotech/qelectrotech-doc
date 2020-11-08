@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-18 12:43+0200\n"
+"PO-Revision-Date: 2020-10-31 18:09+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: ../element/element_editor/edition/properties/edit_element_name.rst:63
 msgid "Press ``Ctrl + e`` to display the name editor PopUp window."
-msgstr "Pro zobrazení vyskakovacího okna editoru názvu stiskněte ``Ctrl + e`."
+msgstr "Pro zobrazení vyskakovacího okna editoru názvu stiskněte ``Ctrl + E`."
 
 #: ../element/element_editor/edition/properties/edit_element_name.rst:71
 msgid ""

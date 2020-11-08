@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-13 21:06+0200\n"
+"PO-Revision-Date: 2020-10-27 16:04+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../export&print/export_nomenclature.rst:18
 msgid "Figure: QElectroTech project menu"
-msgstr "Obrázek: Nabídka projektu QElectroTechu"
+msgstr "Obrázek: Nabídka pro projekt v QElectroTechu"
 
 #: ../export&print/export_nomenclature.rst:20
 msgid ""
@@ -80,7 +80,7 @@ msgstr "Klávesová zkratka"
 
 #: ../export&print/export_nomenclature.rst:25
 msgid "|go-up|"
-msgstr "|jít-nahoru|"
+msgstr "|go-up|"
 
 #: ../export&print/export_nomenclature.rst:25
 msgid "Move up this field"
@@ -88,7 +88,7 @@ msgstr "Posunout toto pole nahoru"
 
 #: ../export&print/export_nomenclature.rst:26
 msgid "|list-add|"
-msgstr "|seznam-přidat|"
+msgstr "|list-add|"
 
 #: ../export&print/export_nomenclature.rst:26
 msgid "Add field to export list"
@@ -100,7 +100,7 @@ msgstr "Dvakrát klepněte na pole v dostupném seznamu"
 
 #: ../export&print/export_nomenclature.rst:27
 msgid "|list-remove|"
-msgstr "|seznam-odstranit|"
+msgstr "|list-remove|"
 
 #: ../export&print/export_nomenclature.rst:27
 msgid "Remove field from export list"
@@ -112,7 +112,7 @@ msgstr "Dvakrát klepněte na pole v seznamu k vyvedení"
 
 #: ../export&print/export_nomenclature.rst:28
 msgid "|go-down|"
-msgstr "|jít-dolů|"
+msgstr "|go-down|"
 
 #: ../export&print/export_nomenclature.rst:28
 msgid "Move down this field"
@@ -155,9 +155,8 @@ msgid ""
 "Press **OK** button to apply exporting parameters and display the **Save "
 "As** PopUp window."
 msgstr ""
-"Pro použití parametrů pro vyvedení a zobrazení vyskakovacího okna **Uložit"
-" jako** "
-"stiskněte tlačítko **OK**."
+"Pro použití parametrů pro vyvedení a zobrazení vyskakovacího okna "
+"**Uložit jako** stiskněte tlačítko **OK**."
 
 #: ../export&print/export_nomenclature.rst:46
 msgid "Choose target directory and file name."
