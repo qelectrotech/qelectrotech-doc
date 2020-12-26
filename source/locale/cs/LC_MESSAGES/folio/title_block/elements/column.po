@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-10 20:34+0200\n"
+"PO-Revision-Date: 2020-12-20 22:39+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 "A column of `cells`_ from the `title block`_ is a group of `cells`_ that "
 "are placed one over the other."
 msgstr ""
-"Sloupec `buněk`_ v `záhlaví výkresu`_ je skupina ` buněk`_, které"
+"Sloupec `buněk`_ v `záhlaví výkresu`_ je skupina ` buněk`_, které "
 "jsou umístěny jedna nad druhou."
 
 #: ../folio/title_block/elements/column.rst:13
@@ -45,7 +45,7 @@ msgid ""
 "At QElectroTech, a column from the `title block`_ has only one property, "
 "the width of the `cells`_ that are part of the columns."
 msgstr ""
-"V QElectroTechu má sloupec v `záhlaví výkresu`_ pouze jednu vlastnost,"
+"V QElectroTechu má sloupec v `záhlaví výkresu`_ pouze jednu vlastnost, "
 "šířku `buněk`_, které jsou součástí sloupců."
 
 #: ../folio/title_block/elements/column.rst:18
@@ -64,8 +64,8 @@ msgstr "Obrázek: Vlastnost šířky sloupce v záhlaví výkresu v QElectroTech
 msgid ""
 "QElectroTech works with pixels, the width is defined according pixel unit."
 msgstr ""
-"QElectroTech pracuje s obrazovými body (pixely), šířka je stanovena podle"
-" pixelové jednotky."
+"QElectroTech pracuje s obrazovými body (pixely), šířka je stanovena "
+"podle pixelové jednotky."
 
 #: ../folio/title_block/elements/column.rst:29
 msgid "Unlike rows, the width of a column can be defined as:"

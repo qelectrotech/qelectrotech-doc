@@ -49,9 +49,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -434,7 +434,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -769,9 +769,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -1154,7 +1154,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -1419,13 +1419,13 @@
             
   <div class="section" id="what-is-a-project">
 <h1>Co je to projekt?<a class="headerlink" href="#what-is-a-project" title="Trvalý odkaz na tento nadpis">¶</a></h1>
-<p>Pojem projektu v QElectroTechu lze přirovnat k pojmu“databáze“. Projekt není běžnou databází, je to sbírkainformací, které nejsou uspořádány do sloupců a řádků.</p>
+<p>Pojem projektu v QElectroTechu lze přirovnat k pojmu „databáze“. Projekt není běžnou databází, je to sbírka informací, které nejsou uspořádány do sloupců a řádků.</p>
 <div class="figure align-center" id="id1">
 <img alt="../_images/qet_project_structure.png" src="../_images/qet_project_structure.png" />
 <p class="caption"><span class="caption-text">Obrázek: Stavba projektu s QElectroTechu</span><a class="headerlink" href="#id1" title="Permalink k tomuto obrázku">¶</a></p>
 </div>
-<p>Projekt je skupina <a class="reference external" href="../folio/titleblock/index.html">listů</a>, <a class="reference external" href="../element/index.html">prvků</a> a <a class="reference external" href="../conductor/index.html">vodičů`_zastoupených uvnitř `listů</a> s příslušnými vlastnostmi,vlastnostmi, které určují způsob, jakým by mělo být každý list znázorněn(<a class="reference external" href="../folio/index.html">záhlaví výkresu</a>, rozměry atd.), vlastnostmi, které určují, jakby měly být znázorněny odkazy (číslo listu, seznam součástí, seznamspojek atd.), vlastnostmi, které určují způsob vyvedení nebo tiskuinformace, vztah propojení mezi <a href="#id2"><span class="problematic" id="id3">`prvky`_</span></a> ze stejnéhonebo jiného <a href="#id4"><span class="problematic" id="id5">`listu`_</span></a> a hlavní data (název projektu, autor, rokvytvoření, změny atd.).</p>
-<p>Projekt je základem QElectroTechu pro správu díla. Vývojářskýtým se zaměřil na elektrickou a řídicí složku, přestoQElectroTech je software E-CAE. Z tohoto důvodu je QElectroTechmezioborový nástroj, který uživateli umožňuje vytvářet mnoho typůprojektů.</p>
+<p>Projekt je skupina <a class="reference external" href="../conductor/index.html">listů</a>, <a class="reference external" href="../folio/index.html">prvků</a> a <a class="reference external" href="../element/index.html">vodičů</a> zastoupených uvnitř <a class="reference external" href="../folio/titleblock/index.html">listů</a> s příslušnými vlastnostmi, vlastnostmi, které určují způsob, jakým by mělo být každý list znázorněn (<a href="#id2"><span class="problematic" id="id3">`záhlaví výkresu`_</span></a>, rozměry atd.), vlastnostmi, které určují, jak by měly být znázorněny odkazy (číslo listu, seznam součástí, seznam spojek atd.), vlastnostmi, které určují způsob vyvedení nebo tisku informace, vztah propojení mezi <a href="#id4"><span class="problematic" id="id5">`prvky`_</span></a> ze stejného nebo jiného <a href="#id6"><span class="problematic" id="id7">`listu`_</span></a> a hlavní data (název projektu, autor, rok vytvoření, změny atd.).</p>
+<p>Projekt je základem QElectroTechu pro správu díla. Vývojářský tým se zaměřil na elektrickou a řídicí složku, přesto QElectroTech je software E-CAE. Z tohoto důvodu je QElectroTech mezioborový nástroj, který uživateli umožňuje vytvářet mnoho typů projektů.</p>
 <blockquote>
 <div><ul class="simple">
 <li><p>Elektrické projekty: Čistě elektrické systémy</p></li>

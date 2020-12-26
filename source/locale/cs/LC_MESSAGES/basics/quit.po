@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-09-30 22:47+0200\n"
+"PO-Revision-Date: 2020-12-20 13:36+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
-"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 20.08.1\n"
+"X-Generator: Lokalize 19.04.0\n"
 
 #: ../basics/quit.rst:4
 msgid "Quit QElectroTech"
@@ -29,7 +29,7 @@ msgid ""
 "The user can quit QElectroTech at anytime. The user does not need to "
 "`close the project`_ before clossing the application."
 msgstr ""
-"Uživatel může program QElectroTech kdykoli ukončit. Uživatel nemusí"
+"Uživatel může program QElectroTech kdykoli ukončit. Uživatel nemusí "
 "`zavřít projekt`_ před zavřením aplikace."
 
 #: ../basics/quit.rst:8
@@ -38,13 +38,13 @@ msgid ""
 "to `save project`_ section. Even so, QElectroTech displays an automatic "
 "message to save the current job if any modification has been created."
 msgstr ""
-"Pokud má být aktuální práce uložena před zavřením projektu, viz"
-"část `uložit projekt`_. I tak QElectroTech zobrazuje automatickou"
+"Pokud má být nynější práce uložena před zavřením projektu, podívejte se na "
+"část `uložit projekt`_. I tak QElectroTech zobrazuje automatickou "
 "zprávu pro uložení nynější úlohy, pokud byla vytvořena nějaká změna."
 
 #: ../basics/quit.rst:13
 msgid "Figure: QElectroTech Save message"
-msgstr "Obrázek: Zpráva QElectroTechu o uložení"
+msgstr "Obrázek: Zpráva o uložení v QElectroTechu"
 
 #: ../basics/quit.rst:16
 msgid ""
@@ -53,9 +53,9 @@ msgid ""
 "found at top right from main window, from `menu bar`_ or using the "
 "corresponding keyboard shortcut."
 msgstr ""
-"Jako velké množství aplikací, které byly vyvinuty pomocí `Qt`_,"
-"QElectroTech lze zavřít z karty Zavřít |close_tab|, kterou lze najít"
-"v hlavním okně vpravo nahoře, z `pruhu s hlavní nabídkou`_ nebo pomocí"
+"Jako velké množství aplikací, které byly vyvinuty pomocí `Qt`_, "
+"QElectroTech lze zavřít z karty pro zavření |close_tab|, kterou lze najít "
+"v hlavním okně vpravo nahoře, z `hlavní nabídky`_ nebo pomocí "
 "odpovídající klávesové zkratky."
 
 #: ../basics/quit.rst:19
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../basics/quit.rst:26
 msgid "Figure: QElectroTech File menu"
-msgstr "Obrázek: Nabídka Soubor QElectroTechu"
+msgstr "Obrázek: Nabídka pro soubor v QElectroTechu"
 
 #: ../basics/quit.rst:29
 msgid "Quit QElectroTech using keyboard shortcut"
@@ -80,18 +80,18 @@ msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
 msgstr ""
-"QElectroTech umožňuje používat klávesovou zkratku ke zvýšení pracovní"
-" výkonnosti."
+"QElectroTech umožňuje používat klávesovou zkratku ke zvýšení "
+"pracovní výkonnosti."
 
 #: ../basics/quit.rst:33
 msgid "Press ``Ctrl + q`` to quit QElectroTech."
-msgstr "Stiskněte `` Ctrl + q`` pro ukončení QElectroTechu."
+msgstr "Stiskněte ``Ctrl + q`` pro ukončení QElectroTechu."
 
 #: ../basics/quit.rst:37
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to "
 "`menu bar`_ section."
 msgstr ""
-"Další informace o klávesových zkratkách QElectroTechu najdete v části"
-"`pruh nabídek`_."
+"Další informace o klávesových zkratkách QElectroTechu najdete v části "
+"`hlavní nabídka`_."
 

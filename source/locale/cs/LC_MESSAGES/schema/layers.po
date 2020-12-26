@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-22 23:19+0200\n"
+"PO-Revision-Date: 2020-12-22 22:04+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,9 +30,9 @@ msgid ""
 "QElectroTech allows defining the level order from `elements`_ and "
 "`pictures`_ at each `folio`_."
 msgstr ""
-"Na `pracovní ploše`_ může docházet k překrývání `prvků`_ nebo `obrázků`_."
-"QElectroTech umožňuje stanovit pořadí úrovní `prvků`_ a"
-"`obrázků`_ v každém `listu`_."
+"Na `pracovní ploše`_ může docházet k překrývání `prvků`_ nebo `obrázků`_. "
+"QElectroTech umožňuje stanovit pořadí úrovní `prvků`_ a `obrázků`_ "
+"v každém `listu`_."
 
 #: ../schema/layers.rst:10
 msgid "QElectroTech allows the following actions:"
@@ -60,7 +60,7 @@ msgstr "|bring_forward|"
 
 #: ../schema/layers.rst:15
 msgid "Bring to front"
-msgstr "Přesunout dopředu"
+msgstr "Dát úplně nahoru"
 
 #: ../schema/layers.rst:15
 msgid "Brings the selection (s) to front"
@@ -76,7 +76,7 @@ msgstr "|raise|"
 
 #: ../schema/layers.rst:16
 msgid "Raise"
-msgstr "Zvýšit"
+msgstr "Dát nahoru"
 
 #: ../schema/layers.rst:16
 msgid "Aproachs the selection (s)"
@@ -92,7 +92,7 @@ msgstr "|lower|"
 
 #: ../schema/layers.rst:17
 msgid "Lower"
-msgstr "Snížit"
+msgstr "Dát dolů"
 
 #: ../schema/layers.rst:17
 msgid "Moves away the selection (s)"
@@ -108,7 +108,7 @@ msgstr "|send_backward|"
 
 #: ../schema/layers.rst:18
 msgid "Send backwards"
-msgstr "Přesunout dozadu"
+msgstr "Dát úplně dolů"
 
 #: ../schema/layers.rst:18
 msgid "Sends in the backwards the selection (s)"
@@ -123,8 +123,8 @@ msgid ""
 "The layer level from multiples objects can be defined at the same time "
 "`selecting multiple objects`_."
 msgstr ""
-"Ve stejnou dobu lze po `vybrání více předmětů`_ stanovit úroveň vrstvy více"
-" předmětů."
+"Ve stejnou dobu lze po `vybrání více předmětů`_ stanovit úroveň vrstvy "
+"více předmětů."
 
 #: ../schema/layers.rst:30
 msgid ""
@@ -162,16 +162,15 @@ msgid ""
 "Select the corresponding icon from `toolbar`_ (icons from above table) to"
 " realize the desired action."
 msgstr ""
-"Vyberte odpovídající ikonu v `panelu nástrojů`_ (ikony z výše uvedené"
-" tabulky) pro"
-"uskutečnění požadované činnosti."
+"Vyberte odpovídající ikonu v `panelu nástrojů`_ (ikony z výše "
+"uvedené tabulky) pro uskutečnění požadované činnosti."
 
 #: ../schema/layers.rst:52
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings >"
 " Display > Depth**"
 msgstr ""
-"Pokud se `pruh s nástroji`_ nezobrazí, lze jej zobrazit přes"
+"Pokud se `pruh s nástroji`_ nezobrazí, lze jej zobrazit přes "
 "**Nastavení > Zobrazení > Hloubka**"
 
 #: ../schema/layers.rst:55
@@ -197,16 +196,15 @@ msgid ""
 "As many other tools, QElectroTech is an applications which allows using "
 "keyboard shortcut."
 msgstr ""
-"Stejně jako mnoho dalších nástrojů, QElectroTech je program, který umožňuje"
-" použití"
-"klávesové zkratky."
+"Stejně jako mnoho dalších nástrojů, QElectroTech je program, který "
+"umožňuje použití klávesové zkratky."
 
 #: ../schema/layers.rst:71
 msgid ""
 "Press the corresponding keyboard shortcut (keyboard shortcut from above "
 "table) to realize the desired action."
 msgstr ""
-"Stiskněte příslušnou klávesovou zkratku (klávesová zkratka z hořejší"
+"Stiskněte příslušnou klávesovou zkratku (klávesová zkratka z hořejší "
 "tabulky) k provedení požadované činnosti."
 
 #: ../schema/layers.rst:75
@@ -214,6 +212,6 @@ msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to "
 "`menu bar`_ section."
 msgstr ""
-"Další informace o klávesových zkratkách v QElectroTechu najdete v části k"
-" `hlavní nabídce`_."
+"Další informace o klávesových zkratkách v QElectroTechu najdete "
+"v části k `hlavní nabídce`_."
 

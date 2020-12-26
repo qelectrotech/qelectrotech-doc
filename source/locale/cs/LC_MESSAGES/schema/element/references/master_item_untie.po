@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-24 18:45+0200\n"
+"PO-Revision-Date: 2020-12-22 23:27+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,13 +29,13 @@ msgid ""
 "Some times is necessary to delete previous work, QElectroTech allows "
 "breaking/deleting `links between elements (cross references)`_."
 msgstr ""
-"Někdy je nutné odstranit předchozí práci. QElectroTech umožňuje"
+"Někdy je nutné odstranit předchozí práci. QElectroTech umožňuje "
 "rozbíjení/mazání `vazeb mezi prvky (křížové odkazy)` _."
 
 #: ../schema/element/references/master_item_untie.rst:10
 msgid "A `Slave element`_ can be unlinked from a `master element`_ as follow:"
 msgstr ""
-"`Podřízený prvek`_ lze odpojit od `nadřízeného prvku`_ pomocí"
+"`Podřízený prvek`_ lze odpojit od `nadřízeného prvku`_ pomocí "
 "následující kroků:"
 
 #: ../schema/element/references/master_item_untie.rst:12
@@ -63,8 +63,8 @@ msgid ""
 "`Display`_ the **Cross-reference (Master)** tab from the element editor "
 "PopUP window"
 msgstr ""
-"Ve vyskakovacím okně editoru prvku `zobrazte`_ kartu **Křížový odkaz"
-" (nadřízený)**"
+"Ve vyskakovacím okně editoru prvku `zobrazte`_ kartu "
+"**Křížový odkaz (nadřízený)**"
 
 #: ../schema/element/references/master_item_untie.rst:25
 #: ../schema/element/references/master_item_untie.rst:40
@@ -76,17 +76,16 @@ msgid ""
 "Search and select the desired `slave element`_ from the **Element "
 "related** table."
 msgstr ""
-"Vyhledejte a vyberte požadovaný `podřízený prvek`_ v tabulce **Spojené"
-" prvky**."
+"Vyhledejte a vyberte požadovaný `podřízený prvek`_ v tabulce "
+"**Spojené prvky**."
 
 #: ../schema/element/references/master_item_untie.rst:28
 msgid ""
 "Press the **Untie item** button |icon_untie| to unlink the `slave "
 "element`_ from the `master element`_."
 msgstr ""
-"Stiskněte **Odvázat položku** |icon_untie| pro odpojení `podřízeného prvku`_"
-" od"
-"`nadřízeného prvku`_."
+"Stiskněte **Odvázat položku** |icon_untie| pro odpojení "
+"`podřízeného prvku`_ od `nadřízeného prvku`_."
 
 #: ../schema/element/references/master_item_untie.rst:29
 msgid "Press  **Apply** to accept and save the changes."

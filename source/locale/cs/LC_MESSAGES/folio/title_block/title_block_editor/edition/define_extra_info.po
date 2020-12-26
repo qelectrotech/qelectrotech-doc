@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-10 14:43+0200\n"
+"PO-Revision-Date: 2020-12-20 22:27+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -49,8 +49,8 @@ msgstr "Požadované informace zadejte do textového pole."
 #: ../folio/title_block/title_block_editor/edition/define_extra_info.rst:27
 msgid "Press **OK** to accept and close `extra information PopUp window`_."
 msgstr ""
-"Stiskněte **OK** pro přijetí a zavření `vyskakovacího okna s doplňujícími"
-" údaji`_."
+"Stiskněte **OK** pro přijetí a zavření `vyskakovacího okna "
+"s doplňujícími údaji`_."
 
 #: ../folio/title_block/title_block_editor/edition/define_extra_info.rst:21
 msgid "Define extra information using keyboard shortcut"
@@ -66,14 +66,14 @@ msgstr ""
 #: ../folio/title_block/title_block_editor/edition/define_extra_info.rst:25
 msgid "Press ``Ctrl + y`` to display the `extra information PopUp window`_."
 msgstr ""
-"Stiskněte ``Ctrl + y`` pro zobrazení `vyskakovacího okna s doplňujícími"
-" údaji`_."
+"Stiskněte ``Ctrl + y`` pro zobrazení `vyskakovacího okna "
+"s doplňujícími údaji`_."
 
 #: ../folio/title_block/title_block_editor/edition/define_extra_info.rst:31
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu"
 " bar`_ section."
 msgstr ""
-"Další informace o klávesové zkratce pro QElectroTech najdete v části k"
-" `hlavní nabídce`_."
+"Další informace o klávesové zkratce pro QElectroTech najdete "
+"v části k `hlavní nabídce`_."
 

@@ -49,9 +49,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -434,7 +434,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -769,9 +769,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -1154,7 +1154,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -1419,7 +1419,7 @@
             
   <div class="section" id="search">
 <h1>Hledání<a class="headerlink" href="#search" title="Trvalý odkaz na tento nadpis">¶</a></h1>
-<p>Pro snadné vyhledání informací uvnitř <a class="reference external" href="../schema/index.html">výkresu</a> poskytuje QElectroTechfunkci vyhledávání. Tato funkce umožňuje automaticky najít <a class="reference external" href="../element/index.html">listy</a>,`prvky`_, <a class="reference external" href="../folio/index.html">vodiče</a> a <a class="reference external" href="../conductor/index.html">textová pole (prostý text)</a>, které obsahujířetězec v jedné z vlastností.</p>
+<p>Pro snadné vyhledání informací uvnitř <a class="reference external" href="../folio/index.html">výkresu</a> poskytuje QElectroTech funkci vyhledávání. Tato funkce umožňuje automaticky najít <a class="reference external" href="../schema/text/index.html">listy</a>, <a class="reference external" href="../conductor/index.html">prvky</a>, <a class="reference external" href="../element/index.html">vodiče</a> a <a class="reference external" href="../schema/index.html">textová pole (prostý text)</a>, které obsahují řetězec v jedné z vlastností.</p>
 <p>Pro nalezení předmětu, který obsahuje informace:</p>
 <blockquote>
 <div><ol class="arabic">
@@ -1432,20 +1432,20 @@
 </div></blockquote>
 </li>
 <li><p>Do textového pole z nabídky napište řetězec, který se má hledat přes <a class="reference external" href="../project/index.html">projekt</a>.</p></li>
-<li><p>Stiskněte <code class="docutils literal notranslate"><span class="pre">Intro</span></code> a QElectroTech přiblíží a zobrazí první předmětze seznamu nálezů v <a class="reference external" href="../interface/workspace.html">pracovní ploše</a>.</p></li>
-<li><p>Stiskněte tlačítko <img alt="icon_next" src="../_images/go-bottom1.png" /> nebo <img alt="icon_previous" src="../_images/go-top1.png" /> pro přiblížení dalšího nebo předchozíhopředmětu v seznamu nálezů.</p></li>
+<li><p>Stiskněte <code class="docutils literal notranslate"><span class="pre">Intro</span></code> a QElectroTech přiblíží a zobrazí první předmět ze seznamu nálezů v <a class="reference external" href="../interface/workspace.html">pracovní ploše</a>.</p></li>
+<li><p>Stiskněte tlačítko <img alt="icon_next" src="../_images/go-bottom1.png" /> nebo <img alt="icon_previous" src="../_images/go-top1.png" /> pro přiblížení dalšího nebo předchozího předmětu v seznamu nálezů.</p></li>
 <li><p>Pro obnovení vyhledávání stiskněte tlačítko <img alt="icon_actualize" src="../_images/view-refresh4.png" />.</p></li>
 </ol>
 </div></blockquote>
 <div class="admonition note">
 <p class="admonition-title">Poznámka</p>
-<p>Pokud se <a class="reference external" href="../interface/search_menu.html">nabídka vyhledávání</a> nezobrazí, lze ji zobrazit přes položku nabídky ** Úpravy &gt;Hledat/Nahradit** nebo pomocí klávesové zkratky <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">f</span></code>.</p>
+<p>Pokud se <a class="reference external" href="../interface/search_menu.html">nabídka vyhledávání</a> nezobrazí, lze ji zobrazit přes položku nabídky ** Úpravy &gt; Hledat/Nahradit** nebo pomocí klávesové zkratky <code class="docutils literal notranslate"><span class="pre">Ctrl</span> <span class="pre">+</span> <span class="pre">f</span></code>.</p>
 </div>
-<p>QElectrotech poskytuje také některé pokročilé vlastnosti pro vyhledávání. Před vyhledáváním lze stanovit filtr, který zmenší seznam nálezůpodle následujících hledisek:</p>
+<p>QElectrotech poskytuje také některé pokročilé vlastnosti pro vyhledávání. Před vyhledáváním lze stanovit filtr, který zmenší seznam nálezů podle následujících hledisek:</p>
 <blockquote>
 <div><ul class="simple">
 <li><p><a class="reference external" href="../schema/text/index.html">Textová pole (prostý text)</a>.</p></li>
-<li><p>Celá slova (<a class="reference external" href="../schema/text/index.html">textová pole (prostý text)</a>, <a class="reference external" href="../element/properties/index.html">vlastnosti vodiče</a>, <a class="reference external" href="../folio/properties/index.html">vlastnosti prvku</a>, <a class="reference external" href="../conductor/properties/index.html">vlastnosti listu</a>)</p></li>
+<li><p>Celá slova (<a class="reference external" href="../folio/properties/index.html">textová pole (prostý text)</a>, <a class="reference external" href="../conductor/properties/index.html">vlastnosti vodiče</a>, <a class="reference external" href="../schema/text/index.html">vlastnosti prvku</a>, <a class="reference external" href="../element/properties/index.html">vlastnosti listu</a>)</p></li>
 </ul>
 </div></blockquote>
 <p>Pro vytvoření pokročilého vyhledávání:</p>
@@ -1460,7 +1460,7 @@
 </div>
 </div></blockquote>
 </li>
-<li><p>Vyberte typ prohledávaného textu (<strong>Prostý text</strong> nebo <strong>Celáslova</strong>) v rozbalovacím seznamu na pravé straně textového pole.</p></li>
+<li><p>Vyberte typ prohledávaného textu (<strong>Prostý text</strong> nebo <strong>Celá slova</strong>) v rozbalovacím seznamu na pravé straně textového pole.</p></li>
 <li><p>Klepněte na tlačítko, které vyberte <strong>Rozlišovat velká a malá písmena</strong>.</p></li>
 <li><p>Odtud postupujte podle pokynů pro běžné vyhledávání.</p></li>
 </ol>

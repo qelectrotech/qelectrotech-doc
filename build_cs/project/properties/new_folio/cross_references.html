@@ -49,9 +49,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -434,7 +434,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -773,9 +773,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -1158,7 +1158,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -1423,24 +1423,24 @@
             
   <div class="section" id="cross-references-properties">
 <h1>Vlastnosti křížových odkazů<a class="headerlink" href="#cross-references-properties" title="Trvalý odkaz na tento nadpis">¶</a></h1>
-<p>Hlavní výhodou použití <a class="reference external" href="../../../element/type/element_slave.html">nadřízených</a> a <a class="reference external" href="../../../element/index.html">podřízených</a> prvků jemožnost vytvoření <cite>křížových odkazů (odkazů)</cite> _ mezi <a class="reference external" href="../../../element/cross_reference/index.html">prvky</a>. Vv případě <a class="reference external" href="../../../element/type/element_master.html">stanovení křížových odkazů</a> poskytuje QElectroTechmožnost automatického zobrazení některých informacípropojených <a class="reference external" href="../../../interface/workspace.html">nadřízených</a> a <a class="reference external" href="../../../schema/element/references/index.html">podřízených</a> prvků v <cite>pracovní ploše</cite>.</p>
-<p>Vymezení nebo vlastnosti křížových odkazů uvnitř projektu mohou býtpřizpůsobeny uživatelem ve <a class="reference external" href="../../../project/properties/index.html">vlastnostech projektu</a>.</p>
+<p>Hlavní výhodou použití <a class="reference external" href="../../../element/type/element_master.html">nadřízených</a> a <a class="reference external" href="../../../element/cross_reference/index.html">podřízených</a> prvků je možnost vytvoření <cite>křížových odkazů (odkazů)</cite> _ mezi <a class="reference external" href="../../../interface/workspace.html">prvky</a>. V v případě <a class="reference external" href="../../../element/type/element_slave.html">stanovení křížových odkazů</a> poskytuje QElectroTech možnost automatického zobrazení některých informací propojených <a class="reference external" href="../../../schema/element/references/index.html">nadřízených</a> a <a class="reference external" href="../../../element/index.html">podřízených</a> prvků v <cite>pracovní ploše</cite>.</p>
+<p>Vymezení nebo vlastnosti křížových odkazů uvnitř projektu mohou být přizpůsobeny uživatelem ve <a class="reference external" href="../../../project/properties/index.html">vlastnostech projektu</a>.</p>
 <div class="admonition note">
 <p class="admonition-title">Poznámka</p>
-<p>QElectroTech umožňuje stanovit <a class="reference internal" href="#cross-references-properties">vlastnosti křížových odkazů</a> automaticky během <a class="reference external" href="../../../project/index.html">vytvoření projektu</a>. Další informace o tom, jak některé <a class="reference internal" href="#cross-references-properties">vlastnosti křížových odkazů</a> od` projektu`_ k <a class="reference external" href="../../../preferences/new_project/cross_references_settings.html">projektu</a> standardizovat, najdete v části <a class="reference external" href="../../../element/properties/index.html">nastavení křížových odkazů v QElectroTechu</a>.</p>
+<p>QElectroTech umožňuje stanovit <a class="reference internal" href="#cross-references-properties">vlastnosti křížových odkazů</a> automaticky během <a class="reference external" href="../../../preferences/new_project/cross_references_settings.html">vytvoření projektu</a>. Další informace o tom, jak některé <a class="reference internal" href="#cross-references-properties">vlastnosti křížových odkazů</a> od <a class="reference external" href="../../../project/index.html">projektu</a> k <a class="reference external" href="../../../project/new_project.html">projektu</a> standardizovat, najdete v části <a class="reference external" href="../../../element/properties/index.html">nastavení křížových odkazů v QElectroTechu</a>.</p>
 </div>
-<p>Karta <strong>Křížové odkazy</strong> v části s nastavením <strong>Nový list</strong> umožňujestanovení některých <a class="reference external" href="../../../element/properties/index.html">vlastností křížových odkazů</a> předem:</p>
+<p>Karta <strong>Křížové odkazy</strong> v části s nastavením <strong>Nový list</strong> umožňuje stanovení některých <a class="reference external" href="../../../element/properties/index.html">vlastností křížových odkazů</a> předem:</p>
 <blockquote>
 <div><ul class="simple">
 <li><p>Typ křížových odkazů <a class="reference external" href="../../../element/type/element_master.html">Nadřízený prvek</a> (cívka, ochrana nebo přepínač/tlačítko).</p></li>
-<li><p>Štítek křížových odkazů (nadřízený a podřízený štítek křížových odkazůk zobrazení v <a class="reference external" href="../../../interface/workspace.html">pracovní ploše</a>)</p></li>
-<li><p>Poloha znázornění štítku křížového odkazu (pod štítkemprvku nebo v zápatí).</p></li>
+<li><p>Štítek křížových odkazů (nadřízený a podřízený štítek křížových odkazů k zobrazení v <a class="reference external" href="../../../interface/workspace.html">pracovní ploše</a>)</p></li>
+<li><p>Poloha znázornění štítku křížového odkazu (pod štítkem prvku nebo v zápatí).</p></li>
 <li><p>Volba zobrazení <a class="reference external" href="../../../element/cross_reference/index.html">křížových odkazů</a></p></li>
 </ul>
 </div></blockquote>
 <div class="admonition note">
 <p class="admonition-title">Poznámka</p>
-<p>Štítek křížového odkazu lze vytvořit pomocí obecných proměnných z`nadřízených`_ a` podřízených`_ prvků.</p>
+<p>Štítek křížového odkazu lze vytvořit pomocí obecných proměnných z <a class="reference external" href="../../../element/type/element_master.html">nadřízených</a> a <a class="reference external" href="../../../element/type/element_slave.html">podřízených</a> prvků.</p>
 </div>
 <div class="figure align-center" id="id3">
 <img alt="../../../_images/qet_project_cross_references_prop.png" src="../../../_images/qet_project_cross_references_prop.png" />
@@ -1458,7 +1458,7 @@
 </div></blockquote>
 <div class="admonition note">
 <p class="admonition-title">Poznámka</p>
-<p>Všechny předem stanovené vlastnosti křížových odkazů stanovené ve vyskakovacím okně s nastavením QElectroTechu budou během <a class="reference external" href="../../../project/properties/new_folio/index.html">vytváření projektu`_automaticky stanoveny ve `vlastnostech projektu</a>. <a class="reference internal" href="#cross-references-properties">Vlastnosti křížových odkazů</a> najdete v části <a class="reference external" href="../../../project/properties/new_folio/cross_references.html">Nový list</a> v <a class="reference external" href="../../../project/new_project.html">kartě s křížovými odkazy</a>.</p>
+<p>Všechny předem stanovené vlastnosti křížových odkazů stanovené ve vyskakovacím okně s nastavením QElectroTechu budou během <a class="reference external" href="../../../project/properties/new_folio/cross_references.html">vytváření projektu`_automaticky stanoveny ve `vlastnostech projektu</a>. <a class="reference internal" href="#cross-references-properties">Vlastnosti křížových odkazů</a> najdete v části <a class="reference external" href="../../../project/properties/index.html">Nový list</a> v <a class="reference external" href="../../../project/new_project.html">kartě s křížovými odkazy</a>.</p>
 </div>
 </div>
 

@@ -49,9 +49,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -434,7 +434,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -773,9 +773,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -1158,7 +1158,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -1423,11 +1423,11 @@
             
   <div class="section" id="bind-master-item">
 <h1>Provázání nadřízeného prvku<a class="headerlink" href="#bind-master-item" title="Trvalý odkaz na tento nadpis">¶</a></h1>
-<p>Může se stát, že v <a class="reference external" href="../../../project/index.html">projektu</a> se má znázornit jedno zařízenípomocí různých <a class="reference external" href="../../../element/type/element_master.html">prvků</a>, napájecí a řídicí podsoustavy a pomocnýchpodsoustav. Všechny tyto <a class="reference external" href="../../../element/cross_reference/index.html">prvky</a> se mají považovat za jedno zařízení.QElectroTech pracuje pro znázornění zařízení s <a class="reference external" href="../../../element/type/element_slave.html">nadřízenými</a> a <a class="reference external" href="../../../element/index.html">podřízenými</a> prvky, které jsou propojeny pomocí <a href="#id4"><span class="problematic" id="id5">`křížových odkazů`_</span></a> .</p>
-<p><a class="reference external" href="../../../element/type/element_slave.html">Nadřízený prvek</a> lze propojit s <a class="reference external" href="../../../element/type/element_master.html">podřízeným prvkem</a> pomocínásledující kroků:</p>
+<p>Může se stát, že v <a class="reference external" href="../../../element/type/element_slave.html">projektu</a> se má znázornit jedno zařízení pomocí různých <a class="reference external" href="../../../project/index.html">prvků</a>, napájecí a řídicí podsoustavy a pomocných podsoustav. Všechny tyto <a class="reference external" href="../../../element/cross_reference/index.html">prvky</a> se mají považovat za jedno zařízení. QElectroTech pracuje pro znázornění zařízení s <a class="reference external" href="../../../element/index.html">nadřízenými</a> a <a class="reference external" href="../../../element/type/element_master.html">podřízenými</a> prvky, které jsou propojeny pomocí <a href="#id4"><span class="problematic" id="id5">`křížových odkazů`_</span></a>.</p>
+<p><a class="reference external" href="../../../element/type/element_slave.html">Nadřízený prvek</a> lze propojit s <a class="reference external" href="../../../element/type/element_master.html">podřízeným prvkem</a> pomocí následující kroků:</p>
 <blockquote>
 <div><ol class="arabic">
-<li><p>Vyberte <a class="reference external" href="../../../interface/workspace.html">podřízený prvek</a>, který se má propojit, ve <a class="reference external" href="../../../element/type/element_slave.html">sbírce projektu</a> nebo v <a class="reference external" href="../../../element/collection/project_collection.html">pracovní ploše</a>.</p></li>
+<li><p>Vyberte <a class="reference external" href="../../../element/type/element_slave.html">podřízený prvek</a>, který se má propojit, ve <a class="reference external" href="../../../interface/workspace.html">sbírce projektu</a> nebo v <a class="reference external" href="../../../element/collection/project_collection.html">pracovní ploše</a>.</p></li>
 <li><p>Klepněte pravým tlačítkem myši na vybraný <a class="reference external" href="../../../element/index.html">prvek</a> a vyberte volbu <strong>Upravit prvek</strong>.</p>
 <blockquote>
 <div><div class="figure align-center" id="id1">
@@ -1445,7 +1445,7 @@
 </div></blockquote>
 </li>
 <li><p>Vyhledejte a vyberte požadovaný <a class="reference external" href="../../../element/type/element_master.html">nadřízený prvek</a> v tabulce dostupných nadřízených prvků.</p></li>
-<li><p>Klepněte pravým tlačítkem myši na <a class="reference external" href="../../../element/type/element_slave.html">nadřízený prvek</a> a vyberte volbu**Spojit  prvek** pro propojení <a class="reference external" href="../../../element/type/element_master.html">nadřízeného prvku</a> s <a href="#id6"><span class="problematic" id="id7">`podřízeným prvkem`_</span></a>.</p>
+<li><p>Klepněte pravým tlačítkem myši na <a class="reference external" href="../../../element/type/element_slave.html">nadřízený prvek</a> a vyberte volbu <strong>Spojit  prvek</strong> pro propojení <a class="reference external" href="../../../element/type/element_master.html">nadřízeného prvku</a> s <a href="#id6"><span class="problematic" id="id7">`podřízeným prvkem`_</span></a>.</p>
 <blockquote>
 <div><div class="figure align-center" id="id3">
 <img alt="schema/element/references/../../../images/qet_element_slave_link.png" src="schema/element/references/../../../images/qet_element_slave_link.png" />

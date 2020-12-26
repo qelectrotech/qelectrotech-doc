@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-29 22:00+0100\n"
+"PO-Revision-Date: 2020-12-20 20:06+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgid ""
 "The conductor properties window can be displayed from `menu bar`_, from "
 "`workspace`_ and using the corresponding keyboard shortcut."
 msgstr ""
-"Okno s vlastnostmi vodiče lze zobrazit přes `hlavní nabídku`_, z"
+"Okno s vlastnostmi vodiče lze zobrazit přes `hlavní nabídku`_, z "
 "`pracovní plochy`_ a pomocí odpovídající klávesové zkratky."
 
 #: ../conductor/properties/display_conductor_properties.rst:11
@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../conductor/properties/display_conductor_properties.rst:19
 msgid "Figure: QElectroTech Edit menu"
-msgstr "Obrázek: Nabídka pro úpravy QElectroTechu"
+msgstr "Obrázek: Nabídka pro úpravy v QElectroTechu"
 
 #: ../conductor/properties/display_conductor_properties.rst:22
 msgid "Display conductor properties from workspace"
@@ -61,8 +61,8 @@ msgstr "Zobrazení vlastností vodiče z pracovní plochy"
 msgid ""
 "Right click on the `conductor`_ which `properties`_ should be displayed."
 msgstr ""
-"Klepněte pravým tlačítkem myši na `vodič`_, jehož `vlastnosti`_ se mají"
-" zobrazit."
+"Klepněte pravým tlačítkem myši na `vodič`_, jehož `vlastnosti`_ se "
+"mají zobrazit."
 
 #: ../conductor/properties/display_conductor_properties.rst:25
 msgid ""
@@ -90,14 +90,13 @@ msgstr ""
 #: ../conductor/properties/display_conductor_properties.rst:38
 msgid "Press ``Ctrl + e`` to display the conductor properties PopUP window."
 msgstr ""
-"Pro zobrazení vyskakovacího okna s vlastnostmi vodiče"
-"stiskněte ``Ctrl + e``."
+"Pro zobrazení vyskakovacího okna s vlastnostmi vodiče stiskněte ``Ctrl + e``."
 
 #: ../conductor/properties/display_conductor_properties.rst:42
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to "
 "`menu bar`_ section."
 msgstr ""
-"Další informace o klávesových zkratkách v QElectroTechu najdete v části k"
-" `hlavní nabídce`_."
+"Další informace o klávesových zkratkách v QElectroTechu najdete "
+"v části k `hlavní nabídce`_."
 

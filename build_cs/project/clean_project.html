@@ -49,9 +49,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -434,7 +434,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -769,9 +769,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -1154,7 +1154,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -1419,7 +1419,7 @@
             
   <div class="section" id="clean-project">
 <h1>Vyčištění projektu<a class="headerlink" href="#clean-project" title="Trvalý odkaz na tento nadpis">¶</a></h1>
-<p>QElectroTech ukládá v databázi projektu každé <a class="reference external" href="../folio/title_block/index.html">záhlaví výkresu</a>,`vodič`_, <a class="reference external" href="../folio/index.html">prvek</a> atd., který je zaveden uživatelem. Pokuduživatel smaže jeden <a class="reference external" href="../conductor/index.html">prvek</a> nebo nahradí <a class="reference external" href="../element/index.html">záhlaví výkresu</a> v`listu`_, <a href="#id2"><span class="problematic" id="id3">`prvek`_</span></a> nebo <a href="#id4"><span class="problematic" id="id5">`záhlaví výkresu`_</span></a> budou smazány z`listu`_ ale stále budou uloženy v databázi projektu.</p>
+<p>QElectroTech ukládá v databázi projektu každé <a class="reference external" href="../conductor/index.html">záhlaví výkresu</a>, <a class="reference external" href="../folio/index.html">vodič</a>, <a class="reference external" href="../element/index.html">prvek</a> atd., který je zaveden uživatelem. Pokud uživatel smaže jeden <a class="reference external" href="../folio/title_block/index.html">prvek</a> nebo nahradí <a href="#id2"><span class="problematic" id="id3">`záhlaví výkresu`_</span></a> v <a href="#id4"><span class="problematic" id="id5">`listu`_</span></a>, <a href="#id6"><span class="problematic" id="id7">`prvek`_</span></a> nebo <a href="#id8"><span class="problematic" id="id9">`záhlaví výkresu`_</span></a> budou smazány z <a href="#id10"><span class="problematic" id="id11">`listu`_</span></a> ale stále budou uloženy v databázi projektu.</p>
 <p>QElectroTech umožňuje vyčištění databáze projektu přes <a class="reference external" href="../interface/menu_bar.html">hlavní nabídku</a>.</p>
 <blockquote>
 <div><ol class="arabic simple">

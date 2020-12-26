@@ -49,9 +49,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -434,7 +434,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -771,9 +771,9 @@
 <li class="toctree-l3"><a class="reference internal" href="../../basics/launch_linux.html#launch-qelectrotech-from-applications-menu">Spuštění QElectroTechu z nabídky programů</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_windows.html">Launch QElectroTech on Windows</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_mac.html">Launch QElectroTech on Mac</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../basics/help.html">Nabídka s nápovědou k QElectroTechu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_windows.html">Spuštění QElectroTechu v OS Windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../basics/launch_mac.html">Spuštění QElectroTechu v macOS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../basics/help.html">Nabídka s nápovědou ke QElectroTechu</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="../../basics/help.html#tooltips">Nástrojové rady</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../basics/help.html#about-qelectrotech">O programu QElectroTech</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../basics/help.html#online-manual">Příručka na internetu</a></li>
@@ -1156,7 +1156,7 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../conductor/properties/conductor_type.html">Typ vodiče</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="../../conductor/properties/conductor_type.html#multiline-conductor">Vícežilový vodič</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../../conductor/properties/conductor_type.html#single-line-conductor">Jednodrátový vodič</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../conductor/properties/conductor_type.html#single-line-conductor">Jednožilový vodič</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="../../conductor/properties/conductor_appearance.html">Vzhled vodiče</a></li>
@@ -1421,16 +1421,16 @@
             
   <div class="section" id="master-element">
 <h1>Nadřízený prvek<a class="headerlink" href="#master-element" title="Trvalý odkaz na tento nadpis">¶</a></h1>
-<p>Nadřízené prvky představují zařízení v příkazovém obvodu, jako jsoucívka relé nebo stykače.</p>
+<p>Nadřízené prvky představují zařízení v příkazovém obvodu, jako jsou cívka relé nebo stykače.</p>
 <div class="figure align-center" id="id1">
 <img alt="../../_images/qet_element_master.png" src="../../_images/qet_element_master.png" />
 <p class="caption"><span class="caption-text">Obrázek: Nadřízený prvek v QElectroTechu</span><a class="headerlink" href="#id1" title="Permalink k tomuto obrázku">¶</a></p>
 </div>
-<p>Pro nadřízený prvek existují dva typy proměnných, obecné proměnné,které jsou společné pro všechny typy prvků a jsou spravovány vnitřněQElectroTechem, a zvláštní proměnné pro tento typ prvku.</p>
-<p>QElectroTech umožňuje stanovit hodnoty proměnných nadřízeného prvku v panelu**Vlastnosti výběru**. QElectroTech neumožňuje definovat novéproměnné. QElectroTech umožňuje zobrazení proměnných pouze u dynamických textůa stanovit hodnotu zvláštních proměnných.</p>
+<p>Pro nadřízený prvek existují dva typy proměnných, obecné proměnné, které jsou společné pro všechny typy prvků a jsou spravovány vnitřně QElectroTechem, a zvláštní proměnné pro tento typ prvku.</p>
+<p>QElectroTech umožňuje stanovit hodnoty proměnných nadřízeného prvku v panelu <strong>Vlastnosti výběru</strong>. QElectroTech neumožňuje definovat nové proměnné. QElectroTech umožňuje zobrazení proměnných pouze u dynamických textů a stanovit hodnotu zvláštních proměnných.</p>
 <div class="admonition note">
 <p class="admonition-title">Poznámka</p>
-<p>Pokud se <a href="#id2"><span class="problematic" id="id3">`panel s vlastnostmi výběr`_</span></a> nezobrazí, lze jej zobrazit přes**Nastavení &gt; Zobrazení &gt; Vlastnosti výběru**.</p>
+<p>Pokud se <a href="#id2"><span class="problematic" id="id3">`panel s vlastnostmi výběr`_</span></a> nezobrazí, lze jej zobrazit přes <strong>Nastavení &gt; Zobrazení &gt; Vlastnosti výběru</strong>.</p>
 </div>
 <p>Obecné proměnné</p>
 <blockquote>
@@ -1447,20 +1447,20 @@
 <p>Zvláštní proměnné</p>
 <blockquote>
 <div><ul class="simple">
-<li><p><strong>Vzorec štítku</strong>: Definice vzorce, který stanovuje hodnotu <a href="#id1"><span class="problematic" id="id2">**</span></a>štítku**Pokud je během vytváření svorky vybrán vzor automatického číslování,QElectroTech stanoví jako výchozí vzorec <code class="docutils literal notranslate"><span class="pre">%</span> <span class="pre">autnum</span></code>.</p></li>
+<li><p><strong>Vzorec štítku</strong>: Definice vzorce, který stanovuje hodnotu <strong>štítku</strong> Pokud je během vytváření svorky vybrán vzor automatického číslování, QElectroTech stanoví jako výchozí vzorec <code class="docutils literal notranslate"><span class="pre">%</span> <span class="pre">autnum</span></code>.</p></li>
 <li><p><strong>Štítek</strong>: Vnitřní proměnná, která se používá ke stanovení kódu prvku.</p></li>
-<li><p><strong>Poznámka</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Textový popis</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Číslo článku</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Výrobce</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Číslo objednávky</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Dodavatel</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Pomocný blok 1</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Pomocný blok 2</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Vnitřní číslo</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Umístění</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Funkce</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
-<li><p><strong>Napětí/Protokol</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jinýchproměnných).</p></li>
+<li><p><strong>Poznámka</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Textový popis</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Číslo článku</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Výrobce</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Číslo objednávky</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Dodavatel</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Pomocný blok 1</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Pomocný blok 2</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Vnitřní číslo</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Umístění</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Funkce</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
+<li><p><strong>Napětí/Protokol</strong>: Vnitřní proměnná, nemůže to být vzorec (skupina jiných proměnných).</p></li>
 </ul>
 </div></blockquote>
 </div>

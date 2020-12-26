@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-24 19:55+0200\n"
+"PO-Revision-Date: 2020-12-22 23:21+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgid ""
 "QElectroTech provides the possibility to define a string and replace if "
 "for a new defining some conditions:"
 msgstr ""
-"QElectroTech poskytuje možnost stanovit řetězec a nahrazovat za nový"
+"QElectroTech poskytuje možnost stanovit řetězec a nahrazovat za nový "
 "při splnění určitých stanovených podmínek:"
 
 #: ../schema/replace/advanced_replace.rst:9
@@ -59,15 +59,15 @@ msgstr "Pro nahrazení textových informací v předmětech projektu:"
 #: ../schema/replace/advanced_replace.rst:21
 msgid "Press **advanced** button to display advanced replace PopUp window."
 msgstr ""
-"Stiskněte tlačítko ``Pokročilé`` pro zobrazení vyskakovacího okna pro"
-" pokročilé nahrazování."
+"Stiskněte tlačítko ``Pokročilé`` pro zobrazení vyskakovacího okna pro "
+"pokročilé nahrazování."
 
 #: ../schema/replace/advanced_replace.rst:22
 msgid ""
 "Define QElectroTech object type from **Who** combobox (Ex.: `Element`_)."
 msgstr ""
-"Stanovte typ předmětu QElectroTechu v rozbalovacím seznamu **Kdo**"
-" (například: `Prvek`_)."
+"Stanovte typ předmětu QElectroTechu v rozbalovacím seznamu **Kdo** "
+"(například: `Prvek`_)."
 
 #: ../schema/replace/advanced_replace.rst:27
 #: ../schema/replace/advanced_replace.rst:34
@@ -78,17 +78,16 @@ msgstr "Obrázek: Vyskakovací okno pro pokročilé nahrazování v QElectroTech
 #: ../schema/replace/advanced_replace.rst:29
 msgid "Define object property type from **What** combobox (Ex.: Manufacturer)."
 msgstr ""
-"Stanovte vlastnost předmětu v rozbalovacím seznamu **Co** (například:"
-" Výrobce)."
+"Stanovte vlastnost předmětu v rozbalovacím seznamu **Co** (například: "
+"Výrobce)."
 
 #: ../schema/replace/advanced_replace.rst:36
 msgid ""
 "Define the property value which should be replaced in the **Replace** "
 "text box (Ex.: SIEMENS)."
 msgstr ""
-"Stanovte hodnotu vlastnosti, která se má nahradit v textovém poli"
-" **Nahradit** "
-"(například: SIEMENS)."
+"Stanovte hodnotu vlastnosti, která se má nahradit v textovém poli "
+"**Nahradit** (například: SIEMENS)."
 
 #: ../schema/replace/advanced_replace.rst:37
 msgid ""
@@ -111,8 +110,8 @@ msgstr "Filtrujte ve stromu předmětů `listy`_, kde se má úkon použít."
 #: ../schema/replace/advanced_replace.rst:50
 msgid "Figure: QElectroTech search menu element properties PopUP window"
 msgstr ""
-"Obrázek: Vyskakovací okno s vlastnostmi prvku ve vyhledávací nabídce v"
-" QElectroTechu"
+"Obrázek: Vyskakovací okno s vlastnostmi prvku ve vyhledávací nabídce "
+"v QElectroTechu"
 
 #: ../schema/replace/advanced_replace.rst:52
 msgid "Press **Replace all** button to apply the replace action."

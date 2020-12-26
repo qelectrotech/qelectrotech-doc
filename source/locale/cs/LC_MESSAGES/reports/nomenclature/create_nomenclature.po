@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-31 14:28+0100\n"
+"PO-Revision-Date: 2020-12-22 21:19+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,54 +32,64 @@ msgid ""
 " `elements`_ / components. QElectroTech allows creating the nomenclature "
 "automatically."
 msgstr ""
+"`Projekt`_ je kombinace / sestava` prvků`_ / součástek, "
+"QElectroTech poskytuje funkci pro vytvoření seznamu součástí, známé také jako "
+"kusovník (BOM), který zobrazuje informace o různých `prvcích`_ / součástkách. "
+"QElectroTech umožňuje vytvoření seznamu součástí automaticky."
 
 #: ../reports/nomenclature/create_nomenclature.rst:14
 msgid "Figure: QElectroTech Bill Of Materials (BOM)"
-msgstr ""
+msgstr "Obrázek: Kusovník v QElectroTechu"
 
 #: ../reports/nomenclature/create_nomenclature.rst:16
 msgid "To create a project nomenclature:"
-msgstr ""
+msgstr "Pro vytvoření seznamu součástí projektu:"
 
 #: ../reports/nomenclature/create_nomenclature.rst:18
 msgid "Activate the folio where the nomenclature table has to be created."
-msgstr ""
+msgstr "Vyvolejte list, v němž má být tabulka se seznamem součástí vytvořena."
 
 #: ../reports/nomenclature/create_nomenclature.rst:19
 msgid ""
 "Select **Project > Add a nomenclature** to display the configuration "
 "PopUp window of the nomenclature creator."
 msgstr ""
+"Pro zobrazení vyskakovacího okna s nastavením seznamu součástí "
+"vyberte **Projekt > Přidat seznamu součástí**."
 
 #: ../reports/nomenclature/create_nomenclature.rst:24
 #: ../reports/nomenclature/create_nomenclature.rst:33
 #: ../reports/nomenclature/create_nomenclature.rst:50
 msgid "Figure: QElectroTech project menu"
-msgstr ""
+msgstr "Obrázek: Nabídka pro projekt v QElectroTechu"
 
 #: ../reports/nomenclature/create_nomenclature.rst:26
 msgid "Go to **Display** tab to define display table properties."
-msgstr ""
+msgstr "Pro stanovení vlastností zobrazené tabulky jděte do **Zobrazení**."
 
 #: ../reports/nomenclature/create_nomenclature.rst:27
 msgid "Define the **Table name** which will identify the table."
-msgstr ""
+msgstr "Stanovte **Název tabulky**, který tabulku odliší."
 
 #: ../reports/nomenclature/create_nomenclature.rst:28
 msgid ""
 "Configure the display table settings (header and table cells properties, "
 "auto adjustment of table size, etc.)."
 msgstr ""
+"Nastavte  zobrazení tabulky (vlastnosti záhlaví a buněk tabulky, "
+"automatické přizpůsobení velikosti tabulky atd.)."
 
 #: ../reports/nomenclature/create_nomenclature.rst:35
 msgid "Go to **Content** tab to define table columns."
-msgstr ""
+msgstr "Pro stanovení sloupců tabulky jděte do karty **Obsah**."
 
 #: ../reports/nomenclature/create_nomenclature.rst:36
 msgid ""
 "Modify the list of information to be displayed according the commands of "
 "the following table."
 msgstr ""
+"Upravte seznam informací, které se mají zobrazit, pomocí příkazů "
+"v následující tabulce."
 
 #: ../reports/nomenclature/create_nomenclature.rst:39
 msgid "Icon"

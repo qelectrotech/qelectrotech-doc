@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-10-31 16:22+0100\n"
+"PO-Revision-Date: 2020-12-21 22:35+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -55,15 +55,15 @@ msgstr "Pro zobrazení nebo skrytí panel pro výběr automatického číslován
 #: ../interface/panels/autonumbering_panel.rst:20
 msgid "Select **Settings > Display > Auto Numbering Selection** menu item."
 msgstr ""
-"Vyberte položku nabídky **Nastavení > Zobrazení > Výběr automatického"
-" číslování**."
+"Vyberte položku nabídky **Nastavení > Zobrazení > Výběr "
+"automatického číslování**."
 
 #: ../interface/panels/autonumbering_panel.rst:22
 msgid ""
 "The main function from the Auto Numbering Selection panel is to manage "
 "`auto numbering patterns`_."
 msgstr ""
-"Hlavní funkcí panelu automatický výběr číslování je správa"
+"Hlavní funkcí panelu automatický výběr číslování je správa "
 "`vzorů pro automatické číslování`_."
 
 #: ../interface/panels/autonumbering_panel.rst:24
@@ -91,8 +91,8 @@ msgid ""
 "For more information about how to use the Auto Numbering Select panel "
 "during folio addition, refer to `add folio`_ section."
 msgstr ""
-"Další informace o tom, jak používat panel pro výběr automatického číslování"
-"během přidávání listu najdete v části k `přidání listu`_."
+"Další informace o tom, jak používat panel pro výběr automatického "
+"číslování během přidávání listu najdete v části k `přidání listu`_."
 
 #: ../interface/panels/autonumbering_panel.rst:44
 msgid ""
