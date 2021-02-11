@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:37+0100\n"
+"PO-Revision-Date: 2021-01-21 12:12+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgid ""
 "block collection`_ to which the `title block`_ belongs."
 msgstr ""
 "Vlastnost rodičovské sbírky `záhlaví výkresu`_ stanovuje "
-"`sbírku záhlaví výkresu`_, ke kterému patří `záhlaví výkresu`_."
+"`sbírku záhlaví výkresu`_, ke kterému patří záhlaví výkresu."
 
 #: ../folio/title_block/properties/parent_collection.rst:10
 msgid ""
@@ -44,7 +44,7 @@ msgstr ""
 "výkresu`_. `Záhlaví výkresu`_ se `sbírkou záhlaví výkresů QET`_ "
 "jako rodičovskou sbírkou může číst pouze uživatel. `Záhlaví výkresu`_ "
 "s `vlastní sbírkou záhlaví výkresů`_ nebo `sbírkou záhlaví výkresů projektu`_ "
-"jako rodičovskou sbírkou může uživatel číst a zapisovat (`upraveno`_)."
+"jako rodičovskou sbírkou může uživatel číst a zapisovat (upravovat)."
 
 #: ../folio/title_block/properties/parent_collection.rst:15
 msgid ""

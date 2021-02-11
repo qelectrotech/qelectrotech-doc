@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 22:00+0100\n"
+"PO-Revision-Date: 2021-01-22 22:32+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 "Pro účinnější vytváření výkresů poskytuje QElectroTech "
 "funkci vícenásobného vložení. Tato funkce umožňuje `kopírování`_ "
-"a `vkládání` jednoho nebo více předmětů automatizujících některé "
+"a `vkládání`_ jednoho nebo více předmětů automatizujících některé "
 "činnosti stanovení předmětu."
 
 #: ../schema/multiple_paste.rst:13
@@ -52,7 +52,7 @@ msgid ""
 "`Copy`_ and `paste`_ an onject (`element`_, `conductor`_, `text field`_, "
 "etc.) multiple times in one action."
 msgstr ""
-"`Zkopírovat`_ a` vložit`_ předmět (`prvek`_, `vodič`_, `textové pole`_, "
+"`Zkopírovat`_ a `vložit`_ předmět (`prvek`_, `vodič`_, `textové pole`_, "
 "atd.) vícekrát v jednom kroku."
 
 #: ../schema/multiple_paste.rst:19

@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 22:49+0100\n"
+"PO-Revision-Date: 2021-01-21 10:41+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -54,8 +54,8 @@ msgid ""
 "At the case that the `project`_ has already been saved and wants to be "
 "saved as a different `project`_, different name and/or directory:"
 msgstr ""
-"V případě, že `projekt`_ již byl uložen a má být "
-"uložen jako jiný `projekt`_, jiný název a/nebo adresář:"
+"V případě, že `projekt`_ již byl uložen a má být uložen "
+"jako jiný projekt, jiný název a/nebo adresář:"
 
 #: ../project/save_project.rst:24
 msgid ""
@@ -123,6 +123,6 @@ msgid ""
 "Projects**."
 msgstr ""
 "QElectroTech umožňuje pravidelné vytváření záloh `projektu`_. "
-"Tato volba se nastavuje v ** Nastavení > Nastavit QElectroTech "
+"Tato volba se nastavuje v **Nastavení > Nastavit QElectroTech "
 "> Projekty**."
 

@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:20+0100\n"
+"PO-Revision-Date: 2021-01-20 21:20+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgstr "Obrázek: Nástroje v pruhu s nástroji v QElectroTechu"
 
 #: ../interface/toolbars.rst:22
 msgid "The different buttons from toolbar **Tools** are:"
-msgstr "Různá tlačítka na panelu nástrojů **Nástroje** jsou:"
+msgstr "Různá tlačítka v nástrojovém panelu **Nástroje** jsou:"
 
 #: ../interface/toolbars.rst:25 ../interface/toolbars.rst:69
 #: ../interface/toolbars.rst:101 ../interface/toolbars.rst:125
@@ -158,7 +158,7 @@ msgstr "Tisk"
 
 #: ../interface/toolbars.rst:37
 msgid "Print one or more folio of the current project"
-msgstr "Vytisknout jeden nebo více listů nynějšího projektu"
+msgstr "Vytiskne jeden nebo více listů nynějšího projektu"
 
 #: ../interface/toolbars.rst:37
 msgid "``Ctrl + p``"
@@ -285,7 +285,7 @@ msgid ""
 "Select **Settings > display > Tools** menu item to display or hidden the "
 "toolbar **Tools**."
 msgstr ""
-"Pro zobrazení nebo skrytí panelu nástrojů **Nástroje** "
+"Pro zobrazení nebo skrytí nástrojového panelu **Nástroje** "
 "vyberte položku nabídky **Nastavení > Zobrazení > Nástroje**."
 
 #: ../interface/toolbars.rst:59
@@ -298,7 +298,7 @@ msgstr "Obrázek: Pruh s nástroji pro zobrazení v QElectroTechu"
 
 #: ../interface/toolbars.rst:66
 msgid "The different buttons from toolbar **Display** are:"
-msgstr "Různá tlačítka na panelu nástrojů **Pohled** jsou:"
+msgstr "Různá tlačítka v nástrojovém panelu **Pohled** jsou:"
 
 #: ../interface/toolbars.rst:71
 msgid "Select"
@@ -404,7 +404,7 @@ msgid ""
 "Select **Settings > Display > Display** menu item to display or hidden "
 "the toolbar **Display**."
 msgstr ""
-"Pro zobrazení nebo skrytí panelu nástrojů **Zobrazení** vyberte "
+"Pro zobrazení nebo skrytí nástrojového panelu **Zobrazení** vyberte "
 "položku nabídky **Nastavení > Zobrazení > Zobrazení**."
 
 #: ../interface/toolbars.rst:91
@@ -417,7 +417,7 @@ msgstr "Obrázek: Pruh s nástroji pro výkres v QElectroTechu"
 
 #: ../interface/toolbars.rst:98
 msgid "The different buttons from toolbar **Diagram** are:"
-msgstr "Různá tlačítka na panelu nástrojů **Výkres** jsou:"
+msgstr "Různá tlačítka v nástrojovém panelu **Výkres** jsou:"
 
 #: ../interface/toolbars.rst:103
 msgid "Folio properties"
@@ -468,7 +468,8 @@ msgid ""
 "Select **Settings > Display > Diagram** menu item to display or hidden "
 "the toolbar **Diagram**."
 msgstr ""
-"Pro zobrazení nebo skrytí panelu nástrojů **Výkres** vyberte položku nabídky "
+"Pro zobrazení nebo skrytí nástrojového panelu **Výkres** vyberte položku"
+" nabídky "
 "**Nastavení > Zobrazení > Výkres**."
 
 #: ../interface/toolbars.rst:115
@@ -481,7 +482,7 @@ msgstr "Obrázek: Pruh s nástroji pro přidání v QElectroTechu"
 
 #: ../interface/toolbars.rst:122
 msgid "The different buttons from toolbar **Add** are:"
-msgstr "Různá tlačítka na panelu nástrojů **Přidání** jsou:"
+msgstr "Různá tlačítka v nástrojovém panelu **Přidání** jsou:"
 
 #: ../interface/toolbars.rst:127
 msgid "Add a textfield"
@@ -560,7 +561,8 @@ msgid ""
 "Select **Settings > Display > Add** menu item to display or hidden the "
 "toolbar **Add**."
 msgstr ""
-"Pro zobrazení nebo skrytí panelu nástrojů **Přidání** vyberte položku nabídky "
+"Pro zobrazení nebo skrytí nástrojového panelu **Přidání** vyberte položku"
+" nabídky "
 "**Nastavení > Zobrazení > Přidání**."
 
 #: ../interface/toolbars.rst:145
@@ -573,7 +575,7 @@ msgstr "Obrázek: Pruh s nástroji pro hloubku v QElectroTechu"
 
 #: ../interface/toolbars.rst:152
 msgid "The different buttons from toolbar **Depth** are:"
-msgstr "Různá tlačítka na panelu nástrojů **Hloubka** jsou:"
+msgstr "Různá tlačítka v nástrojovém panelu **Hloubka** jsou:"
 
 #: ../interface/toolbars.rst:157
 msgid "Bring forward"
@@ -644,6 +646,7 @@ msgid ""
 "Select **Settings > Display > Depth** menu item to display or hidden the "
 "toolbar **Depth**."
 msgstr ""
-"Pro zobrazení nebo skrytí panelu nástrojů **Hloubka** vyberte položku nabídky "
+"Pro zobrazení nebo skrytí nástrojového panelu **Hloubka** vyberte položku"
+" nabídky "
 "**Nastavení > Zobrazení > Hloubka**."
 

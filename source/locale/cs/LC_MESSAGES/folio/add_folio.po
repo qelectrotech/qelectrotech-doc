@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:04+0100\n"
+"PO-Revision-Date: 2021-01-21 11:53+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgid ""
 "Click on the **Add folio** icon |folio-new| from right side of the "
 "`folios tabs bar`_ to add a new `folio`_ to the active `project`_."
 msgstr ""
-"Klepněte na ikonu **Přidat list** |list-nový| z pravé strany "
+"Klepněte na ikonu **Přidat list** |folio-new| z pravé strany "
 "`pruhu karet s listy`_ pro přidání nového `listu`_ "
 "do činného `projektu`_."
 

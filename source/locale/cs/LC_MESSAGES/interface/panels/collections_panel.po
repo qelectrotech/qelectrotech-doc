@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:34+0100\n"
+"PO-Revision-Date: 2021-01-20 21:24+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgid ""
 "Manage `user`_ collection (Create, edit and delete elements from the "
 "collection)."
 msgstr ""
-"Spravovat sbírku `uživatel`_ (vytvářet, upravovat a mazat prvky "
+"Spravovat `vlastní`_ sbírku (vytvářet, upravovat a mazat prvky "
 "ve sbírce)."
 
 #: ../interface/panels/collections_panel.rst:22

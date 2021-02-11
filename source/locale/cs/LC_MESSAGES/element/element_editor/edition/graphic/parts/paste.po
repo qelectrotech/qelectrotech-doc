@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:53+0100\n"
+"PO-Revision-Date: 2021-01-21 21:36+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgid ""
 "`cut part`_ section to check how multiples `parts`_ can be copied or cut."
 msgstr ""
 "Současně lze vložit více `částí`_ . Zkontrolujte část `kopírovat část`_ "
-"nebo `vyjmout část`_, abyste měli vládu nad tím, kolik `částí`_ lze "
+"nebo `vyjmout část`_, abyste měli vládu nad tím, kolik částí lze "
 "zkopírovat nebo vyjmout."
 
 #: ../element/element_editor/edition/graphic/parts/paste.rst:16
@@ -122,6 +122,6 @@ msgid ""
 msgstr ""
 "Postup stanovený v této části umožňuje vložení `částí`_  ze zkopírované "
 "nebo vyjmuté polohy `části`_ pouze na vhodný bod mřížky. Abyste mohli "
-"vybrat místo, kam se má `část`_ vložit, podívejte se na část "
+"vybrat místo, kam se má část vložit, podívejte se na část "
 "`Vložit do oblasti`_."
 

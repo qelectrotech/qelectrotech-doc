@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:45+0100\n"
+"PO-Revision-Date: 2021-01-21 21:18+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgid ""
 "The Parts panel lists all `parts`_ (`lines`_, `terminals`_, "
 "`rectangles`_, `dynamic texts`_, etc.) which make up the `element`_."
 msgstr ""
-"Panel Části uvádí všechny `části`_ (`čáry`_, `svorky`_, "
+"Panel **Části** uvádí všechny `části`_ (`čáry`_, `svorky`_, "
 "`obdélníky`_, `dynamické texty`_ atd.), které tvoří `prvek`_."
 
 #: ../element/element_editor/interface/panels/parts.rst:13

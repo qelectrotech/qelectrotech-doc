@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:39+0100\n"
+"PO-Revision-Date: 2021-01-21 21:16+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid ""
 "In general, these buttons have its counterpart at one of the menus from "
 "the `menu bar`_."
 msgstr ""
-"Kromě různých `nabídek`_ poskytuje QElectroTech také "
+"Kromě různých nabídek poskytuje QElectroTech také "
 "panely nástrojů. Panely nástrojů jsou skupiny tlačítek s ikonami, "
 "které spouštějí činnosti. Obecně mají tato tlačítka protějšek "
 "v jedné z nabídek `hlavní nabídky`_."
@@ -265,7 +265,7 @@ msgstr "Informace"
 
 #: ../element/element_editor/interface/toolbars.rst:88
 msgid "Edit name and information of the element"
-msgstr "Upravit název a údaje o prvku"
+msgstr "Upravení názvu a údajů o prvku"
 
 #: ../element/element_editor/interface/toolbars.rst:88
 msgid "``Ctrl + e``"
@@ -313,7 +313,7 @@ msgstr "Čára"
 
 #: ../element/element_editor/interface/toolbars.rst:110
 msgid "Add line to the workspace"
-msgstr "Přidat čáru do pracovní plochy"
+msgstr "Přidá čáru do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:110
 msgid "|line|"
@@ -325,7 +325,7 @@ msgstr "Obdélník"
 
 #: ../element/element_editor/interface/toolbars.rst:112
 msgid "Add rectangle to the workspace"
-msgstr "Přidat obdélník do pracovní plochy"
+msgstr "Přidá obdélník do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:112
 msgid "|rectangle|"
@@ -337,7 +337,7 @@ msgstr "Elipsa"
 
 #: ../element/element_editor/interface/toolbars.rst:114
 msgid "Add ellipse to the workspace"
-msgstr "Přidat elipsu do pracovní plochy"
+msgstr "Přidá elipsu do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:114
 msgid "|ellipse|"
@@ -349,7 +349,7 @@ msgstr "Mnohoúhelník"
 
 #: ../element/element_editor/interface/toolbars.rst:116
 msgid "Add polygon to the workspace"
-msgstr "Přidat mnohoúhelník do pracovní plochy"
+msgstr "Přidá mnohoúhelník do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:116
 msgid "|polygon|"
@@ -361,7 +361,7 @@ msgstr "Text"
 
 #: ../element/element_editor/interface/toolbars.rst:118
 msgid "Add text field to the workspace"
-msgstr "Přidat text do pracovní plochy"
+msgstr "Přidá text do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:118
 msgid "|text|"
@@ -373,7 +373,7 @@ msgstr "Oblouk"
 
 #: ../element/element_editor/interface/toolbars.rst:120
 msgid "Add arc to the workspace"
-msgstr "Přidat oblouk do pracovní plochy"
+msgstr "Přidá oblouk do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:120
 msgid "|arc|"
@@ -385,7 +385,7 @@ msgstr "Svorka"
 
 #: ../element/element_editor/interface/toolbars.rst:122
 msgid "Add terminal to the workspace"
-msgstr "Přidat svorku do pracovní plochy"
+msgstr "Přidá svorku do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:122
 msgid "|terminal|"
@@ -397,7 +397,7 @@ msgstr "Textové pole"
 
 #: ../element/element_editor/interface/toolbars.rst:124
 msgid "Add dynamic text field to the workspace"
-msgstr "Přidat dynamické textové pole do pracovní plochy"
+msgstr "Přidá dynamické textové pole do pracovní plochy"
 
 #: ../element/element_editor/interface/toolbars.rst:124
 msgid "|textfield|"
@@ -425,11 +425,11 @@ msgstr "Různá tlačítka na panelu nástrojů **Hloubka** jsou:"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "Bring forward"
-msgstr "Přesunout dopředu"
+msgstr "Dát úplně nahoru"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "Brings the selection (s) to front"
-msgstr "Přesune výběr dopředu (s)"
+msgstr "Přesune výběr(y) dopředu"
 
 #: ../element/element_editor/interface/toolbars.rst:144
 msgid "``Ctrl + shift + Home``"
@@ -441,11 +441,11 @@ msgstr "|bring_forward|"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "Raise"
-msgstr "Zvýšit"
+msgstr "Dát nahoru"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "Aproachs the selection (s)"
-msgstr "Přistoupí k výběru (s)"
+msgstr "Přistoupí k výběru(ům)"
 
 #: ../element/element_editor/interface/toolbars.rst:146
 msgid "``Ctrl + shift + Up``"
@@ -457,11 +457,11 @@ msgstr "|raise|"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "Lower"
-msgstr "Snížit"
+msgstr "Dát dolů"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "Moves away the selection (s)"
-msgstr "Vzdálí výběr (s)"
+msgstr "Vzdálí výběr(y)"
 
 #: ../element/element_editor/interface/toolbars.rst:148
 msgid "``Ctrl + shift + Down``"
@@ -473,11 +473,11 @@ msgstr "|lower|"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "Send backwards"
-msgstr "Přesunout dozadu"
+msgstr "Dát úplně dolů"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "Sends in the backwards the selection (s)"
-msgstr "Přesune výběr dozadu (s)"
+msgstr "Přesune výběr(y) dozadu"
 
 #: ../element/element_editor/interface/toolbars.rst:150
 msgid "``Ctrl + shift + End``"

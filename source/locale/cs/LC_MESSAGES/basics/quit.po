@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 13:36+0100\n"
+"PO-Revision-Date: 2021-01-20 20:13+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgid ""
 "`close the project`_ before clossing the application."
 msgstr ""
 "Uživatel může program QElectroTech kdykoli ukončit. Uživatel nemusí "
-"`zavřít projekt`_ před zavřením aplikace."
+"`projekt zavřít`_ před zavřením aplikace."
 
 #: ../basics/quit.rst:8
 msgid ""
@@ -55,7 +55,7 @@ msgid ""
 msgstr ""
 "Jako velké množství aplikací, které byly vyvinuty pomocí `Qt`_, "
 "QElectroTech lze zavřít z karty pro zavření |close_tab|, kterou lze najít "
-"v hlavním okně vpravo nahoře, z `hlavní nabídky`_ nebo pomocí "
+"v hlavním okně vpravo nahoře, pomocí `hlavní nabídky`_ nebo pomocí "
 "odpovídající klávesové zkratky."
 
 #: ../basics/quit.rst:19
@@ -80,8 +80,8 @@ msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
 msgstr ""
-"QElectroTech umožňuje používat klávesovou zkratku ke zvýšení "
-"pracovní výkonnosti."
+"QElectroTech umožňuje pro zvýšení pracovní výkonnosti používat "
+"klávesovou zkratku."
 
 #: ../basics/quit.rst:33
 msgid "Press ``Ctrl + q`` to quit QElectroTech."

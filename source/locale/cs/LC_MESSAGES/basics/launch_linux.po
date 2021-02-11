@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 13:06+0100\n"
+"PO-Revision-Date: 2021-01-20 19:59+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Téma Unity: Ikona se zobrazí na liště spouštěče."
 msgid ""
 "Gnome shell: The icon appears at **[Menu]**, with the rest of "
 "applications."
-msgstr "Gnome shell: Ikona se objeví v **[Nabídce]**, se zbytkem aplikace."
+msgstr "Gnome shell: Ikona se objeví v **[Nabídce]**, se zbytkem programů."
 
 #: ../basics/launch_linux.rst:38
 msgid ""
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../basics/launch_linux.rst:41
 msgid "Once QElectroTech has been launched, the main window looks as follow:"
-msgstr "Po spuštění QElectroTech vypadá hlavní okno následovně:"
+msgstr "Po spuštění QElectroTechu vypadá hlavní okno následovně:"
 
 #: ../basics/launch_linux.rst:47
 msgid "Figure: Main window QElectroTech"

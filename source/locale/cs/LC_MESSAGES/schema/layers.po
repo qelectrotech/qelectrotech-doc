@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 22:04+0100\n"
+"PO-Revision-Date: 2021-01-22 22:36+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid ""
 "`pictures`_ at each `folio`_."
 msgstr ""
 "Na `pracovní ploše`_ může docházet k překrývání `prvků`_ nebo `obrázků`_. "
-"QElectroTech umožňuje stanovit pořadí úrovní `prvků`_ a `obrázků`_ "
+"QElectroTech umožňuje stanovit pořadí úrovní prvků a `obrázků`_ "
 "v každém `listu`_."
 
 #: ../schema/layers.rst:10
@@ -64,7 +64,7 @@ msgstr "Dát úplně nahoru"
 
 #: ../schema/layers.rst:15
 msgid "Brings the selection (s) to front"
-msgstr "Přesune výběr dopředu (s)"
+msgstr "Přesune výběr(y) dopředu"
 
 #: ../schema/layers.rst:15
 msgid "``Ctrl + Shift + Home``"
@@ -80,7 +80,7 @@ msgstr "Dát nahoru"
 
 #: ../schema/layers.rst:16
 msgid "Aproachs the selection (s)"
-msgstr "Přistoupí k výběru (s)"
+msgstr "Přistoupí k výběru(ům)"
 
 #: ../schema/layers.rst:16
 msgid "``Ctrl + Shift + Up``"
@@ -96,7 +96,7 @@ msgstr "Dát dolů"
 
 #: ../schema/layers.rst:17
 msgid "Moves away the selection (s)"
-msgstr "Vzdálí výběr (s)"
+msgstr "Vzdálí výběr(y)"
 
 #: ../schema/layers.rst:17
 msgid "``Ctrl + Shift + Down``"
@@ -112,7 +112,7 @@ msgstr "Dát úplně dolů"
 
 #: ../schema/layers.rst:18
 msgid "Sends in the backwards the selection (s)"
-msgstr "Přesune výběr dozadu (s)"
+msgstr "Přesune výběr(y) dozadu"
 
 #: ../schema/layers.rst:18
 msgid "``Ctrl + Shift + End``"

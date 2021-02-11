@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:42+0100\n"
+"PO-Revision-Date: 2021-01-20 22:03+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -39,8 +39,8 @@ msgid ""
 "can also be choosed. The collections directory can be at the local Hard "
 "Disk, common users, or at local servers, common for companies."
 msgstr ""
-"QElectroTech umožňuje zvolit cestu ke sbírkám prvků `QET (společná)` _ a "
-"`Vlastní`_. Lze zvolit i cestu ke sbírce s `vlastními záhlavními výkresu`_ "
+"QElectroTech umožňuje zvolit cestu ke sbírkám prvků `QET`_ (společná) a "
+"`vlastní`_. Lze zvolit i cestu ke sbírce s `vlastními záhlavními výkresu`_ "
 "lze také zvolit. Adresář se sbírkami může být na místním pevném disku, "
 "společném pro uživatele, nebo na místních serverech, společných pro "
 "společnosti."
@@ -112,8 +112,8 @@ msgid ""
 "Search and choose the folder directory from the `QET (Common)`_ and "
 "`User`_ element collection at the **Collection of elements** section."
 msgstr ""
-"Vyhledejte a vyberte adresář složek se sbírkami prvků `QET (společná)` _ a "
-"`Vlastní`_ v části **Sbírka prvků**."
+"Vyhledejte a vyberte adresář složek se sbírkami prvků `QET`_ (společná) a "
+"`vlastní`_ v části **Sbírka prvků**."
 
 #: ../preferences/settings_element.rst:43
 #: ../preferences/settings_element.rst:60

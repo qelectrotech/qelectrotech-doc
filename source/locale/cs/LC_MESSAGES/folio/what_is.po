@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:03+0100\n"
+"PO-Revision-Date: 2021-01-21 11:50+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid ""
 "complete or partly, etc."
 msgstr ""
 "`List`_ je částí `projektu`_, kterou lze považovat za jednotku. "
-"Může to být `číslo v projektu`_, součást `schématu`_, úplný nebo částečný "
+"Může to být `číslo v projektu`_, část `výkresu`_, úplný nebo částečný "
 "seznam dílů atd."
 
 #: ../folio/what_is.rst:10
@@ -44,11 +44,11 @@ msgid ""
 "`folio`_ is one file."
 msgstr ""
 "`List`_ vymezuje největší část informací o projektu, která mohou "
-"být zobrazeny současně v `pracovní ploše`_, `list`_ `projektu`_ "
-"je obdobou stránky v knize. Když je `projekt`_ vyveden do PDF, "
-"každý `list`_ je jedna stránka dokumentu. Když je `projekt`_ "
+"být zobrazeny současně v `pracovní ploše`_, `list`_ v `projektu`_ "
+"je obdobou stránky v knize. Když je projekt vyveden do PDF, "
+"každý list je jedna stránka dokumentu. Když je projekt "
 "vyveden do libovolného jiného formátu (PNG, JPG, DXF atd.) "
-"každý `list`_ je jeden soubor."
+"každý list je jeden soubor."
 
 #: ../folio/what_is.rst:15
 msgid ""
@@ -57,8 +57,8 @@ msgid ""
 "about the position and information that is included at each `folio`_."
 msgstr ""
 "Uvnitř `projektu`_ by měly mít `listy`_ pořadí. Pro snadné "
-"porozumění `schématu`_ je důležité, aby se uživatel postaral "
-"o polohu a informace, které jsou obsaženy v každém `listu`_."
+"porozumění `výkresu`_ je důležité, aby se uživatel postaral "
+"o polohu a informace, které jsou obsaženy v každém listu."
 
 #: ../folio/what_is.rst:21
 msgid "Figure: QElectroTech folios"

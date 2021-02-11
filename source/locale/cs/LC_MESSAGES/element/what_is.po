@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:17+0100\n"
+"PO-Revision-Date: 2021-01-21 20:10+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -51,8 +51,8 @@ msgid ""
 "creation of schemas, Bill Of Materials (BOM) and many other types of "
 "reports such terminal lists, I/O lists, etc."
 msgstr ""
-"Prvek je předmět, jehož funkcí je omezit inženýrskou práci. "
-"Práce s prvky zkracuje čas a práci nezbytnou pro "
+"Prvek je předmět, jehož funkcí je omezit rozsah inženýrské práce. "
+"Práce s prvky zkracuje čas a zmenšuje velikost práce nezbytné pro "
 "tvorbu výkresů, kusovníků (BOM) a mnoha dalších druhů "
 "výpisů, jako jsou seznamy svorek, seznamy vstupů/výstupů atd."
 

@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:33+0100\n"
+"PO-Revision-Date: 2021-01-21 12:40+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr ""
 "`buňky`_ jsou úložiště v databázi projektu. QElectroTech poskytuje "
 "funkce stanovení obsahu buňky v různých jazycích, obsah buňky "
 "je stanoven v tabulce hodnot buňky. Obsah z různých "
-"`buněk`_`záhlaví výkresu`_ se automaticky zobrazí ve "
+"`buněk`_ `záhlaví výkresu`_ se automaticky zobrazí ve "
 "stanoveném jazyku."
 
 #: ../folio/title_block/title_block_editor/edition/cells_value.rst:20
@@ -136,7 +136,7 @@ msgid ""
 msgstr ""
 "Proměnná záhlaví výkresu je hodnota vlastnosti projektu nebo listu. "
 "V QElectroTechu se proměnná volá pomocí symbolu procenta před "
-"názvem proměnné (``% {název proměnné} ``)."
+"názvem proměnné (``%{název proměnné}``)."
 
 #: ../folio/title_block/title_block_editor/edition/cells_value.rst:50
 msgid ""
@@ -146,7 +146,8 @@ msgid ""
 msgstr ""
 "QElectroTech má některé výchozí proměnné, které uživatel nemusí "
 "vytvořit (např.: ``%{author}``, ``%{date}``, ``%{title}``, ``%{folio}``, "
-"``%{projecttitle}`` - ``%{autor}``, ``%{datum}``, ``%{název}``, "
+"``%{projecttitle}`` - čili přeloženo je to: ``%{autor}``, ``%{datum}``, ``"
+"%{název}``, "
 "``%{list}``, ``%{název projektu}`` atd.)."
 
 #: ../folio/title_block/title_block_editor/edition/cells_value.rst:53

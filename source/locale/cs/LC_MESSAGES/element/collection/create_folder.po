@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:28+0100\n"
+"PO-Revision-Date: 2021-01-21 20:55+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -43,16 +43,16 @@ msgid ""
 "`User collection`_."
 msgstr ""
 "QElectroTech umožňuje vytvoření skupin v některé ze sbírek. Uživatel "
-"si má pouze přečíst práva pro `sbírku QET`_. Uživatel může sbírky "
-"vytvořit ve `vlastní sbírce`_."
+"si má pouze přečíst práva pro sbírku `QET`_. Uživatel může sbírky "
+"vytvořit ve `vlastní`_ sbírce."
 
 #: ../element/collection/create_folder.rst:16
 msgid ""
 "Right click on `User collection`_ or at a category / sub-category from "
 "the `User collection`_."
 msgstr ""
-"Klepněte pravým tlačítkem na `vlastní sbírku`_ nebo "
-"ve skupině/podskupině `vlastní sbírky`_."
+"Klepněte pravým tlačítkem na `vlastní`_ sbírku nebo "
+"ve skupině/podskupině vlastní sbírky."
 
 #: ../element/collection/create_folder.rst:21
 msgid "Figure: Options at folder"

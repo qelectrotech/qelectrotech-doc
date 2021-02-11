@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:47+0100\n"
+"PO-Revision-Date: 2021-01-21 12:07+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr ""
 "Karta **Vzhled** ve vyskakovacím okně s vlastnostmi listu umožňuje dopředu "
 "stanovení `vzhledu vodiče`_ u vodičů, které budou v listu nakresleny později. "
 "Pokud mají mít všechny vodiče v listu stejný vzhled, tento krok zabraňuje "
-"jednotlivému stanovování `vzhledu vodiče`_."
+"jednotlivému stanovování vzhledu vodiče."
 
 #: ../folio/properties/folio_appearance.rst:13
 msgid ""

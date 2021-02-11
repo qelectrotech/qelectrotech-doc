@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 22:58+0100\n"
+"PO-Revision-Date: 2021-01-21 11:28+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,8 +33,8 @@ msgid ""
 msgstr ""
 "QElectroTech umožňuje vytvářet výkresy s více `listy`_. Na každém `listu`_ "
 "je znázorněna pouze část `výkresu`_. To znamená, že část "
-"`vodiče`_ může být na jednom `listu`_ a pokračování na "
-"jiném `listu`_."
+"vodiče může být na jednom listu a pokračování na "
+"jiném listu."
 
 #: ../project/properties/new_folio/folio_referencing.rst:11
 msgid ""

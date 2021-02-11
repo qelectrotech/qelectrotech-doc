@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:50+0100\n"
+"PO-Revision-Date: 2021-01-21 21:39+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgstr "|bring_forward|"
 
 #: ../element/element_editor/edition/graphic/layers.rst:26
 msgid "Bring to front"
-msgstr "Přesunout dopředu"
+msgstr "Dát úplně nahoru"
 
 #: ../element/element_editor/edition/graphic/layers.rst:26
 msgid "Brings the selection (s) to front"
@@ -103,7 +103,7 @@ msgstr "|raise|"
 
 #: ../element/element_editor/edition/graphic/layers.rst:27
 msgid "Raise"
-msgstr "Zvýšit"
+msgstr "Dát nahoru"
 
 #: ../element/element_editor/edition/graphic/layers.rst:27
 msgid "Aproachs the selection (s)"
@@ -119,7 +119,7 @@ msgstr "|lower|"
 
 #: ../element/element_editor/edition/graphic/layers.rst:28
 msgid "Lower"
-msgstr "Snížit"
+msgstr "Dát dolů"
 
 #: ../element/element_editor/edition/graphic/layers.rst:28
 msgid "Moves away the selection (s)"
@@ -135,7 +135,7 @@ msgstr "|send_backward|"
 
 #: ../element/element_editor/edition/graphic/layers.rst:29
 msgid "Send backwards"
-msgstr "Přesunout dozadu"
+msgstr "Dát úplně dolů"
 
 #: ../element/element_editor/edition/graphic/layers.rst:29
 msgid "Sends in the backwards the selection (s)"

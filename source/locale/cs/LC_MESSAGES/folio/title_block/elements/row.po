@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:38+0100\n"
+"PO-Revision-Date: 2021-01-21 12:18+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 "A row of `cells`_ from the `title block`_ is a group of `cells`_ that are"
 " placed one beside the other."
 msgstr ""
-"Řádek `buněk`_ v `záhlaví výkresu`_ je skupina `buněk`_, které "
+"Řádek `buněk`_ v `záhlaví výkresu`_ je skupina buněk, které "
 "jsou umístěny jedna nad druhou."
 
 #: ../folio/title_block/elements/row.rst:15

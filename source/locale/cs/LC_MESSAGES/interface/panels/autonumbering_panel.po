@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:35+0100\n"
+"PO-Revision-Date: 2021-01-20 21:29+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr "Obrázek: Panel pro výběr automatického číslování v QElectroTechu
 
 #: ../interface/panels/autonumbering_panel.rst:18
 msgid "To display or hidden the Auto Numbering Selection panel:"
-msgstr "Pro zobrazení nebo skrytí panel pro výběr automatického číslování:"
+msgstr "Pro zobrazení nebo skrytí panelu pro výběr automatického číslování:"
 
 #: ../interface/panels/autonumbering_panel.rst:20
 msgid "Select **Settings > Display > Auto Numbering Selection** menu item."
@@ -99,7 +99,7 @@ msgid ""
 "For more information about how to use the Auto Numbering Select panel "
 "during element addition, refer to `add element`_ section."
 msgstr ""
-"Další informace o tom, jak používat panel pro výběr automatického číslování"
+"Další informace o tom, jak používat panel pro výběr automatického číslování "
 "během přidávání prvku najdete v části k `přidání prvku`_."
 
 #: ../interface/panels/autonumbering_panel.rst:47

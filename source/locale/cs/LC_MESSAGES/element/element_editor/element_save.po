@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:35+0100\n"
+"PO-Revision-Date: 2021-01-21 21:23+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -47,8 +47,7 @@ msgstr "Uložení prvku přes hlavní nabídku"
 
 #: ../element/element_editor/element_save.rst:16
 msgid "Select **File > Save** menu item to save the element changes."
-msgstr ""
-"Pro uložení změn v `prvku`_ vyberte položku nabídky **Soubor > Uložit**."
+msgstr "Pro uložení změn v prvku vyberte položku nabídky **Soubor > Uložit**."
 
 #: ../element/element_editor/element_save.rst:21
 msgid "Figure: QElectroTech element editor file menu"
@@ -61,7 +60,7 @@ msgid ""
 "`element`_ or it has to be saved as a new `element`_:"
 msgstr ""
 "V případě, že otevřený `prvek`_ musí přepsat stávající "
-"`prvek`_ nebo musí být uložen jako nový `prvek`_:"
+"prvek nebo musí být uložen jako nový prvek:"
 
 #: ../element/element_editor/element_save.rst:26
 msgid ""
@@ -84,7 +83,7 @@ msgid ""
 "the name for the new `element`_."
 msgstr ""
 "Vyberte `prvek`_, který má být přepsán, nebo `skupinu`_ a název "
-"nového `prvku`_."
+"nového prvku."
 
 #: ../element/element_editor/element_save.rst:34
 #: ../element/element_editor/element_save.rst:58
@@ -162,7 +161,7 @@ msgstr ""
 
 #: ../element/element_editor/element_save.rst:72
 msgid "Press ``Ctrl + s`` to save the element changes."
-msgstr "Pro uložení změn v `prvku`_ stiskněte ``Ctrl + S``."
+msgstr "Pro uložení změn v prvku stiskněte ``Ctrl + S``."
 
 #: ../element/element_editor/element_save.rst:76
 msgid ""

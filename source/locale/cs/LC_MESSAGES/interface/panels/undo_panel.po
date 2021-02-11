@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:30+0100\n"
+"PO-Revision-Date: 2021-01-20 21:34+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,8 @@ msgid ""
 " was saved. Once the `project`_ is saved, undo panel is automatically "
 "cleared."
 msgstr ""
-"Panel pro zpět zobrazuje historii od posledního uložení dokumentu. "
+"Panel pro vracení provedených kroků zpět zobrazuje historii od posledního"
+" uložení dokumentu. "
 "Jakmile je `projekt`_ uložen, panel zpět je automaticky vymazán."
 
 #: ../interface/panels/undo_panel.rst:13
@@ -55,8 +56,8 @@ msgid ""
 msgstr ""
 "Panel pro zpět se používá k vrácení `projektu`_ do stavu po jedné "
 "z činností provedených po posledním uložení. Jedním klepnutím na jednu "
-"z činností uvedených v panelu Zpět, se `projekt`_ vrátí do stavu po "
-"činnosti zvolené v panelu. I když se `projekt`_ znovu neuloží, uživatel "
+"z činností uvedených v panelu Zpět, se projekt vrátí do stavu po "
+"činnosti zvolené v panelu. I když se projekt znovu neuloží, uživatel "
 "může přejít do jiného stavu, kolikrát chce."
 
 #: ../interface/panels/undo_panel.rst:26
@@ -68,7 +69,7 @@ msgid ""
 msgstr ""
 "Pokud si hrajete s panelem, ujistěte se, že jste ve správném stavu historie "
 "před pokračováním v práci, uložením `projektu`_ nebo jakoukoli nevratnou "
-"činností jako `smazat list`_. Jakmile je `projekt`_ uložen nebo "
+"činností jako `smazat list`_. Jakmile je projekt uložen nebo "
 "dojde k provedení nevratné činnosti, historie je vymazána."
 
 #: ../interface/panels/undo_panel.rst:30
@@ -77,7 +78,7 @@ msgstr "Používání panelu pro zpět je zajímavé pro:"
 
 #: ../interface/panels/undo_panel.rst:32
 msgid "Coming back some steps with a click."
-msgstr "Vrácení několika kroků klepnutím."
+msgstr "Vrácení několika kroků jedním klepnutím."
 
 #: ../interface/panels/undo_panel.rst:33
 msgid ""
@@ -97,5 +98,5 @@ msgstr "Ověření stavu `projektu`_ o několik kroků dříve."
 
 #: ../interface/panels/undo_panel.rst:35
 msgid "Etc."
-msgstr "Atd."
+msgstr "A tak dále a tak podobně."
 

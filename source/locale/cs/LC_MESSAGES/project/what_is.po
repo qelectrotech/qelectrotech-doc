@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 22:48+0100\n"
+"PO-Revision-Date: 2021-01-21 10:37+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -52,11 +52,11 @@ msgid ""
 msgstr ""
 "Projekt je skupina `listů`_, `prvků`_ a `vodičů`_ zastoupených uvnitř "
 "`listů`_ s příslušnými vlastnostmi, vlastnostmi, které určují způsob, "
-"jakým by mělo být každý list znázorněn (`záhlaví výkresu`_, rozměry atd.), "
+"jakým by mělo být každý list znázorněn (záhlaví výkresu, rozměry atd.), "
 "vlastnostmi, které určují, jak by měly být znázorněny odkazy (číslo listu, "
 "seznam součástí, seznam spojek atd.), vlastnostmi, které určují způsob "
-"vyvedení nebo tisku informace, vztah propojení mezi `prvky`_ ze stejného "
-"nebo jiného `listu`_ a hlavní data (název projektu, autor, rok vytvoření, "
+"vyvedení nebo tisku informace, vztah propojení mezi prvky ze stejného "
+"nebo jiného listu a hlavní data (název projektu, autor, rok vytvoření, "
 "změny atd.)."
 
 #: ../project/what_is.rst:22

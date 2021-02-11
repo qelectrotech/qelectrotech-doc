@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 21:52+0100\n"
+"PO-Revision-Date: 2021-01-22 22:15+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgid ""
 " field`_, it is a `text field`_ object."
 msgstr ""
 "Tabulka může být `přesunuta`_ a `otočena`_ přes oblast listu jako "
-"`textové pole`_. Jedná se o předmět s `textovým polem`_."
+"`textové pole`_. Jedná se o předmět s textovým polem."
 
 #: ../schema/table.rst:46
 msgid ""

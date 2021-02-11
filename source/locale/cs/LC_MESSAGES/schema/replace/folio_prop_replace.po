@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 23:17+0100\n"
+"PO-Revision-Date: 2021-01-22 22:41+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -97,7 +97,7 @@ msgid ""
 "where the replace action have to be applied. The selection can be made at"
 " the object tree from the `search menu`_."
 msgstr ""
-"Z `listů`_ nalezených při hledání vyberte `listy`_, na něž je třeba "
+"Z listů nalezených při hledání vyberte `listy`_, na něž je třeba "
 "použít úkon nahrazení. Výběr lze vytvořit ve stromové struktuře "
 "předmětů v `nabídce pro vyhledávání`_."
 
@@ -116,8 +116,8 @@ msgid ""
 "`workspace`_. The buttons |go-top| and |go-bottom| can be used to display"
 " the previous and next `folio`_ from the search result."
 msgstr ""
-"Nahrazovací úkon lze také provést `list`_ za `listem`_. Tlačítko "
+"Nahrazovací úkon lze také provést `list`_ za listem. Tlačítko "
 "**Nahradit** úkon provede pouze na v `pracovní ploše`_ zobrazeném "
-"`listu`_ . Tlačítka |go-top| a |go-bottom| lze použít k zobrazení předchozího "
-"a dalšího `listu`_ výsledku vyhledávání."
+"listu. Tlačítka |go-top| a |go-bottom| lze použít k zobrazení předchozího "
+"a dalšího listu výsledku vyhledávání."
 

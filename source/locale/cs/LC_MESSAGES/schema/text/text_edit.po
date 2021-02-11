@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 22:14+0100\n"
+"PO-Revision-Date: 2021-01-22 22:09+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -105,7 +105,7 @@ msgstr ""
 #: ../schema/text/text_edit.rst:50
 msgid "Press ``Ctrl + e`` to display the `text editor PopUP window`_."
 msgstr ""
-"Pro zobrazení `vyskakovacího okna s editorem textu`_ stiskněte ``Ctrl + e`."
+"Pro zobrazení `vyskakovacího okna s editorem textu`_ stiskněte ``Ctrl + e``."
 
 #: ../schema/text/text_edit.rst:54
 msgid ""

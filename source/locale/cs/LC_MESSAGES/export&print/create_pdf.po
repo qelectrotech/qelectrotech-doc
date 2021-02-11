@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:02+0100\n"
+"PO-Revision-Date: 2021-01-23 11:27+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,15 +29,14 @@ msgid ""
 "The active `project`_  can be exported to PDF from the `menu bar`_, "
 "`toolbar`_ and using the corresponding keyboard shortcut."
 msgstr ""
-"Činný `projekt`_ lze vyvést do PDF přes `hlavní nabídku`_, `panel nástrojů`_"
-" a "
-"pomocí odpovídající klávesové zkratky."
+"Činný `projekt`_ lze vyvést do PDF přes `hlavní nabídku`_, "
+"`panel nástrojů`_ a pomocí odpovídající klávesové zkratky."
 
 #: ../export&print/create_pdf.rst:12
 msgid ""
 "Check that the active `project`_ is the `project`_ that should be printed."
 msgstr ""
-"Zkontrolujte, zda činný `projekt`_ je `projektem`_, který se má vytisknout."
+"Zkontrolujte, zda činný `projekt`_ je projektem, který se má vytisknout."
 
 #: ../export&print/create_pdf.rst:16
 msgid ""
@@ -104,7 +103,7 @@ msgid ""
 "|icon_print_options| from the toolbar."
 msgstr ""
 "Pokud se nezobrazí panel s volbami pro tisk, vyberte "
-"ikonu |icon_folio_options| v panelu nástrojů."
+"ikonu |icon_print_options| v panelu nástrojů."
 
 #: ../export&print/create_pdf.rst:51
 msgid "Export project to PDF from toolbar"

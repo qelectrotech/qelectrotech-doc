@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 21:05+0100\n"
+"PO-Revision-Date: 2021-01-23 11:11+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgid ""
 "The summary properties can only be displayed from `selection properties "
 "panel`_ once the summary table has been selected at `workspace`_."
 msgstr ""
-"Vlastnosti souhrnu lze zobrazit jen v `panelu s vlastnostmi výběru`_ "
+"Vlastnosti souhrnu lze zobrazit jen v `panelu s vlastnostmi výběru`_, "
 "jakmile byla tabulka souhrnu vybrána v `pracovní ploše`_."
 
 #: ../reports/summary/edit_summary.rst:13
@@ -88,7 +88,7 @@ msgid ""
 msgstr ""
 "Pokud je počet `listů`_ vyšší než nejvyšší stanovený počet řádků, "
 "musí mít každá tabulka souhrnu stanoven **Název tabulky**. Bez "
-"**Názvu tabulky**, nelze stanovit propojení mezi tabulkami."
+"**Názvu tabulky** nelze stanovit propojení mezi tabulkami."
 
 #: ../reports/summary/edit_summary.rst:41
 msgid "Header"
@@ -258,7 +258,7 @@ msgid ""
 "QElectroTech is working with SQLite database, summary table content can "
 "also be defined by SQL query."
 msgstr ""
-"QElectroTech pracuje s databází SQLite, obsah souhrnné tabulky může "
+"QElectroTech pracuje s databází SQLite. Obsah souhrnné tabulky může "
 "být stanoven také dotazem SQL."
 
 #: ../reports/summary/edit_summary.rst:117

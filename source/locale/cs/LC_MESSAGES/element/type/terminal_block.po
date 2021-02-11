@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 21:47+0100\n"
+"PO-Revision-Date: 2021-01-21 20:34+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgid ""
 "If the Selection properties panel is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**."
 msgstr ""
-"Pokud se `panel s vlastnostmi výběr`_ nezobrazí, lze jej zobrazit přes "
+"Pokud se panel s vlastnostmi výběr nezobrazí, lze jej zobrazit přes "
 "**Nastavení > Zobrazení > Vlastnosti výběru**."
 
 #: ../element/type/terminal_block.rst:26

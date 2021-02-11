@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:07+0100\n"
+"PO-Revision-Date: 2021-01-21 12:10+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -55,8 +55,8 @@ msgid ""
 "Drawing / Schema size (Horizontal A3 sheet is the more common at "
 "electrical shemas)"
 msgstr ""
-"Velikost výkresu (vodorovný list A3 je běžnější u "
-"elektrických výkresů)"
+"Velikost výkresu/místa na kreslení (u elektrických výkresů je běžnější "
+"vodorovný list formátu A3)"
 
 #: ../folio/title_block/what_is.rst:22
 msgid "Revision index"

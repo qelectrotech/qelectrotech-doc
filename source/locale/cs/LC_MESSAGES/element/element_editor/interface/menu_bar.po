@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:40+0100\n"
+"PO-Revision-Date: 2021-01-21 21:11+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../element/element_editor/interface/menu_bar.rst:5
 msgid "Element editor menu bar"
-msgstr "Pruh s nápovědou v editoru prvku"
+msgstr "Pruh s hlavní nabídkou v editoru prvku"
 
 #: ../element/element_editor/interface/menu_bar.rst:7
 msgid ""
@@ -30,7 +30,8 @@ msgid ""
 "editor contains the menus ``File``, ``Edit``, ``Display``, ``Settings``, "
 "and ``Help``. Each menu provides many diferent options."
 msgstr ""
-"Pruh s nabídkou je umístěn v horní části okna editoru prvku v QElectroTechu. "
+"Pruh s hlavní nabídkou je umístěn v horní části okna editoru prvku v"
+" QElectroTechu. "
 "Editor prvku obsahuje nabídky ``Soubor``, ``Úpravy``, ``Zobrazení``, "
 "``Nastavení``, a ``Nápověda``. Každá nabídka poskytuje mnoho různých "
 "voleb."
@@ -132,7 +133,7 @@ msgstr "Spouští se přídavný modul převaděče DXF"
 
 #: ../element/element_editor/interface/menu_bar.rst:32
 msgid "Import element from DXF file"
-msgstr "Zavést prvek ze souboru DXF"
+msgstr "Zavede prvek ze souboru DXF"
 
 #: ../element/element_editor/interface/menu_bar.rst:32
 msgid "|run-dxf|"
@@ -144,7 +145,7 @@ msgstr "Nedávno otevřené"
 
 #: ../element/element_editor/interface/menu_bar.rst:34
 msgid "Open an element from history (recently opened files)"
-msgstr "Otevřít prvek z historie (nedávno otevřené soubory)"
+msgstr "Otevře prvek z historie (nedávno otevřené soubory)"
 
 #: ../element/element_editor/interface/menu_bar.rst:34
 #: ../element/element_editor/interface/menu_bar.rst:36
@@ -287,7 +288,7 @@ msgstr "Nevybrat nic"
 
 #: ../element/element_editor/interface/menu_bar.rst:64
 msgid "Deselect all elments on the folio"
-msgstr "Zrušit výběr všech prvků na listu"
+msgstr "Zruší výběr všech prvků na listu"
 
 #: ../element/element_editor/interface/menu_bar.rst:64
 msgid "``Ctrl + Shift + a``"
@@ -437,11 +438,11 @@ msgstr "|element-edit|"
 
 #: ../element/element_editor/interface/menu_bar.rst:86
 msgid "Bring to front"
-msgstr "Přesunout dopředu"
+msgstr "Dát úplně nahoru"
 
 #: ../element/element_editor/interface/menu_bar.rst:86
 msgid "Brings the selection (s) to front"
-msgstr "Přesune výběr dopředu (s)"
+msgstr "Přesune výběr(y) dopředu"
 
 #: ../element/element_editor/interface/menu_bar.rst:86
 msgid "``Ctrl + Shift + Home``"
@@ -453,11 +454,11 @@ msgstr "|bring_forward|"
 
 #: ../element/element_editor/interface/menu_bar.rst:88
 msgid "Raise"
-msgstr "Zvýšit"
+msgstr "Dát nahoru"
 
 #: ../element/element_editor/interface/menu_bar.rst:88
 msgid "Aproachs the selection (s)"
-msgstr "Přistoupí k výběru (s)"
+msgstr "Přistoupí k výběru(ům)"
 
 #: ../element/element_editor/interface/menu_bar.rst:88
 msgid "``Ctrl + Shift + Up``"
@@ -469,11 +470,11 @@ msgstr "|raise|"
 
 #: ../element/element_editor/interface/menu_bar.rst:90
 msgid "Lower"
-msgstr "Snížit"
+msgstr "Dát dolů"
 
 #: ../element/element_editor/interface/menu_bar.rst:90
 msgid "Moves away the selection (s)"
-msgstr "Vzdálí výběr (s)"
+msgstr "Vzdálí výběr(y)"
 
 #: ../element/element_editor/interface/menu_bar.rst:90
 msgid "``Ctrl + Shift + Down``"
@@ -485,11 +486,11 @@ msgstr "|lower|"
 
 #: ../element/element_editor/interface/menu_bar.rst:92
 msgid "Send backwards"
-msgstr "Přesunout dozadu"
+msgstr "Dát úplně dolů"
 
 #: ../element/element_editor/interface/menu_bar.rst:92
 msgid "Sends in the backwards the selection (s)"
-msgstr "Přesune výběr dozadu (s)"
+msgstr "Přesune výběr(y) dozadu"
 
 #: ../element/element_editor/interface/menu_bar.rst:92
 msgid "``Ctrl + Shift + End``"

@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 22:55+0100\n"
+"PO-Revision-Date: 2021-01-21 11:33+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -52,9 +52,9 @@ msgid ""
 "numbering selection panel`_."
 msgstr ""
 "Pokaždé, když je do `projektu`_ přidán nový list nebo je v "
-"`pracovní ploše`_ nakreslen `prvek`_ nebo `vodič`_; `list`_, "
-"`prvek`_ nebo `vodič`_ je tříděn podle v `panelu pro výběr "
-"automatického číslování`_ vybraného vzoru."
+"`pracovní ploše`_ nakreslen `prvek`_ nebo `vodič`_; list, "
+"prvek nebo vodič je tříděn podle v panelu pro výběr "
+"automatického číslování vybraného vzoru."
 
 #: ../project/properties/numbering_prop.rst:19
 msgid "Figure: Project management properties window"
@@ -69,7 +69,7 @@ msgid ""
 "Select **Project > Project properties** menu item to display the project "
 "properties PopUp window."
 msgstr ""
-"Pro zobrazení vyskakovacího okna s `vlastnostmi projektu`_ "
+"Pro zobrazení vyskakovacího okna s vlastnostmi projektu "
 "vyberte položku nabídky **Projekt > Vlastnosti projektu**."
 
 #: ../project/properties/numbering_prop.rst:25

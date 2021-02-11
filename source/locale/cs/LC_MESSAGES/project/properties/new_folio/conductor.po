@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 23:01+0100\n"
+"PO-Revision-Date: 2021-01-21 11:00+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgid ""
 "All pre-defined `conductor properties`_ at `project properties`_ will be "
 "automatically defined during `folio creation`_ at `folio properties`_."
 msgstr ""
-"Všechny ve `vlastnostech projektu`_ předem stanovené "
-"`vlastnosti vodiče`_ budou během `vytváření listu`_ "
-"automaticky stanoveny ve `vlastnostech listu`_."
+"Všechny `vlastnosti vodiče`_ předem stanovené ve `vlastnostech projektu`_"
+" budou"
+"během `vytváření listu`_ automaticky stanoveny ve `vlastnostech listu`_."
 

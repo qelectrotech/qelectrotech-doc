@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:37+0100\n"
+"PO-Revision-Date: 2021-01-20 21:48+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,8 +31,8 @@ msgid ""
 "displayed and hidden."
 msgstr ""
 "Uživatelské rozhraní QElectroTechu bylo navrženo tak, aby fungovalo "
-"s pomocí `hlavní nabídky`_ a `panelů`_. `Hlavní nabídka`_ je umístěna "
-"nahoře. `Panely`_ mohou být zobrazeny a skryty."
+"s pomocí `hlavní nabídky`_ a `panelů`_. Hlavní nabídka je umístěna "
+"nahoře. Panely mohou být zobrazeny a skryty."
 
 #: ../interface/customize/organize_panels.rst:10
 msgid "To display or hide `panels`_:"
@@ -66,7 +66,7 @@ msgid ""
 "also be displayed as PopUp/floating windows."
 msgstr ""
 "Všechny `panely`_ lze zobrazit na pravé a levé straně `pracovního prostoru`_. "
-"`Panely`_ lze uspořádat ve sloupci nebo v kartách. `Panely`_ také mohou "
+"Panely lze uspořádat ve sloupci nebo v kartách. Panely také mohou "
 "být zobrazeny jako vyskakovací okna/plovoucí okna."
 
 #: ../interface/customize/organize_panels.rst:27

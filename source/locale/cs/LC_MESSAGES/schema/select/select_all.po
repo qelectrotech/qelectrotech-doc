@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 23:14+0100\n"
+"PO-Revision-Date: 2021-01-22 22:27+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 msgstr ""
 "QElectroTech umožňuje vybrat všechny předměty v `pracovní ploše`_, současně "
 "všechny předměty v činném `listu`_. Všechny předměty lze vybrat "
-"přes `hlavní nabídku`_, `pracovní plochu`_ nebo pomocí odpovídající "
+"přes `hlavní nabídku`_, pracovní plochu nebo pomocí odpovídající "
 "klávesové zkratky."
 
 #: ../schema/select/select_all.rst:12

@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:42+0100\n"
+"PO-Revision-Date: 2021-01-21 12:17+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr ""
 "Sbírka projektu je jedinou `sbírkou`_, která není součástí "
 "složení programu. Sbírka projektu je `sbírka záhlaví výkresu`_, "
 "která je součástí souboru s projektem, každý `projekt`_ má svoji "
-"vlastní `sbírku záhlaví výkresu`_."
+"vlastní sbírku záhlaví výkresu."
 
 #: ../folio/title_block/collection/title_block_project_collection.rst:14
 msgid "Figure: QElectroTech project tree"
@@ -50,7 +50,7 @@ msgstr ""
 "QElectroTech neumožňuje práci na této `sbírce`_, uživatel nemůže "
 "ručně přidat ani smazat žádné `záhlaví výkresu`_. Uživatel může "
 "pouze upravovat `záhlaví výkresu`_ použitá v projektu beze změny "
-"původního `záhlaví výkresu`_ ve sbírce `QET`_ nebo `Vlastní`_."
+"původního `záhlaví výkresu`_ ve sbírce `QET`_ nebo vlastní."
 
 #: ../folio/title_block/collection/title_block_project_collection.rst:20
 msgid ""
@@ -60,8 +60,8 @@ msgid ""
 "already been used previously, QElectroTech does not need to add again the"
 " `title block`_ to the project collection."
 msgstr ""
-"`Záhlaví výkresu` je QElectroTechem automaticky zkopírováno "
-"ze sbírky `QET` nebo `Vlastní`, když uživatel vloží nové `záhlaví výkresu`_ "
+"`Záhlaví výkresu`_ je QElectroTechem automaticky zkopírováno "
+"ze sbírky `QET` nebo `Vlastní`_, když uživatel vloží nové `záhlaví výkresu`_ "
 "do jednoho `listu`_ `projektu`_. Pokud již bylo `záhlaví výkresu`_ "
 "dříve použito, QElectroTech `záhlaví výkresu`_ do sbírky projektu "
 "nemusí znovu přidávat."
@@ -76,7 +76,7 @@ msgid ""
 msgstr ""
 "Pokud je z `projektu`_ odstraněno jedno `záhlaví výkresu`_, QElectroTech "
 "`záhlaví výkresu`_ neodstraňuje ze sbírky projektu automaticky, "
-"`záhlaví výkresu`_ je označeno červeně. `Čištění projektu`_ smaže všechna "
-"`záhlaví výkresu`_ ze sbírky projektu, která se v době čištění uvnitř "
-"`projektu`_ nepoužívají automaticky."
+"záhlaví výkresu je označeno červeně. Vyčištění projektu smaže všechna "
+"záhlaví výkresu ze sbírky projektu, která se v době čištění uvnitř "
+"projektu nepoužívají automaticky."
 

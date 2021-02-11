@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 21:50+0100\n"
+"PO-Revision-Date: 2021-01-21 20:33+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgid ""
 "Element which link the begining of a `conductor`_ with the end of the "
 "`conductor`_ represented at previous, following or same `folio`_."
 msgstr ""
-"Prvek, který spojuje začátek `vodiče`_ s koncem `vodiče`_ "
+"Prvek, který spojuje začátek `vodiče`_ s koncem vodiče "
 "znázorněný na předchozím, následujícím nebo stejném `listu`_."
 
 #: ../element/type/previous_reference_folio.rst:13
@@ -134,9 +134,9 @@ msgid ""
 "element."
 msgstr ""
 "Vlastnost **Štítek** může uživatel stanovit jako vzorec v části "
-"`Nový list`_ `vlastností projektu`_. Ve výchozím nastavení je vzorec "
-"``%id-%l%c``. Proměnné převzaty z propojeného prvku `Odkaz na následující"
-" list`_."
+"**Nový list** `vlastností projektu`_. Ve výchozím nastavení je vzorec "
+"``%id-%l%c``. Proměnné převzaty z propojeného prvku "
+"`Odkaz na následující list`_."
 
 #: ../element/type/previous_reference_folio.rst:44
 msgid ""

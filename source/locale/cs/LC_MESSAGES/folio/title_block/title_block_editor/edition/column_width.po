@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:28+0100\n"
+"PO-Revision-Date: 2021-01-21 12:36+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 msgstr ""
 "Šířku `sloupce`_ lze stanovit pouze ze záhlaví sloupce, "
 "horní buňka z `kreslicí plochy`_, která udává hodnotu šířky "
-"odpovídajícího `sloupce`_. Záhlaví `sloupců`_ se nezobrazí v "
+"odpovídajícího sloupce. Záhlaví `sloupců`_ se nezobrazí v "
 "`listu`_, zobrazí se pouze v `editoru záhlaví výkresu`_."
 
 #: ../folio/title_block/title_block_editor/edition/column_width.rst:11
@@ -89,7 +89,7 @@ msgstr ""
 "V případě, že není žádoucí zbývající šířka, ujistěte se, že "
 "celková šířka `záhlaví výkresu`_ odpovídá součtu šířek všech "
 "sloupců. V případě, že se hodnoty neshodují, QElectroTech "
-"zobrazí `záhlaví výkresu`_, jak je znázorněno níže; část záhlaví "
+"zobrazí záhlaví výkresu, jak je znázorněno níže; část záhlaví "
 "výkresu se zobrazí červeně a zobrazí se rozdíl šířky."
 
 #: ../folio/title_block/title_block_editor/edition/column_width.rst:40

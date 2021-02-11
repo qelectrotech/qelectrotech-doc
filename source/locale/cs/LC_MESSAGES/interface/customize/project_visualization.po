@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:35+0100\n"
+"PO-Revision-Date: 2021-01-20 21:50+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 msgstr ""
 "Jsou dva různé způsoby, jak spravovat zapnutí a skrytí otevřených "
 "`projektů`_. `Projekty`_ lze uspořádat pomocí `pruhu karet s projekty`_ "
-"zobrazeného nahoře `pruhu karet s listy`_ nebo s plovoucími okny, "
+"zobrazeného nahoře pruhu karet s listy nebo s plovoucími okny, "
 "která lze zobrazit nebo zmenšit."
 
 #: ../interface/customize/project_visualization.rst:11

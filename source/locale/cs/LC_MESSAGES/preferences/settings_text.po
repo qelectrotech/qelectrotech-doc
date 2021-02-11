@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:39+0100\n"
+"PO-Revision-Date: 2021-01-20 22:06+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,8 @@ msgid ""
 "Oposite to the geometrical angle, QElectroTech use the clock direction to"
 " define angles."
 msgstr ""
-"Na rozdíl od geometrického úhlu používá QElectroTech k určení úhlů směr hodin."
+"Na rozdíl od geometrického úhlu používá QElectroTech k určení úhlů směr"
+" hodinové ručičky."
 
 #: ../preferences/settings_text.rst:27 ../preferences/settings_text.rst:46
 msgid "Figure: QElectroTech dynamic texts settings"

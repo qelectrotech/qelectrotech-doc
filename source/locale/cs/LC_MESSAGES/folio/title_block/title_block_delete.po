@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:11+0100\n"
+"PO-Revision-Date: 2021-01-21 12:23+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -52,9 +52,9 @@ msgid ""
 "recovered."
 msgstr ""
 "Je důležité rozlišovat mezi `vloženou sbírkou projektu`_ a sbírkou  `QET`_ "
-"nebo `Vlastní`_. `Vložená sbírka projektu`_ je v \"databázi\" projektu, "
+"nebo `vlastní`_. Vložená sbírka projektu je v \"databázi\" projektu, "
 "smazání informace z projektu nic nemění v QElectroTechu ani v souborovém "
-"systému počítače. Odstranění informací ze sbírky `QET`_ nebo `Vlastní`_ "
+"systému počítače. Odstranění informací ze sbírky `QET`_ nebo vlastní "
 "odstraní informace z „databáze“ QElectroTechu a v souborovém "
 "systému počítače, informace smazané v těchto „databázích“ už nikdy "
 "nemohou být obnoveny."
@@ -94,7 +94,7 @@ msgid ""
 "collections which should be deleted."
 msgstr ""
 "Klepněte pravým tlačítkem myši na vzor záhlaví výkresu "
-"ve sbírce `QET`_ nebo `Vlastní`_, který se má smazat."
+"ve sbírce `QET`_ nebo `vlastní`_, který se má smazat."
 
 #: ../folio/title_block/title_block_delete.rst:35
 msgid ""

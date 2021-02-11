@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:15+0100\n"
+"PO-Revision-Date: 2021-01-21 12:30+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgid ""
 "`title block`_ or it has to be saved as new `title block`_:"
 msgstr ""
 "V případě, že otevřené `záhlaví výkresu`_ musí přepsat stávající "
-"`záhlaví výkresu`_ nebo musí být uloženo jako nové `záhlaví výkresu`_:"
+"záhlaví výkresu nebo musí být uloženo jako nové záhlaví výkresu:"
 
 #: ../folio/title_block/title_block_editor/title_block_save.rst:26
 msgid ""
@@ -85,7 +85,7 @@ msgid ""
 "collection`_ and the name for the new `title block`_."
 msgstr ""
 "Vyberte `záhlaví výkresu`_, které má být přepsáno, nebo "
-"`rodičovskou sbírku`_ a název nového `záhlaví výkresu`_."
+"`rodičovskou sbírku`_ a název nového záhlaví výkresu."
 
 #: ../folio/title_block/title_block_editor/title_block_save.rst:34
 #: ../folio/title_block/title_block_editor/title_block_save.rst:40
@@ -143,7 +143,7 @@ msgid ""
 "collection`_ and the name for the new `title block`_."
 msgstr ""
 "Vyberte `záhlaví výkresu`_, které má být přepsáno, nebo "
-"`rodičovskou sbírku`_ a název nového `záhlaví výkresu`_."
+"`rodičovskou sbírku`_ a název nového záhlaví výkresu."
 
 #: ../folio/title_block/title_block_editor/title_block_save.rst:66
 msgid ""

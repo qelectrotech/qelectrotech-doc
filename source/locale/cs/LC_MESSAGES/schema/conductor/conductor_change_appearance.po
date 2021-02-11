@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 23:32+0100\n"
+"PO-Revision-Date: 2021-01-22 22:07+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -68,12 +68,12 @@ msgid ""
 " properties to all conductors of this potential**. 6. Press **OK** button"
 " to save and apply the property changes."
 msgstr ""
-"5. Klepněte na zaškrtávací tlačítko **Použít vlastnosti na všechny vodiče "
-"o tomto potenciálu**, pokud by změny měly být použity pro všechny `vodiče`_"
-" se "
-"společnou počáteční nebo koncovou `svorkou`_. 5. Klepněte nebo zrušte volbu "
-"**Použít vlastnosti na všechny vodiče o tomto potenciálu**. 6. Stiskněte "
-"tlačítko **OK** pro uložení a použití změn vlastností."
+"Klepněte na zaškrtávací tlačítko **Použít vlastnosti na všechny vodiče "
+"o tomto potenciálu**, pokud by změny měly být použity pro všechny "
+"`vodiče`_ se společnou počáteční nebo koncovou svorkou. "
+"Klepněte nebo zrušte volbu **Použít vlastnosti na všechny vodiče "
+"o tomto potenciálu**. Stiskněte tlačítko **OK** pro uložení "
+"a použití změn vlastností."
 
 #: ../schema/conductor/conductor_change_appearance.rst:28
 msgid ""

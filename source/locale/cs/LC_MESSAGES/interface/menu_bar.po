@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:27+0100\n"
+"PO-Revision-Date: 2021-01-20 21:14+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -583,7 +583,7 @@ msgstr "Hledat/Nahradit"
 
 #: ../interface/menu_bar.rst:104
 msgid "Display Search / Replace panel"
-msgstr "Zobrazit panel Hledat/Nahradit"
+msgstr "Zobrazí panel Hledat/Nahradit"
 
 #: ../interface/menu_bar.rst:104
 msgid "``Ctrl + f``"
@@ -603,7 +603,7 @@ msgstr "Vlastnosti projektu"
 
 #: ../interface/menu_bar.rst:118
 msgid "Display project properties PopUp window"
-msgstr "Zobrazit vyskakovací okno s vlastnostmi projektu"
+msgstr "Zobrazí vyskakovací okno s vlastnostmi projektu"
 
 #: ../interface/menu_bar.rst:118
 msgid "|project-properties|"
@@ -941,8 +941,8 @@ msgid ""
 "Below **Previous Project** QElectroTech list all opened projects to "
 "select the active project"
 msgstr ""
-"Pod **Předchozí projekt ** QElectroTech uvádí seznam všech otevřených "
-"projektů pro vybrání činného projektu"
+"Pod **Předchozí projekt ** QElectroTech uvádí seznam všech "
+"otevřených projektů pro vybrání činného projektu"
 
 #: ../interface/menu_bar.rst:208
 msgid "Help menu"

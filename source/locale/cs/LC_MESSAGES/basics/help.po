@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 13:30+0100\n"
+"PO-Revision-Date: 2021-01-20 20:05+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -48,9 +48,9 @@ msgid ""
 "placed on an icon from the `toolbars`_. A tooltip is a short message "
 "which defines the action corresponding to the icon."
 msgstr ""
-"Na podporu uživatele jsou zobrazeny popisy nástrojů, když je šipka myši "
-"umístěna na ikonu z `panelů nástrojů`_. Nástrojová rada je krátká zpráva, "
-"která vymezuje činnost odpovídající ikoně."
+"Pro podpoření uživatele jsou popisy nástrojů zobrazeny, když je šipka myši "
+"umístěna na ikonu v `panelu nástrojů`_. Nástrojová rada je krátká zpráva, "
+"která blíže určuje činnost odpovídající ikoně."
 
 #: ../basics/help.rst:18
 msgid ""
@@ -61,7 +61,7 @@ msgid ""
 msgstr ""
 "QElectroTech také umožňuje zobrazení nástrojových rad, nebo panelů "
 "s krátkými popisy, k mnoha různým oblastem a předmětům hlavního "
-"okna. Tyto panely se nezobrazují automaticky s umístěním šipky myši "
+"okna. Tyto panely se nezobrazují automaticky při umístění šipky myši "
 "na předmět nebo plochu."
 
 #: ../basics/help.rst:20
@@ -82,7 +82,7 @@ msgid ""
 "displayed using keyboard shortcut. The user does not need to resort to "
 "the **Help** menu."
 msgstr ""
-"Pro zvýšení účinnosti práce může být panel popisu "
+"Pro zvýšení účinnosti práce může být panel s popisem "
 "zobrazen také pomocí klávesové zkratky. Uživatel se nemusí uchýlit "
 "k nabídce **Nápověda**."
 

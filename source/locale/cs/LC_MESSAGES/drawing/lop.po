@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 20:14+0100\n"
+"PO-Revision-Date: 2021-01-22 22:58+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,8 @@ msgid ""
 "`workspace`_."
 msgstr ""
 "QElectroTech není jen nástroj pro diagramy a schémata. QElectroTech "
-"umožňuje také kreslení 2D výkresů. V `pracovní ploše`_ lze nakreslit "
+"umožňuje také kreslení dvojrozměrných kreseb. V `pracovní ploše`_ lze"
+" nakreslit "
 "elektrické skříňky, tlačítka, spínače, obrazovky a jakýkoli jiný typ součástí."
 
 #: ../drawing/lop.rst:11
@@ -45,10 +46,10 @@ msgid ""
 "`elements`_."
 msgstr ""
 "Dvojrozměrné kresby elektrických součástí lze vytvořit v `editoru prvku`_ "
-"jako `prvky`_. Po vytvoření výkresů součástí sestavené panelové výkresy "
-"lze vytvořit zavedením `prvků`_ v `pracovní ploše`_. Ve skupině **Obrázky** "
-"`sbírky QET`_ jsou poskytovány některé běžné pohledy zepředu na elektrické "
-"součásti jako `Prvky`_."
+"jako `prvky`_. Po vytvoření kreseb součástí, sestavené panelové kresby "
+"lze vytvořit zavedením prvků v `pracovní ploše`_. Ve skupině **Obrázky** "
+"sbírky `QET`_ jsou poskytovány některé běžné pohledy zepředu na elektrické "
+"součásti jako prvky."
 
 #: ../drawing/lop.rst:18
 msgid ""
@@ -78,8 +79,8 @@ msgid ""
 msgstr ""
 "Výhodou panelů na ovládání kreslení pomocí QElectroTechu a ne s "
 "jiným CAD nástrojem je možnost vytvářet vazby mezi `prvky`_. "
-"Spojení mezi `prvky`_, které představuje elektrická součást ve "
-"schématu `_ a v `prvcích`_, které představuje součást ve výkresu, "
+"Spojení mezi prvky, které představuje elektrickou součást ve "
+"`výkresu`_, a prvky, které představuje součást v kresbě, "
 "sníží budoucí úsilí; úsilí výroby, instalace a udržovací fáze projektu."
 
 #: ../drawing/lop.rst:33

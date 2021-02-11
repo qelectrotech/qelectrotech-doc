@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-21 22:28+0100\n"
+"PO-Revision-Date: 2021-01-20 21:36+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgid ""
 "tabs bar contains one tab for each `folio`_ of the `project`_."
 msgstr ""
 "Pruh s kartami listů lze považovat za součást `pracovního prostoru`_. "
-"Pruh karet s listy obsahuje jednu kartu pro každý `list`__` projektu`_."
+"Pruh karet s listy obsahuje jednu kartu pro každý `list`_ `projektu`_."
 
 #: ../interface/folio_tabs.rst:13
 msgid "Figure: QElectroTech folio tabs bar"

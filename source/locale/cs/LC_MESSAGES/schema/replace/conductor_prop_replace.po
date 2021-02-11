@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-22 23:20+0100\n"
+"PO-Revision-Date: 2021-01-22 22:45+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 "QElectroTech poskytuje funkci automatického vyhledání `vodiče`_ "
 "s určitou vlastností pro nahrazení `vlastností vodiče`_ bez "
-"potřeby hledat `vodič`_ v projektu ručně."
+"potřeby hledat vodič v projektu ručně."
 
 #: ../schema/replace/conductor_prop_replace.rst:13
 msgid ""
@@ -40,7 +40,7 @@ msgid ""
 " Search / Replace** menu item."
 msgstr ""
 "Pokud se `nabídka vyhledávání`_ nezobrazí, lze ji zobrazit přes položku "
-"nabídky ** Úpravy > Hledat/Nahradit**."
+"nabídky **Úpravy > Hledat/Nahradit**."
 
 #: ../schema/replace/conductor_prop_replace.rst:16
 msgid "To replace some `conductor properties`_:"
@@ -99,7 +99,7 @@ msgid ""
 "`conductors`_ where the replace action have to be applied. The selection "
 "can be made at the object tree from the `search menu`_."
 msgstr ""
-"Z `vodičů`_ nalezených při hledání vyberte `vodiče`_, na něž je třeba použít "
+"Z vodičů nalezených při hledání vyberte `vodiče`_, na něž je třeba použít "
 "úkon nahrazení. Výběr lze vytvořit ve stromové struktuře předmětů v "
 "`nabídce pro vyhledávání`_."
 
@@ -119,8 +119,8 @@ msgid ""
 "can be used to display the previous and next `conductor`_ from the search"
 " result."
 msgstr ""
-"Nahrazovací úkon lze také provést `vodič`_ za `vodičem`_. Tlačítko "
+"Nahrazovací úkon lze také provést `vodič`_ za vodičem. Tlačítko "
 "**Nahradit** úkon provede pouze na v `pracovní ploše`_ zobrazeném "
-"`vodiči`_ . Tlačítka |go-top| a |go-bottom| lze použít k zobrazení "
-"předchozího a dalšího `vodiče`_ výsledku vyhledávání."
+"vodiči. Tlačítka |go-top| a |go-bottom| lze použít k zobrazení "
+"předchozího a dalšího vodiče výsledku vyhledávání."
 

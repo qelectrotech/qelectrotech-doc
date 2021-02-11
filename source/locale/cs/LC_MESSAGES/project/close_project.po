@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 22:53+0100\n"
+"PO-Revision-Date: 2021-01-21 10:46+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +32,8 @@ msgid ""
 "modification has been created on it."
 msgstr ""
 "Uživatel může `projekt`_ kdykoli zavřít. Pokud se má nynější práce "
-"před zavřením projektu uložit, viz část `uložit`_. I tak, "
-"QElectroTech zobrazí automatickou zprávu pro `uložení projektu`_, "
+"před zavřením projektu uložit, s postupem se seznámíte v části `uložit`_. "
+"QElectroTech přesto zobrazí automatickou zprávu pro `uložení projektu`_, "
 "pokud v něm byla vytvořena nějaká změna."
 
 #: ../project/close_project.rst:14
@@ -56,7 +56,7 @@ msgid ""
 "`project`_ will be the `project`_ which will be closed."
 msgstr ""
 "V případě, že je otevřen více než jeden `projekt`_, činný "
-"`projekt`_ bude `projektem`_, který bude uzavřen."
+"projekt bude projektem, který bude zavřen."
 
 #: ../project/close_project.rst:23
 msgid "Close project from menu bar"
@@ -103,7 +103,7 @@ msgid ""
 msgstr ""
 "Výhodou zavření `projektů`_ přes `panel s projekty`_ je "
 "možnost uzavřít `projekty`_, které jsou otevřené a nejsou "
-"činnými `projekty`_."
+"činnými projekty."
 
 #: ../project/close_project.rst:49
 msgid ""

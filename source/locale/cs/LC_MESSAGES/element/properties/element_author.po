@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 21:45+0100\n"
+"PO-Revision-Date: 2021-01-21 20:44+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -42,15 +42,15 @@ msgid ""
 "`main window`_ from QElectroTech, this information can only be found from"
 " `element editor`_."
 msgstr ""
-"Autora a licenci `prvku`_ nelze zobrazit v `hlavním "
-"okně`_ QElectroTechu. Tyto údaje lze najít pouze v "
-"`editoru prvku`_."
+"Autora a licenci `prvku`_ nelze zobrazit "
+"v `hlavním okně`_ QElectroTechu. Tyto údaje lze "
+"najít pouze v `editoru prvku`_."
 
 #: ../element/properties/element_author.rst:19
 msgid ""
 "For more information about how to find the license and author from an "
 "`element`_, refer to `define author element information`_ section."
 msgstr ""
-"Další informace o tom, jak najít licenci a autora `prvku`_, "
-"viz část `stanovení informace o autorovi prvku `_."
+"Na další informace o tom, jak najít licenci a autora `prvku`_, "
+"se podívejte v části `stanovení informace o autorovi prvku`_."
 

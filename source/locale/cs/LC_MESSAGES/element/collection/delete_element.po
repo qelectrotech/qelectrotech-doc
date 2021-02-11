@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 20:24+0100\n"
+"PO-Revision-Date: 2021-01-21 21:00+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: ../element/collection/delete_element.rst:17
 msgid "Right click on the element which should de deleted."
-msgstr "Klepněte pravým tlačítkem myši na `prvek`_, který se má smazat."
+msgstr "Klepněte pravým tlačítkem myši na prvek, který se má smazat."
 
 #: ../element/collection/delete_element.rst:22
 msgid "Figure: Options at element"

@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-21 23:00+0100\n"
+"PO-Revision-Date: 2021-01-21 11:31+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgid ""
 "from the `Master`_ or `Slave`_ element linked."
 msgstr ""
 "Hlavní výhodou použití `nadřízených`_ a `podřízených`_ prvků je "
-"možnost vytvoření `křížových odkazů (odkazů)` _ mezi `prvky`_. V "
+"možnost vytvoření `křížových odkazů (odkazů)`_ mezi `prvky`_. V "
 "v případě `stanovení křížových odkazů`_ poskytuje QElectroTech "
 "možnost automatického zobrazení některých informací "
 "propojených `nadřízených`_ a `podřízených`_ prvků v `pracovní ploše`."
@@ -72,7 +72,7 @@ msgid ""
 "Cross references `Master element`_ type (Coil, organ of protection or "
 "Switch/button)."
 msgstr ""
-"Typ křížových odkazů `Nadřízený prvek`_ (cívka, ochrana nebo "
+"Typ křížových odkazů `nadřízený prvek`_ (cívka, ochrana nebo "
 "přepínač/tlačítko)."
 
 #: ../project/properties/new_folio/cross_references.rst:25
@@ -144,7 +144,7 @@ msgid ""
 msgstr ""
 "Všechny předem stanovené vlastnosti křížových odkazů stanovené ve "
 "vyskakovacím okně s nastavením QElectroTechu budou během "
-"`vytváření projektu`_automaticky stanoveny ve `vlastnostech projektu`_. "
+"vytváření projektu automaticky stanoveny ve `vlastnostech projektu`_. "
 "`Vlastnosti křížových odkazů`_ najdete v části `Nový list`_ "
 "v `kartě s křížovými odkazy`_."
 

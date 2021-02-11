@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:45+0100\n"
+"PO-Revision-Date: 2021-01-21 12:06+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -134,7 +134,7 @@ msgstr "Výchozí proměnné listu jsou:"
 
 #: ../folio/properties/folio_title_block.rst:56
 msgid "**Title**: Title from the folio."
-msgstr "**Název**: Název z listu."
+msgstr "**Název**: Název listu."
 
 #: ../folio/properties/folio_title_block.rst:57
 msgid "**Author**: Author from the folio."
@@ -146,11 +146,11 @@ msgstr "**Datum**: Datum vytvoření listu."
 
 #: ../folio/properties/folio_title_block.rst:59
 msgid "**File**:"
-msgstr "**Soubor**:"
+msgstr "**Soubor**: Soubor"
 
 #: ../folio/properties/folio_title_block.rst:60
 msgid "**Folio**: Folio information (Label)."
-msgstr "**Soubor**: Informace o listu (štítek)."
+msgstr "**List**: Informace o listu (štítek)."
 
 #: ../folio/properties/folio_title_block.rst:61
 msgid "**Plant**: Folio variable named Plant."
@@ -158,7 +158,7 @@ msgstr "**Plant**: Proměnná listu pojmenovaná Plant."
 
 #: ../folio/properties/folio_title_block.rst:62
 msgid "**Location**: Folio variable named Location."
-msgstr "**Location**: Proměnná listu pojmenovaná Location."
+msgstr "**Umístění**: Proměnná listu pojmenovaná Location."
 
 #: ../folio/properties/folio_title_block.rst:63
 msgid "**Rev index**: Revision index from the folio."

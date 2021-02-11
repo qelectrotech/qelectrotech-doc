@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-10-24 11:57+0200\n"
+"PO-Revision-Date: 2021-01-22 22:02+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgid ""
 "Select `auto numbering pattern`_ at the `Auto numbering selection panel`_."
 msgstr ""
 "V `panelu pro výběr automatického číslování`_ vyberte `vzor automatického"
-" číslování`__."
+" číslování`_."
 
 #: ../schema/conductor/conductor_creation.rst:17
 #: ../schema/conductor/conductor_creation.rst:47
@@ -63,15 +63,14 @@ msgstr "Klepněte na počáteční `svorku`_ `vodiče`_."
 msgid ""
 "Without releasing, move the mouse up to the end `terminal`_ of the "
 "`conductor`_."
-msgstr ""
-"Bez uvolnění `panelu`_ přesuňte myš nahoru na koncovou `svorku`_ `vodiče`_."
+msgstr "Bez uvolnění myš přesuňte nahoru na koncovou `svorku`_ `vodiče`_."
 
 #: ../schema/conductor/conductor_creation.rst:26
 msgid ""
 "Once the end `terminal`_ is automatically identified by QElectroTech, "
 "release the mouse to create the `conductor`_."
 msgstr ""
-"Jakmile QElectroTech automaticky rozpozná konec `svorky`_,"
+"Jakmile QElectroTech automaticky rozpozná konec `svorky`_, "
 "uvolněte myš pro vytvoření `vodiče`_."
 
 #: ../schema/conductor/conductor_creation.rst:32
@@ -104,7 +103,7 @@ msgid ""
 "the initial `terminal`_ and the end `terminal`_ have to be at the same "
 "vertical or horizontal line."
 msgstr ""
-"`Přidejte prvek`_ do `pracovní plochy`_. O polohu `prvku`_ se postará program."
+"`Přidejte prvek`_ do `pracovní plochy`_. O polohu prvku se postará program."
 "Počáteční `svorka`_ a koncová `svorka`_ musí být ve stejném"
 "svislém nebo vodorovném řádku."
 

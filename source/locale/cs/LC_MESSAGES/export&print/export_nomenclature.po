@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-12 21:57+0200\n"
-"PO-Revision-Date: 2020-12-20 22:00+0100\n"
+"PO-Revision-Date: 2021-01-23 11:30+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../export&print/export_nomenclature.rst:4
 msgid "Export nomenclature"
-msgstr "Vyvedení seznam součástí"
+msgstr "Vyvedení seznamu součástí"
 
 #: ../export&print/export_nomenclature.rst:6
 msgid ""
@@ -84,7 +84,7 @@ msgstr "|go-up|"
 
 #: ../export&print/export_nomenclature.rst:25
 msgid "Move up this field"
-msgstr "Posunout toto pole nahoru"
+msgstr "Posunutí pole nahoru"
 
 #: ../export&print/export_nomenclature.rst:26
 msgid "|list-add|"
@@ -116,7 +116,7 @@ msgstr "|go-down|"
 
 #: ../export&print/export_nomenclature.rst:28
 msgid "Move down this field"
-msgstr "Posunout toto pole dolů"
+msgstr "Posunutí pole dolů"
 
 #: ../export&print/export_nomenclature.rst:34
 msgid "Figure: QElectroTech export nomenclature PopUp window"

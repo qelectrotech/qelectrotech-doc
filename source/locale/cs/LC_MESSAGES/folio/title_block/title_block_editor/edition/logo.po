@@ -3,13 +3,13 @@
 # package.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
-# Pavel Fric <pavelfric@seznam.cz>, 2020.
+# Pavel Fric <pavelfric@seznam.cz>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: QElectroTech 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 14:12+0200\n"
-"PO-Revision-Date: 2020-12-20 22:27+0100\n"
+"PO-Revision-Date: 2021-01-21 12:37+0100\n"
 "Last-Translator: Pavel Fric <pavelfric@seznam.cz>\n"
 "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgstr "Vyberte `buňku`_, do které má být značka (logo) vložena."
 #: ../folio/title_block/title_block_editor/edition/logo.rst:8
 msgid "Go to properties and choose **Logo** at **Cell type** Combo Box."
 msgstr ""
-"Jděte do vlastností a v rozbalovací seznamu **Typ buňky** vyberte **Logo*."
+"Jděte do vlastností a v rozbalovací seznamu **Typ buňky** vyberte **Logo**."
 
 #: ../folio/title_block/title_block_editor/edition/logo.rst:13
 msgid "Figure: QElectroTech Title block cell properties"
