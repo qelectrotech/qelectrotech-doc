@@ -1,4 +1,4 @@
-.. _element/element_editor/editor_quit
+.. _element/element_editor/editor_quit:
 
 ====================
 Quit element editor

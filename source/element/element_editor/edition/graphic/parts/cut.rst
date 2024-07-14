@@ -1,4 +1,4 @@
-.. _element/element_editor/edition/graphic/parts//cut
+.. _element/element_editor/edition/graphic/parts//cut:
 
 ========
 Cut part

@@ -1,4 +1,4 @@
-.. _element/element_editor/element_save
+.. _element/element_editor/element_save:
 
 ============
 Save element

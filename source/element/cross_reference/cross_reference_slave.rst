@@ -1,4 +1,4 @@
-.. _element/cross_reference/cross_reference_slave
+.. _element/cross_reference/cross_reference_slave:
 
 =================================
 Cross reference at slave element

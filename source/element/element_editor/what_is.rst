@@ -1,4 +1,4 @@
-.. _element/element_editor/what_is
+.. _element/element_editor/what_is:
 
 ===========================
 What is the element editor?

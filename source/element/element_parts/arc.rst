@@ -1,4 +1,4 @@
-.. _element/element_parts/arc
+.. _element/element_parts/arc:
 
 ===
 Arc

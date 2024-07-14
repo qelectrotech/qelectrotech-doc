@@ -1,4 +1,4 @@
-.. _element/index
+.. _element/index:
 
 =======
 Element

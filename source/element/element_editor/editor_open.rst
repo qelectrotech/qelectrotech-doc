@@ -1,4 +1,4 @@
-.. _element/element_editor/editor_open
+.. _element/element_editor/editor_open:
 
 ====================
 Open element editor

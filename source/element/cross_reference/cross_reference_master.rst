@@ -1,4 +1,4 @@
-.. _element/cross_reference/cross_reference_master
+.. _element/cross_reference/cross_reference_master:
 
 =================================
 Cross reference at master element

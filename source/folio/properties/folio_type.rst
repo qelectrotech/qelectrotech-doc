@@ -1,4 +1,4 @@
-.. _folio/properties/folio_type
+.. _folio/properties/folio_type:
 
 ====================
 Folio conductor type

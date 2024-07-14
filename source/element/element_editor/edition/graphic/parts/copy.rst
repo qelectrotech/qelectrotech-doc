@@ -1,4 +1,4 @@
-.. _element/element_editor/edition/graphic/parts/copy
+.. _element/element_editor/edition/graphic/parts/copy:
 
 =========
 Copy part

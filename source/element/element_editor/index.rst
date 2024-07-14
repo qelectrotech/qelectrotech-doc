@@ -1,4 +1,4 @@
-.. _element/element_editor/index
+.. _element/element_editor/index:
 
 ==============
 Element editor

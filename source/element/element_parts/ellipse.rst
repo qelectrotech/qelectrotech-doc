@@ -1,4 +1,4 @@
-.. _element/element_parts/ellipse
+.. _element/element_parts/ellipse:
 
 =======
 Ellipse

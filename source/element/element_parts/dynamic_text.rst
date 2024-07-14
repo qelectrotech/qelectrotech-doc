@@ -1,4 +1,4 @@
-.. _element/element_parts/dynamic_text
+.. _element/element_parts/dynamic_text:
 
 ============
 Dynamic text

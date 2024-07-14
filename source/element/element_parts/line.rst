@@ -1,4 +1,4 @@
-.. _element/element_parts/line
+.. _element/element_parts/line:
 
 ====
 Line

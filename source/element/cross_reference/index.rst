@@ -1,4 +1,4 @@
-.. _element/cross_reference/index
+.. _element/cross_reference/index:
 
 =======================
 Element cross reference
