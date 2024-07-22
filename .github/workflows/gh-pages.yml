@@ -25,29 +25,4 @@ jobs:
     - name: Build documentation
       run: make html
       shell: bash
-    - name: Upload Pages artifacts
-      uses: actions/upload-pages-artifact@v1
-      with:
-        source: ./build
-        destination: ./
-
-
-
-  deploy:
-    needs: build
-    permissions:
-      contents: write
-      id-token: write
-      pages: write
-
-        # Deploy to the github-pages environment
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    # Specify runner + deployment step
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    - name: Upload the built files to the server

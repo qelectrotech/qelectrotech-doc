@@ -1,101 +1,30 @@
-.. _index
+.. Qelectrotech-Wiki documentation master file, created by
+   sphinx-quickstart on Fri Jul 12 18:23:45 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-==========================
-QElectroTech documentation
-==========================
+=============================================
+Welcome to the Qelectrotech Wiki!
+=============================================
 
-.. raw:: html
+What is QelectroTech?
+~~~~~~~~~~~~~~~~~~~~~
 
-   <ul class="grid">
-       <li class="grid-item">
-           <a href="basics/index.html">
-               <img alt="" src="_images/icon-128x128-qelectrotech.png"/>
-               <h2>Basics</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="interface/index.html">
-               <img alt="" src="_images/qet_gui.png"/>
-               <h2>Interface</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="preferences/index.html">
-               <img alt="" src="_images/icon-128x128-plasmagik.png"/>
-               <h2>Preferences</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="project/index.html">
-               <img alt="" src="_images/icon-128x128-project.png"/>
-               <h2>Project</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="folio/index.html">
-               <img alt="" src="_images/icon-128x128-folio.png"/>
-               <h2>Folio</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="element/index.html">
-               <img alt="" src="_images/icon-128x128-element.png"/>
-               <h2>Element</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="conductor/index.html">
-               <img alt="" src="_images/icon-128x128-conductor.png"/>
-               <h2>Conductor</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="schema/index.html">
-               <img alt="" src="_images/icon-128x128-diagram.png"/>
-               <h2>Schema</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="drawing/index.html">
-               <img alt="" src="_images/qet_lop.png"/>
-               <h2>Drawing</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="reports/index.html">
-               <img alt="" src="_images/qet_list_folios.png"/>
-               <h2>Reports</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="export&print/index.html">
-               <img alt="" src="_images/icon-128x128-print.png"/>
-               <h2>Export & Print</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="annex/index.html">
-               <img alt="" src="_images/icon-128x128-qelectrotech.png"/>
-               <h2>Annex</h2>
-           </a>
-       </li>
-   </ul>
+| **QelectroTech** (QET) is a cross-platform free and open-source (FOSS) tool allowing you to create electrical, hydraulic and pneumatic drawings.
+| These drawings are essential tools for Electritians and Electrical Engineers alike, allowing them to easely identify components and connections of a electrical circuit.
+
+Why does </insert feature> isn't implemented
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+QET is a a hobby project created by `the QelectroTech Team <https://qelectrotech.org/contact.php>`_
+
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   
+   users/index.rst
+   developer/index.rst
 
 
-   basics/index
-   interface/index
-   preferences/index
-   project/index
-   folio/index
-   element/index
-   conductor/index
-   schema/index
-   drawing/index
-   reports/index
-   export&print/index
-   annex/index
 
-here is the pdf version :download:`pdf <downloads/QElectroTechdoc-0.8.pdf>`
+
