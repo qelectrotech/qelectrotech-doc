@@ -1,4 +1,4 @@
-.. _index
+.. _index:
 
 ==========================
 User Manual
@@ -7,26 +7,31 @@ User Manual
     :gutter: 2
 
 
-    .. grid-item-card:: Basics
+    .. grid-item-card:: Basics 
         :img-top: ../_external/_images/ico/256x256/qelectrotech.png
         :img-alt: Image showing QelectroTech app icon
-        :link: cards-clickable
+        :link: basics/index
         :link-type: ref
+        :shadow: lg
     
     .. grid-item-card:: Interface
         :img-top: ../_external/_images/ico/breeze-icons/128x128/apps/qelectrotech.png
         :img-alt: Image showing QelectroTech's interface wizard
+        :link: interface/index
+        :link-type: ref
     
     .. grid-item-card:: Preferences
         :img-top: ../_external/_images/ico/128x128/plasmagik.png
         :img-alt: Image showing QelectroTech preferences icon
+        :link: preferences/index
+        :link-type: ref
     
     .. grid-item-card:: Project
         :img-top: ../_external/_images/ico/128x128/project.png
         :img-alt: Image showing QelectroTech Project icon
 
     .. grid-item-card:: Folio
-        :img-top: ../_external/_images/ico/breeze-icons/128x128/apps/qelectrotech.png
+        :img-top: ../_external/_images/ico/256x256/folio.svg
         :img-alt: Image showing QelectroTech app icon
     
     .. grid-item-card:: Element

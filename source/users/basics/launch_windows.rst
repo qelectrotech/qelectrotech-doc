@@ -1,4 +1,4 @@
-.. _basics/launch_windows
+.. _basics/launch_windows:
 
 Launch QElectroTech on Windows
 ==============================

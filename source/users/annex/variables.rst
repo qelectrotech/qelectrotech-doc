@@ -1,4 +1,4 @@
-.. _annex/variables
+.. _annex/variables:
 
 ==============================
 Default QElectroTech variables

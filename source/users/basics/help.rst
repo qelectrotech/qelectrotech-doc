@@ -1,4 +1,4 @@
-.. _basics/help
+.. _basics/help:
 
 QElectroTech help menu
 ======================

@@ -1,4 +1,4 @@
-.. _annex/index
+.. _annex/index:
 
 =====
 Annex

@@ -25,4 +25,6 @@ jobs:
     - name: Build documentation
       run: make html
       shell: bash
-    - name: Upload the built files to the server
+    - name: Upload the built files to the server using rclone
+      run: sudo apt install rclone && 
+      shell: bash

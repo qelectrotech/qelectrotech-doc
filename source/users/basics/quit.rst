@@ -1,4 +1,4 @@
-.. _basics/quit
+.. _basics/quit:
 
 Quit QElectroTech
 =================

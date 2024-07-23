@@ -1,4 +1,4 @@
-.. _basics/launch_mac
+.. _basics/launch_mac:
 
 Launch QElectroTech on Mac
 ==========================

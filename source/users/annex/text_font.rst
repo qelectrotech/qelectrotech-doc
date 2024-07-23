@@ -1,4 +1,4 @@
-.. _annex/variables
+.. _annex/text_font:
 
 ======================
 QElectroTech text font

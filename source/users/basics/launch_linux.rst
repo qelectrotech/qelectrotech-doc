@@ -1,4 +1,4 @@
-.. _basics/launch_linux
+.. _basics/launch_linux:
 
 Launch QElectroTech on Linux
 ============================
