@@ -63,13 +63,9 @@ Get the QET Coding style for QTCreator and set it up.
 #. First you'll want to download the corresponding XML file from . You've got two option:
         
    - Download it like a :download:`normal file <../_external/_snippets/qtcreator-qet-style.xml>` with the help of your browser (will satisfy most users)
-   - Download it using an utility like curl or wget. An example would be:
-        
-.. code-block:: bash
+   - Download it using an utility like curl or wget.
 
-        wget http://qelectrotech.org/wiki_new/_media/doc/qtcreator-qet-style.xml
-
-- After that, you'll need to import it into the QtCreator app as shown in the picture below
+#. After that, you'll need to import it into the QtCreator app as shown in the picture below
     
 .. image:: ../_external/_images/qet_developer/qet_developer_style_setup.png
 
