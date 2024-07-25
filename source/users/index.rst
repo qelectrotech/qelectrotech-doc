@@ -14,7 +14,7 @@ User Manual
         :link-type: ref
     
     .. grid-item-card:: Interface
-        :img-top: ../_external/_images/ico/breeze-icons/128x128/apps/qelectrotech.png
+        :img-top: ../_external/_images/ico/256x256/interface.png
         :img-alt: Image showing QelectroTech's interface wizard
         :link: interface/index
         :link-type: ref
