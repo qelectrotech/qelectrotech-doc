@@ -5,7 +5,7 @@ QElectroTech help menu
 
 QElectroTech has been designed with some tools which help the user and makes easier the searching of information. All those tools can be found at **Help** menu from `menu bar`_.
 
-.. figure:: ../images/qet_menu_help.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_help.png
    :align: center
 
    Figure: Help menu QElectroTech
@@ -20,7 +20,7 @@ QElectroTech also allows the display from tooltips, or short descrition panels, 
     1. Select **Help > What's this?** menu item.
     2. Press on the object or area to display the description panel.
 
-.. figure:: ../images/qet_tooltip_workspace.png
+.. figure:: /_external/_images/en/qet_tooltip_workspace.png
    :align: center
 
    Figure: Message which appears at the workspace

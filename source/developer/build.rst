@@ -67,7 +67,7 @@ Get the QET Coding style for QTCreator and set it up.
 
 #. After that, you'll need to import it into the QtCreator app as shown in the picture below
     
-.. image:: ../_external/_images/qet_developer/qet_developer_style_setup.png
+.. image:: /_external/_images/en/qet_developer/qet_developer_style_setup.png
 
 - To produce a binary, run the .sh scripts for the different packaging options that are proposed.
 
