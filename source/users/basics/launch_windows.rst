@@ -10,7 +10,7 @@ After installation, QElectroTech can be launched from Windows Start Menu. If the
     3. Open **QElectroTech** program group.
     4. Click QElectroTech icon.
 
-.. figure:: ../images/ico/splash.png
+.. figure:: /_external/_images/_site-assets/ico/splash.png
    :scale: 50 %
    :align: center
 
@@ -18,7 +18,7 @@ After installation, QElectroTech can be launched from Windows Start Menu. If the
 
 Once QElectroTech has been launched, the main window looks as follow:
 
-.. figure:: ../images/qet_main_window.png
+.. figure:: /_external/_images/en/qet_main_window.png
    :scale: 50 %
    :align: center
 

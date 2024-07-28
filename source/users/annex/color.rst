@@ -9,7 +9,7 @@ Basic color
 
 QElectroTech provides a **Select color** PopUp window with some basic colors.
 
-.. figure:: /_external/_images/en/qet_color_default.png
+.. figure:: /_external/_images/en/qet_color/qet_color_default.png
 
 To select a color:
 
@@ -28,7 +28,7 @@ To define a custom color:
 #. Press the buttom + from the custom color section of the **Select color** PopUp window.
 #. Define the HTML code of the desired color in the text box.
 
-        .. figure:: /_external/_images/en/qet_color_custom.png
+        .. figure:: /_external/_images/en/qet_color/qet_color_custom.png
             :align: center
 
             Figure: QElectroTech custom color selection window

@@ -7,7 +7,7 @@ The user can quit QElectroTech at anytime. The user does not need to `close the 
 
 If the current work wants to be saved before closing the project, refer to `save project`_ section. Even so, QElectroTech displays an automatic message to save the current job if any modification has been created. 
 
-.. figure:: ../images/qet_save_project_message.png
+.. figure:: /_external/_images/en/qet_save_project_message.png
    :align: center
 
    Figure: QElectroTech Save message
@@ -20,7 +20,7 @@ Quit QElectroTech from menu bar
 
     1. Select **File > Quit** menu item to quit QElectroTech.
 
-.. figure:: ../images/qet_menu_file.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_file.png
    :align: center
 
    Figure: QElectroTech File menu
@@ -36,7 +36,7 @@ QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     For more information about QElectroTech keyboard shortcuts, refer to `menu bar`_ section.
 
-.. |close_tab| image:: ../images/close_tab.png
+.. |close_tab| image:: /_external/_images/close_tab.png
 .. _Qt: https://www.qt.io/
 
 .. _close the project: ../project/close_project.html

@@ -40,7 +40,7 @@ As Windows, Linux operative systems allow the user to launch applications from m
 
 Once QElectroTech has been launched, the main window looks as follow:
 
-.. figure:: ../images/qet_main_window.png
+.. figure:: /_external/_images/en/qet_main_window.png
    :scale: 50 %
    :align: center
 

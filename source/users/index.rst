@@ -40,6 +40,8 @@ User Manual
     .. grid-item-card:: Conductor
         :img-top: ../_external/_images/_site-assets/ico/256x256/conductor.png
         :img-alt: Image showing QelectroTech app icon
+        :link: conductor/index
+        :link-type: ref
     
     .. grid-item-card:: Schema
         :img-top: ../_external/_images/_site-assets/ico/128x128/diagram.png
