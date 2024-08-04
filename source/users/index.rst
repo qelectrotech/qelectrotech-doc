@@ -50,9 +50,11 @@ User Manual
     .. grid-item-card:: Drawing
         :img-top: ../_external/_images/_site-assets/ico/256x256/drawing.png
         :img-alt: Image showing QelectroTech app icon
+        :link: drawing/index
+        :link-type: ref
     
     .. grid-item-card:: Reports
-        :img-top: ../_external/_images/_site-assets/ico/breeze-icons/128x128/apps/qelectrotech.png
+        :img-top: ../_external/_images/_site-assets/ico/256x256/report.png
         :img-alt: Image showing QelectroTech app icon
     
     .. grid-item-card:: Export & Print
