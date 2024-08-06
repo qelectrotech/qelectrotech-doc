@@ -1,4 +1,4 @@
-.. _interface/panels/collections_panel
+.. _interface/panels/collections_panel:
 
 =================
 Collections panel

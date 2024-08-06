@@ -1,4 +1,4 @@
-.. _interface/menu_bar
+.. _interface/menu_bar:
 
 ========
 Menu bar

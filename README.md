@@ -15,6 +15,6 @@ You will now learn on how to setup and use the sphinx tool
 1) Setup a [venv](https://docs.python.org/3/library/venv.html) (please name it "venv" as the .gitignore is configure to not track his changes) and follow the activation procedure.
 2) Use pip to install the requirements.txt file
 3) Run "make html" in your terminal
-4) Open the "build/html/index.html" file in your browser of choice and profit.
-5) Done! 
+4) Open the "build/html/index.html" file in your browser of choice.
+5) Profit! 
 

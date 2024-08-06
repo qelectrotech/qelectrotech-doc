@@ -20,7 +20,7 @@ All `toolbars`_ are placed by default under `menu bar`_, in one row. The user is
 the `toolbars`_. The `toolbars`_ can be organiced in rows, columns at the left or right side from the 
 `workspace`_ or as floating toolbar.
 
-.. figure:: ../../images/qet_gui.png
+.. figure:: /_external/_images/en/qet_gui/qet_gui.png
     :align: center
 
     Figure: QElectroTech user interface
@@ -31,7 +31,7 @@ To change the organization of `toolbars`_:
     2. Without releasing the `toolbar`_, move the mouse to the final position.
     3. Release the `toolbar`_.
 
-.. figure:: ../../images/qet_gui_toolbars_placement.png
+.. figure:: /_external/_images/en/qet_gui/qet_gui_toolbars_placement.png
     :align: center
 
     Figure: QElectroTech toolbars placement

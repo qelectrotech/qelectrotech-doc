@@ -1,4 +1,4 @@
-.. _interface/project_tabs
+.. _interface/project_tabs:
 
 =================
 Projects tabs bar

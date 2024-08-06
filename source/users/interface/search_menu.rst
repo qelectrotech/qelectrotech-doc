@@ -1,4 +1,4 @@
-.. _interface/search_menu
+.. _interface/search_menu:
 
 ==========
 Seach menu

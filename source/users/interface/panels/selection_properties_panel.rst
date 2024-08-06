@@ -1,4 +1,4 @@
-.. _interface/panels/selection_properties_panel
+.. _interface/panels/selection_properties_panel:
 
 ==========================
 Selection properties panel

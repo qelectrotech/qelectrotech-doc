@@ -1,4 +1,4 @@
-.. _interface/panels/undo_panel
+.. _interface/panels/undo_panel:
 
 ==========
 Undo panel

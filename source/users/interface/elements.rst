@@ -1,4 +1,4 @@
-.. _interface/elements
+.. _interface/elements:
 
 .. role:: greentext
 .. role:: bluetext
@@ -23,7 +23,7 @@ QElectroTech has been designed using `Qt`_ framework and widget toolkit. The mai
     7. :browntext:`Help bar`
     8. :pinktext:`Search Menu`
 
-.. figure:: ../images/qet_gui_elements.png
+.. figure:: /_external/_images/en/qet_gui/qet_gui_elements.png
    :align: center
 
    Figure: QElectroTech main window

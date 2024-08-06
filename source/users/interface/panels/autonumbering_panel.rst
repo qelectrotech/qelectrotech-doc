@@ -1,4 +1,4 @@
-.. _interface/panels/autonumbering_panel
+.. _interface/panels/autonumbering_panel:
 
 ==============================
 Auto Numbering Selection panel

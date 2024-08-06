@@ -1,4 +1,4 @@
-.. _interface/folio_tabs
+.. _interface/folio_tabs:
 
 ==============
 Folio tabs bar
@@ -7,7 +7,7 @@ Folio tabs bar
 The folio tabs bar can be considered part of the `workspace`_. The folio tabs bar contains one tab 
 for each `folio`_ of the `project`_.
 
-.. figure:: ../images/qet_folio_tabs.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_tabs.png
    :align: center
 
    Figure: QElectroTech folio tabs bar

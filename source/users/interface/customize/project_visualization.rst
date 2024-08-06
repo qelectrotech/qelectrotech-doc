@@ -1,4 +1,4 @@
-.. _interface/customize/project_visualization
+.. _interface/customize/project_visualization:
 
 =====================
 Project visualization
@@ -12,14 +12,14 @@ To define the project visualization preference:
 
     1. Select **Display > Display projects** menu item to display the project visualization options.
 
-        .. figure:: ../../images/qet_menu_display_projects.png
+        .. figure:: /_external/_images/en/qet_menu/qet_menu_display_projects.png
             :align: center
 
             Figure: QElectroTech Display > Display projects menu
 
     2. Click on the desired option: **using windows** or **using tabs**
 
-.. figure:: ../../images/qet_projects_using_windows.png
+.. figure:: /_external/_images/en/qet_project/qet_projects_using_windows.png
    :align: center
 
    Figure: QElectroTech projects visualization using windows

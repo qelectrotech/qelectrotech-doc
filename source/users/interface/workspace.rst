@@ -1,4 +1,4 @@
-.. _interface/workspace
+.. _interface/workspace:
 
 =========
 Workspace

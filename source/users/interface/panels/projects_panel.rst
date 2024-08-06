@@ -1,4 +1,4 @@
-.. _interface/panels/projects_panel
+.. _interface/panels/projects_panel:
 
 ==============
 Projects panel
