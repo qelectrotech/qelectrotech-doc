@@ -24,9 +24,3 @@ jobs:
       shell: bash
     - name: Make source files REUSE compliant
       run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <scorpio@qelectrotech.org>" --license="GPL-2.0-only" /source/developer/* /source/users/* /source/index.rst /source/doc_changelog.rst
-    - name: Build documentation
-      run: make html
-      shell: bash
-    - name: Upload the built files to the server using rclone
-      run: sudo apt install rclone && 
-      shell: bash

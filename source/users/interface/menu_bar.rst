@@ -15,7 +15,7 @@ menus ``File``, ``Edit``, ``Project``, ``Display``, ``Settings``, ``Windows`` an
 File menu
 ~~~~~~~~~~
 
-.. figure:: ../images/qet_menu_file.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_file.png
    :align: center
 
    Figure: QElectroTech file menu 
@@ -238,7 +238,7 @@ Help menu
 
 .. _Help or Information tool bar: ../interface/help_bar.html
 
-.. |document-recent| image:: ../images/ico/22x22/document-open-recent.png
+.. |document-recent| image:: /_external/_images/_site-assets/ico/22x22/document-open-recent.png
 .. |project-new| image:: ../images/ico/22x22/project-new.png
 .. |project| image:: ../images/ico/22x22/project.png
 .. |document-save| image:: ../images/ico/22x22/document-save.png

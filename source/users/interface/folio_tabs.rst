@@ -18,7 +18,7 @@ The folio tabs bar allows the following actions:
    2. Opening the properties PopUP window from an specific folio by double click on the tab.
    3. Adding new folio to the project by simple click on the **Add folio** icon |add_folio| from right side.
 
-.. |add_folio| image:: ../images/ico/22x22/diagram_add.png
+.. |add_folio| image:: /_external/_images/_site-assets/ico/22x22/diagram_add.png
 
 .. _workspace: ../interface/workspace.html
 .. _folio: ../folio/index.html
