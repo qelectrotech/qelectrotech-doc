@@ -10,7 +10,7 @@ The Auto Numbering Selection panel displays the active `auto numbering pattern`_
     * `Element`_
     * `Conductor`_
 
-.. figure:: ../../images/qet_panel_auto_numbering.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering.png
    :align: center
 
    Figure: QElectroTech Auto Numbering Selection panel
@@ -24,7 +24,7 @@ The main function from the Auto Numbering Selection panel is to manage `auto num
     * Select the active folio auto numbering pattern
     * Select the active element auto numbering pattern
 
-        .. figure:: ../../images/qet_panel_auto_numbering_element_pattern.png
+        .. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_element_pattern.png
             :align: center
 
             Figure: QElectroTech element pattern selection

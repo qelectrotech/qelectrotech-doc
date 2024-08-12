@@ -7,7 +7,7 @@ Projects panel
 The projects panel displays the opened projects trees, `folios`_ and `embedded title blocks`_. The `QET`_ and 
 `user`_ collection title blocks are also displayed at the projects panel.
 
-.. figure:: ../../images/qet_panel_projects.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_projects.png
    :align: center
 
    Figure: QElectroTech Projects panel 

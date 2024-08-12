@@ -8,7 +8,7 @@ The workspace, also named graphical editor, is the area where the diagrams, sche
 
 The QElectroTech workspace looks as follow: 
 
-.. figure:: ../images/qet_workspace.png
+.. figure:: /_external/_images/en/qet_workspace/qet_workspace.png
    :align: center
    :scale: 50 %
 
