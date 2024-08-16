@@ -6,7 +6,7 @@
 .. SPDX-License-Identifier: GPL-2.0-only
 
 =================================
-Building Qelectrotech from source
+Building QET from source
 =================================
 
 This section is for advanced users/contributors wanting to build and improve Qelectrotech (QET).

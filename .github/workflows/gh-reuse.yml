@@ -33,6 +33,7 @@ jobs:
       run: |
         git config --global user.name "REUSE Github Action"
         git config --global user.email "action@github.com"
-        git add --all -- ':!LICENSES/*'
+        git clean -f LICENSES/
+        git add source/developer/* source/users/* source/index.rst source/doc_changelog.rst
         git commit -m "Files are now REUSE-compliant"
         git push

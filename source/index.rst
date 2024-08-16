@@ -23,6 +23,7 @@ QET is a a hobby project created by `the QelectroTech Team <https://qelectrotech
    
    users/index.rst
    developer/index.rst
+   doc_changelog.rst
 
 
 

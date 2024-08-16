@@ -5,8 +5,9 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
+.. _developer/contributing:
 ============================================
-Contributing to the QelectroTech source code
+Contributing to the QET source code
 ============================================
 
 The goal of this page is to teach you how to contribute effectively to the QET project by introducing you to .

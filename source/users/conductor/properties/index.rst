@@ -2,7 +2,7 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
-.. _conductor/properties/index
+.. _conductor/properties/index:
 
 ====================
 Conductor properties
