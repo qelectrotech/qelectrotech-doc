@@ -24,7 +24,7 @@ jobs:
       run: pip install -r requirements.txt
       shell: bash
     - name: Make source files REUSE-compliant
-      run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <scorpio@qelectrotech.org>" --license="GPL-2.0-only" source/developer/* source/users/* source/index.rst source/doc_changelog.rst
+      run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" source/developer/* source/users/* source/index.rst source/doc_changelog.rst --skip-unrecognised
     - name: Commit REUSE compliant files back to repo
       run: |
         git config --global user.name "REUSE Github Action"
