@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+..
+.. SPDX-License-Identifier: GPL-2.0-only
+
 .. _basics/launch_linux:
 
 Launch QElectroTech on Linux
