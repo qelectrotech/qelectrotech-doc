@@ -1,32 +1,23 @@
-name: Github Pages
-
+name: Deploy Sphinx documentation to Pages
 
 on:
   push:
-    branches: [ main ]
   pull_request:
-    
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      id-token: write
-      pages: write
+    branches: [master] # branch to trigger deployment
 
+jobs:
+  pages:
+    runs-on: ubuntu-20.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
     steps:
-    - uses: actions/checkout@v3
-    - name: Setup venv and activate it
-      run: python3 -m venv venv/ && source venv/bin/activate
-      shell: bash
-    - name: Install dependencies
-      run: pip install -r requirements.txt
-      shell: bash
-    - name: Make source files REUSE compliant
-      run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <scorpio@qelectrotech.org>" --license="GPL-2.0-only" /source/developer/* /source/users/* /source/index.rst /source/doc_changelog.rst
-    - name: Build documentation
-      run: make html
-      shell: bash
-    - name: Upload the built files to the server using rclone
-      run: sudo apt install rclone && 
-      shell: bash
+    - id: deployment
+      uses: sphinx-notes/pages@v3
+      with:
+        documentation_path: ./source
+        requirements_path: requirements.txt
+        cache: true

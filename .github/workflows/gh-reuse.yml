@@ -29,11 +29,15 @@ jobs:
       shell: bash
     - name: Make source files REUSE-compliant
       run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" source/developer/* source/users/* source/index.rst source/doc_changelog.rst --skip-unrecognised --recursive
-    - name: Commit REUSE compliant files back to repo
+    - name: Commit REUSE compliant files back to repo if there were changes
       run: |
         git config --global user.name "REUSE Github Action"
         git config --global user.email "action@github.com"
         git clean -f LICENSES/
-        git add source/developer/* source/users/* source/index.rst source/doc_changelog.rst
-        git commit -m "Files are now REUSE-compliant"
+        git commit -m "Files are now REUSE-compliant" -a
         git push
+      id: git
+      continue-on-error: true
+    - name: When no changes
+      run: echo "Nothing has changed"
+      if: job.steps.git.status == failure()
