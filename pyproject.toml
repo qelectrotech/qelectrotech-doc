@@ -1,0 +1,20 @@
+
+[tool.towncrier]
+name = "QET Documentation Changelog"
+version = "0.2"
+directory = "news/"
+filename = "source/doc_changelog.rst"
+
+[tool.towncrier.fragment.deps]
+name = "Dependency Changes"
+check = false
+
+[tool.towncrier.fragment.feature]
+
+[tool.towncrier.fragment.bugfix]
+
+[tool.towncrier.fragment.doc]
+
+[tool.towncrier.fragment.removal]
+
+[tool.towncrier.fragment.misc]

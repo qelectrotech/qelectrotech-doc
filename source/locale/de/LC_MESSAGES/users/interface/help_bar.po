@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/help_bar.rst:9
+msgid "Help bar"
+msgstr ""
+
+#: ../../source/users/interface/help_bar.rst:11
+msgid ""
+"The help bar, also known as information bar, is the space below control "
+"tabs, the bottom left corner from main window. It is very useful for "
+"beginners of QElectroTech in the way that it gives information about the "
+"field that is pointed by the cursor. A user can learn about a field by "
+"simply pointing it with the mouse and reading the information from help "
+"bar."
+msgstr ""
+
+#: ../../source/users/interface/help_bar.rst:16
+msgid "Figure: QElectroTech help bar"
+msgstr ""
+

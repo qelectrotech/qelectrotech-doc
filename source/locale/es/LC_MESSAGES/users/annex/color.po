@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/annex/color.rst:9
+msgid "Color selection"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:12
+msgid "Basic color"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:14
+msgid ""
+"QElectroTech provides a **Select color** PopUp window with some basic "
+"colors."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:18
+msgid "To select a color:"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:20
+msgid "Click on the desired color."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:21
+msgid "Press **Select** button."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:23
+msgid ""
+"The **Select color** PopUp window is also provided with a custom section "
+"where the colors defined in the past are stored."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:26
+msgid "Custom color"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:28
+msgid "QElectroTech allows customizing colors by defining the HTML code."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:30
+msgid "To define a custom color:"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:32
+msgid ""
+"Press the buttom + from the custom color section of the **Select color** "
+"PopUp window."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:33
+msgid "Define the HTML code of the desired color in the text box."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:38
+msgid "Figure: QElectroTech custom color selection window"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:40
+msgid ""
+"Press **Select** button to add the new color to the custom section of the"
+"  **Select color** PopUp window."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:44
+msgid "The custom color can also be defined visually:"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:46
+msgid "The color scale can be defined by the scrollbar placed at left side."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:47
+msgid "The grays scale can be defined by a cursor click on the color scale."
+msgstr ""
+
+#: ../../source/users/annex/color.rst:51
+msgid "For more information about HTML color code, refer to online resources as:"
+msgstr ""
+
+#: ../../source/users/annex/color.rst:53
+msgid "https://htmlcolorcodes.com/"
+msgstr ""
+

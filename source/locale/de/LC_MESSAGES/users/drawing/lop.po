@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/drawing/lop.rst:9
+msgid "Design Local Control Panel (LOP)"
+msgstr ""
+
+#: ../../source/users/drawing/lop.rst:11
+msgid ""
+"QElectroTech is not only a tool for diagrams and shemas, QElectroTech "
+"allows also drawing 2D drawings. Electrical boxes, buttons, switches, "
+"screens and any other type of components can be drawn at the "
+"`workspace`_."
+msgstr ""
+
+#: ../../source/users/drawing/lop.rst:15
+msgid ""
+"2D drawings from electrical component can be created at the `element "
+"editor`_ as `elements`_. After the creation of component drawings, "
+"assembled panel drawings can be created introducing the `elements`_ at "
+"the `workspace`_. At the category **Graphics** from `QET collection`_ "
+"some common electrical components front views are provided as "
+"`elements`_."
+msgstr ""
+
+#: ../../source/users/drawing/lop.rst:22
+msgid ""
+"For more information about how to create `elements`_, refer to `Create or"
+" edit element`_ section."
+msgstr ""
+
+#: ../../source/users/drawing/lop.rst:25
+msgid ""
+"For more information about how to introduce `elements`_ at `workspace`_, "
+"refer to `Working with element`_ section."
+msgstr ""
+
+#: ../../source/users/drawing/lop.rst:28
+msgid ""
+"The advantage of drawing control panels using QElectroTech and not with a"
+" different CAD tool is the posibility to create links between the "
+"`elements`_. A link between the `elements`_ which represents the "
+"electrical component at the `schema`_ and the `elements`_ which "
+"represents the component at the drawing will reduce the future effort; "
+"the effort from the manufacturing, intallation and maintenace phase of "
+"the project."
+msgstr ""
+
+#: ../../source/users/drawing/lop.rst:37
+msgid "Figure: QElectroTech Local Control Panel example"
+msgstr ""
+

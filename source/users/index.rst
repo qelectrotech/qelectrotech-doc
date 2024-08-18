@@ -2,7 +2,7 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
-.. _index:
+.. _users/index:
 
 ==========================
 User Manual

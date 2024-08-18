@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/developer/index.rst:29
+msgid "Table of Content:"
+msgstr ""
+
+#: ../../source/developer/index.rst:11
+msgid "Developer Manual"
+msgstr ""
+
+#: ../../source/developer/index.rst:16
+msgid "Image showing Git logo"
+msgstr ""
+
+#: ../../source/developer/index.rst:16
+msgid "Contributing to the QET source code"
+msgstr ""
+
+#: ../../source/developer/index.rst:22
+msgid "Image showing QelectroTech's interface wizard"
+msgstr ""
+
+#: ../../source/developer/index.rst:22
+msgid "Building QET from source"
+msgstr ""
+

@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/panels/projects_panel.rst:9
+msgid "Projects panel"
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:11
+msgid ""
+"The projects panel displays the opened projects trees, `folios`_ and "
+"`embedded title blocks`_. The `QET`_ and `user`_ collection title blocks "
+"are also displayed at the projects panel."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:17
+msgid "Figure: QElectroTech Projects panel"
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:19
+msgid "To display or hidden the projects panel:"
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:21
+msgid "Select **Settings > Display > Projects** menu item."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:23
+msgid "The tasks which can be done from projects panel are:"
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:25
+msgid "Manage `folios`_ (Add folios, define folio order at each project, etc.)."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:26
+msgid "Manage the `embedded title blocks`_ from the project."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:27
+msgid "Manage the default `QET`_ title block collection."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:28
+msgid "Manage the `user`_ title block collection."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:29
+msgid "Define the active project."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:30
+msgid "Define the active folio which should be displayed at the `workspace`_."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:31
+msgid "Display the folio properties PopUP window."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:32
+msgid "Display the project properties PopUP window."
+msgstr ""
+
+#: ../../source/users/interface/panels/projects_panel.rst:34
+msgid ""
+"To make easier the work with the project panel, QElectroTech provides a "
+"filter. All `folios`_, `projects`_ and `title blocks`_ without a name or "
+"part of a string can be hidden."
+msgstr ""
+

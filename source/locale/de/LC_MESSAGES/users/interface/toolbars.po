@@ -1,0 +1,770 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/toolbars.rst:8
+msgid "Toolbars"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:10
+msgid ""
+"In addition to the different `menus`_, QElectroTech also provides "
+"toolbars. The toolbars are groups of buttons with icons which initiate "
+"accions. In general, these buttons have its counterpart at one of the "
+"menus from the `menu bar`_."
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:16
+msgid ""
+"To help the user, a tooltip is displayed when the arrow is placed on each"
+" button."
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:19
+msgid "Toolbar Tools"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:24
+msgid "Figure: QElectroTech toolbar Tools"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:26
+msgid "The different buttons from toolbar **Tools** are:"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:29
+#: ../../source/users/interface/toolbars.rst:73
+#: ../../source/users/interface/toolbars.rst:105
+#: ../../source/users/interface/toolbars.rst:129
+#: ../../source/users/interface/toolbars.rst:159
+msgid "Tool"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:29
+#: ../../source/users/interface/toolbars.rst:73
+#: ../../source/users/interface/toolbars.rst:105
+#: ../../source/users/interface/toolbars.rst:129
+#: ../../source/users/interface/toolbars.rst:159
+msgid "Function"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:29
+#: ../../source/users/interface/toolbars.rst:73
+#: ../../source/users/interface/toolbars.rst:105
+#: ../../source/users/interface/toolbars.rst:129
+#: ../../source/users/interface/toolbars.rst:159
+msgid "Keyboard shortcut"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:29
+#: ../../source/users/interface/toolbars.rst:73
+#: ../../source/users/interface/toolbars.rst:105
+#: ../../source/users/interface/toolbars.rst:129
+#: ../../source/users/interface/toolbars.rst:159
+msgid "Icon"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "New"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "Creates a new Project"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "|project-new|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:177
+msgid "project-new"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "Open"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "Opens an existing project"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "``Ctrl + o``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "|project|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:178
+msgid "project"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "Save"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "Saves the current project and all its folios"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "``Ctrl + s``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "|document-save|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:179
+msgid "document-save"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "Save as"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "Saves the current project with a different file name"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "|document-save-as|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:180
+msgid "document-save-as"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "Close"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "Closes the current project"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "``Ctrl + w``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "|project-close|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:181
+msgid "project-close"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "Print"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "Print one or more folio of the current project"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "``Ctrl + p``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "|document-print|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:182
+msgid "document-print"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "Undo"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "Undoes the previous action"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "``Ctrl + z``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "|edit-undo|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:183
+msgid "edit-undo"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "Redo"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "Restores the undone action"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "``Ctrl + Shift + z``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "|edit-redo|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:184
+msgid "edit-redo"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "Cut"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "Puts selected elements into the clipboard"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "``Ctrl + x``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "|edit-cut|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:185
+msgid "edit-cut"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "Copy"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "Copies selected elements"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "``Ctrl + c``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "|edit-copy|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:186
+msgid "edit-copy"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "Paste"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "Pastes elements from the clipboard into the folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "``Ctrl + v``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "|edit-paste|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:187
+msgid "edit-paste"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "Delete"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "Removes selected elements from the folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "``Del``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "|edit-delete|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:188
+msgid "edit-delete"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:55
+msgid "Rotate"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:55
+msgid "Rotates selected elements and texts"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:55
+msgid "``Space``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:55
+msgid "|transform-rotate|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:189
+msgid "transform-rotate"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:60
+msgid ""
+"Select **Settings > display > Tools** menu item to display or hidden the "
+"toolbar **Tools**."
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:63
+msgid "Toolbar Display"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:68
+msgid "Figure: QElectroTech toolbar Display"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:70
+msgid "The different buttons from toolbar **Display** are:"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:75
+msgid "Select"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:75
+msgid "Allows to select elements"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:75
+msgid "|select|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:190
+msgid "select"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:77
+msgid "Move"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:77
+msgid "Allows to view the folio without modifying it"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:77
+msgid "|move|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:191
+msgid "move"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:79
+msgid "Display the grid"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:79
+msgid "Displays or hidden the grid of folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:79
+msgid "|grid|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:192
+msgid "grid"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid "Background color white / gray"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid "Displays the background color of the folio in white or gray"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid "|diagram_bg|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:193
+msgid "diagram_bg"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "Zoom content"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "Adjusts the zoom to display all the content of folio regardless of context"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "``Ctrl + 8``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "|zoom-draw|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:194
+msgid "zoom-draw"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "Fit in view"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "Adjusts the zoom on exactly trhe part of the folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "``Ctrl + 9``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "|view-fit-window|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:195
+msgid "view-fit-window"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:87
+msgid "Reset zoom"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:87
+msgid "Restores default zoom level"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:87
+msgid "``Ctrl + 0``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:87
+msgid "|zoom-original|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:196
+msgid "zoom-original"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:92
+msgid ""
+"Select **Settings > Display > Display** menu item to display or hidden "
+"the toolbar **Display**."
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:95
+msgid "Toolbar Diagram"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:100
+msgid "Figure: QElectroTech toolbar Diagram"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:102
+msgid "The different buttons from toolbar **Diagram** are:"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "Folio properties"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "Edits the properties of the folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "``Ctrl + l``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "|dialog-information|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:197
+msgid "dialog-information"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "Reset conductors"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "Resets the conductors path ignoring the user changes"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "``Ctrl + k``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "|conductor2|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:198
+msgid "conductor2"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:111
+msgid "Automatic creation conductor"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:111
+msgid "Using the automatic creation of conductor (s) when possible"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:111
+msgid "|autoconnect|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:199
+msgid "autoconnect"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:116
+msgid ""
+"Select **Settings > Display > Diagram** menu item to display or hidden "
+"the toolbar **Diagram**."
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:119
+msgid "Toolbar Add"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:124
+msgid "Figure: QElectroTech toolbar Add"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:126
+msgid "The different buttons from toolbar **Add** are:"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:131
+msgid "Add a textfield"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:131
+msgid "Adds a text field to the current folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:131
+msgid "|textfield|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:200
+msgid "textfield"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:133
+msgid "Add a picture"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:133
+msgid "Adds an image to the current folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:133
+msgid "|insert-image|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:201
+msgid "insert-image"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:135
+msgid "Add line"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:135
+msgid "Adds a line to the current folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:135
+msgid "|line|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:202
+msgid "line"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:137
+msgid "Add a rectangle"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:137
+msgid "Adds a rectangle to the current folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:137
+msgid "|rectangle|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:204
+msgid "rectangle"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:139
+msgid "Add an ellipse"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:139
+msgid "Adds an ellipse to the current folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:139
+msgid "|ellipse|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:203
+msgid "ellipse"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:141
+msgid "Add a polygon"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:141
+msgid "Adds a polyline to the current folio"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:141
+msgid "|polygon|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:205
+msgid "polygon"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:146
+msgid ""
+"Select **Settings > Display > Add** menu item to display or hidden the "
+"toolbar **Add**."
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:149
+msgid "Toolbar Depth"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:154
+msgid "Figure: QElectroTech toolbar Depth"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:156
+msgid "The different buttons from toolbar **Depth** are:"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "Bring forward"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "Brings the selection (s) to front"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "``Ctrl + shift + Home``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "|bring_forward|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:206
+msgid "bring_forward"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "Raise"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "Aproachs the selection (s)"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "``Ctrl + shift + Up``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "|raise|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:207
+msgid "raise"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "Lower"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "Moves away the selection (s)"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "``Ctrl + shift + Down``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "|lower|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:208
+msgid "lower"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:167
+msgid "Send backwards"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:167
+msgid "Sends in the backwards the selection (s)"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:167
+msgid "``Ctrl + shift + End``"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:167
+msgid "|send_backward|"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:209
+msgid "send_backward"
+msgstr ""
+
+#: ../../source/users/interface/toolbars.rst:172
+msgid ""
+"Select **Settings > Display > Depth** menu item to display or hidden the "
+"toolbar **Depth**."
+msgstr ""
+

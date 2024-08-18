@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/annex/text_font.rst:9
+msgid "QElectroTech text font"
+msgstr ""
+
+#: ../../source/users/annex/text_font.rst:11
+msgid "To define the text font at the **Select font** PopUP window:"
+msgstr ""
+
+#: ../../source/users/annex/text_font.rst:13
+msgid ""
+"Search for the font using the searching box or using the scrollbar from "
+"right side."
+msgstr ""
+
+#: ../../source/users/annex/text_font.rst:14
+msgid "Click on the text font in the list box."
+msgstr ""
+
+#: ../../source/users/annex/text_font.rst:15
+msgid ""
+"Defin font size by horizontal scrollbar, defining the size in the text "
+"box or using +/- buttons."
+msgstr ""
+
+#: ../../source/users/annex/text_font.rst:20
+msgid "Figure: QElectroTech select font PopUp window"
+msgstr ""
+

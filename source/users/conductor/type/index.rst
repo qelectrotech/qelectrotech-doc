@@ -2,7 +2,7 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
-.. _conductor/type/index
+.. _conductor/type/index:
 
 ==================
 Type of conductor

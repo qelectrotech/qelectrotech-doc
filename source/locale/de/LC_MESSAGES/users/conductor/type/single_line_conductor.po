@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:9
+msgid "Single line conductor"
+msgstr ""
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:11
+msgid ""
+"The single line conductors is used at `single line diagrams`_. Single "
+"line conductors are the simplified notation for representing two and "
+"three phase power system drawing using a common `conductor`_. Single line"
+" conductors are only used to represent power systems, control systems are"
+" normally not represented."
+msgstr ""
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:18
+msgid ""
+"At fluid power schemas, the pressure and return line are represented by "
+"the same `conductor`_."
+msgstr ""
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:20
+msgid ""
+"QElectroTech does not allow defining any `conductor property`_ at single "
+"line conductor. The single line conductor does not have the posibility of"
+" text linking."
+msgstr ""
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:26
+msgid "Figure: QElectroTech single line conductors"
+msgstr ""
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:28
+msgid ""
+"The most common sigle line conductors used at `single line diagrams`_ of "
+"power electric systems are:"
+msgstr ""
+
+#: ../../source/users/conductor/type/single_line_conductor.rst:33
+msgid "Figure: Common single line conductors"
+msgstr ""
+

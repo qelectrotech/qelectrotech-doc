@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/developer/build.rst:11
+msgid "Building QET from source"
+msgstr ""
+
+#: ../../source/developer/build.rst:13
+msgid ""
+"This section is for advanced users/contributors wanting to build and "
+"improve Qelectrotech (QET)."
+msgstr ""
+
+#: ../../source/developer/build.rst:15
+msgid ""
+"This guide assumes that you have forked the source repo and that your "
+"system has the Git VCS (Version Control System) configured to point to "
+"that fork. \\ If you need help to setup Git, please take a look at the "
+"`Git Documentation <https://git-scm.com/doc>`_."
+msgstr ""
+
+#: ../../source/developer/build.rst:18
+msgid ""
+"Before pushing code to the repo and creating a MR, please have a look at "
+"the [contribution guidelines](CONTRIBUTING.md)."
+msgstr ""
+
+#: ../../source/developer/build.rst:21
+msgid "Prerequistes"
+msgstr ""
+
+#: ../../source/developer/build.rst:23
+msgid "Get sources and sub-modules"
+msgstr ""
+
+#: ../../source/developer/build.rst:31
+msgid "Linux"
+msgstr ""
+
+#: ../../source/developer/build.rst:33
+msgid ""
+"For a Debian-like machine (Ubuntu, Linux Mint, etc), install the required"
+" packages"
+msgstr ""
+
+#: ../../source/developer/build.rst:41
+msgid "Environement Setup"
+msgstr ""
+
+#: ../../source/developer/build.rst:44
+msgid ""
+"After installing the dependencies, install the QT Creator IDE. For that, "
+"you've got two choices:"
+msgstr ""
+
+#: ../../source/developer/build.rst:47
+msgid ""
+"If you are using a bleeding edge distro like Ubuntu **non LTS**, chances "
+"are that their builds of the app are up to date. Install it by running "
+"this command:"
+msgstr ""
+
+#: ../../source/developer/build.rst:54
+msgid ""
+"If you are using a distro with a slower release cycle like Debian, you'll"
+" need to do two things:"
+msgstr ""
+
+#: ../../source/developer/build.rst:56
+msgid "First setup `Flatpak <https://flathub.org/setup>`_"
+msgstr ""
+
+#: ../../source/developer/build.rst:57
+msgid "Then use Flatpak to install the QTCreator IDE"
+msgstr ""
+
+#: ../../source/developer/build.rst:67
+msgid "Get the QET Coding style for QTCreator and set it up."
+msgstr ""
+
+#: ../../source/developer/build.rst:69
+msgid ""
+"First you'll want to download the corresponding XML file from . You've "
+"got two option:"
+msgstr ""
+
+#: ../../source/developer/build.rst:71
+msgid ""
+"Download it like a :download:`normal file <../_external/_snippets"
+"/qtcreator-qet-style.xml>` with the help of your browser (will satisfy "
+"most users)"
+msgstr ""
+
+#: ../../source/developer/build.rst:72
+msgid "Download it using an utility like curl or wget."
+msgstr ""
+
+#: ../../source/developer/build.rst:74
+msgid ""
+"After that, you'll need to import it into the QtCreator app as shown in "
+"the picture below"
+msgstr ""
+
+#: ../../source/developer/build.rst:78
+msgid ""
+"To produce a binary, run the .sh scripts for the different packaging "
+"options that are proposed."
+msgstr ""
+
+#: ../../source/developer/build.rst:81
+msgid "Source Code Documentation"
+msgstr ""
+

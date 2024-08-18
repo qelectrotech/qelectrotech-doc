@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:9
+msgid "Multiline conductor"
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:11
+msgid ""
+"Multiline conductors are used at `multiline diagrams`_. Multiline "
+"conductors are used for the representation of each terminal, line and "
+"phase from two and three phase power systems. Multiline conductors are "
+"used for the individual representation of all electric and control "
+"systems."
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:18
+msgid ""
+"At fluid power schemas, a multiline conductor represents each pressure, "
+"return and pilote line."
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:21
+msgid ""
+"The main difference of multiline with respect to `single line "
+"conductors`_ is the posibility to display text which is linked to the "
+"`conductor properties`_."
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:27
+msgid "Figure: Multiline conductor"
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:29
+msgid "The main features of multiline conductors are:"
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:31
+msgid "Possibility to define properties (Function and voltage/protocol)"
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:32
+msgid ""
+"Text linked to the conductor which can be displayed and its position is "
+"relative to the conductor position."
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:33
+msgid ""
+"Possibility of displaying variables values at the conductor text (Auto "
+"numbering, function or voltage/protocol)."
+msgstr ""
+
+#: ../../source/users/conductor/type/multiline_conductor.rst:34
+msgid ""
+"Possibility of using the conductor variables at `element dynamic text`_ "
+"(Function and voltage/protocol)."
+msgstr ""
+

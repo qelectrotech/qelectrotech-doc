@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:9
+msgid "Display conductor properties"
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:11
+msgid ""
+"The conductor properties window can be displayed from `menu bar`_, from "
+"`workspace`_ and using the corresponding keyboard shortcut."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:15
+msgid "Display conductor properties from menu bar"
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:17
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:41
+msgid "Select the `conductor`_ which `properties`_ should be displayed."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:18
+msgid ""
+"Select **Edit > Edit conductor** menu item to display the conductor "
+"properties PopUP window."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:23
+msgid "Figure: QElectroTech Edit menu"
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:26
+msgid "Display conductor properties from workspace"
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:28
+msgid "Right click on the `conductor`_ which `properties`_ should be displayed."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:29
+msgid ""
+"Select **Edit conductor** option to display the conductor properties "
+"PopUP window."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:34
+msgid "Figure: QElectroTech conductor options"
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:37
+msgid "Display conductor properties using keyboard shortcut"
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:39
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:42
+msgid "Press ``Ctrl + e`` to display the conductor properties PopUP window."
+msgstr ""
+
+#: ../../source/users/conductor/properties/display_conductor_properties.rst:46
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to "
+"`menu bar`_ section."
+msgstr ""
+

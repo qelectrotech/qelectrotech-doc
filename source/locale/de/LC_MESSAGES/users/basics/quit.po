@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/basics/quit.rst:8
+msgid "Quit QElectroTech"
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:10
+msgid ""
+"The user can quit QElectroTech at anytime. The user does not need to "
+"`close the project`_ before clossing the application."
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:12
+msgid ""
+"If the current work wants to be saved before closing the project, refer "
+"to `save project`_ section. Even so, QElectroTech displays an automatic "
+"message to save the current job if any modification has been created."
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:17
+msgid "Figure: QElectroTech Save message"
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:20
+msgid ""
+"As a large amoung of applications which has been developed using `Qt`_, "
+"QElectroTech can be closed from the close tab |close_tab| which can be "
+"found at top right from main window, from `menu bar`_ or using the "
+"corresponding keyboard shortcut."
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:43
+msgid "close_tab"
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:23
+msgid "Quit QElectroTech from menu bar"
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:25
+msgid "Select **File > Quit** menu item to quit QElectroTech."
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:30
+msgid "Figure: QElectroTech File menu"
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:33
+msgid "Quit QElectroTech using keyboard shortcut"
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:35
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:37
+msgid "Press ``Ctrl + q`` to quit QElectroTech."
+msgstr ""
+
+#: ../../source/users/basics/quit.rst:41
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to "
+"`menu bar`_ section."
+msgstr ""
+

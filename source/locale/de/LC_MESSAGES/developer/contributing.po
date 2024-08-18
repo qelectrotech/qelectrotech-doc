@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/developer/contributing.rst:12
+msgid "Contributing to the QET source code"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:14
+msgid ""
+"The goal of this page is to teach you how to contribute effectively to "
+"the QET project by introducing you to ."
+msgstr ""
+
+#: ../../source/developer/contributing.rst:16
+msgid "Does & Don'ts of contributing"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:20
+msgid "Does"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:21
+msgid "Don't"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:22
+msgid "Always provide log files when opening an issue"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:24
+msgid ""
+"Please follow the :ref:`QET Coding style<QET Coding style>` before making"
+" any changes to the code base"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:25
+msgid "Row 2, column 2"
+msgstr ""
+
+#: ../../source/developer/contributing.rst:27
+msgid ""
+"After forking the repository, please **create another branch** to make "
+"changes onto. This will allow you to go back if something in the code "
+"breaks."
+msgstr ""
+
+#: ../../source/developer/contributing.rst:28
+msgid "lorem ipsum"
+msgstr ""
+

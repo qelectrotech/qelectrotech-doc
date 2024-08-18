@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/folio_tabs.rst:9
+msgid "Folio tabs bar"
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:11
+msgid ""
+"The folio tabs bar can be considered part of the `workspace`_. The folio "
+"tabs bar contains one tab for each `folio`_ of the `project`_."
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:17
+msgid "Figure: QElectroTech folio tabs bar"
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:19
+msgid "The folio tabs bar allows the following actions:"
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:21
+msgid "Choosing the active folio by simple click on the tab."
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:22
+msgid ""
+"Opening the properties PopUP window from an specific folio by double "
+"click on the tab."
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:23
+msgid ""
+"Adding new folio to the project by simple click on the **Add folio** icon"
+" |add_folio| from right side."
+msgstr ""
+
+#: ../../source/users/interface/folio_tabs.rst:25
+msgid "add_folio"
+msgstr ""
+

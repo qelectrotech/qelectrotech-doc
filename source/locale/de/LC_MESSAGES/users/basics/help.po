@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/basics/help.rst:8
+msgid "QElectroTech help menu"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:10
+msgid ""
+"QElectroTech has been designed with some tools which help the user and "
+"makes easier the searching of information. All those tools can be found "
+"at **Help** menu from `menu bar`_."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:15
+msgid "Figure: Help menu QElectroTech"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:18
+msgid "Tooltips"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:20
+msgid ""
+"To support the user, tooltips are displayed when the mouse arrow is "
+"placed on an icon from the `toolbars`_. A tooltip is a short message "
+"which defines the action corresponding to the icon."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:22
+msgid ""
+"QElectroTech also allows the display from tooltips, or short descrition "
+"panels, at many different areas and objets from the main window. These "
+"panels are not diplayed automatically with the placement of the mouse "
+"arrow on the object or area."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:24
+msgid "Select **Help > What's this?** menu item."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:25 ../../source/users/basics/help.rst:35
+msgid "Press on the object or area to display the description panel."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:30
+msgid "Figure: Message which appears at the workspace"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:32
+msgid ""
+"To increase the working eficiency, the description panel can also be "
+"displayed using keyboard shortcut. The user does not need to resort to "
+"the **Help** menu."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:34
+msgid "Press ``shift + f1``."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:39
+msgid ""
+"The tool **What's this?** does not give the description from everyting, "
+"it gives only the description for the different type of collections "
+"(`title blocks`_ and `elements`_), the `workspace`_, `project`_ area and "
+"a few objects and areas more."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:42
+msgid "About QElectroTech"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:44
+msgid ""
+"Many information related to QElectroTech can be found at the application "
+"without searching on Internet. Everybody who launch the application can "
+"find the license text, version of the application launched, developers "
+"and collaborators."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:46
+msgid ""
+"Select **Help > About QElectroTech** menu item to display the PopUP "
+"window with the basic information from QElectroTech project."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:49
+msgid "Online Manual"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:51
+msgid "**Help** menu can address the user to the official online documentation."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:53
+msgid ""
+"Select **Help > Online Manual** menu item to open the official "
+"QEletroTech online documentation at default browser."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:55
+msgid ""
+"When the application is active on the computer, the user can also open "
+"the online manual at default browser using keyboard shortcut."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:57
+msgid "Press ``f1`` to open the official online manual on the browser."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:61
+msgid ""
+"For more information about QElectroTech keyboard shortcut, refer to `menu"
+" bar`_ section."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:65
+msgid "Youtube Channel"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:67
+msgid ""
+"Many different video tutorials about QElectroTech can be found on "
+"Internet. **Help** menu can address the user to the official `Youtube`_ "
+"channel of the project."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:69
+msgid ""
+"Select **Help > Youtube Channel** menu item to open the QEletroTech "
+"`Youtube`_ channel at default browser."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:72
+msgid "Support the project"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:74
+msgid ""
+"If the user is satisfied with the work already made by the developer team"
+" from QElectroTech and he wants to help the project with an economical "
+"donation, **Help** menu can address the user to the official `PayPal`_ "
+"account of the project."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:76
+msgid ""
+"Select **Help > Support the project with a donation** menu item to open "
+"the official `PayPal`_ account from QEletroTech at default browser."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:79
+msgid "About Qt"
+msgstr ""
+
+#: ../../source/users/basics/help.rst:81
+msgid ""
+"QElectroTech has been designed using `Qt`_ framework and widget toolkit. "
+"**Help** menu allows going to the official web from `Qt`_ project without"
+" the need of searching on Internet."
+msgstr ""
+
+#: ../../source/users/basics/help.rst:83
+msgid ""
+"Select **Help > About Qt** menu item to open the offical web from `Qt`_ "
+"at default browser."
+msgstr ""
+

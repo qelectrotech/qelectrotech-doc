@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/project_tabs.rst:9
+msgid "Projects tabs bar"
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:11
+msgid ""
+"The different opened projects from QElectroTech can be managed using "
+"PopUP windows under the `menu bar`_ and `toolbars`_ or using a project "
+"tabs bar."
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:16
+msgid "Figure: QElectroTech project tabs bar"
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:20
+msgid ""
+"Select **Display > Display projects > Using windows** menu item to manage"
+" the projects by windows."
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:21
+msgid ""
+"Select **Display > Display projects > Using tabs** menu item to manage "
+"the projects by tabs bar."
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:23
+msgid "The project tabs bar allows the following actions:"
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:25
+msgid "Choosing the active project by simple click on the tab."
+msgstr ""
+
+#: ../../source/users/interface/project_tabs.rst:26
+msgid ""
+"Closing the project by using the close tab which can be found at the "
+"right side from each project tab."
+msgstr ""
+

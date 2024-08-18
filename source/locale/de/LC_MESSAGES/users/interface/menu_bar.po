@@ -1,0 +1,1280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/menu_bar.rst:9
+msgid "Menu bar"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:11
+msgid ""
+"The menu bar is placed at top from QElectroTech interface. QElectroTech "
+"contains the menus ``File``, ``Edit``, ``Project``, ``Display``, "
+"``Settings``, ``Windows`` and ``Help``. Each menu provides many diferent "
+"options."
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:17
+msgid ""
+"A brief description of each menu option can be read from `help or "
+"information tool bar`_ by hovering over the option with the cursor."
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:20
+msgid "File menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:25
+msgid "Figure: QElectroTech file menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:28
+#: ../../source/users/interface/menu_bar.rst:58
+#: ../../source/users/interface/menu_bar.rst:120
+#: ../../source/users/interface/menu_bar.rst:152
+#: ../../source/users/interface/menu_bar.rst:184
+#: ../../source/users/interface/menu_bar.rst:202
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "Option"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:28
+#: ../../source/users/interface/menu_bar.rst:58
+#: ../../source/users/interface/menu_bar.rst:120
+#: ../../source/users/interface/menu_bar.rst:152
+#: ../../source/users/interface/menu_bar.rst:184
+#: ../../source/users/interface/menu_bar.rst:202
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "Function"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:28
+#: ../../source/users/interface/menu_bar.rst:58
+#: ../../source/users/interface/menu_bar.rst:120
+#: ../../source/users/interface/menu_bar.rst:152
+#: ../../source/users/interface/menu_bar.rst:184
+#: ../../source/users/interface/menu_bar.rst:202
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "Keyboard shortcut"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:28
+#: ../../source/users/interface/menu_bar.rst:58
+#: ../../source/users/interface/menu_bar.rst:120
+#: ../../source/users/interface/menu_bar.rst:152
+#: ../../source/users/interface/menu_bar.rst:184
+#: ../../source/users/interface/menu_bar.rst:202
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "Icon"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "Latest files"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "Opens a project from history (recently opened files)"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "|document-recent|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:245
+msgid "document-recent"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "New"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "Creates a new Project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "``Ctrl + n``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "|project-new|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:246
+msgid "project-new"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "Open"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "Opens an existing project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "``Ctrl + o``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "|project|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:247
+msgid "project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "Save"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "Saves the current project and all its folios"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "``Ctrl + s``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "|document-save|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:248
+msgid "document-save"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:38
+msgid "Save as"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:38
+msgid "Saves the current project with a different file name"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:38
+msgid "|document-save-as|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:249
+msgid "document-save-as"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:40
+#: ../../source/users/interface/menu_bar.rst:204
+msgid "Close"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:40
+#: ../../source/users/interface/menu_bar.rst:204
+msgid "Closes the current project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:40
+msgid "``Ctrl + w``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:40
+#: ../../source/users/interface/menu_bar.rst:204
+msgid "|project-close|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:250
+msgid "project-close"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "Export"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "Exports the curret folio to another format"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "``Ctrl + Shift + x``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "|document-export|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:251
+msgid "document-export"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "Print"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "Print one or more folio of the current project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "``Ctrl + p``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "|document-print|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:252
+msgid "document-print"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:46
+msgid "Quit"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:46
+msgid "Closes QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:46
+msgid "``Ctrl + q``/ ``Alt + F4``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:46
+msgid "|application-exit|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:253
+msgid "application-exit"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:50
+msgid "Edit menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:55
+msgid "Figure: QElectroTech edit menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "Undo"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "Undoes the previous action"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "``Ctrl + z``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "|edit-undo|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:254
+msgid "edit-undo"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "Redo"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "Restores the undone action"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "``Ctrl + y``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "|edit-redo|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:255
+msgid "edit-redo"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "Cut"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "Puts selected elements into the clipboard"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "``Ctrl + x``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "|edit-cut|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:256
+msgid "edit-cut"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "Copy"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "Copies selected elements"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "``Ctrl + c``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "|edit-copy|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:257
+msgid "edit-copy"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "Paste"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "Pastes elements from the clipboard into the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "``Ctrl + v``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "|edit-paste|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:258
+msgid "edit-paste"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "Select All"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "Selects all elments on the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "``Ctrl + a``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "|edit-select-all|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:259
+msgid "edit-select-all"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "Select none"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "Deselect all elments on the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "``Ctrl + Shift + a``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "|edit-select-none|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:260
+msgid "edit-select-none"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "Invert selection"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "Inverts selection of elements"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "``Ctrl + i``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "|edit-select-invert|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:261
+msgid "edit-select-invert"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "Delete"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "Removes selected elements from the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "``Del``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "|edit-delete|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:262
+msgid "edit-delete"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "Rotate"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "Rotates selected elements and texts"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "``Space``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "|transform-rotate|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:263
+msgid "transform-rotate"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:80
+msgid "Choose texts orientation"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:80
+msgid "Rotates selected texts to a specific angle"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:80
+msgid "``Ctrl + Space``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:80
+msgid "|object-rotate-right|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:264
+msgid "object-rotate-right"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:82
+msgid "Find in the panel"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:82
+msgid "Finds the selected element in the collections panel"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:82
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "|zoom-draw|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:289
+msgid "zoom-draw"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:84
+msgid "Edit the selected object"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:84
+msgid "Displays properties for the selected element / conductor"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:84
+msgid "``Ctrl + e``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:84
+msgid "|element-edit|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:265
+msgid "element-edit"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:86
+msgid "Group selected texts"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "Reset conductors"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "Resets the conductors path ignoring the user changes"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "``Ctrl + k``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "|conductor-reset|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:266
+msgid "conductor-reset"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "Folio properties"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "Edits the properties of the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "``Ctrl + l``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "|folio-properties|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:267
+msgid "folio-properties"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:92
+msgid "Add a column"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:92
+msgid "Adds a column to the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:92
+msgid "|insert-column-right|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:268
+msgid "insert-column-right"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:94
+msgid "Remove a column"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:94
+msgid "Removes a column from the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:94
+msgid "|delete-column|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:269
+msgid "delete-column"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:96
+msgid "Add a row"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:96
+msgid "Adds a row to the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:96
+msgid "|insert-row-under|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:271
+msgid "insert-row-under"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "Remove a row"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "Removes a row from the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "|delete-row|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:270
+msgid "delete-row"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "Bring to front"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "Brings the selection (s) to front"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "``Ctrl + Shift + Home``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "|bring_forward|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:272
+msgid "bring_forward"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "Raise"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "Aproachs the selection (s)"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "``Ctrl + Shift + Up``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "|raise|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:273
+msgid "raise"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "Lower"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "Moves away the selection (s)"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "``Ctrl + Shift + Down``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "|lower|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:274
+msgid "lower"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "Send backwards"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "Sends in the backwards the selection (s)"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "``Ctrl + Shift + End``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "|send_backward|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:275
+msgid "send_backward"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:108
+msgid "Search / Replace"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:108
+msgid "Display Search / Replace panel"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:108
+msgid "``Ctrl + f``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:112
+msgid "Project menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:117
+msgid "Figure: QElectroTech project menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "Project properties"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "Display project properties PopUp window"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "|project-properties|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:276
+msgid "project-properties"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "Add a folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "Adds a new folio (drawing sheet) to the active project."
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "``Ctrl + t``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "|folio-new|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:277
+msgid "folio-new"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:126
+msgid "Delete this folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:126
+msgid "Deletes the active folio (drawing sheet) of the project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:126
+msgid "|folio-delete|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:278
+msgid "folio-delete"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:128
+msgid "Clean project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:128
+msgid ""
+"Purges the active project of unused elements and empty categories and "
+"templates"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:128
+msgid "|edit-clear|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:279
+msgid "edit-clear"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:130
+msgid "Add a summary"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:130
+msgid "Creates an index table for the active project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:130
+#: ../../source/users/interface/menu_bar.rst:132
+msgid "|table-of-content|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:280
+msgid "table-of-content"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:132
+msgid "Add a nomenclature"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:132
+msgid "Creates a Bill Of Material (BOM) table for the active project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:134
+msgid "Export to CSV"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:134
+msgid ""
+"Generates a ``.csv`` file summary of elements used in the active project "
+"according to defined filtering options"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:134
+#: ../../source/users/interface/menu_bar.rst:136
+#: ../../source/users/interface/menu_bar.rst:140
+msgid "|export-csv|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:281
+msgid "export-csv"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:136
+msgid "Export the list of names of wires"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:136
+msgid "Generates a ``.csv`` file summary of conductors used in the active project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:138
+msgid "Launch the terminal block creation pluging"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:138
+msgid "|terminalstrip|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:282
+msgid "terminalstrip"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:140
+msgid "Export the internal project database"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:140
+msgid "Generates a SQLite database of the active project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:144
+msgid "Display menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:149
+msgid "Figure: QElectroTech display menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:154
+msgid "Display projects"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:154
+msgid "Shows the various opened projects in windows or tabs"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:154
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "|configure-toolbars|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:292
+msgid "configure-toolbars"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:156
+msgid "Select"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:156
+msgid "Allows to select elements"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:156
+msgid "|select|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:283
+msgid "select"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:158
+msgid "Move"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:158
+msgid "Allows to view the folio without modifying it"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:158
+msgid "|move|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:284
+msgid "move"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:160
+msgid "Display the grid"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:160
+msgid "Displays or hidden the grid of folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:160
+msgid "|grid|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:285
+msgid "grid"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "Background color white / gray"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "Displays the background color of the folio in white or gray"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "|diagram_bg|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:286
+msgid "diagram_bg"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "Zoom In"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "Expands the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "``Ctrl + +``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "|zoom-in|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:287
+msgid "zoom-in"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "Zoom Out"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "Shrinks the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "``Ctrl + -``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "|zoom-out|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:288
+msgid "zoom-out"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "Zoom content"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "Adjusts the zoom to display all the content of folio regardless of context"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "``Ctrl + 8``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "Fit in view"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "Adjusts the zoom on exactly trhe part of the folio"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "``Ctrl + 9``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "|view-fit-window|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:290
+msgid "view-fit-window"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:172
+msgid "Reset zoom"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:172
+msgid "Restores default zoom level"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:172
+msgid "``Ctrl + 0``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:172
+msgid "|zoom-original|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:291
+msgid "zoom-original"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:176
+msgid "Settings menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:181
+msgid "Figure: QElectroTech settings menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "Display"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "Displays or hides toolbars and panels"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "Full screen mode"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "Displays QElectroTech in full screen mode"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "``Ctrl + Shift + f``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "|view-fullscreen|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:293
+msgid "view-fullscreen"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:190
+msgid "Configure QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:190
+msgid "Allows specifying various parameters for QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:190
+msgid "|configure|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:294
+msgid "configure"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:194
+msgid "Windows menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:199
+msgid "Figure: QElectroTech windows menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:204
+msgid "``Ctrl + f4``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:206
+msgid "Tile"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:206
+msgid ""
+"Adds a new drawing sheet to the active project. (Folio means drawing "
+"sheet)"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:208
+msgid "Cascade"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:208
+msgid "Deletes the active drawing of the project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:210
+msgid "Next Project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:210
+msgid "Activates the next project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:210
+msgid "``Ctrl + tab``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:212
+msgid "Previous Project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:212
+msgid "Activates the previous project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:212
+msgid "``Ctrl + Shift + Backtab``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:214
+msgid "(Opened Projects)"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:214
+msgid ""
+"Below **Previous Project** QElectroTech list all opened projects to "
+"select the active project"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:218
+msgid "Help menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:223
+msgid "Figure: QElectroTech help menu"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:228
+msgid "What's This?"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:228
+msgid "Enquires main menu options"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:228
+msgid "``Shift + f1``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "About QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "Displays information about QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "|qet-icon|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:295
+msgid "qet-icon"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "Online manual"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "Lauches the default browser to the online manual of QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "``f1``"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "|help-contents|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:296
+msgid "help-contents"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:234
+msgid "Youtube channel"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:234
+msgid "Lauches the default browser on the Youtube channel of QElectroTech"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:234
+msgid "|show-video|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:297
+msgid "show-video"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:236
+msgid "Support the project with a donation"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:236
+msgid "Lauches the default browser on the QElectroTech donation paypal account"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:236
+msgid "|help-donate|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:298
+msgid "help-donate"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:238
+msgid "About Qt"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:238
+msgid "Displays information about `Qt`_ library"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:238
+msgid "|qt-icon|"
+msgstr ""
+
+#: ../../source/users/interface/menu_bar.rst:299
+msgid "qt-icon"
+msgstr ""
+

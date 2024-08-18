@@ -1,0 +1,231 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/annex/variables.rst:9
+msgid "Default QElectroTech variables"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:11
+msgid ""
+"To systematize title block templates and allow auto numbering of "
+"elements, conductors and folios; QElectroTech provides the posibility to "
+"work with variables."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:14
+msgid ""
+"The variables are used to define the content of text field and properties"
+" from elements, folios and conductors. Depending on the conditions during"
+" the creation of the object (folio, element, conductor, etc,) The "
+"variable of the text or property field is replaced by a different value."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:18
+msgid ""
+"A property is identified as a string which starts with the symbol **%**. "
+"The default variables provided by ElectroTech can be found at this "
+"section."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:22
+msgid "General project variables"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:24
+msgid ""
+"The following variables are global variables which can be used to create "
+"title block templates."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:26
+msgid "**% {projecttitle}**: Project title"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:27
+msgid "**% {projectpath}**: Project path"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:28
+msgid "**% {projectfilename}**: Project file name"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:29
+msgid "**% {saveddate}**: File saving date"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:30
+msgid "**% {filename}**: Project file name"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:31
+msgid "**% {savedfilename}**: Registered file name"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:32
+msgid "**% {savedfilepath}**: Saved file path"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:33
+msgid "**% {savedtime}**: File saving time"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:34
+msgid "**% {folio-total}**: Total number of folios in the project"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:35
+msgid "**% {version}**: Software version"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:36
+msgid "**% {machine}**: Project functional group name"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:39
+msgid "variables related to folio"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:41
+msgid ""
+"The following variables are specific variables for each folio. They can "
+"be used to create title block templates."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:44
+msgid "**% {folio-id}**: Folio position in the project"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:45
+msgid "**% {title}**: Folio title"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:46
+msgid "**% {author}**: Folio author"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:47
+msgid "**% {date}**: Folio date"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:48
+msgid "**% {folio}**: Folio information (Label)"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:49
+msgid "**% {indexrev}**: Folio revision index"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:50
+msgid "**% {locmach}**: Name of the location in the project functional group"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:51
+msgid "**% {previous-folio-num}**: Number previous folio"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:52
+msgid "**% {next-folio-num}**: Number next folio"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:55
+msgid "variables related to element"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:57
+msgid ""
+"The following variables are specific variables for each element. They can"
+" be used to create auto numbering patterns."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:60
+msgid "**% {F}**: Label from the folio where the element can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:61
+msgid "**% {f}**: Number from the folio where the element can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:62
+msgid "**% {M}**: Plant variable from the folio where the element can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:63
+msgid "**% {LM}**: Location variable of the folio where the element can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:64
+msgid ""
+"**% {l}**: Folio line number from the workspace where the element can be "
+"found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:65
+msgid ""
+"**% {c}**: Folio column number from the workspace where the element can "
+"be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:66
+#: ../../source/users/annex/variables.rst:80
+msgid "**% {id}**: Folio position in the project (Schema number)"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:69
+msgid "variables related to conductor"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:71
+msgid ""
+"The following variables are specific variables for each conductor. They "
+"can be used to create auto numbering patterns."
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:74
+msgid "**% {F}**: Label from the folio where the conductor can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:75
+msgid "**% {f}**: Number from the folio where the conductor can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:76
+msgid "**% {M}**: Plant variable from the folio where the conductor can be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:77
+msgid ""
+"**% {LM}**: Location variable of the folio where the conductor can be "
+"found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:78
+msgid ""
+"**% {l}**: Folio line number from the workspace where the conductor can "
+"be found"
+msgstr ""
+
+#: ../../source/users/annex/variables.rst:79
+msgid ""
+"**% {c}**: Folio column number from the workspace where the conductor can"
+" be found"
+msgstr ""
+

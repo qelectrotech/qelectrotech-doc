@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/basics/launch_mac.rst:8
+msgid "Launch QElectroTech on Mac"
+msgstr ""
+
+#: ../../source/users/basics/launch_mac.rst:10
+msgid "After installation, QElectroTech can be launched from applications folder."
+msgstr ""
+
+#: ../../source/users/basics/launch_mac.rst:16
+msgid "Figure: Starting splash screen"
+msgstr ""
+
+#: ../../source/users/basics/launch_mac.rst:20
+msgid ""
+"For easier access, QElectroTech can be added to the dock. Just open the "
+"applications folder and drag QElectroTech to the dock."
+msgstr ""
+
+#: ../../source/users/basics/launch_mac.rst:22
+msgid "Once QElectroTech has been launched, the main window looks as follow:"
+msgstr ""
+
+#: ../../source/users/basics/launch_mac.rst:28
+msgid "Figure: Main window QElectroTech"
+msgstr ""
+

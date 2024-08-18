@@ -2,9 +2,6 @@ name: REUSE
 
 
 on:
-  push:
-    paths-ignore:
-      - 'LICENSES/*'
   pull_request:
     branches:
       - main
@@ -12,7 +9,7 @@ on:
       - 'LICENSES/*'
     
 jobs:
-  build:
+  Licensing:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -36,8 +33,5 @@ jobs:
         git clean -f LICENSES/
         git commit -m "Files are now REUSE-compliant" -a
         git push
-      id: git
-      continue-on-error: true
-    - name: When no changes
-      run: echo "Nothing has changed"
-      if: job.steps.git.status == failure()
+      id: back_commit
+      continue-on-error: true   

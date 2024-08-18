@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/panels/undo_panel.rst:9
+msgid "Undo panel"
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:11
+msgid ""
+"The Undo panel displays the history since the last time that the document"
+" was saved. Once the `project`_ is saved, undo panel is automatically "
+"cleared."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:17
+msgid "Figure: QElectroTech Undo panel"
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:19
+msgid "To display or hidden the undo panel:"
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:21
+msgid "Select **Settings > Display > Undo** menu item."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:23
+msgid ""
+"The undo panel is used to return the `project`_ to the status after one "
+"of the actions made after last save. By one click on one of the actions "
+"listed at undo panel, the `project`_ will return to the status after the "
+"action choosed at the panel. While the `project`_ is not saved again, the"
+" user can go to the different status as many times he wants."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:30
+msgid ""
+"If you play with the panel, be sure that you are at the correct history "
+"status before continue working, saving `project`_ or any irreversible "
+"action like `delete folio`_. Once the `project`_ is saved or an "
+"irreversible action is made, the history is cleared."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:34
+msgid "Using the undo panel is interested for:"
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:36
+msgid "Coming back some steps with a click."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:37
+msgid ""
+"Recovering an object which was deleted some steps before. The object can "
+"be recovered coming back one step before the elimination, `copying the "
+"object`_, coming back to the last history status and `pasting the "
+"object`_."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:38
+msgid "Checking the status from the `project`_ some steps before."
+msgstr ""
+
+#: ../../source/users/interface/panels/undo_panel.rst:39
+msgid "Etc."
+msgstr ""
+

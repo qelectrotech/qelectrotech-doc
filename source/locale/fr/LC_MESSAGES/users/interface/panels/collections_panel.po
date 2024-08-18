@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/panels/collections_panel.rst:9
+msgid "Collections panel"
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:11
+msgid ""
+"The colections panel displays the `QET`_, `user`_ and `projects`_ element"
+" collections."
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:16
+msgid "Figure: QElectroTech collections panel"
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:18
+msgid "To display or hidden the collections panel:"
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:20
+msgid "Select **Settings > Display > Collections** menu item."
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:22
+msgid ""
+"The main function from the collections panel is to manage `elements`_. "
+"The tasks which can be done from collections panel are:"
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:25
+msgid ""
+"Manage `user`_ collection (Create, edit and delete elements from the "
+"collection)."
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:26
+msgid "Edit elements from project collection."
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:27
+msgid "Search elements from the project collection at the `workspace`_."
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:28
+msgid ""
+"Import elements from `QET`_ or `user`_ collection to the project (Add new"
+" element to workspace)."
+msgstr ""
+
+#: ../../source/users/interface/panels/collections_panel.rst:30
+msgid ""
+"To make easier the work with the collections panel, QElectroTech provides"
+" a search tool that makes faster finding elements inside the different "
+"collections."
+msgstr ""
+

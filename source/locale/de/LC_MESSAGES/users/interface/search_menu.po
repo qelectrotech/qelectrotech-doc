@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/search_menu.rst:9
+msgid "Seach menu"
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:11
+msgid ""
+"The search menu allows searching `elements`_, `folios`_ or `conductors`_ "
+"which have a text field or property with an specific value. The seach "
+"menu allows finding automatically an `element`_ with a desired label, "
+"list the `folios`_ from an specific author, etc."
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:15
+msgid ""
+"QElectrotech provides a basic and simple search menu composed by a text "
+"box which allows writing the desired string which should be found and "
+"some buttons for closing the menu, actualizing the search and going to "
+"next and previous coincidence."
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:22
+msgid "Figure: QElectroTech search menu"
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:24
+msgid ""
+"QElectroTech also provides an advanced menu where filters can be defined "
+"inside `folios`_, `text fields`_, `elements`_ and `conductors`_ trees. "
+"The advanced mode also allows replacing actions."
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:30
+msgid "Figure: QElectroTech advanced search menu"
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:32
+msgid "To display or hidden the search menu:"
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:34
+msgid ""
+"Select **Edit > Search / Replace** menu item to display or hidden the "
+"search menu at the bottom from the `workspace`_."
+msgstr ""
+
+#: ../../source/users/interface/search_menu.rst:38
+msgid ""
+"The search menu can also be displayed using ``Ctrl + f`` shortcut "
+"keyboard."
+msgstr ""
+

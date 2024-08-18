@@ -21,13 +21,16 @@ release = ''
 extensions = [
     'sphinx_copybutton',
     'sphinx.ext.extlinks',
-    "sphinx_design"
+    "sphinx_design",
 ]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
 pygments_style = 'monokai'
+
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

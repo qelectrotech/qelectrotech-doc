@@ -1,0 +1,33 @@
+name: REUSE
+
+
+on:
+  pull_request:
+    branches:
+      - main
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+      pages: write
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup venv and activate it
+      run: python3 -m venv venv/ && source venv/bin/activate
+      shell: bash
+    - name: Install towncrier
+      run: pip install towncrier
+      shell: bash
+    - name: Check Extract Pull Request title to add to changelog
+      run: |
+        towncrier
+    - name: Commit changelog back to repo
+      run: |
+        git config --global user.name "Changelog Github Action"
+        git config --global user.email "action@github.com"
+        git commit -m "Changelog updated" -a
+        git push  

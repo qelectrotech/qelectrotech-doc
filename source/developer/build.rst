@@ -4,6 +4,7 @@
 
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
+.. _developer/build:
 
 =================================
 Building QET from source

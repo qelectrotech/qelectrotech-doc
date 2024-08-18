@@ -4,7 +4,7 @@
 .. _home:
 
 =============================================
-Welcome to the QET Wiki!
+Welcome to the QET Documentation
 =============================================
 
 What is QET?
@@ -27,9 +27,10 @@ We welcome contributions and have a `dedicated entry <developer/index>`_ in the 
    :maxdepth: 1
    
    Home <self>
-   users/index.rst
-   developer/index.rst
-   doc_changelog.rst
+   users/index
+   developer/index
+   app_changelog
+   doc_changelog
    QET Homepage <https://qelectrotech.org>
    QET Forum <https://qelectrotech.org/forum/index.php>
 

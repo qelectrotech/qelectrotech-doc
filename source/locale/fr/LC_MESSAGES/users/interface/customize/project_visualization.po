@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/customize/project_visualization.rst:9
+msgid "Project visualization"
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:11
+msgid ""
+"There is two different ways to manage the activation and hidden of opened"
+" `projects`_. The `projects`_ can be organized with a `project tabs bar`_"
+" displayed at top from the `folio tabs bar`_ or with floating windows "
+"that can be displayed or minimized."
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:15
+msgid "To define the project visualization preference:"
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:17
+msgid ""
+"Select **Display > Display projects** menu item to display the project "
+"visualization options."
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:22
+msgid "Figure: QElectroTech Display > Display projects menu"
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:24
+msgid "Click on the desired option: **using windows** or **using tabs**"
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:29
+msgid "Figure: QElectroTech projects visualization using windows"
+msgstr ""
+
+#: ../../source/users/interface/customize/project_visualization.rst:33
+msgid ""
+"The project display preferences can also be defined at QElectroTech "
+"`appearance`_ settings."
+msgstr ""
+

@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/index.rst:25
+msgid "Home"
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid "QET Homepage"
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid "QET Forum"
+msgstr ""
+
+#: ../../source/index.rst:7
+msgid "Welcome to the QET Documentation"
+msgstr ""
+
+#: ../../source/index.rst:10
+msgid "What is QET?"
+msgstr ""
+
+#: ../../source/index.rst:12
+msgid ""
+"**QET** (QelectroTech) is a cross-platform free and open-source (FOSS) "
+"tool allowing you to create electrical, hydraulic and pneumatic drawings."
+msgstr ""
+
+#: ../../source/index.rst:13
+msgid ""
+"These drawings are essential tools for Electritians and Electrical "
+"Engineers alike, allowing them to easely identify components and "
+"connections of a electrical circuit."
+msgstr ""
+
+#: ../../source/index.rst:16
+msgid "Why does </feature> isn't yet implemented?"
+msgstr ""
+
+#: ../../source/index.rst:18
+msgid ""
+"Contrary to proprietary drawing sofwares, QET is a a hobby project "
+"created by `the QelectroTech Team "
+"<https://qelectrotech.org/contact.php>`_. As we are a small developer "
+"team, we sadly do not have the capacity to implement every feature that "
+"our users propose."
+msgstr ""
+
+#: ../../source/index.rst:21
+msgid ""
+"That said, if you have some experience in C programming or with `QT "
+"<https://doc.qt.io/>`_ and are willing to implement a feature for QET, "
+"please do. We welcome contributions and have a `dedicated entry "
+"<developer/index>`_ in the documentation explaining you how to setup a "
+"dev environnement."
+msgstr ""
+

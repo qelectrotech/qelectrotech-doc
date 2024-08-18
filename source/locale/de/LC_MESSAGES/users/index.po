@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/index.rst:9
+msgid "User Manual"
+msgstr ""
+
+#: ../../source/users/index.rst:14 ../../source/users/index.rst:36
+#: ../../source/users/index.rst:40 ../../source/users/index.rst:44
+#: ../../source/users/index.rst:50 ../../source/users/index.rst:54
+#: ../../source/users/index.rst:60 ../../source/users/index.rst:64
+#: ../../source/users/index.rst:68
+msgid "Image showing QelectroTech app icon"
+msgstr ""
+
+#: ../../source/users/index.rst:14
+msgid "Basics"
+msgstr ""
+
+#: ../../source/users/index.rst:20
+msgid "Image showing QelectroTech's interface wizard"
+msgstr ""
+
+#: ../../source/users/index.rst:20
+msgid "Interface"
+msgstr ""
+
+#: ../../source/users/index.rst:26
+msgid "Image showing QelectroTech preferences icon"
+msgstr ""
+
+#: ../../source/users/index.rst:26
+msgid "Settings"
+msgstr ""
+
+#: ../../source/users/index.rst:32
+msgid "Image showing QelectroTech Project icon"
+msgstr ""
+
+#: ../../source/users/index.rst:32
+msgid "Project"
+msgstr ""
+
+#: ../../source/users/index.rst:36
+msgid "Folio"
+msgstr ""
+
+#: ../../source/users/index.rst:40
+msgid "Element"
+msgstr ""
+
+#: ../../source/users/index.rst:44
+msgid "Conductor"
+msgstr ""
+
+#: ../../source/users/index.rst:50
+msgid "Schema"
+msgstr ""
+
+#: ../../source/users/index.rst:54
+msgid "Drawing"
+msgstr ""
+
+#: ../../source/users/index.rst:60
+msgid "Reports"
+msgstr ""
+
+#: ../../source/users/index.rst:64
+msgid "Export & Print"
+msgstr ""
+
+#: ../../source/users/index.rst:68
+msgid "Annex"
+msgstr ""
+

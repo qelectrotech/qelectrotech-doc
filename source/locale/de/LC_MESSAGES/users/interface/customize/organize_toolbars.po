@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:9
+msgid "Organize toolbars"
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:11
+msgid ""
+"The QElectroTech GUI allows having many different `toolbars`_ switched on"
+" to make more friendly the application."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:13
+msgid "To display or hide `toolbars`_:"
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:15
+msgid ""
+"Select **Settings > Display** menu item to display the `panels`_ and "
+"`toolbars`_ list."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:16
+msgid ""
+"Click on the different `toolbars`_ (Tools, Display, Diagram, Add and "
+"Depth) which should be displayed or hidden."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:21
+msgid "Figure: QElectroTech Settings > Display menu"
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:23
+msgid ""
+"All `toolbars`_ are placed by default under `menu bar`_, in one row. The "
+"user is free reorganizing the `toolbars`_. The `toolbars`_ can be "
+"organiced in rows, columns at the left or right side from the "
+"`workspace`_ or as floating toolbar."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:30
+msgid "Figure: QElectroTech user interface"
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:32
+msgid "To change the organization of `toolbars`_:"
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:34
+msgid "Left click at the left side from the `toolbar`_."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:35
+msgid "Without releasing the `toolbar`_, move the mouse to the final position."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:36
+msgid "Release the `toolbar`_."
+msgstr ""
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:41
+msgid "Figure: QElectroTech toolbars placement"
+msgstr ""
+

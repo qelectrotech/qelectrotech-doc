@@ -5,9 +5,10 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 .. _developer/index:
-=====================
+
+================
 Developer Manual
-=====================
+================
 .. grid::  2
     :gutter: 4
 
@@ -30,6 +31,6 @@ Developer Manual
    :caption: Table of Content:
    :hidden:
    
-   contributing.rst
-   build.rst
+   contributing
+   build
    

@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-21 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../source/app_changelog.rst:11
+msgid "App Changelog"
+msgstr ""
+
+#: ../../source/app_changelog.rst:14
+msgid "Releases"
+msgstr ""
+
+#: ../../source/app_changelog.rst:17
+msgid "Version 0.9"
+msgstr ""
+
+#: ../../source/app_changelog.rst:19
+msgid "Diagram editor :"
+msgstr ""
+
+#: ../../source/app_changelog.rst:21
+msgid "Improved QElectroTech speed (launch qet, open project, function)"
+msgstr ""
+
+#: ../../source/app_changelog.rst:22
+msgid ""
+"A drop-down list has been added to the toolbar to change the size of the "
+"resize handles."
+msgstr ""
+
+#: ../../source/app_changelog.rst:23
+msgid "Element Editor:"
+msgstr ""
+
+#: ../../source/app_changelog.rst:25
+msgid ""
+"The \"keep visual rotation\" property of element texts is editable from "
+"the element editor."
+msgstr ""
+
+#: ../../source/app_changelog.rst:26
+msgid ""
+"Thanks to the work of antonioaja it is now possible to import a dxf "
+"directly from the element editor in a completely transparent way for the "
+"user."
+msgstr ""
+
+#: ../../source/app_changelog.rst:27
+msgid ""
+"In the background QElectroTech uses the `dxf2elmt software. "
+"<https://qelectrotech.org/forum/viewtopic.php?id=2265 "
+"https://github.com/antonioaja/dxf2elmt>`_"
+msgstr ""
+
+#: ../../source/app_changelog.rst:28
+msgid ""
+"Improved responsiveness when multiple shapes are selected or deleted, "
+"especially when working on a `large converted DXF element. "
+"<https://qelectrotech.org/forum/viewtopic.php?pid=16612#p16612>`_"
+msgstr ""
+
+#: ../../source/app_changelog.rst:29
+msgid "Other:"
+msgstr ""
+
+#: ../../source/app_changelog.rst:31
+msgid "Add a \"side project\" tab in the \"about\" window."
+msgstr ""
+
+#: ../../source/app_changelog.rst:32
+msgid ""
+"In the general QElectroTech configuration, a drop down list allows to "
+"choose the scaling method for hdpi screens."
+msgstr ""
+
+#: ../../source/app_changelog.rst:33
+msgid ""
+"Allow `open polygons (i.e. polylines) when saving in dxf format. "
+"<https://qelectrotech.org/forum/viewtopic.php?pid=16611#p16611>`_"
+msgstr ""
+
+#: ../../source/app_changelog.rst:34
+msgid ""
+"Added 'Other' option for `slave device contact type. #222 "
+"<https://qelectrotech.org/forum/viewtopic.php?id=2264>`_"
+msgstr ""
+
+#: ../../source/app_changelog.rst:36
+msgid "Logs:"
+msgstr ""
+
+#: ../../source/app_changelog.rst:38
+msgid ""
+"Added a QElapsedTimer to calculate the time used to reload the item "
+"collection."
+msgstr ""
+
+#: ../../source/app_changelog.rst:39
+msgid ""
+"Improved QElapsedTimer to calculate the time used to reload the item "
+"collection in seconds instead of ms."
+msgstr ""
+
+#: ../../source/app_changelog.rst:40
+msgid ""
+"Added Linux pc.gpu.RAM information, but requires mesa-utils dependency on"
+" the Linux OS."
+msgstr ""
+
+#: ../../source/app_changelog.rst:41
+msgid "Added information about mounted disk volumes."
+msgstr ""
+
+#: ../../source/app_changelog.rst:42
+msgid ""
+"Added CPU architecture for which Qt was compiled in the aboutqetdialog "
+"widget and in the logs."
+msgstr ""
+
+#: ../../source/app_changelog.rst:43
+msgid "Added MSVC support to MachineInfo."
+msgstr ""
+
+#: ../../source/app_changelog.rst:44
+msgid "Added RAM information on Windows of available RAM."
+msgstr ""
+
+#: ../../source/app_changelog.rst:45
+msgid "Added QElectroTech version to the log file."
+msgstr ""
+
+#: ../../source/app_changelog.rst:46
+msgid "Elements collection :"
+msgstr ""
+
+#: ../../source/app_changelog.rst:48
+msgid "Improve collection 8274 elements in 1097 categories (i.e. 9371 files)."
+msgstr ""
+
