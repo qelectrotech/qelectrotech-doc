@@ -11,7 +11,7 @@ Undo panel
 The Undo panel displays the history since the last time that the document was saved. 
 Once the `project`_ is saved, undo panel is automatically cleared.
 
-.. figure:: ../../images/qet_panel_undo.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_undo.png
         :align: center
 
         Figure: QElectroTech Undo panel

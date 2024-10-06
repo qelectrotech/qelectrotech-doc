@@ -14,16 +14,17 @@ In this section you will learn good contributing practises when proposing a chan
 
 #### Making Changes
 
-Before making any change, **please create a branch and do your modifications specificaly on it**. This will help us by keeping a clean commit history when we merge your addition. Otherwise, we would have to rebase your branch on upstream when merging, which could impact yours and others forks when they synchronise it.\
+Before making any change, **please create a branch and do your modifications specificaly on it**. This will help us by keeping a clean commit history when we merge your addition. Otherwise, we would have to rebase your branch on upstream when merging, which could impact forks when they need to sync with `master`.\
 For more info about rebasing, check the [Git Docs](https://git-scm.com/book/en/v2/Git-Branching-Rebasing).
 
 ### How to build documentation locally 
 
 In this section, you will learn on how to setup the sphinx tool to build the lo
 
-1) Setup a [venv](https://docs.python.org/3/library/venv.html) (please name it "venv" as the .gitignore is configure to not track his changes) and follow the activation procedure.
-2) Use pip to install the requirements.txt file
+1) Setup a [venv](https://docs.python.org/3/library/venv.html) and follow the activation procedure. 
+> please name it ".venv" as the .gitignore is configure to not track his changes 
+2) Use `pip install -r requirements.txt` to install the required dependencies
 3) Run "make html" in your terminal
-4) Open the "build/html/index.html" file in your browser of choice.
+4) Open the "build/html/index.html file in your browser of choice.
 5) Profit! 
 

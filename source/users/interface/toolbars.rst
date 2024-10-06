@@ -18,7 +18,7 @@ counterpart at one of the menus from the `menu bar`_.
 Toolbar Tools
 ~~~~~~~~~~~~~
 
-.. figure:: ../images/qet_toolbar_tools.png
+.. figure:: /_external/_images/en/qet_toolbar/qet_toolbar_tools.png
    :align: center
 
    Figure: QElectroTech toolbar Tools 
@@ -62,7 +62,7 @@ The different buttons from toolbar **Tools** are:
 Toolbar Display
 ~~~~~~~~~~~~~~~
 
-.. figure:: ../images/qet_toolbar_display.png
+.. figure:: /_external/_images/en/qet_toolbar/qet_toolbar_display.png
    :align: center
 
    Figure: QElectroTech toolbar Display
@@ -94,7 +94,7 @@ The different buttons from toolbar **Display** are:
 Toolbar Diagram
 ~~~~~~~~~~~~~~~
 
-.. figure:: ../images/qet_toolbar_diagram.png
+.. figure:: /_external/_images/en/qet_toolbar/qet_toolbar_diagram.png
    :align: center
 
    Figure: QElectroTech toolbar Diagram
@@ -118,7 +118,7 @@ The different buttons from toolbar **Diagram** are:
 Toolbar Add
 ~~~~~~~~~~~
 
-.. figure:: ../images/qet_toolbar_add.png
+.. figure:: /_external/_images/en/qet_toolbar/qet_toolbar_add.png
    :align: center
 
    Figure: QElectroTech toolbar Add
@@ -148,7 +148,7 @@ The different buttons from toolbar **Add** are:
 Toolbar Depth
 ~~~~~~~~~~~~~
 
-.. figure:: ../images/qet_toolbar_depth.png
+.. figure:: /_external/_images/en/qet_toolbar/qet_toolbar_depth.png
    :align: center
 
    Figure: QElectroTech toolbar Depth 
@@ -174,36 +174,36 @@ The different buttons from toolbar **Depth** are:
 .. _menus: ../interface/menu_bar.html
 .. _menu bar: ../interface/menu_bar.html
 
-.. |project-new| image:: ../images/ico/22x22/project-new.png
-.. |project| image:: ../images/ico/22x22/project.png
-.. |document-save| image:: ../images/ico/22x22/document-save.png
-.. |document-save-as| image:: ../images/ico/22x22/document-save-as.png
-.. |project-close| image:: ../images/ico/22x22/project-close.png
-.. |document-print| image:: ../images/ico/22x22/document-print.png
-.. |edit-undo| image:: ../images/ico/22x22/edit-undo.png
-.. |edit-redo| image:: ../images/ico/22x22/edit-redo.png
-.. |edit-cut| image:: ../images/ico/22x22/edit-cut.png
-.. |edit-copy| image:: ../images/ico/22x22/edit-copy.png
-.. |edit-paste| image:: ../images/ico/22x22/edit-paste.png
-.. |edit-delete| image:: ../images/ico/22x22/edit-delete.png
-.. |transform-rotate| image:: ../images/ico/16x16/transform-rotate.png
-.. |select| image:: ../images/ico/22x22/select.png
-.. |move| image:: ../images/ico/22x22/move.png
-.. |grid| image:: ../images/ico/22x22/grid.png
-.. |diagram_bg| image:: ../images/ico/22x22/diagram_bg.png
-.. |zoom-draw| image:: ../images/ico/22x22/zoom-draw.png
-.. |view-fit-window| image:: ../images/ico/22x22/view-fit-window.png
-.. |zoom-original| image:: ../images/ico/22x22/zoom-original.png
-.. |dialog-information| image:: ../images/ico/22x22/dialog-information.png
-.. |conductor2| image:: ../images/ico/22x22/conductor2.png
-.. |autoconnect| image:: ../images/ico/22x22/autoconnect.png
-.. |textfield| image:: ../images/ico/22x22/textfield.png
-.. |insert-image| image:: ../images/ico/22x22/insert-image.png
-.. |line| image:: ../images/ico/22x22/line.png
-.. |ellipse| image:: ../images/ico/22x22/ellipse.png
-.. |rectangle| image:: ../images/ico/22x22/rectangle.png
-.. |polygon| image:: ../images/ico/22x22/polygon.png
-.. |bring_forward| image:: ../images/ico/22x22/bring_forward.png
-.. |raise| image:: ../images/ico/22x22/raise.png
-.. |lower| image:: ../images/ico/22x22/lower.png
-.. |send_backward| image:: ../images/ico/22x22/send_backward.png
+.. |project-new| image:: /_external/_images/_site-assets/user/ico/22x22/project/project-new.png
+.. |project| image:: /_external/_images/_site-assets/user/ico/22x22/project/project.png
+.. |document-save| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save.png
+.. |document-save-as| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save-as.png
+.. |project-close| image:: /_external/_images/_site-assets/user/ico/22x22/project/project-close.png
+.. |document-print| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-print.png
+.. |edit-undo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-undo.png
+.. |edit-redo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-redo.png
+.. |edit-cut| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-cut.png
+.. |edit-copy| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-copy.png
+.. |edit-paste| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-paste.png
+.. |edit-delete| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-delete.png
+.. |transform-rotate| image:: /_external/_images/_site-assets/user/ico/16x16/transform-rotate.png
+.. |select| image:: /_external/_images/_site-assets/user/ico/22x22/select.png
+.. |move| image:: /_external/_images/_site-assets/user/ico/22x22/move.png
+.. |grid| image:: /_external/_images/_site-assets/user/ico/22x22/grid.png
+.. |diagram_bg| image:: /_external/_images/_site-assets/user/ico/22x22/diagram/diagram_bg.png
+.. |zoom-draw| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-draw.png
+.. |view-fit-window| image:: /_external/_images/_site-assets/user/ico/22x22/view/view-fit-window.png
+.. |zoom-original| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-original.png
+.. |dialog-information| image:: /_external/_images/_site-assets/user/ico/22x22/dialog/dialog-information.png
+.. |conductor2| image:: /_external/_images/_site-assets/user/ico/22x22/conductor2.png
+.. |autoconnect| image:: /_external/_images/_site-assets/user/ico/22x22/autoconnect.png
+.. |textfield| image:: /_external/_images/_site-assets/user/ico/22x22/textfield.png
+.. |insert-image| image:: /_external/_images/_site-assets/user/ico/22x22/insert-image.png
+.. |line| image:: /_external/_images/_site-assets/user/ico/22x22/line.png
+.. |ellipse| image:: /_external/_images/_site-assets/user/ico/22x22/ellipse.png
+.. |rectangle| image:: /_external/_images/_site-assets/user/ico/22x22/rectangle.png
+.. |polygon| image:: /_external/_images/_site-assets/user/ico/22x22/polygon.png
+.. |bring_forward| image:: /_external/_images/_site-assets/user/ico/22x22/bring_forward.png
+.. |raise| image:: /_external/_images/_site-assets/user/ico/22x22/raise.png
+.. |lower| image:: /_external/_images/_site-assets/user/ico/22x22/lower.png
+.. |send_backward| image:: /_external/_images/_site-assets/user/ico/22x22/send_backward.png

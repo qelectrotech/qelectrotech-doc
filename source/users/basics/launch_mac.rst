@@ -9,7 +9,7 @@ Launch QElectroTech on Mac
 
 After installation, QElectroTech can be launched from applications folder. 
 
-.. figure:: /_external/_images/_site-assets/ico/splash.png
+.. figure:: /_external/_images/_site-assets/user/ico/splash.png
    :scale: 50 %
    :align: center
 

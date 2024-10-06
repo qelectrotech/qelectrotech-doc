@@ -16,7 +16,7 @@ QElectrotech provides a basic and simple search menu composed by a text box whic
 desired string which should be found and some buttons for closing the menu, actualizing the search 
 and going to next and previous coincidence.
 
-.. figure:: ../images/qet_search_menu.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu.png
    :align: center
 
    Figure: QElectroTech search menu
@@ -24,7 +24,7 @@ and going to next and previous coincidence.
 QElectroTech also provides an advanced menu where filters can be defined inside `folios`_, `text fields`_, `elements`_ and `conductors`_ 
 trees. The advanced mode also allows replacing actions. 
 
-.. figure:: ../images/qet_advanced_search_menu.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced.png
    :align: center
 
    Figure: QElectroTech advanced search menu

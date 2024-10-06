@@ -27,9 +27,9 @@ QElectroTech also allows the display from tooltips, or short descrition panels, 
 .. figure:: /_external/_images/en/qet_tooltip_workspace.png
    :align: center
 
-   Figure: Message which appears at the workspace
+   Figure: Message which appears when hovering an element
 
-To increase the working eficiency, the description panel can also be displayed using keyboard shortcut. The user does not need to resort to the **Help** menu. 
+To increase the working efficiency, the description panel can also be displayed using keyboard shortcut. The user does not need to resort to the **Help** menu. 
 
     1. Press ``shift + f1``.
     2. Press on the object or area to display the description panel. 

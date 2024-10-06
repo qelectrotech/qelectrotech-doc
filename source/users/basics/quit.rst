@@ -17,7 +17,7 @@ If the current work wants to be saved before closing the project, refer to `save
    Figure: QElectroTech Save message
 
 
-As a large amoung of applications which has been developed using `Qt`_, QElectroTech can be closed from the close tab |close_tab| which can be found at top right from main window, from `menu bar`_ or using the corresponding keyboard shortcut. 
+As a large amount of applications which has been developed using `Qt`_, QElectroTech can be closed from the close tab |close_tab| which can be found at top right from main window, from `menu bar`_ or using the corresponding keyboard shortcut. 
 
 Quit QElectroTech from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,7 @@ QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
     For more information about QElectroTech keyboard shortcuts, refer to `menu bar`_ section.
 
-.. |close_tab| image:: /_external/_images/close_tab.png
+.. |close_tab| image:: /_external/_images/_site-assets/user/ico/18x18/close_tab.png
 .. _Qt: https://www.qt.io/
 
 .. _close the project: ../project/close_project.html

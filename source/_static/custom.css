@@ -1,3 +1,27 @@
 :root {
     --sd-color-card-background: white;
 }
+.bluetext{
+    color: #0000ff;
+}
+.yellowtext{
+    color: yellow;
+}
+.greentext{
+    color: green;
+}
+.orangetext{
+    color: orange;
+}
+.redtext{
+    color: red;
+}
+.lilactext{
+    color: darkviolet;
+}
+.browntext{
+    color: brown;
+}
+.pinktext{
+    color: pink;
+}

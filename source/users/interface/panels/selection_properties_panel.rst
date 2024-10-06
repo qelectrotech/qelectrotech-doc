@@ -16,7 +16,7 @@ properties from:
     * Some `basic objects`_: `line`_, `rectangle`_, `ellipse`_, `polygon`_ and `picture`_.
 
 
-.. figure:: ../../images/qet_panel_properties.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_properties.png
    :align: center
 
    Figure: QElectroTech selection properties panel

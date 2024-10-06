@@ -10,7 +10,7 @@ Collections panel
 
 The colections panel displays the `QET`_, `user`_ and `projects`_ element collections. 
 
-.. figure:: ../../images/qet_panel_collection.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_collection.png
    :align: center
 
    Figure: QElectroTech collections panel 

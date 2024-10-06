@@ -23,6 +23,7 @@ The goal of this page is to teach you how to contribute effectively to the QET p
      - 
    * - Please follow the :ref:`QET Coding style<QET Coding style>` before making any changes to the code base
      - Row 2, column 2
-   *
-    - After forking the repository, please **create another branch** to make changes onto. This will allow you to go back if something in the code breaks.
-    - lorem ipsum      
+   * - After forking the repository, please **create another branch** to make changes onto. This will allow you to go back if something in the code breaks.
+     - lorem ipsum
+   * - Structure your files so later contributors can easily make changes and additions to your files
+     -      

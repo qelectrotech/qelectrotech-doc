@@ -35,7 +35,7 @@ The main function from the Auto Numbering Selection panel is to manage `auto num
             
     * Select the active conductor auto numbering pattern
 
-        .. figure:: ../../images/qet_panel_auto_numbering_conductor_pattern.png
+        .. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_conductor_pattern.png
             :align: center
 
             Figure: QElectroTech conductor pattern selection
