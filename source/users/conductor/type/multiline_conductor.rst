@@ -28,10 +28,10 @@ display text which is linked to the `conductor properties`_.
 
 The main features of multiline conductors are:
 
-    1. Possibility to define properties (Function and voltage/protocol)
-    2. Text linked to the conductor which can be displayed and its position is relative to the conductor position.
-    3. Possibility of displaying variables values at the conductor text (Auto numbering, function or voltage/protocol).
-    4. Possibility of using the conductor variables at `element dynamic text`_ (Function and voltage/protocol).
+1. Possibility to define properties (Function and voltage/protocol)
+2. Text linked to the conductor which can be displayed and its position is relative to the conductor position.
+3. Possibility of displaying variables values at the conductor text (Auto numbering, function or voltage/protocol).
+4. Possibility of using the conductor variables at `element dynamic text`_ (Function and voltage/protocol).
 
 .. _Multiline diagrams: ../../folio/type/multiline_diagram.html
 .. _single line conductors: ../../conductor/type/single_line_conductor.html

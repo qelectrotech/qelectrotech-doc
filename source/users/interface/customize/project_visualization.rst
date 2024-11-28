@@ -14,14 +14,16 @@ floating windows that can be displayed or minimized.
 
 To define the project visualization preference:
 
-    1. Select **Display > Display projects** menu item to display the project visualization options.
+1. Select **Display > Display projects** menu item to display the project visualization options.
+2. Click on the desired option: **using windows** or **using tabs**
 
-        .. figure:: /_external/_images/en/qet_menu/qet_menu_display_projects.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_display_projects.png
             :align: center
 
             Figure: QElectroTech Display > Display projects menu
 
-    2. Click on the desired option: **using windows** or **using tabs**
+    
+    
 
 .. figure:: /_external/_images/en/qet_project/qet_projects_using_windows.png
    :align: center

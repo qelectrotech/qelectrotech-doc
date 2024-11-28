@@ -31,7 +31,7 @@ trees. The advanced mode also allows replacing actions.
 
 To display or hidden the search menu:
 
-    1. Select **Edit > Search / Replace** menu item to display or hidden the search menu at the bottom from the `workspace`_.
+1. Select **Edit > Search / Replace** menu item to display or hidden the search menu at the bottom from the `workspace`_.
 
 .. note::
 

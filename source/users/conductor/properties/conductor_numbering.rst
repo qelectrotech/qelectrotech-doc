@@ -31,27 +31,27 @@ flexibility on the creation of auto numbering patterns using text, variables and
     :W:
         Code defined by `IEC 81346`_ norm.
 
-            * **W**: Guiding or transporting from one place to another.
+        * **W**: Guiding or transporting from one place to another.
     :X:
         Alphanumeric code corresponding to the following coding:
 
-            * H: High voltage
-            * B: 400 V AC 
-            * C: 230 V AC 
-            * D: Digital signal
-            * A: Analog signal 
-            * @: Network
+        * H: High voltage
+        * B: 400 V AC 
+        * C: 230 V AC 
+        * D: Digital signal
+        * A: Analog signal 
+        * @: Network
 
     :XX:
         Installation or functional unit to which the cable belongs (`schema`_ where the cable can be found).
 
-            * 001: Incoming plant
-            * 002: Global auxiliary power
-            * 003: Distribution Network
-            * 004: instalation 1
-            * 005: installation 2
-            * ...
-            * 999: ...
+        * 001: Incoming plant
+        * 002: Global auxiliary power
+        * 003: Distribution Network
+        * 004: instalation 1
+        * 005: installation 2
+        * ...
+        * 999: ...
 
     :XXX:
 

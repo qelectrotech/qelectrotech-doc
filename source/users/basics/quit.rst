@@ -22,7 +22,7 @@ As a large amount of applications which has been developed using `Qt`_, QElectro
 Quit QElectroTech from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **File > Quit** menu item to quit QElectroTech.
+* Select **File > Quit** menu item to quit QElectroTech.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_file.png
    :align: center
@@ -34,7 +34,7 @@ Quit QElectroTech using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + q`` to quit QElectroTech.
+* Press ``Ctrl + q`` to quit QElectroTech.
 
 .. seealso::
 

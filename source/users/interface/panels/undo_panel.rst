@@ -18,7 +18,7 @@ Once the `project`_ is saved, undo panel is automatically cleared.
 
 To display or hidden the undo panel:
 
-    1. Select **Settings > Display > Undo** menu item.
+* Select **Settings > Display > Undo** menu item.
 
 The undo panel is used to return the `project`_ to the status after one of the actions made after last save. By one 
 click on one of the actions listed at undo panel, the `project`_ will return to the status after the 
@@ -31,12 +31,12 @@ status as many times he wants.
     saving `project`_ or any irreversible action like `delete folio`_. Once the `project`_ is saved or an 
     irreversible action is made, the history is cleared.
 
-Using the undo panel is interested for:
+Using the undo panel allow you to:
 
-    * Coming back some steps with a click.
-    * Recovering an object which was deleted some steps before. The object can be recovered coming back one step before the elimination, `copying the object`_, coming back to the last history status and `pasting the object`_.
-    * Checking the status from the `project`_ some steps before.
-    * Etc.
+* Come back to previous steps with a click.
+* Recovering an object which was deleted before. The object can be recovered going one step back before the deletion, `copying the object`_  and `pasting the object`_ when on the latest version.
+* Checking the `project`_ status between versions.
+* Etc.
 
 .. _project: ../../project/index.html
 .. _delete folio: ../../folio/delete_folio.html

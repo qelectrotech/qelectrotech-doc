@@ -15,7 +15,7 @@ can be defined. A line can have a main color and, if desired, a secondary color.
 
     The secondary line is used when a dashes line with double color is desired.
 
-        .. figure:: /_external/_images/en/qet_conductor/qet_conductor_secundary_line.png
+    .. figure:: /_external/_images/en/qet_conductor/qet_conductor_secundary_line.png
             :align: center
 
             Figure: Conductor with red secundary color

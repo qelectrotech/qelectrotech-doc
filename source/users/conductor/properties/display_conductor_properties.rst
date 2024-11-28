@@ -14,8 +14,8 @@ the corresponding keyboard shortcut.
 Display conductor properties from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `conductor`_ which `properties`_ should be displayed.
-    2. Select **Edit > Edit conductor** menu item to display the conductor properties PopUP window.
+1. Select the `conductor`_ which `properties`_ should be displayed.
+2. Select **Edit > Edit conductor** menu item to display the conductor properties PopUp window.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_edit_conductor.png
    :align: center
@@ -25,8 +25,8 @@ Display conductor properties from menu bar
 Display conductor properties from workspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `conductor`_ which `properties`_ should be displayed.
-    2. Select **Edit conductor** option to display the conductor properties PopUP window.
+1. Right click on the `conductor`_ which `properties`_ should be displayed.
+2. Select **Edit conductor** option to display the conductor properties PopUp window.
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_right_click.png
    :align: center
@@ -38,8 +38,8 @@ Display conductor properties using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the `conductor`_ which `properties`_ should be displayed.
-    2. Press ``Ctrl + e`` to display the conductor properties PopUP window.
+1. Select the `conductor`_ which `properties`_ should be displayed.
+2. Press ``Ctrl + e`` to display the conductor properties PopUp window.
 
 .. seealso::
 

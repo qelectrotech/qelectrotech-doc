@@ -14,9 +14,9 @@ from `menu bar`_ and using keyboard shortcut.
 Full screen mode from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Settings > FullScreen Mode** menu item to display QElectroTech in full screen mode.
+* Select **Settings > FullScreen Mode** menu item to display QElectroTech in full screen mode.
 
-    .. figure:: /_external/_images/en/qet_menu/qet_menu_settings.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_settings.png
         :align: center
 
         Figure: QElectroTech settings menu
@@ -26,7 +26,7 @@ Full screen mode using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + Shift + f`` to display QElectroTech in full screen mode.
+* Press ``Ctrl + Shift + f`` to display QElectroTech in full screen mode.
 
 .. seealso::
 

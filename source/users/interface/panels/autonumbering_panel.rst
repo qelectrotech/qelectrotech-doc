@@ -21,21 +21,23 @@ The Auto Numbering Selection panel displays the active `auto numbering pattern`_
 
 To display or hidden the Auto Numbering Selection panel:
 
-    1. Select **Settings > Display > Auto Numbering Selection** menu item.
+1. Select **Settings > Display > Auto Numbering Selection** menu item.
 
 The main function from the Auto Numbering Selection panel is to manage `auto numbering patterns`_.
 
-    * Select the active folio auto numbering pattern
-    * Select the active element auto numbering pattern
+* Select the active folio auto numbering pattern
+* Select the active element auto numbering pattern
 
-        .. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_element_pattern.png
-            :align: center
+.. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_element_pattern.png
+    :align: center
 
-            Figure: QElectroTech element pattern selection
+    Figure: QElectroTech element pattern selection
+
+* Select the active conductor auto numbering pattern
+    
+
             
-    * Select the active conductor auto numbering pattern
-
-        .. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_conductor_pattern.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_conductor_pattern.png
             :align: center
 
             Figure: QElectroTech conductor pattern selection

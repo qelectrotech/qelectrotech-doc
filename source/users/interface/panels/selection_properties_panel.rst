@@ -12,8 +12,8 @@ The selection properties panel displays the properties from the selecte object. 
 from some object can be displayed at the panel. The selection properties panel can display the 
 properties from:
 
-    * `Elements`_
-    * Some `basic objects`_: `line`_, `rectangle`_, `ellipse`_, `polygon`_ and `picture`_.
+* `Elements`_
+* Some `basic objects`_: `line`_, `rectangle`_, `ellipse`_, `polygon`_ and `picture`_.
 
 
 .. figure:: /_external/_images/en/qet_panel/qet_panel_properties.png
@@ -23,19 +23,19 @@ properties from:
 
 To display or hidden the selection properties panel:
 
-    1. Select **Settings > Display > Selection properties** menu item.
+* Select **Settings > Display > Selection properties** menu item.
 
 The main function of the selection properties panel is to manage the object properties. At QElectroTech, 
 the object properties can be different for each object. The main tasks that can be done from the 
 selection properties panel are:
 
-    * Manage the properties from the basic geometrical objects (`line`_, `rectangle`_, `ellipse`_ and `polygon`_). 
-    * Define the scale from the imported `pictures`_.
-    * Lock the position of the `basic objects`_ (`line`_, `rectangle`_, `ellipse`_, `polygon`_ and `picture`_).
-    * Manage the information from the `elements`_ (label, function, manufacturer, article number, order number, etc.).
-    * Manage the text and dynamic text from element symbols.
-    * Display the general element properties (name, position, dimensions, number of terminals, etc.).
-    * Manage the element links (cross references).
+* Manage the properties from the basic geometrical objects (`line`_, `rectangle`_, `ellipse`_ and `polygon`_). 
+* Define the scale from the imported `pictures`_.
+* Lock the position of the `basic objects`_ (`line`_, `rectangle`_, `ellipse`_, `polygon`_ and `picture`_).
+* Manage the information from the `elements`_ (label, function, manufacturer, article number, order number, etc.).
+* Manage the text and dynamic text from element symbols.
+* Display the general element properties (name, position, dimensions, number of terminals, etc.).
+* Manage the element links (cross references).
 
 .. _Elements: ../../element/index.html
 .. _Basic objects: ../../schema/basics/index.html

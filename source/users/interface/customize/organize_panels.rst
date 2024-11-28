@@ -13,10 +13,10 @@ and hidden.
 
 To display or hide `panels`_:
 
-    1. Select **Settings > Display** menu item to display the `panels`_ and `toolbars`_ list.
-    2. Click on the different `panels`_ (Projects, Collections, Undo, Selection properties and Auto numbering Selection) which should be displayed or hidden.
+1. Select **Settings > Display** menu item to display the `panels`_ and `toolbars`_ list.
+2. Click on the different `panels`_ (Projects, Collections, Undo, Selection properties and Auto numbering Selection) which should be displayed or hidden.
 
-    .. figure:: /_external/_images/en/qet_setting_display_menu.png
+.. figure:: /_external/_images/en/qet_setting_display_menu.png
         :align: center
 
         Figure: QElectroTech Settings > Display menu
@@ -32,9 +32,9 @@ windows.
 
 To change the organization of `panels`_:
 
-    1. Left click at the title bar from the `panel`_.
-    2. Without releasing the `panel`_, move the mouse to the final position.
-    3. Release the `panel`_.
+1. Left click at the title bar from the `panel`_.
+2. Without releasing the `panel`_, move the mouse to the final position.
+3. Release the `panel`_.
 
 .. figure:: /_external/_images/en/qet_gui/qet_gui_panels_placement.png
     :align: center

@@ -53,10 +53,10 @@ the type of power system should be defined to have the correct symbol representa
 
 QElectroTech allows the following options for `single line conductors`_:
 
-   1. System with or without **Ground**
-   2. System with or without **Neutral**
-   3. **PEN** system, system where **Neutral** and **Ground** are the same wire.
-   4. Systems with one, two or three phases
+1. System with or without **Ground**
+2. System with or without **Neutral**
+3. **PEN** system, system where **Neutral** and **Ground** are the same wire.
+4. Systems with one, two or three phases
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_properties_type_single_line.png
    :align: center

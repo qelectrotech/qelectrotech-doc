@@ -12,10 +12,10 @@ The QElectroTech GUI allows having many different `toolbars`_ switched on to mak
 
 To display or hide `toolbars`_:
 
-    1. Select **Settings > Display** menu item to display the `panels`_ and `toolbars`_ list.
-    2. Click on the different `toolbars`_ (Tools, Display, Diagram, Add and Depth) which should be displayed or hidden.
+1. Select **Settings > Display** menu item to display the `panels`_ and `toolbars`_ list.
+2. Click on the different `toolbars`_ (Tools, Display, Diagram, Add and Depth) which should be displayed or hidden.
 
-    .. figure:: /_external/_images/en/qet_setting_display_menu.png
+.. figure:: /_external/_images/en/qet_setting_display_menu.png
         :align: center
 
         Figure: QElectroTech Settings > Display menu
@@ -31,9 +31,9 @@ the `toolbars`_. The `toolbars`_ can be organiced in rows, columns at the left o
 
 To change the organization of `toolbars`_:
 
-    1. Left click at the left side from the `toolbar`_.
-    2. Without releasing the `toolbar`_, move the mouse to the final position.
-    3. Release the `toolbar`_.
+1. Left click at the left side from the `toolbar`_.
+2. Without releasing the `toolbar`_, move the mouse to the final position.
+3. Release the `toolbar`_.
 
 .. figure:: /_external/_images/en/qet_gui/qet_gui_toolbars_placement.png
     :align: center

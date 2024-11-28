@@ -18,7 +18,7 @@ To launch QElectroTech using the terminal, the command to be used is:
 
 The command mentioned above blocks the terminal for other processes. If the terminal should be available for other processes, the command to launch QElectroTech is:
 
-    | ``$ gelectrotech &``
+    | ``$ qelectrotech &``
 
 .. note::
 
@@ -26,7 +26,7 @@ The command mentioned above blocks the terminal for other processes. If the term
 
    * Ubuntu command: ``$ apt list --installed``
 
-.. figure:: /_external/_images/_site-assets/user/ico/splash.png
+.. figure:: /_external/_images/_site-assets/branding/user/splash.png
    :scale: 50 %
    :align: center
 
@@ -37,10 +37,10 @@ Launch QElectroTech from applications menu
 
 As Windows, Linux operative systems allow the user to launch applications from menus and icons. Where to go depends on the theme and distribution used. Below, some possibilities according some configurations are mentioned.
 
-    * Unity theme: The icon appears at the launcher bar.
-    * Gnome shell: The icon appears at **[Menu]**, with the rest of applications.
-    * Gnome Classic: QElectroTech can be started from **Applications > Graphics > QElectroTech**.
-    * KDE: QElectroTech can be started from **[Menu]** at **Graphics > QElectroTech**.
+* Unity theme: The icon appears at the launcher bar.
+* Gnome shell: The icon appears at **[Menu]**, with the rest of applications.
+* Gnome Classic: QElectroTech can be started from **Applications > Graphics > QElectroTech**.
+* KDE: QElectroTech can be started from **[Menu]** at **Graphics > QElectroTech**.
 
 Once QElectroTech has been launched, the main window looks as follow:
 

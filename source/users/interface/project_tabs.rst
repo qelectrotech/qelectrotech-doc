@@ -22,8 +22,8 @@ The different opened projects from QElectroTech can be managed using PopUP windo
 
 The project tabs bar allows the following actions:
 
-   1. Choosing the active project by simple click on the tab.
-   2. Closing the project by using the close tab which can be found at the right side from each project tab.
+1. Choosing the active project by simple click on the tab.
+2. Closing the project by using the close tab which can be found at the right side from each project tab.
 
 .. _menu bar: ../interface/menu_bar.html
 .. _toolbars: ../interface/toolbars.html

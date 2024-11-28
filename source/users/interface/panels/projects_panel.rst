@@ -18,18 +18,18 @@ The projects panel displays the opened projects trees, `folios`_ and `embedded t
 
 To display or hidden the projects panel:
 
-    1. Select **Settings > Display > Projects** menu item.
+* Select **Settings > Display > Projects** menu item.
 
-The tasks which can be done from projects panel are:
+The tasks which can be done from projects panels are:
 
-    * Manage `folios`_ (Add folios, define folio order at each project, etc.).
-    * Manage the `embedded title blocks`_ from the project.
-    * Manage the default `QET`_ title block collection.
-    * Manage the `user`_ title block collection. 
-    * Define the active project.
-    * Define the active folio which should be displayed at the `workspace`_.
-    * Display the folio properties PopUP window.
-    * Display the project properties PopUP window.
+* Manage `folios`_ (Add folios, define folio order at each project, etc.).
+* Manage the `embedded title blocks`_ from the project.
+* Manage the default `QET`_ title block collection.
+* Manage the `user`_ title block collection. 
+* Define the active project.
+* Define the active folio which should be displayed at the `workspace`_.
+* Display the folio properties PopUp window.
+* Display the project properties PopUp window.
 
 To make easier the work with the project panel, QElectroTech provides a filter. All `folios`_, 
 `projects`_ and `title blocks`_ without a name or part of a string can be hidden.
