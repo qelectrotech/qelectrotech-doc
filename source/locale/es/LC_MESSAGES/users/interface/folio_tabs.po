@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../source/users/interface/folio_tabs.rst:22
 msgid ""
-"Opening the properties PopUP window from an specific folio by double "
+"Opening the properties PopUp window from an specific folio by double "
 "click on the tab."
 msgstr ""
 

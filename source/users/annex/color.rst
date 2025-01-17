@@ -32,7 +32,7 @@ To define a custom color:
 #. Press the buttom + from the custom color section of the **Select color** PopUp window.
 #. Define the HTML code of the desired color in the text box.
 
-        .. figure:: /_external/_images/en/qet_color/qet_color_custom.png
+.. figure:: /_external/_images/en/qet_color/qet_color_custom.png
             :align: center
 
             Figure: QElectroTech custom color selection window
@@ -43,8 +43,8 @@ To define a custom color:
 
     The custom color can also be defined visually:
    
-      #. The color scale can be defined by the scrollbar placed at left side.
-      #. The grays scale can be defined by a cursor click on the color scale.
+    #. The color scale can be defined by the scrollbar placed at left side.
+    #. The grays scale can be defined by a cursor click on the color scale.
 
 .. seealso::
 

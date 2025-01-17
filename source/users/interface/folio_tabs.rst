@@ -19,7 +19,7 @@ for each `folio`_ of the `project`_.
 The folio tabs bar allows the following actions:
 
 1. Choosing the active folio by simple click on the tab.
-2. Opening the properties PopUP window from an specific folio by double click on the tab.
+2. Opening the properties PopUp window from an specific folio by double click on the tab.
 3. Adding new folio to the project by simple click on the **Add folio** icon |add_folio| from right side.
 
 .. |add_folio| image:: /_external/_images/_site-assets/user/ico/22x22/diagram/diagram_add.png

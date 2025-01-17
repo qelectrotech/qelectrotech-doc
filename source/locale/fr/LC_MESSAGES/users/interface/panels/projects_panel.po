@@ -72,11 +72,11 @@ msgid "Define the active folio which should be displayed at the `workspace`_."
 msgstr ""
 
 #: ../../source/users/interface/panels/projects_panel.rst:31
-msgid "Display the folio properties PopUP window."
+msgid "Display the folio properties PopUp window."
 msgstr ""
 
 #: ../../source/users/interface/panels/projects_panel.rst:32
-msgid "Display the project properties PopUP window."
+msgid "Display the project properties PopUp window."
 msgstr ""
 
 #: ../../source/users/interface/panels/projects_panel.rst:34

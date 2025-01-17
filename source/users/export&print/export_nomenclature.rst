@@ -10,7 +10,7 @@ The different field properties are listed by columns and the `elements`_ are ord
 
 To export the nomenclature list to CSV file:
 
-1. Select **Project > Export to CSV** menu item to open the exporting parameter PopUP window.
+1. Select **Project > Export to CSV** menu item to open the exporting parameter PopUp window.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_project.png  
             :align: center

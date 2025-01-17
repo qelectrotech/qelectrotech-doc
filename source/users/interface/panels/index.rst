@@ -2,7 +2,7 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
-.. _interface/panels/index
+.. _interface/panels/index:
 
 ======
 Panels

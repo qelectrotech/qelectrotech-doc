@@ -67,9 +67,9 @@ Edit menu
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Paste                    | Pastes elements from the clipboard into the folio           |  ``Ctrl + v``             | |edit-paste|          |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Select All               | Selects all elements on the folio                            |  ``Ctrl + a``             | |edit-select-all|     |
+|  Select All               | Selects all elements on the folio                           |  ``Ctrl + a``             | |edit-select-all|     |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Select none              | Deselect all elements on the folio                           |  ``Ctrl + Shift + a``     | |edit-select-none|    |
+|  Select none              | Deselect all elements on the folio                          |  ``Ctrl + Shift + a``     | |edit-select-none|    |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Invert selection         | Inverts selection of elements                               |  ``Ctrl + i``             | |edit-select-invert|  |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+

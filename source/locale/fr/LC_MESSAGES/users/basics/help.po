@@ -99,7 +99,7 @@ msgstr ""
 
 #: ../../source/users/basics/help.rst:46
 msgid ""
-"Select **Help > About QElectroTech** menu item to display the PopUP "
+"Select **Help > About QElectroTech** menu item to display the PopUp "
 "window with the basic information from QElectroTech project."
 msgstr ""
 

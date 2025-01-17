@@ -27,7 +27,7 @@ msgstr ""
 #: ../../source/users/interface/project_tabs.rst:11
 msgid ""
 "The different opened projects from QElectroTech can be managed using "
-"PopUP windows under the `menu bar`_ and `toolbars`_ or using a project "
+"PopUp windows under the `menu bar`_ and `toolbars`_ or using a project "
 "tabs bar."
 msgstr ""
 

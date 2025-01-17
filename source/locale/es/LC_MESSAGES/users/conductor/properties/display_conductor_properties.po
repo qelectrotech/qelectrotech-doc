@@ -42,7 +42,7 @@ msgstr ""
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:18
 msgid ""
 "Select **Edit > Edit conductor** menu item to display the conductor "
-"properties PopUP window."
+"properties PopUp window."
 msgstr ""
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:23
@@ -60,7 +60,7 @@ msgstr ""
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:29
 msgid ""
 "Select **Edit conductor** option to display the conductor properties "
-"PopUP window."
+"PopUp window."
 msgstr ""
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:34
@@ -78,7 +78,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:42
-msgid "Press ``Ctrl + e`` to display the conductor properties PopUP window."
+msgid "Press ``Ctrl + e`` to display the conductor properties PopUp window."
 msgstr ""
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:46

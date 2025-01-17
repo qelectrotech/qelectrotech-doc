@@ -43,7 +43,7 @@ About QElectroTech
 
 Many information related to QElectroTech can be found at the application without searching on Internet. Everybody who launch the application can find the license text, version of the application launched, developers and collaborators. 
 
-* Select **Help > About QElectroTech** menu item to display the PopUP window with the basic information from QElectroTech project.  
+* Select **Help > About QElectroTech** menu item to display the PopUp window with the basic information from QElectroTech project.  
 
 Online Manual
 ~~~~~~~~~~~~~

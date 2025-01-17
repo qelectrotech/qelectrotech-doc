@@ -9,9 +9,9 @@ QElectroTech allows exporting the different `folios`_ to many type of formats: *
 1. Select **File > Export** menu item to display exporting PopUp window.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_file.png
-            :align: center
+    :align: center
 
-            Figure: QElectroTech file menu
+    Figure: QElectroTech file menu
 
 .. note::
 
@@ -26,23 +26,23 @@ QElectroTech allows exporting the different `folios`_ to many type of formats: *
 3. Choose the `folios`_ you wish to export and specify their size.
 
 .. figure:: /_external/_images/en/qet_export/qet_export_popup_window.png
-            :align: center
+    :align: center
 
-            Figure: QElectroTech export PopUp window 
+    Figure: QElectroTech export PopUp window 
    
 4. Choose target directory and format.
 
 .. figure:: /_external/_images/en/qet_export/qet_export_formats.png
-            :align: center
+    :align: center
 
-            Figure: QElectroTech exporting formats combo box
+    Figure: QElectroTech exporting formats combo box
 
 5. Choose rendering options.
 
 .. figure:: /_external/_images/en/qet_export/qet_export_rendering_options.png
-            :align: center
+    :align: center
 
-            Figure: QElectroTech rendering options
+    Figure: QElectroTech rendering options
    
 6. Press **Export** button to create the files.
 

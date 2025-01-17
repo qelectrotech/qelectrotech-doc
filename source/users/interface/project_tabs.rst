@@ -8,7 +8,7 @@
 Projects tabs bar
 =================
 
-The different opened projects from QElectroTech can be managed using PopUP windows under the `menu bar`_ and `toolbars`_ or using a project tabs bar. 
+The different opened projects from QElectroTech can be managed using PopUp windows under the `menu bar`_ and `toolbars`_ or using a project tabs bar. 
 
 .. figure:: /_external/_images/en/qet_project/qet_project_tabs.png
    :align: center

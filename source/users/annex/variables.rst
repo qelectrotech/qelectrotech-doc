@@ -23,58 +23,58 @@ General project variables
 
 The following variables are global variables which can be used to create title block templates. 
 
-    * **% {projecttitle}**: Project title
-    * **% {projectpath}**: Project path
-    * **% {projectfilename}**: Project file name
-    * **% {saveddate}**: File saving date
-    * **% {filename}**: Project file name
-    * **% {savedfilename}**: Registered file name
-    * **% {savedfilepath}**: Saved file path
-    * **% {savedtime}**: File saving time
-    * **% {folio-total}**: Total number of folios in the project
-    * **% {version}**: Software version
-    * **% {machine}**: Project functional group name
+* **% {projecttitle}**: Project title
+* **% {projectpath}**: Project path
+* **% {projectfilename}**: Project file name
+* **% {saveddate}**: File saving date
+* **% {filename}**: Project file name
+* **% {savedfilename}**: Registered file name
+* **% {savedfilepath}**: Saved file path
+* **% {savedtime}**: File saving time
+* **% {folio-total}**: Total number of folios in the project
+* **% {version}**: Software version
+* **% {machine}**: Project functional group name
 
-variables related to folio
+Variables related to folio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following variables are specific variables for each folio. They can be used to create title block 
 templates. 
 
-    * **% {folio-id}**: Folio position in the project
-    * **% {title}**: Folio title
-    * **% {author}**: Folio author
-    * **% {date}**: Folio date
-    * **% {folio}**: Folio information (Label)
-    * **% {indexrev}**: Folio revision index
-    * **% {locmach}**: Name of the location in the project functional group    
-    * **% {previous-folio-num}**: Number previous folio  
-    * **% {next-folio-num}**: Number next folio  
+* **% {folio-id}**: Folio position in the project
+* **% {title}**: Folio title
+* **% {author}**: Folio author
+* **% {date}**: Folio date
+* **% {folio}**: Folio information (Label)
+* **% {indexrev}**: Folio revision index
+* **% {locmach}**: Name of the location in the project functional group    
+* **% {previous-folio-num}**: Number previous folio  
+* **% {next-folio-num}**: Number next folio  
 
-variables related to element
+Variables related to element
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following variables are specific variables for each element. They can be used to create auto 
 numbering patterns.
 
-    * **% {F}**: Label from the folio where the element can be found
-    * **% {f}**: Number from the folio where the element can be found
-    * **% {M}**: Plant variable from the folio where the element can be found
-    * **% {LM}**: Location variable of the folio where the element can be found
-    * **% {l}**: Folio line number from the workspace where the element can be found
-    * **% {c}**: Folio column number from the workspace where the element can be found
-    * **% {id}**: Folio position in the project (Schema number)
+* **% {F}**: Label from the folio where the element can be found
+* **% {f}**: Number from the folio where the element can be found
+* **% {M}**: Plant variable from the folio where the element can be found
+* **% {LM}**: Location variable of the folio where the element can be found
+* **% {l}**: Folio line number from the workspace where the element can be found
+* **% {c}**: Folio column number from the workspace where the element can be found
+* **% {id}**: Folio position in the project (Schema number)
 
-variables related to conductor
+Variables related to conductor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following variables are specific variables for each conductor. They can be used to create auto numbering 
 patterns.
 
-    * **% {F}**: Label from the folio where the conductor can be found
-    * **% {f}**: Number from the folio where the conductor can be found
-    * **% {M}**: Plant variable from the folio where the conductor can be found
-    * **% {LM}**: Location variable of the folio where the conductor can be found
-    * **% {l}**: Folio line number from the workspace where the conductor can be found
-    * **% {c}**: Folio column number from the workspace where the conductor can be found
-    * **% {id}**: Folio position in the project (Schema number)
+* **% {F}**: Label from the folio where the conductor can be found
+* **% {f}**: Number from the folio where the conductor can be found
+* **% {M}**: Plant variable from the folio where the conductor can be found
+* **% {LM}**: Location variable of the folio where the conductor can be found
+* **% {l}**: Folio line number from the workspace where the conductor can be found
+* **% {c}**: Folio column number from the workspace where the conductor can be found
+* **% {id}**: Folio position in the project (Schema number)

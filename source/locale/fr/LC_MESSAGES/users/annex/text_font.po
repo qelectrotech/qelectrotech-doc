@@ -25,7 +25,7 @@ msgid "QElectroTech text font"
 msgstr ""
 
 #: ../../source/users/annex/text_font.rst:11
-msgid "To define the text font at the **Select font** PopUP window:"
+msgid "To define the text font at the **Select font** PopUp window:"
 msgstr ""
 
 #: ../../source/users/annex/text_font.rst:13
