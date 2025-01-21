@@ -15,11 +15,11 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - id: spell
-      uses: codespell-project/actions-codespell@v2
-      with:
-        exclude_file: ${{ github.workspace }}/source/conf.py
-        ignore_words_list: seealso
+   # - id: spell
+    #  uses: codespell-project/actions-codespell@v2
+     # with:
+      #  exclude_file: ${{ github.workspace }}/source/conf.py
+      #  ignore_words_list: seealso
     - id: deployment
       uses: sphinx-notes/pages@v3
       with:

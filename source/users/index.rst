@@ -23,7 +23,7 @@ User Manual
         :link: interface/index
         :link-type: ref
     
-    .. grid-item-card:: Settings
+    .. grid-item-card:: Preferences
         :img-top: ../_external/_images/_site-assets/user/ico/128x128/settings.png
         :img-alt: Image showing QET's preferences icon
         :link: preferences/index
@@ -60,6 +60,8 @@ User Manual
     .. grid-item-card:: Reports
         :img-top: ../_external/_images/_site-assets/user/ico/256x256/report.png
         :img-alt: Image showing QET app icon
+        :link: reports/index
+        :link-type: ref
     
     .. grid-item-card:: Export & Print
         :img-top: ../_external/_images/_site-assets/user/ico/128x128/printer.png
