@@ -26,10 +26,10 @@ Nomenclature geometry and line
 
 The **Geometry and lines** section from the summary properties allows defining:
 
-   * Nomenclature table position (coordinates **X** and **Y**) in the `folio`_.
-   * Maximum number of table rows.
-   * Adjust the size of the table to the `folio`_, automatic margin definition.
-   * Define previous nomenclature table, property to be used if the nomenclature table is not fitting in one `folio`_. 
+* Nomenclature table position (coordinates **X** and **Y**) in the `folio`_.
+* Maximum number of table rows.
+* Adjust the size of the table to the `folio`_, automatic margin definition.
+* Define previous nomenclature table, property to be used if the nomenclature table is not fitting in one `folio`_. 
 
 .. note::
 
@@ -46,9 +46,9 @@ Header
 
 The **Header** section from the nomenclature properties allows defining:
 
-   * Top, bottom, left and right margin in the header cells.
-   * Text alignment in the header cells.
-   * Text font of the table header.
+* Top, bottom, left and right margin in the header cells.
+* Text alignment in the header cells.
+* Text font of the table header.
 
 .. figure:: /_external/_images/en/qet_summary/qet_summary_properties_font.png
    :align: center
@@ -65,9 +65,9 @@ Table
 
 The **Table** section from the nomenclature properties allows defining:
 
-   * Top, bottom, left and right margin in the table cells.
-   * Text alignment in the table cells.
-   * Text font of the table.
+* Top, bottom, left and right margin in the table cells.
+* Text alignment in the table cells.
+* Text font of the table.
 
 .. figure:: /_external/_images/en/qet_summary/qet_summary_properties_font.png
    :align: center
@@ -82,38 +82,38 @@ modified and re-organized at any time.
 
 To modify the content request from nomenclature:
 
-   1. `Select`_ one of the tables from the nomenclature to display the nomenclature properties at `selection properties panel`_.
-   2. Go to **Content** tab.
+1. `Select`_ one of the tables from the nomenclature to display the nomenclature properties at `selection properties panel`_.
+2. Go to **Content** tab.
 
-      .. figure:: /_external/_images/en/qet_nomenclature/qet_nomenclature_properties_content.png
-         :align: center
+.. figure:: /_external/_images/en/qet_nomenclature/qet_nomenclature_properties_content.png
+   :align: center
 
-         Figure: QElectroTech nomenclature properties panel, content tab
+   Figure: QElectroTech nomenclature properties panel, content tab
 
-   3. Click **Request** button to display the content configuration PopUp window.
-   4. Modify the list of information to be displayed by the commands of the following table.
+3. Click **Request** button to display the content configuration PopUp window.
+4. Modify the list of information to be displayed by the commands of the following table.
 
-      =================      ===============================      ========================================
-      Icon                   Action                               Keyboard shortcut
-      =================      ===============================      ========================================
-      |go-up|                Move up this field                   
-      |list-add|             Add field to display list            Double click on field at available list
-      |list-remove|          Remove field from display list       Double click on field at display list
-      |go-down|              Move down this field                 
-      =================      ===============================      ========================================
+=================      ===============================      ========================================
+Icon                   Action                               Keyboard shortcut
+=================      ===============================      ========================================
+|go-up|                Move up this field                   
+|list-add|             Add field to display list            Double click on field at available list
+|list-remove|          Remove field from display list       Double click on field at display list
+|go-down|              Move down this field                 
+=================      ===============================      ========================================
 
-      .. figure:: ../../images/qet_nomenclature_properties_content_request.png
-         :align: center
+.. figure:: /_external/_images/en/qet_nomenclature/qet_nomenclature_properties_content_request.png
+   :align: center
 
-         Figure: QElectroTech nomenclature properties content request PopUp window
+   Figure: QElectroTech nomenclature properties content request PopUp window
 
-      .. note::
+.. note::
 
          The content request configuration can be saved and chosen from **Configuration** section to increase working efficiency.
 
          QElectroTech is working with SQLite database, nomenclature table content can also be defined by SQL query. 
  
-   5. Once the desired configuration is defined, press **OK** to apply changes.
+5. Once the desired configuration is defined, press **OK** to apply changes.
 
 .. |go-down| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-down.png
 .. |go-up| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-up.png

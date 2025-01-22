@@ -40,13 +40,13 @@ To create a project nomenclature:
 +---------------------+-----------------------------------------------------------+---------------------------+
 | Icon                |Action                                                     | Keyboard shortcut         |
 +=====================+===========================================================+===========================+
-|  |go-up|            | Move up this field                                        |  ``Ctrl + shift + Home``  |
+|  |go_up|            | Move up this field                                        |  Double-click on element  |
 +---------------------+-----------------------------------------------------------+---------------------------+
-| |list-add|          | Add field to display list                                 |  ``Ctrl + shift + Up``    |
+| |list_add|          | Add field to display list                                 |  Double-click on element  |
 +---------------------+-----------------------------------------------------------+---------------------------+
-|  |list-remove|      | Remove field from display list                            |  ``Ctrl + shift + Down``  |
+|  |list_remove|      | Remove field from display list                            |  Double-click on element  |
 +---------------------+-----------------------------------------------------------+---------------------------+
-|  |go-down|          | Move down this field                                      |  ``Ctrl + shift + End``   |
+|  |go_down|          | Move down this field                                      |  Double-click on element  |
 +---------------------+-----------------------------------------------------------+---------------------------+
 
 .. figure:: /_external/_images/en/qet_nomenclature/qet_nomenclature_add_content.png
@@ -67,10 +67,10 @@ To create a project nomenclature:
 
    The project nomenclature can be created, modified and updated at any time. 
 
-.. |go-down| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-down.png
-.. |go-up| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-up.png
-.. |list-add| image:: /_external/_images/_site-assets/user/ico/16x16/list/list-add.png
-.. |list-remove| image:: /_external/_images/_site-assets/user/ico/16x16/list/list-remove.png
+.. |go_down| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-down.png
+.. |go_up| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-up.png
+.. |list_add| image:: /_external/_images/_site-assets/user/ico/16x16/list/list-add.png
+.. |list_remove| image:: /_external/_images/_site-assets/user/ico/16x16/list/list-remove.png
 
 .. _project: ../../project/index.html
 .. _folio: ../../folio/index.html

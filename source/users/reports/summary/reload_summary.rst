@@ -13,10 +13,10 @@ To reload the summary:
 2. Go to **Content** tab.
 3. Click |view-refresh| **Reload** button to update `folio properties`_ at summary.
 
-      .. figure:: ../../images/qet_summary_properties_content.png
-         :align: center
+.. figure:: /_external/_images/en/qet_summary/qet_summary_properties_content.png
+      :align: center
 
-         Figure: QElectroTech summary properties panel, content tab
+      Figure: QElectroTech summary properties panel, content tab
 
 .. |view-refresh| image:: /_external/_images/_site-assets/user/ico/22x22/view/view-refresh.png
 

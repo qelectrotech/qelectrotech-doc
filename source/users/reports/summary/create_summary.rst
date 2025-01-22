@@ -34,14 +34,17 @@ To create a project summary:
 6. Go to **Content** tab to define table columns.
 7. Modify the table content using the following commands:
 
-=================      ===============================      ========================================
-Icon                   Action                               Keyboard shortcut
-=================      ===============================      ========================================
-|go-up|                Move up this field                   
-|list-add|             Add field to display list            Double click on field at available list
-|list-remove|          Remove field from display list       Double click on field at display list
-|go-down|              Move down this field                 
-=================      ===============================      ========================================
++---------------------+-----------------------------------------------------------+---------------------------+
+| Icon                |Action                                                     | Keyboard shortcut         |
++=====================+===========================================================+===========================+
+|  |go_up|            | Move up this field                                        |  Double-click on element  |
++---------------------+-----------------------------------------------------------+---------------------------+
+| |list_add|          | Add field to display list                                 |  Double-click on element  |
++---------------------+-----------------------------------------------------------+---------------------------+
+|  |list_remove|      | Remove field from display list                            |   Double-click on element |
++---------------------+-----------------------------------------------------------+---------------------------+
+|  |go_down|          | Move down this field                                      |  Double-click on element  |
++---------------------+-----------------------------------------------------------+---------------------------+
 
 .. figure:: /_external/_images/en/qet_summary/qet_summary_add_content.png
    :align: center
@@ -60,10 +63,10 @@ Icon                   Action                               Keyboard shortcut
 
    The project summary can be created, modified and updated at any time. 
 
-.. |go-down| image::/_external/_images/_site-assets/user/ico/16x16/go/go-down.png
-.. |go-up| image::/_external/_images/_site-assets/user/ico/16x16/go/go-up.png
-.. |list-add| image::/_external/_images/_site-assets/user/ico/16x16/list/list-add.png
-.. |list-remove| image::/_external/_images/_site-assets/user/ico/16x16/list/list-remove.png
+.. |go_down| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-down.png
+.. |go_up| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-up.png
+.. |list_add| image:: /_external/_images/_site-assets/user/ico/16x16/list/list-add.png
+.. |list_remove| image:: /_external/_images/_site-assets/user/ico/16x16/list/list-remove.png
 
 .. _project: ../../project/index.html
 .. _folio: ../../folio/index.html
