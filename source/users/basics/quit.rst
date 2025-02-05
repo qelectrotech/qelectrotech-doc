@@ -7,7 +7,7 @@
 Quit QElectroTech
 =================
 
-The user can quit QElectroTech at anytime. The user does not need to `close the project`_ before clossing the application. 
+The user can quit QElectroTech at anytime. The user does not need to `close the project`_ before closing the application. 
 
 If the current work wants to be saved before closing the project, refer to `save project`_ section. Even so, QElectroTech displays an automatic message to save the current job if any modification has been created. 
 

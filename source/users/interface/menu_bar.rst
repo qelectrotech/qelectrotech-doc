@@ -10,7 +10,7 @@ Menu bar
 
 The menu bar is placed at top from QElectroTech interface. QElectroTech contains the 
 menus ``File``, ``Edit``, ``Project``, ``Display``, ``Settings``, ``Windows`` and 
-``Help``. Each menu provides many diferent options.  
+``Help``. Each menu provides many different options.  
 
 .. note::
 
@@ -39,7 +39,7 @@ File menu
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
 | Close            | Closes the current project                                       |   ``Ctrl + w``            | |project-close|    |
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
-| Export           | Exports the curret folio to another format                       |   ``Ctrl + Shift + x``    | |document-export|  | 
+| Export           | Exports the current folio to another format                       |   ``Ctrl + Shift + x``    | |document-export|  | 
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
 | Print            | Print one or more folio of the current project                   |   ``Ctrl + p``            | |document-print|   |
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
@@ -135,7 +135,7 @@ Project menu
 +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
 | Export the list of names of wires          | Generates a ``.csv`` file summary of conductors used in the active project                                                  |                        | |export-csv|          |
 +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| Launch the terminal block creation pluging |                                                                                                                             |                        | |terminalstrip|       |
+| Launch the terminal block creation plugin  |                                                                                                                             |                        | |terminalstrip|       |
 +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
 | Export the internal project database       | Generates a SQLite database of the active project                                                                           |                        | |export-csv|          |
 +--------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
@@ -167,7 +167,7 @@ Display menu
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Zoom content                   | Adjusts the zoom to display all the content of folio regardless of context                 |  ``Ctrl + 8``          | |zoom-draw|          |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
-| Fit in view                    | Adjusts the zoom on exactly trhe part of the folio                                         |  ``Ctrl + 9``          | |view-fit-window|    |
+| Fit in view                    | Adjusts the zoom on exactly the part of the folio                                         |  ``Ctrl + 9``          | |view-fit-window|    |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Reset zoom                     | Restores default zoom level                                                                |  ``Ctrl + 0``          | |zoom-original|      |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
@@ -229,11 +229,11 @@ Help menu
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About QElectroTech                  | Displays information about QElectroTech                                               |                           | |qet-icon|        |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Online manual                       | Lauches the default browser to the online manual of QElectroTech                      | ``f1``                    | |help-contents|   |
+| Online manual                       | Launches the default browser to the online manual of QElectroTech                      | ``f1``                    | |help-contents|   |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Youtube channel                     | Lauches the default browser on the Youtube channel of QElectroTech                    |                           | |show-video|      |
+| Youtube channel                     | Launches the default browser on the Youtube channel of QElectroTech                    |                           | |show-video|      |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Support the project with a donation | Lauches the default browser on the QElectroTech donation paypal account               |                           | |help-donate|     |
+| Support the project with a donation | Launches the default browser on the QElectroTech donation paypal account               |                           | |help-donate|     |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About Qt                            | Displays information about `Qt`_ library                                              |                           | |qt-icon|         |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+

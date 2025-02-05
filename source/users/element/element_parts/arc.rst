@@ -37,7 +37,7 @@ selected.
 
 QElectroTech allows customizing different arc properties:
 
-:Appearence:
+:Appearance:
 
     :Color:
 
@@ -56,7 +56,7 @@ QElectroTech allows customizing different arc properties:
 
 :Geometry:
 
-    :Coordenates:
+    :Coordinates:
 
         The coordinates (x, y) from the ellipse center point can be defined.
 
@@ -93,7 +93,7 @@ Arc extreme points definition from workspace
     1. Select the arc drawn at the `workspace`_. The arc line changes to red color and the control of the arc ellipse point to blue.
     2. Select the arc again. The line continues in red and the points change to green color.
     3. Select the arc for third time. The line continues in red and at this time only one extreme points are, the color is pink.
-    4. Displace the pink points arround the ellipse outline.
+    4. Displace the pink points around the ellipse outline.
     5. **Select none** from **Edit** menu or use ``Ctrl + Shift + a`` keyboard shortcut.
 
 .. _workspace: ../../element/element_editor/interface/workspace.html

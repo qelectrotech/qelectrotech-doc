@@ -29,8 +29,8 @@ Working with collections can only be done from `collections panel`_.
 
 .. note::
 
-    QElectroTech works according `ISO 639-1`_ norm. The folder name languaje is defined using 2 letter 
-    code which should be used at the languaje column from the folder internal name table.
+    QElectroTech works according `ISO 639-1`_ norm. The folder name language is defined using 2 letter 
+    code which should be used at the language column from the folder internal name table.
 
 .. _ISO 639-1: https://www.iso.org/iso-639-language-codes.html
 

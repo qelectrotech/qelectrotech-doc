@@ -48,7 +48,7 @@ conductor. The parameters which can be defined are:
 Single line conductor
 ~~~~~~~~~~~~~~~~~~~~~
 
-For `single line conductors`_, the `conductors`_ are represented without any text infromation. Only 
+For `single line conductors`_, the `conductors`_ are represented without any text information. Only 
 the type of power system should be defined to have the correct symbol representation. 
 
 QElectroTech allows the following options for `single line conductors`_:

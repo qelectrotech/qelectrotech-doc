@@ -14,7 +14,7 @@ collections, the collections panel has to be displayed.
 QElectroTech allows creating element at some collection. The user has only read rights at QET element 
 collection, the user can create element at all collections except QET collection.
 
-There is two different ways to create a new eleemnt at the user collection. A new element can be 
+There is two different ways to create a new element at the user collection. A new element can be 
 created from cero or from an already existing element from the QET or user collection.
 
 Create element from cero
@@ -43,7 +43,7 @@ Create element from cero
 
    Figure: File name definition PopUp window
 
-5. Define the element name for the collection and project tree. It can be defined in many languajes.
+5. Define the element name for the collection and project tree. It can be defined in many languages.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_collection_element_new_step_3.png
    :align: center
@@ -52,8 +52,8 @@ Create element from cero
     
 .. note::
 
-    QElectroTech works according `ISO 639-1`_ norm. The element name languaje is defined using 2 letter 
-    code which should be used at the languaje column from the folder internal name table.
+    QElectroTech works according `ISO 639-1`_ norm. The element name language is defined using 2 letter 
+    code which should be used at the language column from the folder internal name table.
 
 .. _ISO 639-1: https://www.iso.org/iso-639-language-codes.html
 

@@ -57,7 +57,7 @@ Export project to PDF from toolbar
 
 .. note::
 
-   If the `toolbar`_ is not displayed, it can be displaed from **Settings > Display > Tools**
+   If the `toolbar`_ is not displayed, it can be displayed from **Settings > Display > Tools**
 
 Export project to PDF using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

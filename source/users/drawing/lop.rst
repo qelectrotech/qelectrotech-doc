@@ -8,7 +8,7 @@
 Design Local Control Panel (LOP)
 ================================
 
-QElectroTech is not only a tool for diagrams and shemas, QElectroTech allows also drawing 2D drawings. 
+QElectroTech is not only a tool for diagrams and schemas, QElectroTech allows also drawing 2D drawings. 
 Electrical boxes, buttons, switches, screens and any other type of components can be drawn at the 
 `workspace`_.
 
@@ -26,9 +26,9 @@ introducing the `elements`_ at the `workspace`_. At the category **Graphics** fr
    to `Working with element`_ section.
 
 The advantage of drawing control panels using QElectroTech and not with a different CAD tool is the 
-posibility to create links between the `elements`_. A link between the `elements`_ which represents 
+possibility to create links between the `elements`_. A link between the `elements`_ which represents 
 the electrical component at the `schema`_ and the `elements`_ which represents the component at the 
-drawing will reduce the future effort; the effort from the manufacturing, intallation and maintenace 
+drawing will reduce the future effort; the effort from the manufacturing, installation and maintenance 
 phase of the project.
 
 .. figure:: /_external/_images/en/qet_lop.png

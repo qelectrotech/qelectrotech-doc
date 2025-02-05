@@ -23,7 +23,7 @@ Edit element properties from menu bar
 
 For `simple`_, `master`_ or `terminal block`_ elements:
 
-    3. Go to **Informations** tab.
+    3. Go to **Information** tab.
 
         .. figure:: /_external/_images/en/qet_element/qet_element_editor_window_property_information.png
             :align: center

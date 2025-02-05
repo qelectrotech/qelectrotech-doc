@@ -19,7 +19,7 @@ Tooltips
 
 To support the user, tooltips are displayed when the mouse arrow is placed on an icon from the `toolbars`_. A tooltip is a short message which defines the action corresponding to the icon. 
 
-QElectroTech also allows the display from tooltips, or short descrition panels, at many different areas and objets from the main window. These panels are not diplayed automatically with the placement of the mouse arrow on the object or area. 
+QElectroTech also allows the display from tooltips, or short description panels, at many different areas and objects from the main window. These panels are not displayed automatically with the placement of the mouse arrow on the object or area. 
 
 1. Select **Help > What's this?** menu item.
 2. Press on the object or area to display the description.
@@ -36,7 +36,7 @@ To increase the working efficiency, the description panel can also be displayed 
 
 .. note::
 
-   The tool **What's this?** does not give the description from everyting, it gives only the description for the different type of collections (`title blocks`_ and `elements`_), the `workspace`_, `project`_ area and a few objects and areas more.
+   The tool **What's this?** does not give the description from everything, it gives only the description for the different type of collections (`title blocks`_ and `elements`_), the `workspace`_, `project`_ area and a few objects and areas more.
 
 About QElectroTech
 ~~~~~~~~~~~~~~~~~~

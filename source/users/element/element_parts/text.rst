@@ -57,7 +57,7 @@ QElectroTech allows customizing different text properties:
 
     :Color:
 
-        The color text can be chosen between balck and white.
+        The color text can be chosen between black and white.
 
 .. _element: ../../element/index.html
 .. _element editor: ../../element/element_editor/index.html

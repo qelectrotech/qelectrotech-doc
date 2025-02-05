@@ -16,7 +16,7 @@ QElectroTech has two different element collections integrated, `QET collection`_
    Figure: Collection panel
 
 QElectroTech displays also a third collection in the `collections panel`_ when a project is opened, the `project collection`_. This collection 
-is not part from the software structure and it is treated automatically by QElectroTech during the draw proces 
+is not part from the software structure and it is treated automatically by QElectroTech during the draw process 
 in the `workspace`_.
 
 .. _QET collection: ../../element/collection/default_collection.html

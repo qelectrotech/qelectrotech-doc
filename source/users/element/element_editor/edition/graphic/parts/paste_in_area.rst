@@ -4,9 +4,9 @@
 Paste in area
 =============
 
-Past in area is similar command to paste `part`_, the main diference is the place where the `part`_ can be pasted.
+Past in area is similar command to paste `part`_, the main difference is the place where the `part`_ can be pasted.
 At normal paste command QElectroTech pastes the `part`_ automatically at a predefined position, at paste in area 
-command the user is free to choose the place where the object has to be pasted by using left clik on the desired place.
+command the user is free to choose the place where the object has to be pasted by using left click on the desired place.
 
 Pasting `parts`_ in area can be done from `menu bar`_, by right click on the `drawing area`_ and from the corresponding 
 keyboard shortcut.

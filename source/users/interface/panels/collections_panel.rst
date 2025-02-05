@@ -8,7 +8,7 @@
 Collections panel
 =================
 
-The colections panel displays the `QET`_, `user`_ and `projects`_ element collections. 
+The collections panel displays the `QET`_, `user`_ and `projects`_ element collections. 
 
 .. figure:: /_external/_images/en/qet_panel/qet_panel_collection.png
    :align: center

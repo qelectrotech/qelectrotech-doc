@@ -7,7 +7,7 @@ General properties element
 The general properties section from an `element`_ provides the information:
 
    * `Element name`_
-   * `Element`_ position in the `project`_ (`folio`_, coordenates, rotation, etc.)
+   * `Element`_ position in the `project`_ (`folio`_, coordinates, rotation, etc.)
    * `Element size`_
    * Number of `terminals`_ that the `element`_ has
    * Directory where the element file can be found 

@@ -36,7 +36,7 @@ selected.
 
 QElectroTech allows customizing different ellipse properties:
 
-:Appearence:
+:Appearance:
 
     :Color:
 
@@ -55,7 +55,7 @@ QElectroTech allows customizing different ellipse properties:
 
 :Geometry:
 
-    :Coordenates:
+    :Coordinates:
 
         The ellipse center point coordinates (x, y) can be defined.
 

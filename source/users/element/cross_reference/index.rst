@@ -4,8 +4,8 @@
 Element cross reference
 =======================
 
-E-CAD softwares like QElectroTech allow creating projects where different type of subsystems or/and 
-disciplines are combinated. This means that one device can be represented many times. 
+E-CAD software like QElectroTech allow creating projects where different type of subsystems or/and 
+disciplines are combined. This means that one device can be represented many times. 
 
 An example of combining subsystems is an electrical control system where the command system and 
 the power system are combined. The control coil from a power contactor is represented at the control 

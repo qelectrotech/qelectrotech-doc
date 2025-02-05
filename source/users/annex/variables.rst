@@ -9,7 +9,7 @@ Default QElectroTech variables
 ==============================
 
 To systematize title block templates and allow auto numbering of elements, conductors and folios; 
-QElectroTech provides the posibility to work with variables. 
+QElectroTech provides the possibility to work with variables. 
 
 The variables are used to define the content of text field and properties from elements, folios and 
 conductors. Depending on the conditions during the creation of the object (folio, element, conductor, 

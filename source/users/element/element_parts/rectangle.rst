@@ -36,7 +36,7 @@ selected.
 
 QElectroTech allows customizing different rectangle properties:
 
-:Appearence:
+:Appearance:
 
     :Color:
 
@@ -55,7 +55,7 @@ QElectroTech allows customizing different rectangle properties:
 
 :Geometry:
 
-    :Coordenates:
+    :Coordinates:
 
         The upper left vertice coordinates (x, y) can be defined.
 
@@ -89,7 +89,7 @@ Rounding rectangle vertices from workspace
     1. Select the rectangle drawn at `workspace`_. The rectangle outlines change to red color and the vertices and middle edge point to blue.
     2. Select the rectangle again. The outlines continue in red and the points change to green color.
     3. Select the rectangle for third time. The outlines continue in red and only one vertex is displayed, the color is pink.
-    4. Displace the pink points arround the horizontal and vertical edge.
+    4. Displace the pink points around the horizontal and vertical edge.
     5. **Select none** from **Edit** menu or use ``Ctrl + Shift + a`` keyboard shortcut.
 
 

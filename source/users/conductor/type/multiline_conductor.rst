@@ -18,7 +18,7 @@ systems.
    At fluid power schemas, a multiline conductor represents each pressure, return and 
    pilote line.
 
-The main difference of multiline with respect to `single line conductors`_ is the posibility to 
+The main difference of multiline with respect to `single line conductors`_ is the possibility to 
 display text which is linked to the `conductor properties`_. 
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_multiline.png

@@ -34,7 +34,7 @@ General variables
 
 Specific variables
 
-* **Position master element**: Internal pre-defined variable which is automatically displayed under dinamic texts of the element. The default formula from the variable is ``(%id-%l%c)``, variables took from master element. 
+* **Position master element**: Internal pre-defined variable which is automatically displayed under dynamic texts of the element. The default formula from the variable is ``(%id-%l%c)``, variables took from master element. 
 
 .. seealso::
 

@@ -7,7 +7,7 @@ QElectroTech appearance
 Project visualization
 ~~~~~~~~~~~~~~~~~~~~~
 
-The defaul project visualization option can be defined at the appareance settings from QElectroTech. Select between:
+The default project visualization option can be defined at the appearance settings from QElectroTech. Select between:
 
 * Use windows
 * Use tabs

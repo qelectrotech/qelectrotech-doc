@@ -29,7 +29,7 @@ QElectroTech allows customizing colors by defining the HTML code.
 
 To define a custom color:
 
-#. Press the buttom + from the custom color section of the **Select color** PopUp window.
+#. Press the button + from the custom color section of the **Select color** PopUp window.
 #. Define the HTML code of the desired color in the text box.
 
 .. figure:: /_external/_images/en/qet_color/qet_color_custom.png

@@ -5,7 +5,7 @@
 .. _interface/customize/index:
 
 =================
-GUI costumization
+GUI customization
 =================
 
 .. toctree::

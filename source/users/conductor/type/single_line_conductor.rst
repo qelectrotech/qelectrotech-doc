@@ -18,14 +18,14 @@ are normally not represented.
    At fluid power schemas, the pressure and return line are represented by the same `conductor`_.
 
 QElectroTech does not allow defining any `conductor property`_ at single line conductor. The single line 
-conductor does not have the posibility of text linking.  
+conductor does not have the possibility of text linking.  
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_single_line.png
    :align: center
 
    Figure: QElectroTech single line conductors
 
-The most common sigle line conductors used at `single line diagrams`_ of power electric systems are:
+The most common single line conductors used at `single line diagrams`_ of power electric systems are:
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_systems.png
    :align: center

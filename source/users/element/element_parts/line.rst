@@ -36,7 +36,7 @@ selected.
 
 QElectroTech allows customizing different line properties:
 
-:Appearence:
+:Appearance:
 
     :Color:
 
@@ -55,25 +55,25 @@ QElectroTech allows customizing different line properties:
 
 :Geometry:
 
-    :Coordenates:
+    :Coordinates:
 
         The start and end point coordinates (x, y) can be defined.
 
     :End point:
 
-        The extrem point from the line can be represented individually as:
+        The extreme point from the line can be represented individually as:
 
         :Normal:
-            The extrem point is represented as the rest of the line, there is no different representation 
+            The extreme point is represented as the rest of the line, there is no different representation 
             for the end point.
         :Simple arrow:
-            The extrem point is represented as a filled arrow.
+            The extreme point is represented as a filled arrow.
         :Triangle arrow:
-            The extrem point is represented as an empty triangle arrow.
+            The extreme point is represented as an empty triangle arrow.
         :Circle:
-            The extrem point is represented as an empty circle.
+            The extreme point is represented as an empty circle.
         :Diamond:
-            The extrem point is represented as an empty diamond.
+            The extreme point is represented as an empty diamond.
 
 .. _workspace: ../../element/element_editor/interface/workspace.html
 .. _toolbar: ../../element/element_editor/interface/toolbars.html

@@ -4,7 +4,7 @@
 Layers in element editor
 ========================
 
-Overlaping of parts, graphical elements, may occur at the graphical representation of elements. QElectroTech 
+Overlapping of parts, graphical elements, may occur at the graphical representation of elements. QElectroTech 
 allows defining the representation order from part. Working with layers will be necessary, for example, 
 when a filled part as `rectangle`_ or `ellipse`_ hides a `text`_.
 

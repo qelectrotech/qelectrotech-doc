@@ -4,7 +4,7 @@
 Dynamic text
 ============
 
-The dynamic text field is an object that displays a text that is comming from a variable value. The text 
+The dynamic text field is an object that displays a text that is coming from a variable value. The text 
 value is changing with the variable is changed, editing the part is not necessary to change the text 
 content.
 
@@ -51,9 +51,9 @@ QElectroTech allows customizing different text properties:
     
     :Frame:
 
-        The posibility to display the text inside a rectangle frame is provided.
+        The possibility to display the text inside a rectangle frame is provided.
     
-    :Alignemnt:
+    :Alignment:
 
         The text position inside the frame can be defined. Left, center or right and top, middle or bottom.
 

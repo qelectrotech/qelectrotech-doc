@@ -8,7 +8,7 @@
 Conductor numbering
 ====================
 
-QElectroTech allows an automatic codification of `conductors`_. This feature is very usefull for the 
+QElectroTech allows an automatic codification of `conductors`_. This feature is very useful for the 
 creation of `reports`_, `conductor list`_, and for the identification of `conductors`_ at the physical 
 systems and `schemas`_. 
 
@@ -48,7 +48,7 @@ flexibility on the creation of auto numbering patterns using text, variables and
         * 001: Incoming plant
         * 002: Global auxiliary power
         * 003: Distribution Network
-        * 004: instalation 1
+        * 004: installation 1
         * 005: installation 2
         * ...
         * 999: ...

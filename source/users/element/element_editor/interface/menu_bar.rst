@@ -6,7 +6,7 @@ Element editor menu bar
 
 The menu bar is placed at top from element editor window. The element editor contains the 
 menus ``File``, ``Edit``, ``Display``, ``Settings``, and ``Help``. Each menu provides many 
-diferent options.  
+different options.  
 
 .. note::
 
@@ -59,9 +59,9 @@ Edit menu
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Redo                                      | Restores the undone action                                  |  ``Ctrl + y``             | |edit-redo|           |
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Select All                                | Selects all elments on the folio                            |  ``Ctrl + a``             | |edit-select-all|     |
+|  Select All                                | Selects all elements on the folio                            |  ``Ctrl + a``             | |edit-select-all|     |
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Select none                               | Deselect all elments on the folio                           |  ``Ctrl + Shift + a``     | |edit-select-none|    |
+|  Select none                               | Deselect all elements on the folio                           |  ``Ctrl + Shift + a``     | |edit-select-none|    |
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Invert selection                          | Inverts selection of elements                               |  ``Ctrl + i``             | |edit-select-invert|  |
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
@@ -107,7 +107,7 @@ Display menu
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Zoom Out                       | Shrinks the workspace                                                                      |  ``Ctrl + -``          | |zoom-out|           |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
-| Fit in view                    | Adjusts the zoom on exactly trhe part of the workspace                                     |  ``Ctrl + 9``          | |view-fit-window|    |
+| Fit in view                    | Adjusts the zoom on exactly the part of the workspace                                     |  ``Ctrl + 9``          | |view-fit-window|    |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Reset zoom                     | Restores default zoom level                                                                |  ``Ctrl + 0``          | |zoom-original|      |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
@@ -145,11 +145,11 @@ Help menu
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About QElectroTech                  | Displays information about QElectroTech                                               |                           | |qet-icon|        |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Online manual                       | Lauches the default browser to the online manual of QElectroTech                      | ``f1``                    | |help-contents|   |
+| Online manual                       | Launches the default browser to the online manual of QElectroTech                      | ``f1``                    | |help-contents|   |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Youtube channel                     | Lauches the default browser on the Youtube channel of QElectroTech                    |                           | |show-video|      |
+| Youtube channel                     | Launches the default browser on the Youtube channel of QElectroTech                    |                           | |show-video|      |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Support the project with a donation | Lauches the default browser on the QElectroTech donation paypal account               |                           | |help-donate|     |
+| Support the project with a donation | Launches the default browser on the QElectroTech donation paypal account               |                           | |help-donate|     |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About Qt                            | Displays information about `Qt`_ library                                              |                           | |qt-icon|         |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+

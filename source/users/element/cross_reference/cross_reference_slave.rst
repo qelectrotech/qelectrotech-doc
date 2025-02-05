@@ -14,5 +14,5 @@ has more than one cross reference defined.
 
 An slave element has only the properties which defines how the element should be represented, the information 
 from the element is not necessary, the master element is the element which defines the device and the element 
-which appear at the bill of materials (BOM), The information about the devce can only be found at the master 
-elemnt. 
+which appear at the bill of materials (BOM), The information about the device can only be found at the master 
+element. 

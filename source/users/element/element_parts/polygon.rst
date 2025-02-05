@@ -12,7 +12,7 @@ The polygon can only be added to `workspace`_ from `toolbar`_.
     1. Select the icon |icon_polygon| from `toolbar`_ to add a polygon.
     2. Click on the initial point from the polygon in the `workspace`_.
     3. Click on the rest of point from the polygon in the `workspace`_.
-    4. Doble click on the end position of the polygon to finish the polygon edition.
+    4. Double click on the end position of the polygon to finish the polygon edition.
 
 .. |icon_polygon| image:: /_external/_images/_site-assets/user/ico/22x22/polygon.png
 
@@ -37,7 +37,7 @@ selected.
 
 QElectroTech allows customizing different polygon properties:
 
-:Appearence:
+:Appearance:
 
     :Color:
 
@@ -62,7 +62,7 @@ QElectroTech allows customizing different polygon properties:
         group of connected lines and close polygon which is assimilated to closed geometry as the 
         rectangle.
     
-    :Coordenates:
+    :Coordinates:
 
         The polygon points coordinates (x, y) can be defined and storaged in a list.
 

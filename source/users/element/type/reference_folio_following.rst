@@ -4,7 +4,7 @@
 Reference folio following
 ==========================
 
-Element which link the end of a `conductor`_ with the begining of the `conductor`_ represented at 
+Element which link the end of a `conductor`_ with the beginning of the `conductor`_ represented at 
 previous, following or the same `folio`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_reference_folio.png

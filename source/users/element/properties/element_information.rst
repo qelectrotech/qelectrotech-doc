@@ -4,7 +4,7 @@
 Element information 
 ===================
 
-The element information section provides all information from the `element`_ which can be exported to the `Bill of Materials (BOM)`_. At this section the avaliable information is:
+The element information section provides all information from the `element`_ which can be exported to the `Bill of Materials (BOM)`_. At this section the available information is:
 
 * Element label
 * Element location in the system

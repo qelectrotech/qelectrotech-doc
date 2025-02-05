@@ -17,7 +17,7 @@ If you need help to setup Git, please take a look at the `Git Documentation <htt
 
 Before pushing code to the repo and creating a MR, please have a look at the [contribution guidelines](CONTRIBUTING.md).
 
-Prerequistes
+Prerequisites
 ------------
 
 -    Get sources and sub-modules
@@ -37,7 +37,7 @@ Linux
     sudo apt install libqt5svg5-dev qt5-qmake qtbase5-dev libkf5widgetsaddons-dev libkf5coreaddons-dev libsqlite3-dev pkgconf
 
 
-Environement Setup 
+Environment Setup 
 ------------------
 
 
