@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/cells_value
+.. _folio/title_block/title_block_editor/edition/cells_value:
 
 ===================
 Define cell content

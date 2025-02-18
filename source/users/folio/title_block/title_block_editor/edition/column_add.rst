@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/column_add
+.. _folio/title_block/title_block_editor/edition/column_add:
 
 =========================
 Add column to title block

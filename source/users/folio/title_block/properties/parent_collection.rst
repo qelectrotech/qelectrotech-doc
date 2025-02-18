@@ -1,4 +1,4 @@
-.. _folio/title_block/properties/parent_collection
+.. _folio/title_block/properties/parent_collection:
 
 =============================
 Title block parent collection

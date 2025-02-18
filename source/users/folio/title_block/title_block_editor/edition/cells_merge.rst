@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/cells_merge
+.. _folio/title_block/title_block_editor/edition/cells_merge:
 
 ===========
 Merge cells

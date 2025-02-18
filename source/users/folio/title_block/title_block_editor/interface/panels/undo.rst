@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/interface/panels/undo
+.. _folio/title_block/title_block_editor/interface/panels/undo:
 
 ==========
 Undo panel

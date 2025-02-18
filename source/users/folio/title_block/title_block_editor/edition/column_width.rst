@@ -1,8 +1,8 @@
-.. _folio/title_block/title_block_editor/edition/column_width
+.. _folio/title_block/title_block_editor/edition/column_width:
 
-======================
+=======================
 Column width definition
-======================
+=======================
 
 The width from a `column`_ can only be defined from the column head, the top cell from the `drawing area`_ 
 which gives the width value from the corresponding `column`_. The head from the `columns`_ is not 

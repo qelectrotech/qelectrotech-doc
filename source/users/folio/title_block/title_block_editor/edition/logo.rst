@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/logo
+.. _folio/title_block/title_block_editor/edition/logo:
 
 ===================================
 Introduce a logo on the title block

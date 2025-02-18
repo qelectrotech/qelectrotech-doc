@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/row_add
+.. _folio/title_block/title_block_editor/edition/row_add:
 
 ======================
 Add row to title block

@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/column_delete
+.. _folio/title_block/title_block_editor/edition/column_delete:
 
 ==============================
 Delete column from title block

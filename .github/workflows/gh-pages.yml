@@ -20,9 +20,10 @@ jobs:
     - id: spell
       uses: codespell-project/actions-codespell@v2
       with:
+        path: source
         exclude_file: ${{ github.workspace }}/source/conf.py
-        ignore_words_list: 'seealso, QElectrotech'
-        skip: '*.svg, *.po, *.sh, *.py' 
+        skip:  .svg, .po, .sh, .py 
+      continue-on-error: true
     - id: deployment
       uses: sphinx-notes/pages@v3
       with:

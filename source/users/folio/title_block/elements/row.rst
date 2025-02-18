@@ -1,4 +1,4 @@
-.. _folio/title_block/elements/row
+.. _folio/title_block/elements/row:
 
 ===
 Row

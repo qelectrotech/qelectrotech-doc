@@ -65,7 +65,7 @@ Edit menu
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Manage logos                              | Manages pictures to embed logos in the title block          |  ``Ctrl + t``             | |insert-image|        |
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Edit extra information                    | Displays field to specify additional information             |  ``Ctrl + y``             | |preferences-user|    |
+|  Edit extra information                    | Displays field to specify additional information            |  ``Ctrl + y``             | |preferences-user|    |
 +--------------------------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 
 Display menu
@@ -83,7 +83,7 @@ Display menu
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Zoom Out                       | Shrinks the workspace                                                                      |  ``Ctrl + -``          | |zoom-out|           |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
-| Fit in view                    | Adjusts the zoom on exactly the part of the workspace                                     |  ``Ctrl + 9``          | |view-fit-window|    |
+| Fit in view                    | Adjusts the zoom on exactly the part of the workspace                                      |  ``Ctrl + 9``          | |view-fit-window|    |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Reset zoom                     | Restores default zoom level                                                                |  ``Ctrl + 0``          | |zoom-original|      |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
@@ -121,11 +121,11 @@ Help menu
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About QElectroTech                  | Displays information about QElectroTech                                               |                           | |qet-icon|        |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Online manual                       | Launches the default browser to the online manual of QElectroTech                      | ``f1``                    | |help-contents|   |
+| Online manual                       | Launches the default browser to the online manual of QElectroTech                     | ``f1``                    | |help-contents|   |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Youtube channel                     | Launches the default browser on the Youtube channel of QElectroTech                    |                           | |show-video|      |
+| Youtube channel                     | Launches the default browser on the Youtube channel of QElectroTech                   |                           | |show-video|      |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Support the project with a donation | Launches the default browser on the QElectroTech donation paypal account               |                           | |help-donate|     |
+| Support the project with a donation | Launches the default browser on the QElectroTech donation paypal account              |                           | |help-donate|     |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About Qt                            | Displays information about `Qt`_ library                                              |                           | |qt-icon|         |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+

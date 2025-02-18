@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/define_extra_info
+.. _folio/title_block/title_block_editor/edition/define_extra_info:
 
 ====================================
 Define title block extra information

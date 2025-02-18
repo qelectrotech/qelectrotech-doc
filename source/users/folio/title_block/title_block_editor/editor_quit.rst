@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/editor_quit
+.. _folio/title_block/title_block_editor/editor_quit:
 
 =======================
 Quit title block editor

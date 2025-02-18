@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_delete
+.. _folio/title_block/title_block_delete:
 
 ==================
 Delete title block

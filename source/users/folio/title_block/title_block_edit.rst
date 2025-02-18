@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_edit
+.. _folio/title_block/title_block_edit:
 
 ================
 Edit title block

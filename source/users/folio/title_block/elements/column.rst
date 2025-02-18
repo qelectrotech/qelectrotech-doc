@@ -1,4 +1,4 @@
-.. _folio/title_block/elements/column
+.. _folio/title_block/elements/column:
 
 ======
 Column

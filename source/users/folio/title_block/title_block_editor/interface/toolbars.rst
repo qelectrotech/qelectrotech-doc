@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/interface/toolbars
+.. _folio/title_block/title_block_editor/interface/toolbars:
 
 ========
 Toolbars
