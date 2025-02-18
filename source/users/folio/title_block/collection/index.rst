@@ -1,4 +1,4 @@
-.. _folio/title_block/collection/index
+.. _folio/title_block/collection/index:
 
 =======================
 Title Block collections

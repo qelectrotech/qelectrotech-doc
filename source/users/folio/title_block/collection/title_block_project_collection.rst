@@ -1,4 +1,4 @@
-.. _folio/title_block/collection/title_block_project_collection
+.. _folio/title_block/collection/title_block_project_collection:
 
 ==============================
 Title block project collection
@@ -8,7 +8,7 @@ The project collection is the only `collection`_ which is not part from the soft
 project collection is a `title block collection`_ that is part of the project file, each `project`_ 
 has its own `title block collection`_. 
 
-.. figure:: ../../../images/qet_title_block_collection_project.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_collection_project.png
    :align: center
 
    Figure: QElectroTech project tree

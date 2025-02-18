@@ -7,14 +7,14 @@ Undo panel
 The Undo panel displays the history since last time that the `title block`_ was saved. Once the 
 `title block`_ is saved, undo panel is automatically cleaned.
 
-.. figure:: ../../../../../images/qet_title_block_editor_panel_undo.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_panel_undo.png
    :align: center
 
    Figure: QElectroTech Undo panel
 
 To display Undo panel:
 
-    1. Select **Settings > display > Undo** menu item to display Undo panel.
+1. Select **Settings > display > Undo** menu item to display Undo panel.
 
 .. seealso::
 

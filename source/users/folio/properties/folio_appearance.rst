@@ -1,4 +1,4 @@
-.. _folio/properties/folio_appearance
+.. _folio/properties/folio_appearance:
 
 ==========================
 Folio conductor appearance
@@ -13,7 +13,7 @@ same appearance, this action avoid defining individually the `conductor appearan
     For more information about conductor properties, refer to `conductor appearance`_ section.
 
 
-.. figure:: ../../images/qet_folio_prop_conductor_appearance.png
+.. figure:: /_external/_images/en/qet_folios//qet_folio_prop_conductor_appearance.png
    :align: center
 
    Figure: Folio appearance properties

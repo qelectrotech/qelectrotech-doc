@@ -9,9 +9,9 @@ QElectroTech `title block editor`_ allows adding `row`_ from `menu bar`_ and `dr
 Add row from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Add a row** menu item to add a new `row`_ below.
+1. Select **Edit > Add a row** menu item to add a new `row`_ below.
 
-.. figure:: ../../../../images/qet_title_block_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_menu_edit.png
    :align: center
 
    Figure: QElectroTech title block editor, edit menu
@@ -24,10 +24,10 @@ Add row from menu bar
 Add row from drawing area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the head from the `row`_ below or above the position where the new `row`_ should be placed.
-    2. Click the option **Add a row (before)** or **Add a row (after)** to add a new `row`_ above or below the selected `row`_.
+1. Right click on the head from the `row`_ below or above the position where the new `row`_ should be placed.
+2. Click the option **Add a row (before)** or **Add a row (after)** to add a new `row`_ above or below the selected `row`_.
 
-.. figure:: ../../../../images/qet_title_block_editor_row_options.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_row_options.png
    :align: center
 
    Figure: QElectroTech title block editor, drawing area

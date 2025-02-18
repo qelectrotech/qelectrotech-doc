@@ -15,11 +15,11 @@ The `QET collection`_ title blocks cannot be edited.
 Edit title block from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Project > Project properties > New folio** menu item to display `default folio properties`_ from `project`_.
-    2. Go to `title block information`_ and select the title block which should be edited.
-    3. Select the option **Edit this template** to display `title block editor`_.
+1. Select **Project > Project properties > New folio** menu item to display `default folio properties`_ from `project`_.
+2. Go to `title block information`_ and select the title block which should be edited.
+3. Select the option **Edit this template** to display `title block editor`_.
 
-        .. figure:: ../../images/qet_project_prop_new_folio_title_block_options.png
+.. figure:: /_external/_images/en/qet_project/qet_project_prop_new_folio_title_block_options.png
             :align: center
 
             Figure: QElectroTech new folio properties PopUP window
@@ -27,11 +27,11 @@ Edit title block from menu bar
 Edit title block from folio properties
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Display folio properties`_ from one of the `folios`_ of the `project`_.
-    2. Go to `title block information`_ and select the title block which should be edited.
-    3. Select the option **Edit this template** to display `title block editor`_.
+1. `Display folio properties`_ from one of the `folios`_ of the `project`_.
+2. Go to `title block information`_ and select the title block which should be edited.
+3. Select the option **Edit this template** to display `title block editor`_.
 
-        .. figure:: ../../images/qet_folio_prop_title_block_options.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_prop_title_block_options.png
             :align: center
 
             Figure: QElectroTech folio properties PopUP window
@@ -39,10 +39,10 @@ Edit title block from folio properties
 Edit title block from project panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on one title block template which should be edited. 
-    2. Click the option **Edit this template** to open the template with `title block editor`_.
+1. Right click on one title block template which should be edited. 
+2. Click the option **Edit this template** to open the template with `title block editor`_.
 
-        .. figure:: ../../images/qet_title_block_panel_project_user_options.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_panel_project_user_options.png
             :align: center
 
             Figure: QElectroTech Project panel 

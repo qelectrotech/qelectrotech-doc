@@ -1,4 +1,4 @@
-.. _en/folio/title_block/title_block_editor/interface/menu_bar
+.. _en/folio/title_block/title_block_editor/interface/menu_bar:
 
 ===========================
 Title block editor menu bar
@@ -11,7 +11,7 @@ different options.
 File menu
 ~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_title_block_editor_menu_file.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_menu_file.png
    :align: center
 
    Figure: QElectroTech file menu 
@@ -37,7 +37,7 @@ File menu
 Edit menu
 ~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_title_block_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_menu_edit.png
    :align: center
 
    Figure: QElectroTech edit menu 
@@ -71,7 +71,7 @@ Edit menu
 Display menu
 ~~~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_title_block_editor_menu_display.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_menu_display.png
    :align: center
 
    Figure: QElectroTech display menu 
@@ -91,7 +91,7 @@ Display menu
 Settings menu
 ~~~~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_menu_settings.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_settings.png
    :align: center
 
    Figure: QElectroTech settings menu 
@@ -109,7 +109,7 @@ Settings menu
 Help menu
 ~~~~~~~~~
 
-.. figure:: ../../../../images/qet_menu_help.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_help.png
    :align: center
 
    Figure: QElectroTech help menu 
@@ -132,31 +132,31 @@ Help menu
 
 .. _Qt: https://www.qt.io/
 
-.. |document-new| image:: ../../../../images/ico/22x22/document-new.png
-.. |document-open| image:: ../../../../images/ico/22x22/document-open.png
-.. |document-save| image:: ../../../../images/ico/22x22/document-save.png
-.. |document-save-as| image:: ../../../../images/ico/22x22/document-save-as.png
-.. |application-exit| image:: ../../../../images/ico/22x22/application-exit.png
-.. |edit-undo| image:: ../../../../images/ico/22x22/edit-undo.png
-.. |edit-redo| image:: ../../../../images/ico/22x22/edit-redo.png
-.. |edit-cut| image:: ../../../../images/ico/22x22/edit-cut.png
-.. |edit-copy| image:: ../../../../images/ico/22x22/edit-copy.png
-.. |edit-paste| image:: ../../../../images/ico/22x22/edit-paste.png
-.. |insert-row| image:: ../../../../images/ico/22x22/edit-table-insert-row-above.png
-.. |insert-column| image:: ../../../../images/ico/22x22/edit-table-insert-column-right.png
-.. |cell-merge| image:: ../../../../images/ico/22x22/edit-table-cell-merge.png
-.. |cell-split| image:: ../../../../images/ico/22x22/edit-table-cell-split.png
-.. |insert-image| image:: ../../../../images/ico/22x22/insert-image.png
-.. |preferences-user| image:: ../../../../images/ico/22x22/preferences-desktop-user.png
-.. |zoom-in| image:: ../../../../images/ico/16x16/zoom-in.png
-.. |zoom-out| image:: ../../../../images/ico/16x16/zoom-out.png
-.. |view-fit-window| image:: ../../../../images/ico/22x22/view-fit-window.png
-.. |zoom-original| image:: ../../../../images/ico/22x22/zoom-original.png
-.. |configure-toolbars| image:: ../../../../images/ico/16x16/configure-toolbars.png
-.. |view-fullscreen| image:: ../../../../images/ico/16x16/view-fullscreen.png
-.. |configure| image:: ../../../../images/ico/16x16/configure.png
-.. |qet-icon| image:: ../../../../images/ico/16x16/qet.png
-.. |help-contents| image:: ../../../../images/ico/16x16/help-contents.png
-.. |show-video| image:: ../../../../images/ico/16x16/kdenlive-show-video.png
-.. |help-donate| image:: ../../../../images/ico/16x16/help-donate.png
-.. |qt-icon| image:: ../../../../images/ico/16x16/qt.png
+.. |document-new| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-new.png
+.. |document-open| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-open.png
+.. |document-save| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save.png
+.. |document-save-as| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save-as.png
+.. |application-exit| image:: /_external/_images/_site-assets/user/ico/22x22/application/application-exit.png
+.. |edit-undo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-undo.png
+.. |edit-redo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-redo.png
+.. |edit-cut| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-cut.png
+.. |edit-copy| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-copy.png
+.. |edit-paste| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-paste.png
+.. |insert-row| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-insert-row-above.png
+.. |insert-column| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-insert-column-right.png
+.. |cell-merge| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-cell-merge.png
+.. |cell-split| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-cell-split.png
+.. |insert-image| image:: /_external/_images/_site-assets/user/ico/22x22/insert-image.png
+.. |preferences-user| image:: /_external/_images/_site-assets/user/ico/22x22/preferences-desktop-user.png
+.. |zoom-in| image:: /_external/_images/_site-assets/user/ico/16x16/zoom/zoom-in.png
+.. |zoom-out| image:: /_external/_images/_site-assets/user/ico/16x16/zoom/zoom-out.png
+.. |view-fit-window| image:: /_external/_images/_site-assets/user/ico/22x22/view/view-fit-window.png
+.. |zoom-original| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-original.png
+.. |configure-toolbars| image:: /_external/_images/_site-assets/user/ico/16x16/configure/configure-toolbars.png
+.. |view-fullscreen| image:: /_external/_images/_site-assets/user/ico/16x16/view/view-fullscreen.png
+.. |configure| image:: /_external/_images/_site-assets/user/ico/16x16/configure/configure.png
+.. |qet-icon| image:: /_external/_images/_site-assets/user/ico/16x16/qet.png
+.. |help-contents| image:: /_external/_images/_site-assets/user/ico/16x16/help/help-contents.png
+.. |show-video| image:: /_external/_images/_site-assets/user/ico/16x16/kdenlive-show-video.png
+.. |help-donate| image:: /_external/_images/_site-assets/user/ico/16x16/help/help-donate.png
+.. |qt-icon| image:: /_external/_images/_site-assets/user/ico/16x16/qt.png

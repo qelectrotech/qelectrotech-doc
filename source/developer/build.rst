@@ -18,7 +18,7 @@ If you need help to setup Git, please take a look at the `Git Documentation <htt
 Before pushing code to the repo and creating a MR, please have a look at the [contribution guidelines](CONTRIBUTING.md).
 
 Prerequisites
-------------
+-------------
 
 -    Get sources and sub-modules
 

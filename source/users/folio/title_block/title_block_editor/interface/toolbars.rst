@@ -18,7 +18,7 @@ can also be placed on column at the left or right side from the main window.
 Toolbar Tools
 ~~~~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_title_block_editor_toolbar_tools.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_toolbar_tools.png
    :align: center
 
    Figure: QElectroTech title block toolbar Tools 
@@ -44,7 +44,7 @@ The different buttons from toolbar **Tools** are:
 Toolbar Edit
 ~~~~~~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_title_block_editor_toolbar_edit.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_toolbar_edit.png
    :align: center
 
    Figure: QElectroTech title block toolbar Element
@@ -70,7 +70,7 @@ The different buttons from toolbar **Edit** are:
 Toolbar Display
 ~~~~~~~~~~~~~~~
 
-.. figure:: ../../../../images/qet_title_block_editor_toolbar_display.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_toolbar_display.png
    :align: center
 
    Figure: QElectroTech title block toolbar Display
@@ -96,15 +96,15 @@ The different buttons from toolbar **Display** are:
 
 .. _menu bar: ../../../../folio/title_block/title_block_editor/interface/menu_bar.html
 
-.. |document-new| image:: ../../../../images/ico/22x22/document-new.png
-.. |document-open| image:: ../../../../images/ico/22x22/document-open.png
-.. |document-save| image:: ../../../../images/ico/22x22/document-save.png
-.. |document-save-as| image:: ../../../../images/ico/22x22/document-save-as.png
-.. |edit-undo| image:: ../../../../images/ico/22x22/edit-undo.png
-.. |edit-redo| image:: ../../../../images/ico/22x22/edit-redo.png
-.. |cell-merge| image:: ../../../../images/ico/22x22/edit-table-cell-merge.png
-.. |cell-split| image:: ../../../../images/ico/22x22/edit-table-cell-split.png
-.. |zoom-in| image:: ../../../../images/ico/22x22/zoom-in.png
-.. |zoom-out| image:: ../../../../images/ico/22x22/zoom-out.png
-.. |view-fit-window| image:: ../../../../images/ico/22x22/view-fit-window.png
-.. |zoom-original| image:: ../../../../images/ico/22x22/zoom-original.png
+.. |document-new| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-new.png
+.. |document-open| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-open.png
+.. |document-save| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save.png
+.. |document-save-as| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save-as.png
+.. |edit-undo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-undo.png
+.. |edit-redo| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-redo.png
+.. |cell-merge| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-cell-merge.png
+.. |cell-split| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-cell-split.png
+.. |zoom-in| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-in.png
+.. |zoom-out| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-out.png
+.. |view-fit-window| image:: /_external/_images/_site-assets/user/ico/22x22/view/view-fit-window.png
+.. |zoom-original| image:: /_external/_images/_site-assets/user/ico/22x22/zoom/zoom-original.png

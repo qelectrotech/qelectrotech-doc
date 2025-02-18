@@ -1,4 +1,4 @@
-.. _folio/title_block/elements/cell
+.. _folio/title_block/elements/cell:
 
 ====
 Cell
@@ -16,7 +16,7 @@ Empty cell
 An empty cell is used when the area occupied by the cell should be empty and without any edge displayed. 
 This type of cell has no properties. 
 
-.. figure:: ../../../images/qet_title_block_cell_empty_prop.png
+.. figure:: /_external/_images/en/qet_title//qet_title_block_cell_empty_prop.png
    :align: center
 
    Figure: QElectroTech title block empty cell properties
@@ -28,7 +28,7 @@ Text cell
 An text cell is used when the area occupied by the cell should be filled by string information inside 
 a rectangle. This type of cell has different parameters that can be defined.
 
-.. figure:: ../../../images/qet_title_block_cell_text_prop.png
+.. figure:: /_external/_images/en/qet_title//qet_title_block_cell_text_prop.png
    :align: center
 
    Figure: QElectroTech title block text cell properties
@@ -59,7 +59,7 @@ Logo cell
 A logo cell is used when the area occupied by the cell should be filled by a picture inside a rectangle. 
 This type of cell has different parameters that can be defined.
 
-.. figure:: ../../../images/qet_title_block_cell_logo_prop.png
+.. figure:: /_external/_images/en/qet_title//qet_title_block_cell_logo_prop.png
    :align: center
 
    Figure: QElectroTech title block logo cell properties

@@ -1,4 +1,4 @@
-.. _folio/properties/folio_size
+.. _folio/properties/folio_size:
 
 ==========
 Folio size
@@ -7,7 +7,7 @@ Folio size
 The working area from the `workspace`_ is defined as a grid of columns and rows. All columns 
 have the same width and all rows have the same height.
 
-.. figure:: ../../images/qet_workspace.png
+.. figure:: /_external/_images/en/qet_workspace/qet_workspace.png
    :align: center
 
 
@@ -16,14 +16,14 @@ have the same width and all rows have the same height.
 The parameters that can be customized from **Dimensions of folio** section from
 the `folio properties PopUp window`_ are:
 
-    1. Number of columns.
-    2. Width from columns.
-    3. Column headers display or hidden.
-    4. Number of rows.
-    5. Height from rows.
-    6. Row headers display or hidden.
+1. Number of columns.
+2. Width from columns.
+3. Column headers display or hidden.
+4. Number of rows.
+5. Height from rows.
+6. Row headers display or hidden.
 
-.. figure:: ../../images/qet_folio_dimensions_pop.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_dimensions_pop.png
    :align: center
 
    Figure: QElectroTech dimensions of folios section

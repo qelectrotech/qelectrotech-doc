@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/cells_split
+.. _folio/title_block/title_block_editor/edition/cells_split:
 
 ===========
 Split cells
@@ -10,10 +10,10 @@ QElectroTech `title block editor`_ allows splitting `cells`_ previously `merged`
 Split cells from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the merged `cells`_ which should be split.
-    2. Select **Edit > Split cells** menu item to split the selected `cells`_.
+1. Select the merged `cells`_ which should be split.
+2. Select **Edit > Split cells** menu item to split the selected `cells`_.
 
-        .. figure:: ../../../../images/qet_title_block_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_title//qet_title_block_editor_menu_edit.png
             :align: center
 
             Figure: QElectroTech title block editor, edit menu
@@ -21,22 +21,22 @@ Split cells from menu bar
 Split cells from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the merged `cells`_ which should be split.
-    2. Select the icon |icon_split| from the `toolbar`_ to split the selected `cells`_.
+1. Select the merged `cells`_ which should be split.
+2. Select the icon |icon_split| from the `toolbar`_ to split the selected `cells`_.
 
 .. note::
 
    If the `toolbar`_ is not displayed, it can be displayed from **Settings > Display > Edit**
 
-.. |icon_split| image:: ../../../../images/ico/22x22/edit-table-cell-split.png
+.. |icon_split| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-cell-split.png
 
 Split cells using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the merged `cells`_ which should be split.
-    2. Press ``Ctrl + k`` to split the selected `cells`_.
+1. Select the merged `cells`_ which should be split.
+2. Press ``Ctrl + k`` to split the selected `cells`_.
 
 .. seealso::
 

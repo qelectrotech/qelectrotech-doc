@@ -9,7 +9,7 @@ Definition
 
 A row of `cells`_ from the `title block`_ is a group of `cells`_ that are placed one beside the other.
 
-.. figure:: ../../../images/qet_title_block_row.png
+.. figure:: /_external/_images/en/qet_title//qet_title_block_row.png
    :align: center
 
    Figure: QElectroTech title block row
@@ -22,12 +22,12 @@ the row.
 
 To display the row height:
 
-    1. Double click on the row head.
+1. Double click on the row head.
 
-        .. figure:: ../../../images/qet_title_block_row_prop.png
-            :align: center
+.. figure:: /_external/_images/en/qet_title//qet_title_block_row_prop.png
+    :align: center
 
-            Figure: QElectroTech title block row height property
+Figure: QElectroTech title block row height property
 
 .. note::
 

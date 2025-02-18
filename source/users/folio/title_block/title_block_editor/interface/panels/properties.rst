@@ -6,13 +6,13 @@ Cell properties panel
 
 The Cell properties panel displays the properties from the selected `cell`_.
 
-.. figure:: ../../../../../images/qet_title_block_editor_cell_prop_text.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_cell_prop_text.png
    :align: center
 
    Figure: QElectroTech Cell properties panel
 
 To display the Cell properties panel:
 
-    1. Select **Settings > display > Cell properties** menu item to display Cell properties panel.
+1. Select **Settings > display > Cell properties** menu item to display Cell properties panel.
 
 .. _cell: ../../../../../folio/title_block/elements/cell.html

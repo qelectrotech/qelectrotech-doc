@@ -7,7 +7,7 @@ Quit title block editor
 The `title block editor`_ can be closed at any time, only the changes have to be `saved`_ before closing it. 
 QElectroTech displays an automatic message to save the current job if any modification has been created. 
 
-.. figure:: ../../../images/qet_title_block_editor_save_message.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_save_message.png
    :align: center
 
    Figure: QElectroTech title block editor save message
@@ -16,9 +16,9 @@ QElectroTech displays an automatic message to save the current job if any modifi
 Exit QElectroTech title block editor from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **File > Quit** menu item to quit QElectroTech `title block editor`_.
+1. Select **File > Quit** menu item to quit QElectroTech `title block editor`_.
 
-.. figure:: ../../../images/qet_title_block_editor_menu_file.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_menu_file.png
    :align: center
 
    Figure: QElectroTech title block editor File menu
@@ -28,7 +28,7 @@ Exit QElectroTech title block editor using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + q`` to quit QElectroTech `title block editor`_.
+1. Press ``Ctrl + q`` to quit QElectroTech `title block editor`_.
 
 .. seealso::
 

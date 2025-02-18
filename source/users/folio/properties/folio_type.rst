@@ -1,4 +1,4 @@
-.. _folio/properties/folio_type
+.. _folio/properties/folio_type:
 
 ====================
 Folio conductor type
@@ -13,7 +13,7 @@ in the folio.
 
     For more information about conductor properties, refer to `conductor type`_ section.
 
-.. figure:: ../../images/qet_folio_prop_conductor_type.png
+.. figure:: /_external/_images/en/qet_folios//qet_folio_prop_conductor_type.png
    :align: center
 
    Figure: QElectroTech folio type properties tab

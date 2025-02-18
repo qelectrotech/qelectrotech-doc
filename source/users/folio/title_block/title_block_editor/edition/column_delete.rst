@@ -6,10 +6,10 @@ Delete column from title block
 
 QElectroTech `title block editor`_ only allows deleting `columns`_ from `drawing area`_.
 
-    1. Right click on the head from the `column`_ which should be deleted
-    2. Click the option **Delete this column** to delete the selected `column`_.
+1. Right click on the head from the `column`_ which should be deleted
+2. Click the option **Delete this column** to delete the selected `column`_.
 
-.. figure:: ../../../../images/qet_title_block_editor_column_options.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_column_options.png
    :align: center
 
    Figure: QElectroTech title block editor, drawing area 

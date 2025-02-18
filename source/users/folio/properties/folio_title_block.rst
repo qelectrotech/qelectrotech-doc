@@ -1,4 +1,4 @@
-.. _folio/properties/folio_title_block
+.. _folio/properties/folio_title_block:
 
 ===============================
 Title block properties section
@@ -23,12 +23,12 @@ Title block selection area
 The title block selection area is used to defne the `folio title block`_. The actions that can be 
 managed from this section are:
 
-    1. Select the `folio title block`_ from the `project title block collection`_.
-    2. Select the position of the title block in the folio, bottom |titleblock-bottom| or right |titleblock-right| side.
-    3. Edit the `title block`_ pressing the button |edit-rename| and choosing the option **Edit this template**.
-    4. Duplicate the `title block`_ in the `project title block collection`_ pressing the button |edit-rename| and choosing the option **Duplicate and edit this template**. 
+1. Select the `folio title block`_ from the `project title block collection`_.
+2. Select the position of the title block in the folio, bottom |titleblock-bottom| or right |titleblock-right| side.
+3. Edit the `title block`_ pressing the button |edit-rename| and choosing the option **Edit this template**.
+4. Duplicate the `title block`_ in the `project title block collection`_ pressing the button |edit-rename| and choosing the option **Duplicate and edit this template**. 
 
-.. figure:: ../../images/qet_folio_prop_title_block_selection_area.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_prop_title_block_selection_area.png
    :align: center
 
    Figure: Folio title block selection area
@@ -37,50 +37,50 @@ managed from this section are:
   
     For more information about QEelctroTech title block, refer to `title block`_ section.
 
-.. |titleblock-bottom| image:: ../../images/ico/22x22/titleblock-bottom.png
-.. |titleblock-right| image:: ../../images/ico/22x22/titleblock-right.png
-.. |edit-rename| image:: ../../images/ico/22x22/edit-rename.png
+.. |titleblock-bottom| image:: /_external/_images/_site-assets/user/ico/22x22/titleblock/titleblock-bottom.png
+.. |titleblock-right| image:: /_external/_images/_site-assets/user/ico/22x22/titleblock/titleblock-right.png
+.. |edit-rename| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-rename.png
 
 Main folio properties tab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The **Main** tab provides thes default folio variables.
 
-.. figure:: ../../images/qet_folio_prop_title_block_main.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_prop_title_block_main.png
    :align: center
 
    Figure: Folio title block main tab
 
 The default folio variables are:
 
-    * **Title**: Title from the folio.
-    * **Author**: Author from the folio.
-    * **Date**: Date of creation of the folio.
-    * **File**: 
-    * **Folio**: Folio information (Label).
-    * **Plant**: Folio variable named Plant.
-    * **Location**: Folio variable named Location.
-    * **Rev index**: Revision index from the folio.
-    * **Page Num**: Auto numbering pattern from the folio.
+* **Title**: Title from the folio.
+* **Author**: Author from the folio.
+* **Date**: Date of creation of the folio.
+* **File**: 
+* **Folio**: Folio information (Label).
+* **Plant**: Folio variable named Plant.
+* **Location**: Folio variable named Location.
+* **Rev index**: Revision index from the folio.
+* **Page Num**: Auto numbering pattern from the folio.
 
 .. seealso::
   
     For more information about default variables, refer to `variables`_ section.
 
-Costum properties folio tab
+Custom properties folio tab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The **Costum** tab is the section where custom variables can be defined.
+The **Custom** tab is the section where custom variables can be defined.
 
-.. figure:: ../../images/qet_folio_prop_title_block_custom.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_prop_title_block_custom.png
    :align: center
 
    Figure: Folio title block custom tab
 
 To define a user folio variable:
 
-    1. Define variable name at the **Name** column from the variables table.
-    2. Define variable value at the **Value** column from the variables table.
+1. Define variable name at the **Name** column from the variables table.
+2. Define variable value at the **Value** column from the variables table.
 
 .. _workspace: ../../interface/workspace.html
 .. _title block: ../../folio/title_block/index.html

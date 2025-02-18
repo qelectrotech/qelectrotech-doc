@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/row_delete
+.. _folio/title_block/title_block_editor/edition/row_delete:
 
 ===========================
 Delete row from title block
@@ -7,10 +7,10 @@ Delete row from title block
 QElectroTech `title block editor`_ only allows deleting `rows`_ of the `title block`_ from 
 `drawing area`_.
 
-    1. Right click on the head from the `row`_ which should be deleted.
-    2. Click the option **Delete this row** to delete the selected `row`_.
+1. Right click on the head from the `row`_ which should be deleted.
+2. Click the option **Delete this row** to delete the selected `row`_.
 
-.. figure:: ../../../../images/qet_title_block_editor_row_options.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_row_options.png
    :align: center
 
    Figure: QElectroTech title block editor, drawing area

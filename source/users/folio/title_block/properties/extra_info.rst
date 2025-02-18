@@ -1,4 +1,4 @@
-.. _folio/title_block/properties/extra_info
+.. _folio/title_block/properties/extra_info:
 
 =============================
 Title block extra information
@@ -8,20 +8,20 @@ QElectroTech provides the option to define a string field property named **Extra
 This property field is provided to allow the user defining the author and/or license from 
 `title block`_. Any other information can also be defined in this property field.
 
-.. figure:: ../../../images/qet_title_block_extra_info.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_extra_info.png
    :align: center
 
    Figure: QElectroTech title block extra information PopUP window
 
 To display/edit the extra information from the `title block`_:
 
-    1. `Display title block`_ in the `title block editor`_.
-    2. Go to **Edit > Edite extra information** menu item to display extra information PopUP window.
+1. `Display title block`_ in the `title block editor`_.
+2. Go to **Edit > Edite extra information** menu item to display extra information PopUP window.
 
-        .. figure:: ../../../images/qet_title_blok_editor_menu_edit.png
-            :align: center
+.. figure:: /_external/_images/en/qet_title/qet_title_blok_editor_menu_edit.png
+    :align: center
 
-            Figure: QElectroTech title block edit menu
+    Figure: QElectroTech title block edit menu
 
 .. seealso::
 

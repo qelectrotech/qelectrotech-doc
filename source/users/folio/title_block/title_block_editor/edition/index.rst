@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/edition/index
+.. _folio/title_block/title_block_editor/edition/index:
 
 ==========================
 Create or edit title block

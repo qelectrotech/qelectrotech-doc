@@ -15,7 +15,7 @@ JPG, DXF, etc.), each `folio`_ is one file.
 Inside a `project`_, the `folios`_ should have an order. For an easy understanding of the `schema`_, it is 
 important that the user takes care about the position and information that is included at each `folio`_.
 
-.. figure:: ../images/qet_folios.png
+.. figure:: /_external/_images/en/qet_folios/qet_folios.png
    :align: center
 
    Figure: QElectroTech folios

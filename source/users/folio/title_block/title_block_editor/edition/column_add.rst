@@ -10,9 +10,9 @@ QElectroTech `title block editor`_ allows adding `columns`_ from `menu bar`_ and
 Add column from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Add a column** menu item to add a new `column`_ at the right side from the `title block`_.
+1. Select **Edit > Add a column** menu item to add a new `column`_ at the right side from the `title block`_.
 
-.. figure:: ../../../../images/qet_title_block_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_menu_edit.png
    :align: center
 
    Figure: QElectroTech title block editor, edit menu
@@ -25,10 +25,10 @@ Add column from menu bar
 Add column from drawing area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the head from the `column`_ next to the position where the new `column`_ should be placed.
-    2. Click the option **Add a column (before)** or **Add a column (after)** to add a new column before or after the selected `column`_.
+1. Right click on the head from the `column`_ next to the position where the new `column`_ should be placed.
+2. Click the option **Add a column (before)** or **Add a column (after)** to add a new column before or after the selected `column`_.
 
-.. figure:: ../../../../images/qet_title_block_editor_column_options.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_column_options.png
    :align: center
 
    Figure: QElectroTech title block editor, drawing area

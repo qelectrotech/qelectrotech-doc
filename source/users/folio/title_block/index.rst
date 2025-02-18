@@ -1,4 +1,4 @@
-.. _folio/title_block/index
+.. _folio/title_block/index:
 
 ===========
 Title Block

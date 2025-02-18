@@ -9,7 +9,7 @@ The drawing area or graphical editor, is the area where the title block `columns
 
 How looks the drawing area from `title block editor`_ is shown below. 
 
-.. figure:: ../../../../images/qet_title_block_editor_workspace.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_workspace.png
    :align: center
 
    Figure: QElectroTech title block graphical editor

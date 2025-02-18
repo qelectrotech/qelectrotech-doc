@@ -13,10 +13,10 @@ same `column`_ and/or `row`_.
 Merge cells from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `cells`_ which should be merged.
-    2. Select **Edit > Merge cells** menu item to merge the selected `cells`_.
+1. Select the `cells`_ which should be merged.
+2. Select **Edit > Merge cells** menu item to merge the selected `cells`_.
 
-        .. figure:: ../../../../images/qet_title_block_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_title/qet_title_blok_editor_menu_edit.png
             :align: center
 
             Figure: QElectroTech title block editor, edit menu
@@ -28,22 +28,22 @@ Merge cells from menu bar
 Merge cells from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `cells`_ which should be merged.
-    2. Select the icon |icon_merge| from `toolbar`_ to merge the selected `cells`_.
+1. Select the `cells`_ which should be merged.
+2. Select the icon |icon_merge| from `toolbar`_ to merge the selected `cells`_.
 
 .. note::
 
    If the `toolbar`_ is not displayed, it can be displayed from **Settings > Display > Edit**
 
-.. |icon_merge| image:: ../../../../images/ico/22x22/edit-table-cell-merge.png
+.. |icon_merge| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-table-cell-merge.png
 
 Merge cells using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the `cells`_ which should be merged.
-    2. Press ``Ctrl + j`` to merge the selected `cells`_.
+1. Select the `cells`_ which should be merged.
+2. Press ``Ctrl + j`` to merge the selected `cells`_.
 
 .. seealso::
 

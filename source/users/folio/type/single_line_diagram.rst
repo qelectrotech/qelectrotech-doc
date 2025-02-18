@@ -15,7 +15,7 @@ The single line diagrams represent electric, fluid, etc. systems using a simplif
    At fluid power schemas, the pressure and return line are represented by the same `conductor`_.
 
 
-.. figure:: ../../images/qet_conductor_single_line.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_single_line.png
    :align: center
 
    Figure: Single line diagram

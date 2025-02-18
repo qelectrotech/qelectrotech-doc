@@ -1,4 +1,4 @@
-.. _folio/title_block/title_block_editor/interface/index
+.. _folio/title_block/title_block_editor/interface/index:
 
 ============================
 Interface title block editor

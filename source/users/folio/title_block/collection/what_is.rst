@@ -1,4 +1,4 @@
-.. _folio/title_block/collection/what_is
+.. _folio/title_block/collection/what_is:
 
 =====================
 What is a collection?
@@ -10,7 +10,7 @@ classified.
 QElectroTech has two different title block collections integrated, `QET collection`_ and 
 `User collection`_. The title block collections can be found at `projects panel`_.
 
-.. figure:: ../../../images/qet_panel_projects.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_projects.png
    :align: center
 
    Figure: QElectroTech projects panel

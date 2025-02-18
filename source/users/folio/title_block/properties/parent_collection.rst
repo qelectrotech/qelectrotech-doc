@@ -14,7 +14,7 @@ and writed (`edited`_) by the user.
 
 The parent collection from a `title block`_ can be defined during the `save process`_.
 
-.. figure:: ../../../images/qet_title_block_save_as_popup_window.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_save_as_popup_window.png
    :align: center
 
    Figure: QElectroTech title block save PopUP window

@@ -8,7 +8,7 @@ Creating new title block from cero is not allowed, one template can only be crea
 from an other. If no template is selected, the default title block from `QET collection`_ is the base to 
 create a new title block.
 
-.. figure:: ../../images/qet_title_block_default.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_default.png
             :align: center
 
             Figure: QElectroTech default title block
@@ -16,18 +16,18 @@ create a new title block.
 Create title block from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Project > Project properties > New folio** menu item to display `default folio properties`_ from `project`_.
-    2. Go to `title block information`_ and select the base title block that should be used to create the new one.
-    3. Select the option **Duplicate and edit this template**.
+1. Select **Project > Project properties > New folio** menu item to display `default folio properties`_ from `project`_.
+2. Go to `title block information`_ and select the base title block that should be used to create the new one.
+3. Select the option **Duplicate and edit this template**.
 
-        .. figure:: ../../images/qet_project_prop_new_folio_title_block_options.png
+.. figure:: /_external/_images/en/qet_project/qet_project_prop_new_folio_title_block_options.png
             :align: center
 
             Figure: QElectroTech New folio properties PopUP window
     
-    4. Choose the name for the new title block template and press **OK** to create it.
+4. Choose the name for the new title block template and press **OK** to create it.
 
-        .. figure:: ../../images/qet_title_block_duplicate_new_name.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_duplicate_new_name.png
             :align: center
 
             Figure: QElectroTech New folio save PopUP window
@@ -35,19 +35,19 @@ Create title block from menu bar
 Create title block from folio properties
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Display folio properties`_ from one of the `folios`_ of the `project`_.
-    2. Go to `title block information`_ and select the base title block that should be used to create the new one.
-    3. Select the option **Duplicate and edit this template**.
+1. `Display folio properties`_ from one of the `folios`_ of the `project`_.
+2. Go to `title block information`_ and select the base title block that should be used to create the new one.
+3. Select the option **Duplicate and edit this template**.
 
-        .. figure:: ../../images/qet_folio_prop_title_block_options.png
+.. figure:: /_external/_images/en/qet_folios/qet_folio_prop_title_block_options.png
             :align: center
 
             Figure: QElectroTech New folio properties PopUP window
     
-    4. Edit the template and save it.
-    5. Choose the parent collection and the name from the new title block template, then press **OK** to create it.
+4. Edit the template and save it.
+5. Choose the parent collection and the name from the new title block template, then press **OK** to create it.
 
-        .. figure:: ../../images/qet_title_block_save_as_popup_window.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_save_as_popup_window.png
             :align: center
 
             Figure: QElectroTech New folio save PopUP window
@@ -55,10 +55,10 @@ Create title block from folio properties
 Create title block from project panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `user title blocks collection`_ from `project panel`_.
-    2. Click the option **New template** to add a new title block with the default template from `QET collection`_ as base.
+1. Right click on the `user title blocks collection`_ from `project panel`_.
+2. Click the option **New template** to add a new title block with the default template from `QET collection`_ as base.
 
-        .. figure:: ../../images/qet_title_block_user_collection_options.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_user_collection_options.png
             :align: center
 
             Figure: QElectroTech Project panel 

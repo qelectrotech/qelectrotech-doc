@@ -22,19 +22,19 @@ the cell content is defined in a cell value table. The content from the differen
 Add text to cell
 ~~~~~~~~~~~~~~~~
 
-    1. Select the `cell`_ where the text should be introduced.
-    2. Press **Edit** button from text field and the cell value PopUP window will be displayed.
-    3. Press the button **Add a line** to add a new row in the cell value table.
-    4. Define the 2 letter code that identifies the language from the text at **Language** column.
-    5. Define the text at **Text** column.
-    6. Press **OK**
+1. Select the `cell`_ where the text should be introduced.
+2. Press **Edit** button from text field and the cell value PopUP window will be displayed.
+3. Press the button **Add a line** to add a new row in the cell value table.
+4. Define the 2 letter code that identifies the language from the text at **Language** column.
+5. Define the text at **Text** column.
+6. Press **OK**
 
 .. note:: 
 
     QElectroTech works according `ISO 639-1`_ norm. The text language is defined using 2 letter code which 
     should be used at the language column from the cell value table.
         
-    .. figure:: ../../../../images/qet_title_block_editor_cell_label.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_cell_label.png
         :align: center
 
         Figure: QElectroTech title block editor, cell label PopUP window
@@ -52,46 +52,46 @@ called using the percent symbol before the variable name (``%{variable-name}``).
    
     QElectroTech also allows the user defining extra variables:
 
-        * Go to **Project > Project properties > General** to define customized project variables.
-        * Go to **Edit > Folio properties > Title block information > Costum**  to define customized folio variables. 
+    * Go to **Project > Project properties > General** to define customized project variables.
+    * Go to **Edit > Folio properties > Title block information > Costum**  to define customized folio variables. 
 
 QElectroTech allows that the cell has a **Label** for the variable.
 
 To define the label:
    
-    1. Select the `cell`_ where the variable should be introduced.
-    2. Click the button **Display a label** to introduce a label in the cell. Click on the button and go to variable definition if the **Label** should not be displayed.
+1. Select the `cell`_ where the variable should be introduced.
+2. Click the button **Display a label** to introduce a label in the cell. Click on the button and go to variable definition if the **Label** should not be displayed.
 
-        .. figure:: ../../../../images/qet_title_block_editor_cell_prop_text.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_cell_prop_text.png
             :align: center
 
             Figure: QElectroTech Title block text cell properties
 
-    3. Press **Edit** button from label field and the label value PopUP window will be displayed.
+3. Press **Edit** button from label field and the label value PopUP window will be displayed.
 
-        .. figure:: ../../../../images/qet_title_block_editor_cell_label.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_cell_label.png
             :align: center
 
             Figure: QElectroTech title block editor, cell value PopUP window
 
-    4. Press the button **Add a line** to add a new row in the Label value table.
-    5. Define the 2 letter code that identifies the language from the text at **Language** column.
-    6. Define the text at **Text** column.
-    7. Press **OK**
+4. Press the button **Add a line** to add a new row in the Label value table.
+5. Define the 2 letter code that identifies the language from the text at **Language** column.
+6. Define the text at **Text** column.
+7. Press **OK**
 
 To define the variable:
 
-    8. Press **Edit** button from text field and the cell value PopUP window will be displayed.
-    9. Press the button **Add a line** to add a new row in the cell value table.
-    10. Define the 2 letter code that identifies the language from the text at **Language** column. Defining only one language is enough for default variables.
-    11. Define the variable at **Text** column. A variable is defined as ``%{variable-name}``. The default variables can be copied to clipboard at the right bottom Combo Box and pasted (``Ctrl + c``) in **Text** column cell.
+1. Press **Edit** button from text field and the cell value PopUP window will be displayed.
+2. Press the button **Add a line** to add a new row in the cell value table.
+3. Define the 2 letter code that identifies the language from the text at **Language** column. Defining only one language is enough for default variables.
+4. Define the variable at **Text** column. A variable is defined as ``%{variable-name}``. The default variables can be copied to clipboard at the right bottom Combo Box and pasted (``Ctrl + c``) in **Text** column cell.
 
-        .. figure:: ../../../../images/qet_title_block_editor_cell_prop_variable.png
+.. figure:: /_external/_images/en/qet_title/qet_title_block_editor_cell_prop_variable.png
             :align: center
 
             Figure: QElectroTech title block editor, cell value PopUP window
 
-    12. Press **OK**
+12. Press **OK**
 
 .. seealso::
 

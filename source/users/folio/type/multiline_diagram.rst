@@ -8,7 +8,7 @@ The multiline diagrams represent electric, fluid, etc. systems including all det
 
 `Multiline conductors`_ are used to draw single line diagrams.
 
-.. figure:: ../../images/qet_conductor_multiline.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_multiline.png
    :align: center
 
    Figure: Multiline diagram
