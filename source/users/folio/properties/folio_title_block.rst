@@ -12,10 +12,10 @@ template used at the `folio`_. The folio variables can also be managed from this
    To reduce the creation time, QElectroTech allows creating some pre-setting for all future 
    folios that will be created in the project. The folio variable values and the `folio title block`_ 
    can be prefedined at the project properties. For more information about how to pre-define folio 
-   properties, refert to `project properties`_ section.
+   properties, refer to `project properties`_ section.
 
 The title block section is organized on three different areas: title block selection area, main 
-variable tab and costum variable tab.
+variable tab and custom variable tab.
 
 Title block selection area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ managed from this section are:
 Main folio properties tab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The **Main** tab provides thes default folio variables.
+The **Main** tab provides these default folio variables.
 
 .. figure:: /_external/_images/en/qet_folios/qet_folio_prop_title_block_main.png
    :align: center

@@ -4,7 +4,7 @@
 Object layer level
 ==================
 
-Overlaping of `elements`_ or `pictures`_ may occur at `workspace`_, QElectroTech allows defining the level 
+Overlapping of `elements`_ or `pictures`_ may occur at `workspace`_, QElectroTech allows defining the level 
 order from `elements`_ and `pictures`_ at each `folio`_. 
 
 QElectroTech allows the following actions:
@@ -18,10 +18,10 @@ Icon                   Action              Definition                           
 |send_backward|        Send backwards      Sends in the backwards the selection (s)       ``Ctrl + Shift + End``
 =================      ==============      ==========================================     =========================
 
-.. |bring_forward| image:: ../images/ico/22x22/bring_forward.png
-.. |raise| image:: ../images/ico/22x22/raise.png
-.. |lower| image:: ../images/ico/22x22/lower.png
-.. |send_backward| image:: ../images/ico/22x22/send_backward.png
+.. |bring_forward| image:: /_external/_images/_site-assets/user/ico/22x22/bring_forward.png
+.. |raise| image:: /_external/_images/_site-assets/user/ico/22x22/raise.png
+.. |lower| image:: /_external/_images/_site-assets/user/ico/22x22/lower.png
+.. |send_backward| image:: /_external/_images/_site-assets/user/ico/22x22/send_backward.png
 
 .. note::
 
@@ -33,10 +33,10 @@ on the object and using the corresponding keyboard shortcut.
 Define object layer from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Select **Edit** menu and the desired action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Select **Edit** menu and the desired action.
 
-.. figure:: ../images/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
    :align: center
 
    Figure: QElectroTech Edit menu 
@@ -44,8 +44,8 @@ Define object layer from menu bar
 Define object layer from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Select the corresponding icon from `toolbar`_ (icons from above table) to realize the desired action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Select the corresponding icon from `toolbar`_ (icons from above table) to realize the desired action.
 
 .. note::
 
@@ -54,10 +54,10 @@ Define object layer from toolbar
 Define object layer by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Right click and select the desired layer definition action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Right click and select the desired layer definition action.
 
-.. figure:: ../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
    :align: center
 
    Figure: QElectroTech element right click items
@@ -67,8 +67,8 @@ Define object layer using keyboard shortcut
 
 As many other tools, QElectroTech is an applications which allows using keyboard shortcut.
 
-    1. `Select the object/s`_ which layer level should be defined.
-    2. Press the corresponding keyboard shortcut (keyboard shortcut from above table) to realize the desired action.
+1. `Select the object/s`_ which layer level should be defined.
+2. Press the corresponding keyboard shortcut (keyboard shortcut from above table) to realize the desired action.
 
 .. seealso::
 

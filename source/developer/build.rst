@@ -1,26 +1,24 @@
 .. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
-
-..
-.. SPDX-License-Identifier: GPL-2.0-only
 .. _developer/build:
 
 =================================
 Building QET from source
 =================================
 
-This section is for advanced users/contributors wanting to build and improve Qelectrotech (QET).
+This section is for users and contributors wanting to build and/or improve QElectroTech (QET).
 
 This guide assumes that you have forked the source repo and that your system has the Git VCS (Version Control System) configured to point to that fork. \
 If you need help to setup Git, please take a look at the `Git Documentation <https://git-scm.com/doc>`_.
 
-Before pushing code to the repo and creating a MR, please have a look at the [contribution guidelines](CONTRIBUTING.md).
+Before pushing code to the repo and/or creating a MR, please have a look at the `contribution guidelines <_developer/contributing>`_.
 
+*************
 Prerequisites
--------------
+*************
 
--    Get sources and sub-modules
+- Get the sources and initialize the submodules by running this command
 
 .. code-block:: bash
 
@@ -28,8 +26,10 @@ Prerequisites
 
 
 Linux
-~~~~~
+=====
 
+Native
+~~~~~~
 - For a Debian-like machine (Ubuntu, Linux Mint, etc), install the required packages 
 
 .. code-block:: bash
@@ -37,9 +37,24 @@ Linux
     sudo apt install libqt5svg5-dev qt5-qmake qtbase5-dev libkf5widgetsaddons-dev libkf5coreaddons-dev libsqlite3-dev pkgconf
 
 
-Environment Setup 
-------------------
+Containerized
+~~~~~~~~~~~~~
 
+If you are worried about risks of dependency breakage, you can use a tool like `Distrobox <distrobox.it>`_ to easily setup a contained environment.
+After creating the box with your choice OS, follow the package install guidelines in the "Native" part of the build docs.
+
+*Example of Debian box creation. Replace <name> with the one you want to give to it.*
+
+.. code-block:: bash
+
+     distrobox-create -i debian:latest -n <name>
+
+**************
+How to compile
+**************
+
+IDE Setup 
+=========
 
 After installing the dependencies, install the QT Creator IDE. For that, you've got two choices:
     
@@ -77,6 +92,7 @@ Get the QET Coding style for QTCreator and set it up.
 
 - To produce a binary, run the .sh scripts for the different packaging options that are proposed.
 
-Source Code Documentation
--------------------------
+CLI Compilation
+===============
+
 

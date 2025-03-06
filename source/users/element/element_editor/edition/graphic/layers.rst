@@ -10,8 +10,8 @@ when a filled part as `rectangle`_ or `ellipse`_ hides a `text`_.
 
 The definition of layer level from each `part`_ can only be done from `menu bar`_.
 
-    1. Select the `part`_ which layer level should be defined.
-    2. Select **Edit** from the main bar and the desired layer action.
+1. Select the `part`_ which layer level should be defined.
+2. Select **Edit** from the main bar and the desired layer action.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
    :align: center

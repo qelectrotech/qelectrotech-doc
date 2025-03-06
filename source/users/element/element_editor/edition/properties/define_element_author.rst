@@ -7,24 +7,24 @@ Define author element information
 Define author element information from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Edit author information** menu item to display the `author information PopUp window`_.
+1. Select **Edit > Edit author information** menu item to display the `author information PopUp window`_.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
             :align: center
 
             Figure: QElectroTech element editor Edit Menu
 
-    2. Introduce the desired information to the text box.
-    3. Press the button **OK** to accept and close the `author information PopUp window`_.
+2. Introduce the desired information to the text box.
+3. Press the button **OK** to accept and close the `author information PopUp window`_.
 
 Define author element information using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + y`` to display the `author information PopUp window`_.
-    2. Introduce the desired information to the text box.
-    3. Press the button **OK** to accept and close the `author information PopUp window`_.
+1. Press ``Ctrl + y`` to display the `author information PopUp window`_.
+2. Introduce the desired information to the text box.
+3. Press the button **OK** to accept and close the `author information PopUp window`_.
 
 .. seealso::
 

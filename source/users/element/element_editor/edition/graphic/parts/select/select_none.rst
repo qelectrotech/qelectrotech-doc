@@ -12,9 +12,9 @@ Unselecting all `parts`_ can be done from `menu bar`_ or using the corresponding
 Select none from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Select none** to unselect all selected `parts`_. 
+1. Select **Edit > Select none** to unselect all selected `parts`_. 
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
             :align: center
 
             Figure: QElectroTech element editor Edit menu
@@ -24,7 +24,7 @@ Select none using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + Shift + a`` to unselect all selected `parts`_.
+1. Press ``Ctrl + Shift + a`` to unselect all selected `parts`_.
 
 .. seealso::
 

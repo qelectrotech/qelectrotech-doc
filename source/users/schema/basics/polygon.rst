@@ -14,19 +14,19 @@ Create polygon
 
 The polygon can only be added to the `workspace`_ by `toolbar`_.
 
-    1. Select the icon |polygon| from the `toolbar`_ to add a polygon.
-    2. Draw connected lines by simple click on the beginning and end point from each line.
-    3. Doble Click on the end vertex/point from the polygon.
+1. Select the icon |polygon| from the `toolbar`_ to add a polygon.
+2. Draw connected lines by simple click on the beginning and end point from each line.
+3. Double Click on the end vertex/point from the polygon.
 
-.. |grid| image:: ../../images/ico/22x22/grid.png
-.. |polygon| image:: ../../images/ico/22x22/polygon.png
+.. |grid| image:: /_external/_images/_site-assets/user/ico/22x22/grid.png
+.. |polygon| image:: /_external/_images/_site-assets/user/ico/22x22/polygon.png
 
 .. note::
 
-    At everytime from the polygon creation, the previous line can be deleted without stopping the creation 
+    During the polygon creation, the previous line can be deleted without stopping the creation 
     process. 
    
-        * Right click will delete the previous line without losing all previous work.
+    * Right click will delete the previous line without losing all previous work.
 
 .. note::
 
@@ -54,10 +54,10 @@ from selection properties panel and using keyboard shortcut.
 Polygon properties from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select one of the edges/lines from the polygon which should be edited.
-    2. Select **Edit > Edit the selected object** menu item to display the polygon properties PopUP window.
+1. Select one of the edges/lines from the polygon which should be edited.
+2. Select **Edit > Edit the selected object** menu item to display the polygon properties PopUP window.
 
-        .. figure:: ../../images/qet_menu_edit_object.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit_object.png
             :align: center
 
             Figure: QElectroTech edit menu
@@ -65,10 +65,10 @@ Polygon properties from menu bar
 Polygon properties by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on one of the edges/lines from the polygon which should be edited.
-    2. Select the option **Edit the selected object** to display the polygon properties PopUP window.
+1. Right click on one of the edges/lines from the polygon which should be edited.
+2. Select the option **Edit the selected object** to display the polygon properties PopUP window.
 
-.. figure:: ../../images/qet_object_right_click.png
+.. figure:: /_external/_images/en/qet_object_right_click.png
    :align: center
 
    Figure: QElectroTech polygon selection PopUP window
@@ -76,9 +76,9 @@ Polygon properties by right click
 Polygon properties from selection properties panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select one of the edges/lines from the polygon which should be edited and the properties from the polygon will appear at `selection properties panel`_.
+1. Select one of the edges/lines from the polygon which should be edited and the properties from the polygon will appear at `selection properties panel`_.
 
-.. figure:: ../../images/qet_polygon_prop.png
+.. figure:: /_external/_images/en/qet_polygon/qet_polygon_prop.png
    :align: center
 
    Figure: QElectroTech Polygon properties panel
@@ -92,8 +92,8 @@ Polygon properties using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select one of the edges/lines from the polygon which should be edited.
-    2. Press ``Ctrl + e`` to display the polygon properties PopUP window.
+1. Select one of the edges/lines from the polygon which should be edited.
+2. Press ``Ctrl + e`` to display the polygon properties PopUP window.
 
 .. seealso::
 
@@ -102,10 +102,10 @@ QElectroTech allows using keyboard shortcut to increase the working efficiency.
 Add new point to polygon
 ########################
 
-    1. Right click on the place from the edges/lines of the polygon where the new porint should be created.
-    2. Select the option **Add a point** to create the new point at the polygon.
+1. Right click on the place from the edges/lines of the polygon where the new porint should be created.
+2. Select the option **Add a point** to create the new point at the polygon.
 
-        .. figure:: ../../images/qet_polygon_add_point.png
+.. figure:: /_external/_images/en/qet_polygon/qet_polygon_add_point.png
             :align: center
 
             Figure: QElectroTech polygon selection PopUP window
@@ -113,10 +113,10 @@ Add new point to polygon
 Delete point to polygon
 #######################
 
-    1. Right click on the point from the polygon which should be deleted.
-    2. Select the option **Delete this point** to delete the point from the polygon.
+1. Right click on the point from the polygon which should be deleted.
+2. Select the option **Delete this point** to delete the point from the polygon.
 
-        .. figure:: ../../images/qet_polygon_delete_point.png
+.. figure:: /_external/_images/en/qet_polygon/qet_polygon_delete_point.png
             :align: center
 
             Figure: QElectroTech polygon selection PopUP window

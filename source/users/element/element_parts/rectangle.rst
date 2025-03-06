@@ -9,9 +9,9 @@ Create rectangle
 
 The rectangle can only be added to `workspace`_ from `toolbar`_.
 
-    1. Select the icon |icon_rectangle| from `toolbar`_ to add a rectangle.
-    2. Click on the initial vertex from the rectangle in the `workspace`_.
-    3. Click on the end vertex from the rectangle in the `workspace`_.
+1. Select the icon |icon_rectangle| from `toolbar`_ to add a rectangle.
+2. Click on the initial vertex from the rectangle in the `workspace`_.
+3. Click on the end vertex from the rectangle in the `workspace`_.
 
 .. |icon_rectangle| image:: /_external/_images/_site-assets/user/ico/22x22/rectangle.png
 

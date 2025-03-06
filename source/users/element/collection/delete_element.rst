@@ -16,7 +16,7 @@ collection, the user can delete element from all collections except QET collecti
 
 1. Right click on the element which should de deleted.
 
-    .. figure:: /_external/_images/en/qet_element/qet_element_collection_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_collection_element_right_click.png
         :align: center
 
         Figure: Options at element
@@ -25,5 +25,5 @@ collection, the user can delete element from all collections except QET collecti
 
 .. warning::
 
-    Be sure about you intention to delete, the element will be deleted from the collectiona and 
+    Be sure about you intention to delete, the element will be deleted from the collection and 
     and from the file system.

@@ -16,7 +16,7 @@ QElectroTech allows choosing the path from the `QET (Common)`_ and `User`_ eleme
 path from `User Title Block`_ collection can also be chosen. The collections directory can be 
 at the local Hard Disk, common users, or at local servers, common for companies. 
 
-The default element collection paths depend on the installation settings choosed during the 
+The default element collection paths depend on the installation settings chosen during the 
 installation process.
 
 .. admonition:: Example

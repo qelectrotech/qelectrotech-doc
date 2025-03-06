@@ -9,10 +9,10 @@ Create polygon
 
 The polygon can only be added to `workspace`_ from `toolbar`_.
 
-    1. Select the icon |icon_polygon| from `toolbar`_ to add a polygon.
-    2. Click on the initial point from the polygon in the `workspace`_.
-    3. Click on the rest of point from the polygon in the `workspace`_.
-    4. Double click on the end position of the polygon to finish the polygon edition.
+1. Select the icon |icon_polygon| from `toolbar`_ to add a polygon.
+2. Click on the initial point from the polygon in the `workspace`_.
+3. Click on the rest of point from the polygon in the `workspace`_.
+4. Double click on the end position of the polygon to finish the polygon edition.
 
 .. |icon_polygon| image:: /_external/_images/_site-assets/user/ico/22x22/polygon.png
 

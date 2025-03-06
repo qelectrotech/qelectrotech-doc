@@ -19,7 +19,7 @@ corresponding keyboard shortcut.
 Paste part from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Paste** menu item to paste the `part`_ copied or cut previously from `drawing area`_.
+1. Select **Edit > Paste** menu item to paste the `part`_ copied or cut previously from `drawing area`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
    :align: center
@@ -29,8 +29,8 @@ Paste part from menu bar
 Paste part by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click somewhere from `drawing area`_.
-    2. Select the option **Paste** to paste the `part`_ copied or cut previously.
+1. Right click somewhere from `drawing area`_.
+2. Select the option **Paste** to paste the `part`_ copied or cut previously.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_right_click_paste.png
    :align: center
@@ -42,7 +42,7 @@ Paste part using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + v`` to paste the `part`_ copied or cut previously from `drawing area`_.
+1. Press ``Ctrl + v`` to paste the `part`_ copied or cut previously from `drawing area`_.
 
 .. seealso::
 

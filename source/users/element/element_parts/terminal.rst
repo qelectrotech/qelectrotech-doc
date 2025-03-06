@@ -12,8 +12,8 @@ Create terminal
 
 The terminal can only be added to `workspace`_ from `toolbar`_.
 
-    1. Select the icon |icon_terminal| from `toolbar`_ to add a terminal.
-    2. Click on the initial point from the terminal in the `workspace`_ to add the terminal.
+1. Select the icon |icon_terminal| from `toolbar`_ to add a terminal.
+2. Click on the initial point from the terminal in the `workspace`_ to add the terminal.
 
 .. |icon_terminal| image:: /_external/_images/_site-assets/user/ico/22x22/terminal/terminal.png
     

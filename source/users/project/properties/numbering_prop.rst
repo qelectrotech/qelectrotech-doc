@@ -11,7 +11,7 @@ and the project a chaos.
 QElectroTech allows defining auto numbering patterns in the project properties for the codification of `elements`_, `conductors`_ and 
 `folios`_. 
 
-Every time that a new folio is added to the `project`_ or an `element`_ or `conductor`_ is drawn in the `workspace`_; the `folio`_, `element`_ or `conductor`_ is codificated according to the selected patter in `auto numbering selection panel`_.
+Every time that a new folio is added to the `project`_ or an `element`_ or `conductor`_ is drawn in the `workspace`_; the `folio`_, `element`_ or `conductor`_ is codificated according to the selected pattern in `auto numbering selection panel`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_prop_auto_numbering.png
    :align: center

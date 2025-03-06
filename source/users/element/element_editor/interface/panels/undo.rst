@@ -13,7 +13,7 @@ The Undo panel lists all actions made by the user inside the `element editor`_ f
 
 To display the Undo panel:
 
-    1. Select **Settings > Display > Undo** menu item to display the Undo panel.
+* Select **Settings > Display > Undo** menu item to display the Undo panel.
 
 .. seealso::
 

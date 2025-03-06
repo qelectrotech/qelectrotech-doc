@@ -18,8 +18,8 @@ the corresponding keyboard shortcut.
 Delete object from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which should be delete.
-    2. Select **Edit > Delete** menu item to delete the object.
+1. `Select the object/s`_ which should be delete.
+2. Select **Edit > Delete** menu item to delete the object.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
    :align: center
@@ -29,10 +29,10 @@ Delete object from menu bar
 Delete object from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which should be deleted.
-    2. Select the icon |edit-delete| from `toolbar`_ to delete the object.
+1. `Select the object/s`_ which should be deleted.
+2. Select the icon |edit-delete| from `toolbar`_ to delete the object.
 
-.. |edit-delete| image:: ../images/ico/22x22/edit-delete.png
+.. |edit-delete| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-delete.png
 
 .. note::
 
@@ -41,10 +41,10 @@ Delete object from toolbar
 Delete object by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the object which should be deleted.
-    2. Select the option **Delete** to delete the object.
+1. Right click on the object which should be deleted.
+2. Select the option **Delete** to delete the object.
 
-.. figure:: ../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
    :align: center
 
    Figure: QElectroTech right click PopUP window
@@ -54,8 +54,8 @@ Delete object using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. `Select the object/s`_ which should be deleted.
-    2. Press ``delete`` to delete the object.
+1. `Select the object/s`_ which should be deleted.
+2. Press ``delete`` to delete the object.
 
 .. seealso::
 

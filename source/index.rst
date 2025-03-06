@@ -7,30 +7,45 @@
 Welcome to the QET Documentation
 =============================================
 
-What is QET?
-~~~~~~~~~~~~~~~~~~~~~
-
-| **QET** (QelectroTech) is a cross-platform free and open-source (FOSS) tool allowing you to create electrical, hydraulic and pneumatic drawings.
-| These drawings are essential tools for Electritians and Electrical Engineers alike, allowing them to easily identify components and connections of a electrical circuit.
-
-Why does </feature> isn't yet implemented?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Contrary to proprietary drawing sofwares, QET is a a hobby project created by `the QelectroTech Team <https://qelectrotech.org/contact.php>`_. 
-As we are a small developer team, we sadly do not have the capacity to implement every feature that our users propose.
-
-That said, if you have some experience in C programming or with `QT <https://doc.qt.io/>`_ and are willing to implement a feature for QET, please do. 
-We welcome contributions and have a `dedicated entry <developer/index>`_ in the documentation explaining you how to setup a dev environment. 
+.. grid::  2
+    :gutter: 2
+    :margin: auto
 
 
+    .. grid-item-card:: User Docs
+        :img-top: /_external/_images/_site-assets/user/ico/256x256/qelectrotech.png
+        :img-alt: Image showing the QET app icon
+        :link: users/index
+        :link-type: ref
+        :width: 75%
+    .. grid-item-card:: Developer Docs
+        :img-top: /_external/_images/_site-assets/user/ico/256x256/interface.png
+        :img-alt: Image showing QET's interface wizard 
+        :link: developer/index
+        :link-type: ref
+        :width: 75%
+    .. grid-item-card:: FAQ
+        :img-top: /_external/_images/_site-assets/user/ico/128x128/settings.png
+        :img-alt: Image showing QET's preferences icon
+        :link: faq
+        :link-type: ref
+        :width: 75%
+    .. grid-item-card:: Documentation Changelog
+        :img-top: /_external/_images/_site-assets/user/ico/128x128/project.png
+        :img-alt: Image showing a QET Project folder icon
+        :link: doc_changelog
+        :link-type: ref
+        :width: 75%
 .. toctree::
    :maxdepth: 1
-   
+   :hidden:
+
    Home <self>
    users/index
    developer/index
    app_changelog
    doc_changelog
+   faq
    QET Homepage <https://qelectrotech.org>
    QET Forum <https://qelectrotech.org/forum/index.php>
 

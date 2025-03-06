@@ -19,8 +19,8 @@ corresponding keyboard shortcut.
 Cut part from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `part`_ which should be cut.
-    2. Select **Edit > Cut** menu item to cut the `part`_.
+1. Select the `part`_ which should be cut.
+2. Select **Edit > Cut** menu item to cut the `part`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
    :align: center
@@ -30,8 +30,8 @@ Cut part from menu bar
 Cut part by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `part`_ which should be cut.
-    2. Select the option **Cut** to cut the `part`_.
+1. Right click on the `part`_ which should be cut.
+2. Select the option **Cut** to cut the `part`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_right_click_part.png
    :align: center
@@ -43,8 +43,8 @@ Cut part using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the `part`_ which should be cut.
-    2. Press ``Ctrl + x`` to cut the `part`_.
+1. Select the `part`_ which should be cut.
+2. Press ``Ctrl + x`` to cut the `part`_.
 
 .. seealso::
 

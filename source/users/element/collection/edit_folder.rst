@@ -12,14 +12,14 @@ Working with collections can only be done from `collections panel`_.
 
 1. Right click on the user collection or at a category from the collection which should be edited.
 
-    .. figure:: /_external/_images/en/qet_element/qet_element_collection_folder_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_collection_folder_right_click.png
         :align: center
 
         Figure: Options at folder
 
 2. Click the option **Edit folder** to open **Add a new category** PopUp window.
 
-    .. figure:: /_external/_images/en/qet_element/qet_element_collection_category_add.png
+.. figure:: /_external/_images/en/qet_element/qet_element_collection_category_add.png
         :align: center
 
         Figure: New category PopUp window

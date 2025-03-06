@@ -9,23 +9,23 @@ Some times is necessary to delete previous work, QElectroTech allows breaking/de
 
 A `master element`_ can be unlinked from a `slave element`_ as follow:
 
-    1. Select the `Slave element`_ which should be unlinked from the `project collection`_ or from the `workspace`_.
-    2. Right click on the selected `element`_ and choose the option **Edit the element**.
+1. Select the `Slave element`_ which should be unlinked from the `project collection`_ or from the `workspace`_.
+2. Right click on the selected `element`_ and choose the option **Edit the element**.
 
-        .. figure:: ../../../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
             :align: center
 
             Figure: QElectroTech element options
 
-    3. `Display`_ the **Cross-reference (Slave)** tab from the element editor PopUP window
+3. `Display`_ the **Cross-reference (Slave)** tab from the element editor PopUP window
 
-        .. figure:: ../../../images/qet_element_slave_linked.png
+.. figure:: /_external/_images/en/qet_element/qet_element_slave_linked.png
             :align: center
 
             Figure: QElectroTech cross reference tab element properties
 
-    4. Press **Unlink** to delete the `cross reference`_ with the `master element`_.
-    5. Press **Apply** to accept and save the changes. 
+4. Press **Unlink** to delete the `cross reference`_ with the `master element`_.
+5. Press **Apply** to accept and save the changes. 
 
 .. _links between elements (cross references): ../../../element/cross_reference/index.html
 .. _Slave element: ../../../element/type/element_slave.html

@@ -13,8 +13,8 @@ the corresponding keyboard shortcut.
 Delete part from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select`_ the `part`_ which should be deleted.
-    2. Select **Edit > Delete** menu item to delete the `part`_ from `workspace`_.
+1. `Select`_ the `part`_ which should be deleted.
+2. Select **Edit > Delete** menu item to delete the `part`_ from `workspace`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
    :align: center
@@ -24,8 +24,8 @@ Delete part from menu bar
 Delete part from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select`_ the `part`_ which should be deleted.
-    2. Select the icon |edit-delete| from the `toolbar`_ to delete the `part`_ from `workspace`_.
+1. `Select`_ the `part`_ which should be deleted.
+2. Select the icon |edit-delete| from the `toolbar`_ to delete the `part`_ from `workspace`_.
 
 .. |edit-delete| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-delete.png
 
@@ -36,8 +36,8 @@ Delete part from toolbar
 Delete part by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `part`_ which should be deleted.
-    2. Select the option **Delete** to delete the `part`_ from `workspace`_.
+1. Right click on the `part`_ which should be deleted.
+2. Select the option **Delete** to delete the `part`_ from `workspace`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_right_click_part.png
    :align: center
@@ -49,8 +49,8 @@ Delete part using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. `Select`_ the `part`_ which should be deleted.
-    2. Press ``Del`` to delete the `part`_ from `workspace`_.
+1. `Select`_ the `part`_ which should be deleted.
+2. Press ``Del`` to delete the `part`_ from `workspace`_.
 
 .. seealso::
 

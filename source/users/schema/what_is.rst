@@ -1,4 +1,4 @@
-.. _schema/what_is
+.. _schema/what_is:
 
 ==================
 What is a schema?

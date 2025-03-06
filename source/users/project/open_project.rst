@@ -7,7 +7,7 @@ Open Project
 Opening a `project`_ saved somewhere from the computer Hard Disk or local server can be done from 
 `menu bar`_, `toolbar`_ and using the corresponding keyboard shortcut.
 
-A `project`_ is conformed by a simgle file with ``.qet`` format. The ``.qet`` extension 
+A `project`_ is conformed by a single file with ``.qet`` format. The ``.qet`` extension 
 is the native extension from QElectroTech. Even so, QElectroTech allows also working with 
 Extensible Markup Language files, files with extension ``.xml``. 
 

@@ -10,47 +10,47 @@ which contains a string at one of the properties.
 
 To find an object which contains a string:
 
-    1. Go to `search menu`_.
+1. Go to `search menu`_.
 
-        .. figure:: ../images/qet_search_menu.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu.png
             :align: center
 
             Figure: QElectroTech search menu
 
-    2. Write the string which should be search over the `project`_ in the text box from the menu.
-    3. Press ``Intro`` and QElectroTech will zoom and display the first object from the list of matches at the `workspace`_. 
-    4. Press |icon_next| or |icon_previous| button to zoom the next or previous object from the list of matches.
-    5. Press |icon_actualize| button to refresh the search.
+2. Write the string which should be search over the `project`_ in the text box from the menu.
+3. Press ``Enter`` and QElectroTech will zoom and display the first object from the list of matches at the `workspace`_. 
+4. Press |icon_next| or |icon_previous| button to zoom the next or previous object from the list of matches.
+5. Press |icon_actualize| button to refresh the search.
 
-.. |icon_next| image:: ../images/ico/16x16/go-bottom.png
-.. |icon_previous| image:: ../images/ico/16x16/go-top.png
-.. |icon_actualize| image:: ../images/ico/16x16/view-refresh.png
+.. |icon_next| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-bottom.png
+.. |icon_previous| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-top.png
+.. |icon_actualize| image:: /_external/_images/_site-assets/user/ico/16x16/view/view-refresh.png
 
 .. note::
 
    If the `search menu`_ is not displayed, it can be displayed from **Edit > Search / Replace** menu item or using ``Ctrl + f`` shortcut keyboard.
 
 QElectrotech provides also some advanced properties for searching. Before searching, a filter can be 
-dedined to reduce the list of matches according the following criteria:
+defined to reduce the list of matches according the following criteria:
 
-    * `Text fields (Plain text)`_.
-    * Whole words (`Text fields (Plain text)`_, `Conductor properties`_, `Element properties`_, `Folio properties`_)
+* `Text fields (Plain text)`_.
+* Whole words (`Text fields (Plain text)`_, `Conductor properties`_, `Element properties`_, `Folio properties`_)
 
 To create an advanced search:
 
-    1. Go to `search menu`_.
-    2. Press |icon_advanced| button to display the filter tree.
+1. Go to `search menu`_.
+2. Press |icon_advanced| button to display the filter tree.
 
-        .. figure:: ../images/qet_advanced_search_menu.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu.png
             :align: center
 
             Figure: QElectroTech advanced search menu
 
-    3. Select the type of text to be searched (**Plain text** or **Whole words**) at the combobox from the right side of the text box.
-    4. Click / unclick the button which selects **Case sensitive**.
-    5. From here, follow the steps from the standard search.
+3. Select the type of text to be searched (**Plain text** or **Whole words**) at the combobox from the right side of the text box.
+4. Click / unclick the button which selects **Case sensitive**.
+5. From here, follow the steps from the standard search.
 
-.. |icon_advanced| image:: ../images/ico/16x16/configure-toolbars.png
+.. |icon_advanced| image:: /_external/_images/_site-assets/user/ico/16x16/configure/configure-toolbars.png
 
 .. _elements: ../element/index.html
 .. _conductors: ../conductor/index.html

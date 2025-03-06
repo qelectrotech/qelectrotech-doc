@@ -5,21 +5,21 @@ Rotate object
 =============
 
 QElectroTech allows choosing the orientation from many object which are represented at the `folio`_. 
-The objects which orientation can be choosed are the following:
+The objects which orientation can be chosen are the following:
 
-    * `Element`_
-    * `Picture`_
-    * `Text field`_
+* `Element`_
+* `Picture`_
+* `Text field`_
 
 QElectroTech does not allow all orientations for the objects mentioned before, only 4 different 
 orientations are possible: **0**, **90**, **180** and **270** degrees.
 
 .. note::
 
-    QElectroTech only offers the posibility to rotate **90** degress on the clock direction.
+    QElectroTech only offers the possibility to rotate **90** degrees on the clock direction.
 
-    * To rotate **180** degrees the actions should be repited once.
-    * To rotate **270** degrees the actions should be repited twice.
+    * To rotate **180** degrees the actions should be repeated once.
+    * To rotate **270** degrees the actions should be repeated twice.
 
 .. note::
 
@@ -31,8 +31,8 @@ the corresponding keyboard shortcut.
 Rotate object from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object`_ which should be rotated.
-    2. Select **Edit > Rotate** menu item to rotate the object.
+1. `Select the object`_ which should be rotated.
+2. Select **Edit > Rotate** menu item to rotate the object.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
    :align: center
@@ -42,10 +42,10 @@ Rotate object from menu bar
 Rotate object from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object`_ which should be rotated.
-    2. Select the icon |transform-rotate| from `toolbar`_ to rotate the object.
+1. `Select the object`_ which should be rotated.
+2. Select the icon |transform-rotate| from `toolbar`_ to rotate the object.
 
-.. |transform-rotate| image:: ../images/ico/16x16/transform-rotate.png
+.. |transform-rotate| image:: /_external/_images/_site-assets/user/ico/16x16/transform-rotate.png
 
 .. note::
 
@@ -54,8 +54,8 @@ Rotate object from toolbar
 Rotate object by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the object which should be rotated.
-    2. Select the option **Rotate** to delete the object.
+1. Right click on the object which should be rotated.
+2. Select the option **Rotate** to delete the object.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
    :align: center
@@ -67,8 +67,8 @@ Rotate object using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. `Select the object`_ which should be rotated.
-    2. Press ``Space`` to rotate the object.
+1. `Select the object`_ which should be rotated.
+2. Press ``Space`` to rotate the object.
 
 .. seealso::
 

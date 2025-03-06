@@ -70,7 +70,7 @@ close tab |project_window_close_tab| which is placed at the top right corner.
 
 .. note::
 
-   Displaying the `projects`_ using a tab bar or using PopUP windows can be choosed at 
+   Displaying the `projects`_ using a tab bar or using PopUP windows can be chosen at 
    **Display > Display projects**.
 
 Close project using keyboard shortcut

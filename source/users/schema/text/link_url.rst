@@ -19,23 +19,23 @@ using external html code generators.
 Insert URL link from QElectroTech text editor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
-    1. Display the `text editor`_ by editing the desired `text field`_.
+1. Display the `text editor`_ by editing the desired `text field`_.
 
-        .. figure:: /_external/_images/en/qet_text/qet_text_field_rich.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_rich.png
             :align: center
 
             Figure: QElectroTech Text editor rich text tab
 
-    2. Press the icon **Insert link** from the Menu bar for displaying the Insert link PopUP window.
+2. Press the icon **Insert link** from the Menu bar for displaying the Insert link PopUP window.
 
-        .. figure:: /_external/_images/en/qet_text/qet_text_field_insert_link.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_insert_link.png
             :align: center
 
             Figure: QElectroTech insert link PopUP window
 
-    3. Define the text which should be displayed at the `workspace`_ and the desired URL where the link should redirect.
-    4. Press the button **OK** to close the Insert link PopUP window and add the link to the text field content.
-    5. Press the button **OK** to save the text field content and close the `text editor`_.
+3. Define the text which should be displayed at the `workspace`_ and the desired URL where the link should redirect.
+4. Press the button **OK** to close the Insert link PopUP window and add the link to the text field content.
+5. Press the button **OK** to save the text field content and close the `text editor`_.
 
 Insert URL link using external html code generators
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,22 +43,22 @@ Insert URL link using external html code generators
 At the case that something special should be included or any properties should be different, QElectroTech 
 allows creating the html source code using an external code generator and later on introduce the code.
 
-    1. Display the `text editor`_ by editing the desired `text field`_.
+1. Display the `text editor`_ by editing the desired `text field`_.
 
-        .. figure:: /_external/_images/en/qet_text/qet_text_field_rich.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_rich.png
             :align: center
 
             Figure: QElectroTech Text editor rich text tab
 
-    2. Select the source Tab.
+2. Select the source Tab.
 
-        .. figure:: /_external/_images/en/qet_text/qet_text_field_source.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_source.png
             :align: center
 
             Figure: QElectroTech Text editor source tab
 
-    3. Copy the html code from the html code generator.
-    4. Press the button **OK** to save the text field content and close the `text editor`_.
+3. Copy the html code from the html code generator.
+4. Press the button **OK** to save the text field content and close the `text editor`_.
 
 .. note::
 

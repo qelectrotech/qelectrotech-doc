@@ -10,7 +10,7 @@ The parent collection property from a `title block`_ defines the `title block co
 This property defines the rights from the user to `edit the title block`_. A `title block`_ with 
 `QET title block collection`_ as parent collection can only be read by the user. A `title block`_ with 
 `user title block collection`_ or `project title block collection`_ as parent collection can be read 
-and writed (`edited`_) by the user.
+and written (`edited`_) by the user.
 
 The parent collection from a `title block`_ can be defined during the `save process`_.
 

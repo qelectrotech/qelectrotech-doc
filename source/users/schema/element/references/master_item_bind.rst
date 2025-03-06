@@ -11,33 +11,33 @@ represent the device.
 
 A `slave element`_ can be linked to a `master element`_ with the following steps:
 
-    1. Select the `master element`_ which should be linked from the `project collection`_ or from the `workspace`_.
-    2. Right click on the selected `element`_ and choose the option **Edit the element**.
+1. Select the `master element`_ which should be linked from the `project collection`_ or from the `workspace`_.
+2. Right click on the selected `element`_ and choose the option **Edit the element**.
 
-        .. figure:: ../../../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
             :align: center
 
             Figure: QElectroTech element options
 
-    3. `Display`_ the **Cross-reference (Master)** tab from the element editor PopUP window.
+3. `Display`_ the **Cross-reference (Master)** tab from the element editor PopUP window.
 
-        .. figure:: ../../../images/qet_element_master_reference.png
+.. figure:: /_external/_images/en/qet_element/qet_element_master_reference.png
             :align: center
 
             Figure: QElectroTech cross reference tab element properties
 
-    4. Search and select the desired `slave element`_ from the **Availabel elements** table.
-    5. Press **Bind item** |icon_bind| to link the `slave element`_ to the `master element`_.
-    6. Press **Apply** to accept and save the changes.
+4. Search and select the desired `slave element`_ from the **Availabel elements** table.
+5. Press **Bind item** |icon_bind| to link the `slave element`_ to the `master element`_.
+6. Press **Apply** to accept and save the changes.
 
-.. |icon_bind| image:: ../../../images/ico/22x22/go-down.png
+.. |icon_bind| image:: /_external/_images/_site-assets/user/ico/22x22/go/go-down.png
 
 .. note::
 
    At the avaliable elements table, the `slave element`_ can also be linked by right click on the 
    `element`_ and selectimg the option **Link the item**.
 
-.. figure:: ../../../images/qet_element_master_link.png
+.. figure:: /_external/_images/en/qet_element/qet_element_master_link.png
     :align: center
 
     Figure: QElectroTech cross reference tab element properties

@@ -11,30 +11,30 @@ represent the device.
 
 A `master element`_ can be linked to a `slave element`_ with the following steps:
 
-    1. Select the `Slave element`_ which should be linked from the `project collection`_ or from the `workspace`_.
-    2. Right click on the selected `element`_ and choose the option **Edit the element**.
+1. Select the `Slave element`_ which should be linked from the `project collection`_ or from the `workspace`_.
+2. Right click on the selected `element`_ and choose the option **Edit the element**.
 
-        .. figure:: ../../../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
             :align: center
 
             Figure: QElectroTech element options
 
-    3. `Display`_ the **Cross-reference (Slave)** tab from the element editor PopUP window
+3. `Display`_ the **Cross-reference (Slave)** tab from the element editor PopUP window
 
-        .. figure:: ../../../images/qet_element_slave_references.png
+.. figure:: /_external/_images/en/qet_element/qet_element_slave_references.png
             :align: center
 
             Figure: QElectroTech cross reference tab element properties
 
-    4. Search and select the desired `master element`_ from the available master elements table.
-    5. Right clik on the `master element`_ and select the option **Link the item** to link the `master element`_ to the `slave element`_.
+4. Search and select the desired `master element`_ from the available master elements table.
+5. Right click on the `master element`_ and select the option **Link the item** to link the `master element`_ to the `slave element`_.
 
-        .. figure:: ../../../images/qet_element_slave_link.png
+.. figure:: /_external/_images/en/qet_element/qet_element_slave_link.png
             :align: center
 
             Figure: QElectroTech cross reference tab element properties
             
-    6. Press  **Apply** to accept and save the changes.
+6. Press  **Apply** to accept and save the changes.
 
 .. _elements: ../../../element/index.html
 .. _element: ../../../element/index.html

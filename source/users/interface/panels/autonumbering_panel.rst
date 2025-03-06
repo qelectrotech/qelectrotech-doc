@@ -10,9 +10,9 @@ Auto Numbering Selection panel
 
 The Auto Numbering Selection panel displays the active `auto numbering pattern`_ for:
 
-    * `Folio`_
-    * `Element`_
-    * `Conductor`_
+* `Folio`_
+* `Element`_
+* `Conductor`_
 
 .. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering.png
    :align: center

@@ -16,20 +16,20 @@ conductor. The parameters which can be defined are:
 
 * Display parameters:
 
-   1. **Text size**: Size of the displayed text.
-   2. **Text formula**: To be used if a variable value is desired at the **Text** field during `conductor creation`_.
-   3. **Text**: Text field content to be displayed at `folio`_.
-   4. **Text color**: Font color to be displayed at `folio`_.
-   5. Positioning and orientation from the displayed text at `folio`_, vertical and horizontal `conductors`_.
+1. **Text size**: Size of the displayed text.
+2. **Text formula**: To be used if a variable value is desired at the **Text** field during `conductor creation`_.
+3. **Text**: Text field content to be displayed at `folio`_.
+4. **Text color**: Font color to be displayed at `folio`_.
+5. Positioning and orientation from the displayed text at `folio`_, vertical and horizontal `conductors`_.
 
 * Conductor properties:
 
-   6. **Function**: Variable from `conductor`_, it is used to define the wire phase (L1, L2, L3, N, etc.).
-   7. **Voltage / Protocol**: Variable from the `conductor`_, it is used to define the wire voltage (0v,230V,400V, 6kV, etc.) or the wires network protocol (IP).
-   8. **Conductor color**: Variable from the `conductor`_, it is used to define the wire color.
-   9. **Conductor section**: Variable from the `conductor`_, it is used to define the wire section.
-   10. **Cable**:
-   11. **Bus**:
+6. **Function**: Variable from `conductor`_, it is used to define the wire phase (L1, L2, L3, N, etc.).
+7. **Voltage / Protocol**: Variable from the `conductor`_, it is used to define the wire voltage (0v,230V,400V, 6kV, etc.) or the wires network protocol (IP).
+8. **Conductor color**: Variable from the `conductor`_, it is used to define the wire color.
+9. **Conductor section**: Variable from the `conductor`_, it is used to define the wire section.
+10. **Cable**:
+11. **Bus**:
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_properties_type_multiline.png
    :align: center

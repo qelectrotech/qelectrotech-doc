@@ -53,7 +53,7 @@ called using the percent symbol before the variable name (``%{variable-name}``).
     QElectroTech also allows the user defining extra variables:
 
     * Go to **Project > Project properties > General** to define customized project variables.
-    * Go to **Edit > Folio properties > Title block information > Costum**  to define customized folio variables. 
+    * Go to **Edit > Folio properties > Title block information > Custom**  to define customized folio variables. 
 
 QElectroTech allows that the cell has a **Label** for the variable.
 

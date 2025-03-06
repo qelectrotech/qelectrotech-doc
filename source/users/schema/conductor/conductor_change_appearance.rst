@@ -1,4 +1,4 @@
-.. _users/schema/conductor/conductor_change_appearance
+.. _users/schema/conductor/conductor_change_appearance:
 
 ============================
 Change appearance conductor
@@ -9,19 +9,20 @@ for each `conductor`_.
 
 To change the conductor appearance:
 
-    1. `Select the conductor`_ which should be edited. 
-    2. `Display conductor properties`_ PopUp window.
-    3. Go to **Appearance** tab.
+1. `Select the conductor`_ which should be edited. 
+2. `Display conductor properties`_ PopUp window.
+3. Go to **Appearance** tab.
 
-        .. figure:: ../../images/qet_conductor_properties_appearance.png
-            :align: center
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_properties_appearance.png
+    :align: center
 
-            Figure: QElectroTech conductor appearance PopUP window
+    Figure: QElectroTech conductor appearance PopUP window
 
-    4. Choose the desired parameters for main color and secondary color if necessary.
-    5. Click the check buttom **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
-    5. Click or unclick the option **Apply properties to all conductors of this potential**.
-    6. Press **OK** button to save and apply the property changes.
+
+4. Choose the desired parameters for main color and secondary color if necessary.
+5. Click the check buttom **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
+6. Click or unclick the option **Apply properties to all conductors of this potential**.
+7. Press **OK** button to save and apply the property changes.
 
 .. seealso::
 

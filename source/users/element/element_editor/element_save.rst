@@ -30,7 +30,7 @@ as a new `element`_:
 
     Figure: QElectroTech element editor save as PopUp window
 
-2. Select the `element`_ which should be overwrited or the `category`_ and the name for the new `element`_.
+2. Select the `element`_ which should be overwritten or the `category`_ and the name for the new `element`_.
 3. Press the **Save** button to save the `element`_ and close the PopUp window.
 
 The `element`_ can also be directly saved as a new file in the Hard Disk directory desired: 
@@ -54,7 +54,7 @@ as a new `element`_:
 
     Figure: QElectroTech element editor save as PopUp window
 
-2. Select the `element`_ which should be overwrited or the `category`_ and the name for the new `element`_.
+2. Select the `element`_ which should be overwritten or the `category`_ and the name for the new `element`_.
 3. Press the **Save** button to save the `element`_ and close the PopUp window.
 
 .. |document-save| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save.png

@@ -8,7 +8,7 @@
 Selection properties panel
 ==========================
 
-The selection properties panel displays the properties from the selecte object. Only the properties 
+The selection properties panel displays the properties from the selected object. Only the properties 
 from some object can be displayed at the panel. The selection properties panel can display the 
 properties from:
 

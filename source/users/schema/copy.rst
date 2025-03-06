@@ -22,10 +22,10 @@ the corresponding keyboard shortcut.
 Copy object from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which should be copied.
-    2. Select **Edit > Copy** menu item to copy the object.
+1. `Select the object/s`_ which should be copied.
+2. Select **Edit > Copy** menu item to copy the object.
 
-    .. figure:: ../images/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
         :align: center
 
         Figure: QElectroTech edit menu
@@ -33,10 +33,10 @@ Copy object from menu bar
 Copy object from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which should be copied.
-    2. Select the icon |edit-copy| from `toolbar`_ to copy the object.
+1. `Select the object/s`_ which should be copied.
+2. Select the icon |edit-copy| from `toolbar`_ to copy the object.
 
-.. |edit-copy| image:: ../images/ico/22x22/edit-copy.png
+.. |edit-copy| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-copy.png
 
 .. note::
 
@@ -45,10 +45,10 @@ Copy object from toolbar
 Copy object by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the object which should be copied.
-    2. Select the option **Copy** to copy the object.
+1. Right click on the object which should be copied.
+2. Select the option **Copy** to copy the object.
 
-    .. figure:: ../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
         :align: center
 
         Figure: QElectroTech right click PopUP window
@@ -56,10 +56,10 @@ Copy object by right click
 Copy object using keyboard shortcut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-QElectroTech allows using keyboard shortcut to increase the working efficiency.
+QElectroTech allows using keyboard shortcut to increase productivity.
 
-    1. `Select the object/s`_ which should be copied.
-    2. Press ``Ctrl + c`` to copy the object.
+1. `Select the object/s`_ which should be copied.
+2. Press ``Ctrl + c`` to copy the object.
 
 .. seealso::
 

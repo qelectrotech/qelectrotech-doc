@@ -1,4 +1,4 @@
-.. _project/index
+.. _project/index:
 
 =======
 Project

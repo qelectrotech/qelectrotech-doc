@@ -32,14 +32,20 @@ User Manual
     .. grid-item-card:: Project
         :img-top: ../_external/_images/_site-assets/user/ico/128x128/project.png
         :img-alt: Image showing a QET Project folder icon
+        :link: project/index
+        :link-type: ref
 
     .. grid-item-card:: Folio
         :img-top: ../_external/_images/_site-assets/user/ico/256x256/folio.png
         :img-alt: Image showing a QET simplified Folio 
+        :link: folio/index
+        :link-type: ref
     
     .. grid-item-card:: Element
         :img-top: ../_external/_images/_site-assets/user/ico/128x128/element.png
         :img-alt: Image showing a QET Element File icon
+        :link: element/index
+        :link-type: ref
     
     .. grid-item-card:: Conductor
         :img-top: ../_external/_images/_site-assets/user/ico/256x256/conductor.png
@@ -50,6 +56,8 @@ User Manual
     .. grid-item-card:: Schema
         :img-top: ../_external/_images/_site-assets/user/ico/128x128/diagram.png
         :img-alt: Image showing the QET app icon
+        :link: schema/index
+        :link-type: ref
 
     .. grid-item-card:: Drawing
         :img-top: ../_external/_images/_site-assets/user/ico/256x256/drawing.png

@@ -2,18 +2,26 @@
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
-..
-.. SPDX-License-Identifier: GPL-2.0-only
-
 .. _developer/contributing:
 
 ============================================
 Contributing to the QET source code
 ============================================
 
-The goal of this page is to teach you how to contribute effectively to the QET project by introducing you to .
+The goal of this page is to teach you how to contribute effectively to the QET project and give  introducing you to .
 
-.. list-table:: Does & Don'ts of contributing
+Access the source code
+======================
+
+To contribute to QElectroTech (QET), you 
+
+Compile and build the app from source
+=====================================
+
+Does & Don'ts of contributing
+=============================
+
+.. list-table:: 
    :widths: 35, 35
    :header-rows: 1
 

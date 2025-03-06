@@ -6,8 +6,8 @@ Rotate text
 
 The content from a `text field`_ can be rotated in two different ways:
 
-    1. Rotating the `text field`_ as an object.
-    2. Defining the text orientation inside the `text field`_.
+1. Rotating the `text field`_ as an object.
+2. Defining the text orientation inside the `text field`_.
 
 Rotate text field
 #################
@@ -15,14 +15,14 @@ Rotate text field
 The text field is considered an object by QElectroTech, it can be selected, placed and rotated as 
 `elements`_ and `pictures`_. It can be rorated *90*, *180* or *270* degrees.
 
-    1. Right click on the `text field`_ which should be rotated.
+1. Right click on the `text field`_ which should be rotated.
 
-        .. figure:: ../../images/qet_text_field_right_click.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_right_click.png
             :align: center
 
             Figure: QElectroTech text field options
 
-    2. Select the option **Rotate** to rotate the `text field`_ *90* degrees on the clock direction. 
+2. Select the option **Rotate** to rotate the `text field`_ *90* degrees on the clock direction. 
 
 .. seealso::
 
@@ -38,30 +38,30 @@ of choosing the text orientation is the possibility to choose any angle between 
 Define text orientation from workspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `text field`_ which should be oriented.
+1. Right click on the `text field`_ which should be oriented.
 
-        .. figure:: ../../images/qet_text_field_right_click.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_right_click.png
             :align: center
 
             Figure: QElectroTech text field options
 
-    2. Select the option **Choose text orientation** to display the text orientation PopUP window.
+2. Select the option **Choose text orientation** to display the text orientation PopUP window.
 
-        .. figure:: ../../images/qet_text_field_orientation.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_orientation.png
             :align: center
 
             Figure: QElectroTech choose orientation PopUP window
 
-    3. Define the orientation angle of the text.
-    4. Press **OK** to save the changes.
+3. Define the orientation angle of the text.
+4. Press **OK** to save the changes.
 
 Define text orientation from selection properties panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `text field`_ which should be oriented.
-    2. Define the orientation angle of the text at **Angle** field from `selection properties panel`_.
+1. Select the `text field`_ which should be oriented.
+2. Define the orientation angle of the text at **Angle** field from `selection properties panel`_.
 
-        .. figure:: ../../images/qet_text_field_prop.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_prop.png
             :align: center
 
             Figure: QElectroTech text field selection properties panel

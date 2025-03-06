@@ -14,7 +14,7 @@ The Selection properties panel displays the appearance and geometry properties f
 
 To display the Selection properties panel:
 
-    1. Select **Settings > Display > Selection properties** menu item to display the Selection properties panel.
+* Select **Settings > Display > Selection properties** menu item to display the Selection properties panel.
 
 .. _part: ../../../../element/element_parts/index.html
 .. _line: ../../../../element/element_parts/line.html

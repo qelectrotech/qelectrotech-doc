@@ -15,30 +15,30 @@ project.
 
 To replace some `conductor properties`_:
 
-    1. `Search`_ the property (Manufacturer, Lable, etc.) which identifies the `conductor`_ from which a property has to be changed.
+1. `Search`_ the property (Manufacturer, Lable, etc.) which identifies the `conductor`_ from which a property has to be changed.
 
-        .. figure:: ../../images/qet_search_menu_advanced_conductor_tree.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_conductor_tree.png
             :align: center
 
             Figure: QElectroTech search menu
 
-    2. Press the **Conductor** button to display the conductor properties PopUp window.
+2. Press the **Conductor** button to display the conductor properties PopUp window.
 
-        .. figure:: ../../images/qet_search_menu_advanced_conductor_prop.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_conductor_prop.png
             :align: center
 
             Figure: QElectroTech conductor properties replace PopUp windows
 
-    3. Fill the text line box from the `conductor property/ies`_ which should be changed.  
+3. Fill the text line box from the `conductor properties`_ which should be changed.  
 
-        .. note::
+.. note::
 
-            QElectroTech also allows deleting and making empty a filled property. Click at the 
-            cliked button from the `conductor property/ies`_ which should be deleted. 
+    QElectroTech also allows deleting and making empty a filled property. Click the 
+    checkbox button located right from the text which should be deleted. 
 
-    4. Press **Accept**.
-    5. From the `conductors`_ found at the search process, select the `conductors`_ where the replace action have to be applied. The selection can be made at the object tree from the `search menu`_.
-    6. Press **Replace all** button to apply the replace action to all selected `conductors`_.
+4. Press **Accept**.
+5. From the `conductors`_ found at the search process, select the `conductors`_ where the replace action have to be applied. The selection can be made at the object tree from the `search menu`_.
+6. Press **Replace all** button to apply the replace action to all selected `conductors`_.
 
 .. note::
 
@@ -46,8 +46,8 @@ To replace some `conductor properties`_:
     apply the action to the displayed `conductor`_ at the `workspace`_. The buttons |go-top| and 
     |go-bottom| can be used to display the previous and next `conductor`_ from the search result. 
 
-.. |go-bottom| image:: ../../images/ico/16x16/go-bottom.png
-.. |go-top| image:: ../../images/ico/16x16/go-top.png
+.. |go-bottom| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-bottom.png
+.. |go-top| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-top.png
 
 .. _conductor: ../../conductor/index.html
 .. _conductors: ../../conductor/index.html

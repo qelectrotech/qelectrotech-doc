@@ -46,7 +46,7 @@ QElectroTech allows exporting the different `folios`_ to many type of formats: *
    
 6. Press **Export** button to create the files.
 
-QElectroTech creates one file for each folio choosed at the target directory defined. 
+QElectroTech creates one file for each folio in the defined target directory. 
 
 .. seealso::
 

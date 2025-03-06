@@ -1,4 +1,4 @@
-.. _folio/index
+.. _folio/index:
 
 =====
 Folio

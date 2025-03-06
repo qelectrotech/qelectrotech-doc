@@ -6,10 +6,10 @@ Edit element
 
 To edit an `element`_:
 
-    1. `Display element properties`_ at `selection properties panel`_.
-    2. Go to `general properties`_ tab and click on the button **Edit element** to display `element editor`_.
+1. `Display element properties`_ at `selection properties panel`_.
+2. Go to `general properties`_ tab and click on the button **Edit element** to display `element editor`_.
 
-        .. figure:: ../../images/qet_panel_properties.png
+.. figure:: /_external/_images/en/qet_panel/qet_panel_properties.png
             :align: center
 
             Figure: QElectroTech general element properties

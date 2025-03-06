@@ -22,10 +22,10 @@ the corresponding keyboard shortcut.
 Cut object from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which should be cut.
-    2. Select **Edit > Cut** menu item to cut the object.
+1. `Select the object/s`_ which should be cut.
+2. Select **Edit > Cut** menu item to cut the object.
 
-    .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
         :align: center
 
         Figure: QElectroTech edit menu
@@ -33,10 +33,10 @@ Cut object from menu bar
 Cut object from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ which should be cut.
-    2. Select the icon |edit-cut| from `toolbar`_ to cut the object.
+1. `Select the object/s`_ which should be cut.
+2. Select the icon |edit-cut| from `toolbar`_ to cut the object.
 
-.. |edit-cut| image:: ../images/ico/22x22/edit-cut.png
+.. |edit-cut| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-cut.png
 
 .. note::
 
@@ -45,10 +45,10 @@ Cut object from toolbar
 Cut object by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the object which should be cut.
-    2. Select the option **Cut** to cut the object.
+1. Right click on the object which should be cut.
+2. Select the option **Cut** to cut the object.
 
-    .. figure:: ../images/qet_element_right_click.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click.png
         :align: center
 
         Figure: QElectroTech right click PopUP window
@@ -58,8 +58,8 @@ Cut object using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. `Select the object/s`_ which should be cut.
-    2. Press ``Ctrl + x`` to cut the object.
+1. `Select the object/s`_ which should be cut.
+2. Press ``Ctrl + x`` to cut the object.
 
 .. seealso::
 

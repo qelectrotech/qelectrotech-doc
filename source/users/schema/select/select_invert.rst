@@ -13,10 +13,10 @@ Inverting the selection can be done from `menu bar`_ or using the corresponding 
 Invert selection from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. `Select the object/s`_ from the activated `folio`_ which are not interested for the desired action.
-    2. Select **Edit > Invert selection** to invert the selection.
+1. `Select the object/s`_ from the activated `folio`_ which are not interested for the desired action.
+2. Select **Edit > Invert selection** to invert the selection.
     
-        .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
             :align: center
 
             Figure: QElectroTech edit menu
@@ -26,8 +26,8 @@ Invert selection using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. `Select the object/s`_ from the activated `folio`_ which are not interested for the desired action.
-    2. Press ``Ctrl + i`` to invert the selection.
+1. `Select the object/s`_ from the activated `folio`_ which are not interested for the desired action.
+2. Press ``Ctrl + i`` to invert the selection.
 
 .. seealso::
 

@@ -8,11 +8,11 @@ To be sure that any object is selected before any action, QElectroTech provides 
 all objects from the `workspace`_. This option is useful for avoiding undesired changes such as the 
 `properties from an element`_.
 
-The unselection of objects can only be done from `menu bar`_. 
+The unselecting of objects can only be done from `menu bar`_. 
 
-    1. Select **Edit > Select none** to unselect all selected object. 
+1. Select **Edit > Select none** to unselect all selected object. 
 
-        .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
             :align: center
 
             Figure: QElectroTech edit menu

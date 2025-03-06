@@ -56,7 +56,7 @@ saved as new `title block`_:
     
             Figure: QElectroTech Save as title block PopUP window
 
-2. Select the `title block`_ which should be overwrited or the `parent collection`_ and the name for the new `title block`_.
+2. Select the `title block`_ which should be overwritten or the `parent collection`_ and the name for the new `title block`_.
 3. Press **OK** button to save the `title block`_ and close the PopUP window.
 
 .. |icon_save_as| image:: /_external/_images/_site-assets/user/ico/22x22/document/document-save-as.png

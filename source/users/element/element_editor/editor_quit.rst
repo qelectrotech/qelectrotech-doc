@@ -20,9 +20,9 @@ modification has been created.
 Exit QElectroTech element editor from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **File > Quit** menu item to quit QElectroTech element editor.
+1. Select **File > Quit** menu item to quit QElectroTech element editor.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_file.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_file.png
             :align: center
 
             Figure: QElectroTech element editor file menu
@@ -32,7 +32,7 @@ Exit QElectroTech element editor using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + q`` to quit QElectroTech element editor.
+1. Press ``Ctrl + q`` to quit QElectroTech element editor.
 
 .. seealso::
 

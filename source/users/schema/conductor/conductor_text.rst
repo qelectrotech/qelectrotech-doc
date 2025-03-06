@@ -12,18 +12,18 @@ QElectroTech allows defining and displaying information text at each `conductor`
 
 To define the conductor text:
 
-    1. `Select the conductor`_ which should be edited. 
-    2. `Display conductor properties`_ PopUp window.
-    3. Go to multiline section from **Type** tab.
+1. `Select the conductor`_ which should be edited. 
+2. `Display conductor properties`_ PopUp window.
+3. Go to multiline section from **Type** tab.
 
-        .. figure:: ../../images/qet_conductor_properties_type_multiline.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_properties_type_multiline.png
             :align: center
 
             Figure: QElectroTech multiline conductor text section
 
-    4. Choose the desired parametes for text positioning, text content or formula, text size, etc.
-    5. Click the check buttom **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
-    6. Press **OK** button to save and apply the property changes.
+4. Choose the desired parametes for text positioning, text content or formula, text size, etc.
+5. Click the check buttom **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
+6. Press **OK** button to save and apply the property changes.
 
 .. seealso::
 

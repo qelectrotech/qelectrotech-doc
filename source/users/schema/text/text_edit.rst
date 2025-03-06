@@ -7,10 +7,10 @@ Edit text field
 Edit text field from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `text field`_ which should be edited.
-    2. Select **Edit > Edit the selected object** menu item to display the `text editor PopUP window`_.
+1. Select the `text field`_ which should be edited.
+2. Select **Edit > Edit the selected object** menu item to display the `text editor PopUP window`_.
 
-    .. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
         :align: center
 
         Figure: QElectroTech edit menu
@@ -18,10 +18,10 @@ Edit text field from menu bar
 Edit text field by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `text field`_ which should be edited.
-    2. Select the option **Edit the text field** to display the `text editor PopUP window`_.
+1. Right click on the `text field`_ which should be edited.
+2. Select the option **Edit the text field** to display the `text editor PopUP window`_.
 
-    .. figure:: /_external/_images/en/qet_text/qet_text_field_right_click.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_right_click.png
         :align: center
 
         Figure: QElectroTech text field options
@@ -29,10 +29,10 @@ Edit text field by right click
 Edit text field from selection properties panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `text field`_ which should be edited.
-    2. Click on **Advanced Editor** button from `selection properties panel`_ to display the `text editor PopUP window`_.
+1. Select the `text field`_ which should be edited.
+2. Click on **Advanced Editor** button from `selection properties panel`_ to display the `text editor PopUP window`_.
 
-        .. figure:: /_external/_images/en/qet_text/qet_text_field_prop.png
+.. figure:: /_external/_images/en/qet_text/qet_text_field_prop.png
             :align: center
 
             Figure: QElectroTech text field selection properties panel
@@ -46,8 +46,8 @@ Edit text field using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the `text field`_ which should be edited.
-    2. Press ``Ctrl + e`` to display the `text editor PopUP window`_.
+1. Select the `text field`_ which should be edited.
+2. Press ``Ctrl + e`` to display the `text editor PopUP window`_.
 
 .. seealso::
 

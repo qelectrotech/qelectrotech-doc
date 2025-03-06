@@ -9,9 +9,9 @@ Create ellipse
 
 The ellipse can only be added to `workspace`_ from `toolbar`_.
 
-    1. Select the icon |icon_ellipse| from `toolbar`_ to add an ellipse.
-    2. Click the position from the ellipse center point in the `workspace`_.
-    3. Click the position from the control point of the ellipse in the `workspace`_.
+1. Select the icon |icon_ellipse| from `toolbar`_ to add an ellipse.
+2. Click the position from the ellipse center point in the `workspace`_.
+3. Click the position from the control point of the ellipse in the `workspace`_.
 
 .. |icon_ellipse| image:: /_external/_images/_site-assets/user/ico/22x22/ellipse.png
 

@@ -7,42 +7,42 @@ Edit element properties
 Edit element properties from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Edit element properties** menu item to display the element properties PopUp window.
+1. Select **Edit > Edit element properties** menu item to display the element properties PopUp window.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
             :align: center
 
             Figure: QElectroTech element editor Edit Menu
 
-    2. Select the `element family`_, the base type from the `element`_, at **Type** tab.
+2. Select the `element family`_, the base type from the `element`_, at **Type** tab.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_window_property_type.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_window_property_type.png
             :align: center
 
             Figure: QElectroTech element properties **Type** tab
 
 For `simple`_, `master`_ or `terminal block`_ elements:
 
-    3. Go to **Information** tab.
+3. Go to **Information** tab.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_window_property_information.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_window_property_information.png
             :align: center
 
             Figure: QElectroTech element properties Information tab
 
-    4. Fill each predefined field with the desired information.
-    5. Press the button **OK** to accept and close the element properties PopUp window.
+4. Fill each predefined field with the desired information.
+5. Press the button **OK** to accept and close the element properties PopUp window.
 
 For  `slave`_ or `reference folio`_ elements:
 
-    3. Press the button **OK** to accept and close the element properties PopUp window.
+* Press the button **OK** to accept and close the element properties PopUp window.
 
 
 Edit element properties from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Press the icon |element-edit| from `toolbar`_ to display the element properties PopUp window.
-    2. Follow same procedure defined at the previous section starting from step 2.
+1. Press the icon |element-edit| from `toolbar`_ to display the element properties PopUp window.
+2. Follow same procedure defined at the previous section starting from step 2.
     
 .. |element-edit| image:: /_external/_images/_site-assets/user/ico/22x22/element/element-edit.png
 

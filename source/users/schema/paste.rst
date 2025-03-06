@@ -22,9 +22,9 @@ using the corresponding keyboard shortcut.
 Paste object from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Paste** menu item to paste at the active `folio`_ an object `copied`_ or `cut`_ previously.
+1. Select **Edit > Paste** menu item to paste at the active `folio`_ an object `copied`_ or `cut`_ previously.
 
-    .. figure:: ../images/qet_menu_edit.png
+.. figure:: /_external/_images/en/qet_menu/qet_menu_edit.png
         :align: center
 
         Figure: QElectroTech edit menu
@@ -32,9 +32,9 @@ Paste object from menu bar
 Paste object from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the icon |edit-paste| from `toolbar`_ to paste at the active `folio`_ an object `copied`_ or `cut`_ previously.
+1. Select the icon |edit-paste| from `toolbar`_ to paste at the active `folio`_ an object `copied`_ or `cut`_ previously.
 
-.. |edit-paste| image:: ../images/ico/22x22/edit-paste.png
+.. |edit-paste| image:: /_external/_images/_site-assets/user/ico/22x22/edit/edit-paste.png
 
 .. note::
 
@@ -43,10 +43,10 @@ Paste object from toolbar
 Paste object by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click at the `workspace`_ area where the object should be pasted.
-    2. Select the option **Paste Here** to paste an object `copied`_ or `cut`_ previously.
+1. Right click at the `workspace`_ area where the object should be pasted.
+2. Select the option **Paste Here** to paste an object `copied`_ or `cut`_ previously.
 
-    .. figure:: ../images/qet_element_right_click_paste.png
+.. figure:: /_external/_images/en/qet_element/qet_element_right_click_paste.png
         :align: center
 
         Figure: QElectroTech right click PopUP window
@@ -56,7 +56,7 @@ Paste object using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + v`` to paste at the active `folio`_ an object `copied`_ or `cut`_ previously.
+1. Press ``Ctrl + v`` to paste at the active `folio`_ an object `copied`_ or `cut`_ previously.
 
 .. seealso::
 

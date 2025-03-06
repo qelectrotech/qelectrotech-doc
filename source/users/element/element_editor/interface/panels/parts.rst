@@ -14,7 +14,7 @@ which make up the `element`_.
 
 To display the Parts panel
 
-    1. Select **Settings > Display > Parts** menu item to display the Parts panel.
+* Select **Settings > Display > Parts** menu item to display the Parts panel.
 
 .. _parts: ../../../../element/element_parts/index.html
 .. _element: ../../../../element/index.html

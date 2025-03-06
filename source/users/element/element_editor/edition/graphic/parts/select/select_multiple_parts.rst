@@ -13,11 +13,11 @@ Select multiple objects using keyboard and mouse
 
 QElectroTech allows selecting multiple `parts`_ from the `workspace`_ combining the use of the keyboard and mouse.
 
-    1. `Select`_ the first `part`_.
-    2. Press ``Ctrl``.
-    3. `Select`_ the rest of `parts`_ without releasing ``Ctrl``.
+1. `Select`_ the first `part`_.
+2. Press ``Ctrl``.
+3. `Select`_ the rest of `parts`_ without releasing ``Ctrl``.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_workspace_multiselection.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_workspace_multiselection.png
             :align: center
 
             Figure: QElectroTech schema
@@ -27,7 +27,7 @@ Select multiple objects by selecting area
 
 QElectroTech allows selecting all `parts`_ from a defined area using the mouse.
 
-    1. Left click on the initial point from the rectangular area to be selected and displace the mouse without releasing the button.
+1. Left click on the initial point from the rectangular area to be selected and displace the mouse without releasing the button.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_workspace_select_parts.png
    :align: center

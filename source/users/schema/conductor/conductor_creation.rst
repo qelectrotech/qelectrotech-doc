@@ -9,26 +9,26 @@ Manual conductor creation
 
 To create a `conductor`_ manually:
 
-    1. Select `auto numbering pattern`_ at the `Auto numbering selection panel`_.
+1. Select `auto numbering pattern`_ at the `Auto numbering selection panel`_.
 
-        .. figure:: ../../images/qet_panel_auto_numbering_conductor_pattern.png
-            :align: center
+.. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_conductor_pattern.png
+    :align: center
 
-            Figure: QElectroTech Auto numbering selection panel
+    Figure: QElectroTech Auto numbering selection panel
         
-        .. note::
+    .. note::
 
             If the `Auto numbering selection panel`_ is not displayed, it can be displayed from **Settings > 
             Display > Auto numbering selection**.
 
-    2. Click on the initial `terminal`_ from the `conductor`_.
-    3. Without releasing, move the mouse up to the end `terminal`_ of the `conductor`_.
-    4. Once the end `terminal`_ is automatically identified by QElectroTech, release the mouse to create the `conductor`_.
+2. Click on the initial `terminal`_ from the `conductor`_.
+3. Without releasing, move the mouse up to the end `terminal`_ of the `conductor`_.
+4. Once the end `terminal`_ is automatically identified by QElectroTech, release the mouse to create the `conductor`_.
 
-        .. figure:: ../../images/qet_conductor_create_manual.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_create_manual.png
 
 
-            Figure: QElectroTech manual conductor creation
+    Figure: QElectroTech manual conductor creation
 
 Automatic conductor creation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,27 +38,27 @@ To increase the working eficiency, QElectroTech can create `conductors`_ automat
 
 To create a `conductor`_ automatically:
 
-    1. Select `auto numbering pattern`_ at the `Auto numbering selection panel`_.
+1. Select `auto numbering pattern`_ at the `Auto numbering selection panel`_.
 
-        .. figure:: ../../images/qet_panel_auto_numbering_conductor_pattern.png
-            :align: center
+.. figure:: /_external/_images/en/qet_panel/qet_panel_auto_numbering_conductor_pattern.png
+    :align: center
 
-            Figure: QElectroTech Auto numbering selection panel
+    Figure: QElectroTech Auto numbering selection panel
         
-        .. note::
+    .. note::
 
             If the `Auto numbering selection panel`_ is not displayed, it can be displayed from **Settings > 
             Display > Auto numbering selection**.
 
-    2. Select the icon |autoconnect| from `toolbar`_, if it is not selected.
-    3. `Add element`_ to `workspace`_ taking care of the `element`_ position, the initial `terminal`_ and the end `terminal`_ have to be at the same vertical or horizontal line.
+2. Select the icon |autoconnect| from `toolbar`_, if it is not selected.
+3. `Add element`_ to `workspace`_ taking care of the `element`_ position, the initial `terminal`_ and the end `terminal`_ have to be at the same vertical or horizontal line.
 
-        .. figure:: ../../images/qet_conductor_create_automatic.png
+.. figure:: /_external/_images/en/qet_conductor/qet_conductor_create_automatic.png
             :align: center
 
             Figure: QElectroTech automatic conductor creation
 
-.. |autoconnect| image:: ../../images/ico/22x22/autoconnect.png
+.. |autoconnect| image:: /_external/_images/_site-assets/user/ico/22x22/autoconnect.png
 
 .. note::
 
@@ -70,7 +70,7 @@ To create a `conductor`_ automatically:
     two `terminals`_ from the same `element`_ as different potentials, QElectroTech will inform by a 
     warning PopUP window. Nevertheless, QElectroTech will create the `conductor`_
 
-            .. figure:: ../../images/qet_select_electric_potential_message.png
+    .. figure:: /_external/_images/en/qet_select/qet_select_electric_potential_message.png
                 :align: center
 
                 Figure: QElectroTech different potentials warning

@@ -19,8 +19,8 @@ corresponding keyboard shortcut.
 Copy part from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select the `part`_ which should be copied.
-    2. Select **Edit > Copy** menu item to copy the `part`_.
+1. Select the `part`_ which should be copied.
+2. Select **Edit > Copy** menu item to copy the `part`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
    :align: center
@@ -30,8 +30,8 @@ Copy part from menu bar
 Copy part by right click
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Right click on the `part`_ which should be copied.
-    2. Select the option **Copy** to copy the `part`_.
+1. Right click on the `part`_ which should be copied.
+2. Select the option **Copy** to copy the `part`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_right_click_part.png
    :align: center
@@ -43,8 +43,8 @@ Copy part using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Select the `part`_ which should be copied.
-    2. Press ``Ctrl + c`` to copy the `part`_.
+1. Select the `part`_ which should be copied.
+2. Press ``Ctrl + c`` to copy the `part`_.
 
 .. seealso::
 

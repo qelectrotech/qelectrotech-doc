@@ -27,27 +27,27 @@ QElectroTech settings, the name is displayed for the user at one language or at 
 Define element name from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Select **Edit > Edit name and information of the element** menu item to display the name editor PopUp window.
+1. Select **Edit > Edit name and information of the element** menu item to display the name editor PopUp window.
 
-        .. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
+.. figure:: /_external/_images/en/qet_element/qet_element_editor_menu_edit.png
             :align: center
 
             Figure: QElectroTech element editor Edit Menu
 
-    2. Press the button **+ Add a line** to introduce a new row at the element name table.
-    3. Define the 2 letters code language at **Language** column.
-    4. Define the element name with the defined language at **Text** column.
-    5. Press the button **OK** to accept and close the name editor PopUp window.
+2. Press the button **+ Add a line** to introduce a new row at the element name table.
+3. Define the 2 letters code language at **Language** column.
+4. Define the element name with the defined language at **Text** column.
+5. Press the button **OK** to accept and close the name editor PopUp window.
 
 
 Define element name from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    1. Press the icon |names| from the `toolbar`_ to display the name editor PopUp window.
-    2. Press the button **+ Add a line** to introduce a new row at the element name table.
-    3. Define the 2 letters code language at **Language** column.
-    4. Define the element name with the defined language at **Text** column.
-    5. Press the button **OK** to accept and close the name editor PopUp window.
+1. Press the icon |names| from the `toolbar`_ to display the name editor PopUp window.
+2. Press the button **+ Add a line** to introduce a new row at the element name table.
+3. Define the 2 letters code language at **Language** column.
+4. Define the element name with the defined language at **Text** column.
+5. Press the button **OK** to accept and close the name editor PopUp window.
 
 .. |names| image:: /_external/_images/_site-assets/user/ico/22x22/names.png
 
@@ -60,11 +60,11 @@ Define element name using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-    1. Press ``Ctrl + e`` to display the name editor PopUp window.
-    2. Press the button **+ Add a line** to introduce a new row at the element name table.
-    3. Define the 2 letters code language at **Language** column.
-    4. Define the element name with the defined language at **Text** column.
-    5. Press the button **OK** to accept and close the name editor PopUp window.
+1. Press ``Ctrl + e`` to display the name editor PopUp window.
+2. Press the button **+ Add a line** to introduce a new row at the element name table.
+3. Define the 2 letters code language at **Language** column.
+4. Define the element name with the defined language at **Text** column.
+5. Press the button **OK** to accept and close the name editor PopUp window.
 
 .. seealso::
 

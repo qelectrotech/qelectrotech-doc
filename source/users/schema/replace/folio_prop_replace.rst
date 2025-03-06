@@ -14,30 +14,30 @@ replacing `folio properties`_ without the need of opening the folio properties P
 
 To replace some `folio properties`_:
 
-    1. `Search`_ the content which should identify the `folio`_ from which a property has to be changed.
+1. `Search`_ the content which should identify the `folio`_ from which a property has to be changed.
 
-        .. figure:: ../../images/qet_search_menu_advanced_folio_tree.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_folio_tree.png
             :align: center
 
             Figure: QElectroTech search menu
 
-    2. Press the **Folio** button to display the folio properties PopUp window.
+2. Press the **Folio** button to display the folio properties PopUp window.
 
-        .. figure:: ../../images/qet_search_menu_advanced_folio_prop.png
+.. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_folio_prop.png
             :align: center
 
             Figure: QElectroTech folio properties replace PopUp windows
 
-    3. Fill the text line box from the `folio property/ies`_ which should be changed.  
+3. Fill the text line box from the `folio properties`_ which should be changed.  
 
-        .. note::
+.. note::
 
-            QElectroTech also allows deleting and making empty a filled property. Click at the 
-            right check button from the `folio property/ies`_ which should be deleted. 
+    QElectroTech also allows deleting and making empty a filled property. Click the 
+    checkbox button located right from the text which should be deleted. 
 
-    4. Press **Accept**.
-    5. From the `folios`_ found at the search process, select the `folios`_ where the replace action have to be applied. The selection can be made at the object tree from the `search menu`_.
-    6. Press **Replace all** button to apply the replace action to all selected `folios`_.
+4. Press **Accept**.
+5. From the `folios`_ found at the search process, select the `folios`_ where the replace action have to be applied. The selection can be made at the object tree from the `search menu`_.
+6. Press **Replace all** button to apply the replace action to all selected `folios`_.
 
 .. note::
 
@@ -45,8 +45,8 @@ To replace some `folio properties`_:
     apply the action to the displayed `folio`_ at the `workspace`_. The buttons |go-top| and 
     |go-bottom| can be used to display the previous and next `folio`_ from the search result. 
 
-.. |go-bottom| image:: ../../images/ico/16x16/go-bottom.png
-.. |go-top| image:: ../../images/ico/16x16/go-top.png
+.. |go-bottom| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-bottom.png
+.. |go-top| image:: /_external/_images/_site-assets/user/ico/16x16/go/go-top.png
 
 .. _element: ../../element/index.html
 .. _elements: ../../element/index.html
@@ -55,7 +55,6 @@ To replace some `folio properties`_:
 .. _folio: ../../folio/index.html
 .. _folios: ../../folio/index.html
 .. _folio properties: ../../folio/properties/index.html
-.. _folio property/ies: ../../folio/properties/index.html
 .. _Search: ../../schema/search.html
 .. _workspace: ../../interface/workspace.html
 .. _search menu: ../../interface/search_menu.html

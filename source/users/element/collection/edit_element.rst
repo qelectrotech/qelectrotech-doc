@@ -17,10 +17,10 @@ element.
 
 1. Right click on the element which should be edited.
 
-    .. figure:: /_external/_images/en/qet_element/qet_element_collection_element_right_click.png
-        :align: center
+.. figure:: /_external/_images/en/qet_element/qet_element_collection_element_right_click.png
+   :align: center
 
-        Figure: Options at element
+   Figure: Options at element
 
 2. Click the option **Edit element** to open the element at the element editor.
 3. Make the changes desired and save them.

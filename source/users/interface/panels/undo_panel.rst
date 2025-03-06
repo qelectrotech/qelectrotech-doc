@@ -22,7 +22,7 @@ To display or hidden the undo panel:
 
 The undo panel is used to return the `project`_ to the status after one of the actions made after last save. By one 
 click on one of the actions listed at undo panel, the `project`_ will return to the status after the 
-action choosed at the panel. While the `project`_ is not saved again, the user can go to the different 
+action chosen at the panel. While the `project`_ is not saved again, the user can go to the different 
 status as many times he wants.
 
 .. warning::
