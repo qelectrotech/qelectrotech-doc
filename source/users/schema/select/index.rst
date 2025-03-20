@@ -1,4 +1,4 @@
-.. _schema/select/index
+.. _schema/select/index:
 
 =============================
 Select objects from workspace

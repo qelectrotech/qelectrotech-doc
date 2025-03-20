@@ -1,4 +1,4 @@
-.. _folio/type/index
+.. _folio/type/index:
 
 =============
 Type of folio

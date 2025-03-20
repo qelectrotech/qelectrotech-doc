@@ -1,4 +1,4 @@
-.. _en/preferences/new_project/index
+.. _en/preferences/new_project/index:
 
 ====================
 New project settings

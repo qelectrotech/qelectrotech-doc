@@ -10,7 +10,7 @@ a text.
 
 .. note::
 
-   The URL link is only actived at the PDF version of the document. The link is not actived at the 
+   The URL link is only activated at the PDF version of the document. The link is not activated at the 
    native QElectroTech format. 
 
 At the current released version, version 0.7, QElectroTech allows creating an URL link internally or 

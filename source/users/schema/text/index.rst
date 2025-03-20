@@ -1,4 +1,4 @@
-.. _schema/text/index
+.. _schema/text/index:
 
 =======================
 Working with text field

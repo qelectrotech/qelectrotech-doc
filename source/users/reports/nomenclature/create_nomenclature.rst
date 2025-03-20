@@ -23,8 +23,9 @@ To create a project nomenclature:
 .. figure:: /_external/_images/en/qet_menu/qet_menu_project.png
    :align: center
 
-         Figure: QElectroTech project menu
-   
+   Figure: QElectroTech project menu
+
+  
 3. Go to **Display** tab to define display table properties.
 4. Define the **Table name** which will identify the table.
 5. Configure the display table settings (header and table cells properties, auto adjustment of table size, etc.).
@@ -32,7 +33,8 @@ To create a project nomenclature:
 .. figure:: /_external/_images/en/qet_nomenclature/qet_nomenclature_add_display.png
    :align: center
 
-         Figure: QElectroTech project menu
+   Figure: QElectroTech project menu
+
 
 6. Go to **Content** tab to define table columns.
 7. Modify the list of information to be displayed according the commands of the following table.
@@ -52,7 +54,8 @@ To create a project nomenclature:
 .. figure:: /_external/_images/en/qet_nomenclature/qet_nomenclature_add_content.png
    :align: center
 
-         Figure: QElectroTech project menu
+   Figure: QElectroTech project menu
+
 
       .. note::
 

@@ -4,8 +4,8 @@
 Slave element
 ==================
 
-The slave elements represent the power circuit devices such the main contactors from 
-power contactors. The slave elements also represent the auxiliary contactors. Even if an 
+The slave elements represent the power circuit devices such the main contacts from a
+power contactor. The slave elements also represent the auxiliary contacts. Even if an 
 auxiliary contactor is part of the command circuit, its activation is forced by another 
 element.
 

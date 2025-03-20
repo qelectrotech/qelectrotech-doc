@@ -1,4 +1,4 @@
-.. _en/schema/element/index
+.. _en/schema/element/index:
 
 =======================
 Working with elements

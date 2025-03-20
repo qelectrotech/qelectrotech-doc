@@ -13,8 +13,8 @@ QElectroTech allows the following actions:
 Icon                   Action              Definition                                     Keyboard shortcut
 =================      ==============      ==========================================     =========================
 |bring_forward|        Bring to front      Brings the selection (s) to front              ``Ctrl + Shift + Home``
-|raise|                Raise               Aproachs the selection (s)                     ``Ctrl + Shift + Up``
-|lower|                Lower               Moves away the selection (s)                   ``Ctrl + Shift + Down``
+|raise|                Raise               Move over other elements (s)                   ``Ctrl + Shift + Up``
+|lower|                Lower               Moves under other elements (s)                 ``Ctrl + Shift + Down``
 |send_backward|        Send backwards      Sends in the backwards the selection (s)       ``Ctrl + Shift + End``
 =================      ==============      ==========================================     =========================
 

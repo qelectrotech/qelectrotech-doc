@@ -33,7 +33,7 @@ To create a `conductor`_ manually:
 Automatic conductor creation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To increase the working eficiency, QElectroTech can create `conductors`_ automatically when an 
+To increase the working efficiency, QElectroTech can create `conductors`_ automatically when an 
 `element`_ is added to the `workspace`_.
 
 To create a `conductor`_ automatically:

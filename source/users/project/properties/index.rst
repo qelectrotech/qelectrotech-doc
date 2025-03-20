@@ -1,4 +1,4 @@
-.. _project/properties/index
+.. _project/properties/index:
 
 ==================
 Project properties

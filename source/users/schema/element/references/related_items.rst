@@ -39,7 +39,7 @@ Show slave linked item
             Figure: QElectroTech cross reference tab element properties
 
 4. Search and select the desired `slave element`_ from the **Element related** table.
-5. Right clik on the `slave element`_ and select the option **Show item** to find and display the `master element`_.
+5. Right click on the `slave element`_ and select the option **Show item** to find and display the `master element`_.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_slave_link.png
             :align: center

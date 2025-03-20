@@ -4,8 +4,7 @@
 Reset conductors
 ================
 
-QElectroTech provides the posibility to return to the default route once a conductor 
-route has been modify.
+QElectroTech provides the possibility to return to the default route of a modified conductor.
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_reset.png
    :align: center
@@ -18,7 +17,7 @@ QElectroTech allows resetting the route of a `conductor`_ from `menu bar`_, `too
 Reset conductor from menu bar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. `Select the conductor`_ which route should be reseted.
+1. `Select the conductor`_ which route should be reset.
 2. Select **Edit > Reset conductors** menu item to reset the conductor route.
 
 .. figure:: /_external/_images/en/qet_menu/qet_menu_edit_conductor.png
@@ -29,7 +28,7 @@ Reset conductor from menu bar
 Reset conductor from toolbar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. `Select the conductor`_ which route should be reseted.
+1. `Select the conductor`_ which route should be reset.
 2. Select the icon |conductor2| from `toolbar`_ to reset the conductor route.
 
 .. |conductor2| image:: /_external/_images/_site-assets/user/ico/22x22/conductor2.png
@@ -41,7 +40,7 @@ Reset conductor from toolbar
 Reset conductor from workspace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Right click on the conductor which route should be reseted.
+1. Right click on the conductor which route should be reset.
 2. Select the option **Reset conductors** to reset the conductor route.
 
 .. figure:: /_external/_images/en/qet_conductor/qet_conductor_right_click.png
@@ -54,7 +53,7 @@ Reset conductor using keyboard shortcut
 
 QElectroTech allows using keyboard shortcut to increase the working efficiency.
 
-1. `Select the conductor`_ which route should be reseted.
+1. `Select the conductor`_ which route should be reset.
 2. Press ``Ctrl + k`` to reset the conductor route.
 
 .. seealso::

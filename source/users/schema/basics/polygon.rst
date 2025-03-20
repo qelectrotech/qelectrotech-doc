@@ -40,8 +40,8 @@ the initial and end line segments from the polygon are connected, the polygon de
 
 When the polygon do not define a closed area, the properties from the polygon object are the same as a `line object`_.
 
-When the poligon defines a closed area, the **Closed polygon** check button from the polygon 
-properties panel is selected, the polygon object has the same propertias as a `rectangle object`_.
+When the polygon defines a closed area, the **Closed polygon** check button from the polygon 
+properties panel is selected, the polygon object has the same properties as a `rectangle object`_.
 
 .. note::
 
@@ -102,7 +102,7 @@ QElectroTech allows using keyboard shortcut to increase the working efficiency.
 Add new point to polygon
 ########################
 
-1. Right click on the place from the edges/lines of the polygon where the new porint should be created.
+1. Right click on the place from the edges/lines of the polygon where the new point should be created.
 2. Select the option **Add a point** to create the new point at the polygon.
 
 .. figure:: /_external/_images/en/qet_polygon/qet_polygon_add_point.png

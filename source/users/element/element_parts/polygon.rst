@@ -23,7 +23,7 @@ The polygon can only be added to `workspace`_ from `toolbar`_.
 Polygon properties
 ~~~~~~~~~~~~~~~~~~
 
-Element part proterties can be displayed from `information panel`_ when the part is 
+Element part properties can be displayed from `information panel`_ when the part is 
 selected.
 
 .. note::
@@ -64,7 +64,7 @@ QElectroTech allows customizing different polygon properties:
     
     :Coordinates:
 
-        The polygon points coordinates (x, y) can be defined and storaged in a list.
+        The polygon points coordinates (x, y) can be defined and stored in a list.
 
 .. _workspace: ../../element/element_editor/interface/workspace.html
 .. _toolbar: ../../element/element_editor/interface/toolbars.html

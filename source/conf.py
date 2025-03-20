@@ -22,6 +22,7 @@ extensions = [
     'sphinx_copybutton',
     'sphinx.ext.extlinks',
     "sphinx_design",
+    "breathe",
 ]
 
 templates_path = ['_templates']

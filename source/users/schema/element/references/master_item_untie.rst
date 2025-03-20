@@ -32,7 +32,7 @@ A `Slave element`_ can be unlinked from a `master element`_ as follow:
 
 .. note::
 
-   The `slave element`_ can also be unlinked by right clik on the `element`_ and selecting the option **Unlink the item**.
+   The `slave element`_ can also be unlinked by right click on the `element`_ and selecting the option **Unlink the item**.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_master_unlink.png
     :align: center

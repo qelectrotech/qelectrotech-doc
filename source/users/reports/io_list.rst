@@ -1,4 +1,4 @@
-.. _reports/io_list
+.. _reports/io_list:
 
 ========
 I/O list

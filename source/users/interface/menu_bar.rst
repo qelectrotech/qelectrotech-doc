@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
@@ -39,7 +39,7 @@ File menu
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
 | Close            | Closes the current project                                       |   ``Ctrl + w``            | |project-close|    |
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
-| Export           | Exports the current folio to another format                       |   ``Ctrl + Shift + x``    | |document-export|  | 
+| Export           | Exports the current folio to another format                      |   ``Ctrl + Shift + x``    | |document-export|  | 
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
 | Print            | Print one or more folio of the current project                   |   ``Ctrl + p``            | |document-print|   |
 +------------------+------------------------------------------------------------------+---------------------------+--------------------+
@@ -99,9 +99,9 @@ Edit menu
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Bring to front           | Brings the selection (s) to front                           |  ``Ctrl + Shift + Home``  | |bring_forward|       |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Raise                    | Aproachs the selection (s)                                  |  ``Ctrl + Shift + Up``    | |raise|               |
+|  Raise                    | Moves under over objects (s)                                |  ``Ctrl + Shift + Up``    | |raise|               |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
-|  Lower                    | Moves away the selection (s)                                |  ``Ctrl + Shift + Down``  | |lower|               |
+|  Lower                    | Moves under other objects (s)                               |  ``Ctrl + Shift + Down``  | |lower|               |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
 |  Send backwards           | Sends in the backwards the selection (s)                    |  ``Ctrl + Shift + End``   | |send_backward|       |
 +---------------------------+-------------------------------------------------------------+---------------------------+-----------------------+
@@ -167,7 +167,7 @@ Display menu
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Zoom content                   | Adjusts the zoom to display all the content of folio regardless of context                 |  ``Ctrl + 8``          | |zoom-draw|          |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
-| Fit in view                    | Adjusts the zoom on exactly the part of the folio                                         |  ``Ctrl + 9``          | |view-fit-window|    |
+| Fit in view                    | Adjusts the zoom on exactly the part of the folio                                          |  ``Ctrl + 9``          | |view-fit-window|    |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
 | Reset zoom                     | Restores default zoom level                                                                |  ``Ctrl + 0``          | |zoom-original|      |
 +--------------------------------+--------------------------------------------------------------------------------------------+------------------------+----------------------+
@@ -229,11 +229,11 @@ Help menu
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About QElectroTech                  | Displays information about QElectroTech                                               |                           | |qet-icon|        |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Online manual                       | Launches the default browser to the online manual of QElectroTech                      | ``f1``                    | |help-contents|   |
+| Online manual                       | Launches the default browser to the online manual of QElectroTech                     | ``f1``                    | |help-contents|   |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Youtube channel                     | Launches the default browser on the Youtube channel of QElectroTech                    |                           | |show-video|      |
+| Youtube channel                     | Launches the default browser on the Youtube channel of QElectroTech                   |                           | |show-video|      |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
-| Support the project with a donation | Launches the default browser on the QElectroTech donation paypal account               |                           | |help-donate|     |
+| Support the project with a donation | Launches the default browser on the QElectroTech donation paypal account              |                           | |help-donate|     |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+
 | About Qt                            | Displays information about `Qt`_ library                                              |                           | |qt-icon|         |
 +-------------------------------------+---------------------------------------------------------------------------------------+---------------------------+-------------------+

@@ -5,7 +5,7 @@ Replace conductor property
 ==========================
 
 QElectroTech provides the feature of automatic searching of `conductor`_ with an specific property for 
-replacing `conductor properties`_ without the need of searching the `conductor`_ manually arround the 
+replacing `conductor properties`_ without the need of searching the `conductor`_ manually around the 
 project. 
 
 .. note::
@@ -15,7 +15,7 @@ project.
 
 To replace some `conductor properties`_:
 
-1. `Search`_ the property (Manufacturer, Lable, etc.) which identifies the `conductor`_ from which a property has to be changed.
+1. `Search`_ the property (Manufacturer, Label, etc.) which identifies the `conductor`_ from which a property has to be changed.
 
 .. figure:: /_external/_images/en/qet_search/qet_search_menu_advanced_conductor_tree.png
             :align: center

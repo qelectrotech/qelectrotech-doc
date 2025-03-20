@@ -21,8 +21,8 @@ To define the conductor text:
 
             Figure: QElectroTech multiline conductor text section
 
-4. Choose the desired parametes for text positioning, text content or formula, text size, etc.
-5. Click the check buttom **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
+4. Choose the desired parameters for text positioning, text content or formula, text size, etc.
+5. Click the check button **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
 6. Press **OK** button to save and apply the property changes.
 
 .. seealso::

@@ -25,7 +25,7 @@ The terminal can only be added to `workspace`_ from `toolbar`_.
 Terminal properties
 ~~~~~~~~~~~~~~~~~~~
 
-Element part proterties can be displayed from `information panel`_ when the part is 
+Element part properties can be displayed from `information panel`_ when the part is 
 selected.
 
 .. note::

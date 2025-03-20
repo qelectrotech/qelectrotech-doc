@@ -48,8 +48,8 @@ Delete title block from collection
 
 .. warning::
 
-    The template deleted from one collection cannot be recovered, it will be deleted from QElectroTech 
-    "dataabse" and from the computer file system. Be sure about the operation.
+    The template deleted from one collection cannot be recovered, it will be deleted from the QElectroTech 
+    "database" and from the computer file system. Be sure about the operation.
 
 .. _project panel: ../../interface/panels/projects_panel.html
 .. _QET: ../../folio/title_block/collection/title_block_qet_collection.html

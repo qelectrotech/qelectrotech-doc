@@ -1,4 +1,4 @@
-.. _reports/nomenclature/index
+.. _reports/nomenclature/index:
 
 ============
 Nomenclature

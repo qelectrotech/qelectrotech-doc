@@ -1,4 +1,4 @@
-.. _schema/basics/index
+.. _schema/basics/index:
 
 =============
 Basic objects

@@ -26,7 +26,7 @@ A `slave element`_ can be linked to a `master element`_ with the following steps
 
             Figure: QElectroTech cross reference tab element properties
 
-4. Search and select the desired `slave element`_ from the **Availabel elements** table.
+4. Search and select the desired `slave element`_ from the **Available elements** table.
 5. Press **Bind item** |icon_bind| to link the `slave element`_ to the `master element`_.
 6. Press **Apply** to accept and save the changes.
 
@@ -34,8 +34,8 @@ A `slave element`_ can be linked to a `master element`_ with the following steps
 
 .. note::
 
-   At the avaliable elements table, the `slave element`_ can also be linked by right click on the 
-   `element`_ and selectimg the option **Link the item**.
+   At the available elements table, the `slave element`_ can also be linked by right click on the 
+   `element`_ and selecting the option **Link the item**.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_master_link.png
     :align: center

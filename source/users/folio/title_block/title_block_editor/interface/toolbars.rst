@@ -5,7 +5,7 @@ Toolbars
 ========
 
 In addition to the different menus, QElectroTech provides also toolbars. The toolbars are groups 
-of buttons with icons which initiate an accion. In general, these buttons have its counterpart at one of 
+of buttons with icons which initiate an action. In general, these buttons have its counterpart at one of 
 the menus from the `menu bar`_.
 
 The different toolbars can be hidden or placed in one or more rows below the `menu bar`_. The toolbars 

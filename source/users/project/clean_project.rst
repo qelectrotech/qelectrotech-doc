@@ -28,7 +28,7 @@ QElectroTech allows cleaning the project database from `menu bar`_.
 
 .. note::
 
-   Cleaning the `project`_ is recommended to reduce the size of the project file and inclease the 
+   Cleaning the `project`_ is recommended to reduce the size of the project file and increase the 
    loading speed.
 
 .. _project: ../project/index.html

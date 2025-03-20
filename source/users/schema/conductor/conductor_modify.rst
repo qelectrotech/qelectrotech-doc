@@ -4,7 +4,7 @@
 Modify conductor
 ================
 
-QElectrotech draws by default a `conductor`_ minimizing the horizontal and vertical lines. 
+QElectroTech draws by default a `conductor`_ minimizing the horizontal and vertical lines. 
 Changing the route of the `conductor`_ for a clear understanding of the `schema`_ is some times necessary. 
 QElectroTech allows modifying the route.
 

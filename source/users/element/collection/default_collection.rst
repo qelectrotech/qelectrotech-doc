@@ -21,7 +21,7 @@ The QET collection has the following categories:
 
 :Logic:
 
-    Logic signal symbols (AND, OR, NOT, NOR, etc.), Grafcet symbols, Ladder symbols and flow char symbols. 
+    Logic signal symbols (AND, OR, NOT, NOR, etc.), GRAFCET symbols, Ladder symbols and flow char symbols. 
 
 :Hydraulic:
 
@@ -29,7 +29,7 @@ The QET collection has the following categories:
 
 :Pneumatic:
 
-    Collection of hydrualic components (Compressor, cylinders, air filters, directional valves, etc.)
+    Collection of hydraulic components (Compressor, cylinders, air filters, directional valves, etc.)
 
 :Energy:
 

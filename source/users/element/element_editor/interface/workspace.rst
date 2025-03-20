@@ -13,5 +13,5 @@ The drawing area or workspace looks as follow:
 
    Figure: QElectroTech element editor workspace
 
-The scrollbars are not appearing when the element editor is displayed, rolling the wheel from 
-the mouse to zoom in and th scrollbars will appear. 
+The scrollbar are not appearing at first when the element editor is displayed. Rolling the wheel from 
+the mouse to zoom will make the scrollbar appear. 

@@ -1,4 +1,4 @@
-.. _folio/properties/index
+.. _folio/properties/index:
 
 ================
 Folio properties

@@ -20,7 +20,7 @@ To change the conductor appearance:
 
 
 4. Choose the desired parameters for main color and secondary color if necessary.
-5. Click the check buttom **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
+5. Click the check button **Apply properties to all conductor of this potential** if the changes should be applied for all `conductor`_ with common initial or end `terminal`_.
 6. Click or unclick the option **Apply properties to all conductors of this potential**.
 7. Press **OK** button to save and apply the property changes.
 

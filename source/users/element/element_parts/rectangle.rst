@@ -22,7 +22,7 @@ The rectangle can only be added to `workspace`_ from `toolbar`_.
 Rectangle properties
 ####################
 
-Element part proterties can be displayed from `information panel`_ when the part is 
+Element part properties can be displayed from `information panel`_ when the part is 
 selected.
 
 .. note::
@@ -57,12 +57,12 @@ QElectroTech allows customizing different rectangle properties:
 
     :Coordinates:
 
-        The upper left vertice coordinates (x, y) can be defined.
+        The upper left vertices coordinates (x, y) can be defined.
 
     :Dimensions:
 
         The width and the height of the rectangle can be defined. The tangent point at the vertical 
-        and horizontal edges can also be defined at the case that round verteg is desired. 
+        and horizontal edges can also be defined at the case that a round vertex is desired. 
 
 Rounding rectangle vertices
 ###########################
@@ -78,8 +78,8 @@ Rounding rectangle vertices from information panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     1. Select the rectangle to display the rectangle properties at `information panel`_.
-    2. Define the distance between the vertice and the intersection point at the vertical edges.
-    3. Define the distance between the vertice and the intersection point at the horizontal edges.
+    2. Define the distance between the vertices and the intersection point at the vertical edges.
+    3. Define the distance between the vertices and the intersection point at the horizontal edges.
     4. Press intro.
     5. **Select none** from **Edit** menu or use ``Ctrl + Shift + a`` keyboard shortcut.
 

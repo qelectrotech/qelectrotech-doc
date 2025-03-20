@@ -35,7 +35,7 @@ General variables
 
 Specific variables
 
-* **Label formula**: Definition of the formula which defines the **Label** value. If a auto numbering pattern is selected during terminal creation, QElectroTech defiens ``%autnum`` as default formula.
+* **Label formula**: Definition of the formula which defines the **Label** value. If a auto numbering pattern is selected during terminal creation, QElectroTech defines ``%autnum`` as default formula.
 * **Label**: Internal variable which is used to defines the element code.
 * **Annotation**: Internal variable, it cannot be a formula (group of other variables).
 * **Textual description**: Internal variable, it cannot be a formula (group of other variables).
@@ -43,8 +43,8 @@ Specific variables
 * **Manufacturer**: Internal variable, it cannot be a formula (group of other variables).
 * **Order number**: Internal variable, it cannot be a formula (group of other variables).
 * **Supplier**: Internal variable, it cannot be a formula (group of other variables).
-* **Auxiliry block 1**: Internal variable, it cannot be a formula (group of other variables).
-* **Auxiliry block 2**: Internal variable, it cannot be a formula (group of other variables).
+* **Auxiliary block 1**: Internal variable, it cannot be a formula (group of other variables).
+* **Auxiliary block 2**: Internal variable, it cannot be a formula (group of other variables).
 * **Internal number**: Internal variable, it cannot be a formula (group of other variables).
 * **Location**: Internal variable, it cannot be a formula (group of other variables).
 * **Function**: Internal variable, it cannot be a formula (group of other variables).

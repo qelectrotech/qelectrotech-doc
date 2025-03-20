@@ -13,7 +13,7 @@ Rotate text field
 #################
 
 The text field is considered an object by QElectroTech, it can be selected, placed and rotated as 
-`elements`_ and `pictures`_. It can be rorated *90*, *180* or *270* degrees.
+`elements`_ and `pictures`_. It can be rotated *90*, *180* or *270* degrees.
 
 1. Right click on the `text field`_ which should be rotated.
 

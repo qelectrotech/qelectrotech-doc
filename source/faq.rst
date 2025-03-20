@@ -13,7 +13,7 @@ What is QET?
 Why does </feature> isn't yet implemented?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Contrary to proprietary drawing softwares, QET is a a hobby project created by `the QElectroTech Team <https://qelectrotech.org/contact.php>`_. 
+Contrary to proprietary drawing software, QET is a a hobby project created by `the QElectroTech Team <https://qelectrotech.org/contact.php>`_. 
 As we are a small developer team, we sadly do not have the capacity to implement every feature that our users propose.
 
 That said, if you have some experience in C programming or with `QT <https://doc.qt.io/>`_ and are willing to implement a feature for QET, please do. 

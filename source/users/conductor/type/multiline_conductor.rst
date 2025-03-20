@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
@@ -16,7 +16,7 @@ systems.
 .. note::
 
    At fluid power schemas, a multiline conductor represents each pressure, return and 
-   pilote line.
+   control line.
 
 The main difference of multiline with respect to `single line conductors`_ is the possibility to 
 display text which is linked to the `conductor properties`_. 

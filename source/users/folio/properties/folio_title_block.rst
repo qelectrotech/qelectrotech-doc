@@ -11,7 +11,7 @@ template used at the `folio`_. The folio variables can also be managed from this
 
    To reduce the creation time, QElectroTech allows creating some pre-setting for all future 
    folios that will be created in the project. The folio variable values and the `folio title block`_ 
-   can be prefedined at the project properties. For more information about how to pre-define folio 
+   can be predefined at the project properties. For more information about how to pre-define folio 
    properties, refer to `project properties`_ section.
 
 The title block section is organized on three different areas: title block selection area, main 
@@ -20,7 +20,7 @@ variable tab and custom variable tab.
 Title block selection area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The title block selection area is used to defne the `folio title block`_. The actions that can be 
+The title block selection area is used to define the `folio title block`_. The actions that can be 
 managed from this section are:
 
 1. Select the `folio title block`_ from the `project title block collection`_.
@@ -35,7 +35,7 @@ managed from this section are:
 
 .. seealso::
   
-    For more information about QEelctroTech title block, refer to `title block`_ section.
+    For more information about QElectroTech title block, refer to `title block`_ section.
 
 .. |titleblock-bottom| image:: /_external/_images/_site-assets/user/ico/22x22/titleblock/titleblock-bottom.png
 .. |titleblock-right| image:: /_external/_images/_site-assets/user/ico/22x22/titleblock/titleblock-right.png

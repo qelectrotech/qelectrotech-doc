@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
@@ -41,7 +41,7 @@ conductor. The parameters which can be defined are:
     Displaying the `conductor TAG (code)`_ at `multiline diagrams`_ is usual for an easily manage of the 
     manufacturing, erection, commissioning and maintenance phase of the product.
 
-    QElectroTech allows an automatic conducto number definition for the text using the variable 
+    QElectroTech allows an automatic conductor number definition for the text using the variable 
     ``%autonum`` at the **Text formula** field. This field have to be defined at `Folio properties`_ 
     before starting the `conductor creation`_. 
 

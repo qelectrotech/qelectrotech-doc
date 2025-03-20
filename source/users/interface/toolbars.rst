@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
@@ -8,7 +8,7 @@ Toolbars
 ========
 
 In addition to the different `menus`_, QElectroTech also provides toolbars. The toolbars are 
-groups of buttons with icons which initiate accions. In general, these buttons have its 
+groups of buttons with icons which initiate actions. In general, these buttons have its 
 counterpart at one of the menus from the `menu bar`_. 
 
 .. note::

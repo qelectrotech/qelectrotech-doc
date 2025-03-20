@@ -4,7 +4,7 @@
 What is a collection?
 =====================
 
-A title block collection is a database where all title block files are storaged and 
+A title block collection is a database where all title block files are stored and 
 classified. 
 
 QElectroTech has two different title block collections integrated, `QET collection`_ and 

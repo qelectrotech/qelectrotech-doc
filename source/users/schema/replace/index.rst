@@ -1,4 +1,4 @@
-.. _schema/replace/index
+.. _schema/replace/index:
 
 =======
 Replace

@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
@@ -16,7 +16,7 @@ power (pressure or flow volume) between source and target.
 
    Figure: QElectroTech conductor 
 
-In physical systems, T-crosses are uset at fluid lines and terminal blocks are used to feed different 
+In physical systems, T-crosses are used at fluid lines and terminal blocks are used to feed different 
 electrical devices from the same source. QElectroTech also allows multiple connections between source 
 and target.
 

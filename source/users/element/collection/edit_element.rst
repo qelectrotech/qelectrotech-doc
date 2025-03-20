@@ -12,7 +12,7 @@ collections, the collections panel has to be displayed.
    Select **Settings > Display > Collections** menu item to display the Collections panel.
 
 QElectroTech allows editing existing element from some collection. The user has only read rights at QET 
-element collection, the user can edite already existing element from all collections except QET collection 
+element collection, the user can edit already existing element from all collections except QET collection 
 element.
 
 1. Right click on the element which should be edited.

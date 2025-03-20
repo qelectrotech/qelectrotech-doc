@@ -14,7 +14,7 @@ Create rectangle
 The rectangle can only be added to the `workspace`_ by `toolbar`_.
 
 1. Select the icon |rectangle| from `toolbar`_ to add a rectangle.
-2. Click on the initial vertix from the rectangle.
+2. Click on the initial vertex from the rectangle.
 3. Click on the end vertex from the rectangle.
 
 .. |grid| image:: /_external/_images/_site-assets/user/ico/22x22/grid.png
@@ -27,7 +27,7 @@ The rectangle can only be added to the `workspace`_ by `toolbar`_.
 Rectangle properties
 #######################
 
-The edges and the internal area from the triangle can be costumized at QElectroTech.   
+The edges and the internal area from the triangle can be customized at QElectroTech.   
 
 * The edges from a rectangle have the same properties as a `line`_.
 * The type of filling for closed primitive objects (rectangle, ellipse and closed polygon) are: **None**, **Solid line** and some types of grids.

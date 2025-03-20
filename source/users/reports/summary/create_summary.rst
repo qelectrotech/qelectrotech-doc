@@ -1,4 +1,4 @@
-.. _reports/summary/create_summary
+.. _reports/summary/create_summary:
 
 ==============
 Create summary
@@ -20,8 +20,9 @@ To create a project summary:
 .. figure:: /_external/_images/en/qet_menu/qet_menu_project.png
    :align: center
 
-         Figure: QElectroTech project menu
-   
+   Figure: QElectroTech project menu
+
+  
 3. Go to **Display** tab to define display table properties.
 4. Define the **Table name** which will identify the table.
 5. Configure the display table settings (header and table cells properties, auto adjustment of table size, etc.).
@@ -29,7 +30,8 @@ To create a project summary:
 .. figure:: /_external/_images/en/qet_summary/qet_summary_add_display.png
    :align: center
 
-         Figure: QElectroTech project menu
+   Figure: QElectroTech project menu
+
 
 6. Go to **Content** tab to define table columns.
 7. Modify the table content using the following commands:
@@ -46,10 +48,12 @@ To create a project summary:
 |  |go_down|          | Move down this field                                      |  Double-click on element  |
 +---------------------+-----------------------------------------------------------+---------------------------+
 
+
 .. figure:: /_external/_images/en/qet_summary/qet_summary_add_content.png
    :align: center
 
-         Figure: QElectroTech project menu
+   Figure: QElectroTech project menu
+
 
       .. note::
 

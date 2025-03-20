@@ -1,4 +1,4 @@
-.. _reports/summary/index
+.. _reports/summary/index:
 
 =========
 Summary

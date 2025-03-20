@@ -27,16 +27,16 @@ A line can only be added to the `workspace`_ by `toolbar`_.
 Line properties
 ###############
 
-QElectroTech allows customizing the type of line, the thikness from the line and the color of the line. 
+QElectroTech allows customizing the type of line, the thickness from the line and the color of the line. 
 
-* The different types of lines are: **normal**, **dashed**, **dotted**, **dots and dasches**, **dash dot dot** and **custom dash line**.
+* The different types of lines are: **normal**, **dashed**, **dotted**, **dots and dashes**, **dash dot dot** and **custom dash line**.
 
 .. figure:: /_external/_images/en/qet_line/qet_line_type.png
             :align: center
 
             Figure: QElectroTech Color selection PopUP window
 
-* The possible line thiknes are between 0.2 and 50 mm (0.2, 0.4, 0.8, 0.6, 0.8, 1, 1.2, 1.4, ... , 50).
+* The possible line thickness are between 0.2 and 50 mm (0.2, 0.4, 0.8, 0.6, 0.8, 1, 1.2, 1.4, ... , 50).
 * The possible colors are defined by the `RGB scale range`_.
 
 .. note::

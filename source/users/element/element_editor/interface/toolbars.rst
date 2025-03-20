@@ -5,7 +5,7 @@ Element editor toolbars
 =======================
 
 In addition to the different menus, QElectroTech provides also toolbars. The toolbars are groups 
-of buttons with icons which initiate an accion. In general, these buttons have its counterpart at one of 
+of buttons with icons which initiate an action. In general, these buttons have its counterpart at one of 
 the menus from the `menu bar`_.
 
 The different toolbars can be hidden or placed in one or more rows below the `menu bar`_. The toolbars 
@@ -143,9 +143,9 @@ The different buttons from toolbar **Depth** are:
 +=====================+===========================================================+===========================+===================+
 |  Bring forward      | Brings the selection (s) to front                         |  ``Ctrl + shift + Home``  | |bring_forward|   |
 +---------------------+-----------------------------------------------------------+---------------------------+-------------------+
-|  Raise              | Aproachs the selection (s)                                |  ``Ctrl + shift + Up``    | |raise|           |
+|  Raise              | Moves the selection over other objects (s)                |  ``Ctrl + shift + Up``    | |raise|           |
 +---------------------+-----------------------------------------------------------+---------------------------+-------------------+
-|  Lower              | Moves away the selection (s)                              |  ``Ctrl + shift + Down``  | |lower|           |
+|  Lower              | Moves the selection under other objects (s)               |  ``Ctrl + shift + Down``  | |lower|           |
 +---------------------+-----------------------------------------------------------+---------------------------+-------------------+
 |  Send backwards     | Sends in the backwards the selection (s)                  |  ``Ctrl + shift + End``   | |send_backward|   |
 +---------------------+-----------------------------------------------------------+---------------------------+-------------------+

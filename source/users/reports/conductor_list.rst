@@ -1,4 +1,4 @@
-.. _reports/conductor_list
+.. _reports/conductor_list:
 
 ==============
 Conductor list

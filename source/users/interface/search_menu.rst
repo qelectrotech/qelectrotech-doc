@@ -1,18 +1,18 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
 .. _interface/search_menu:
 
-==========
+===========
 Search menu
-==========
+===========
 
 The search menu allows searching `elements`_, `folios`_ or `conductors`_ which have a text field or property with 
 an specific value. The search menu allows finding automatically an `element`_ with a desired label, list 
 the `folios`_ from an specific author, etc. 
 
-QElectrotech provides a basic and simple search menu composed by a text box which allows writing the 
+QElectroTech provides a basic and simple search menu composed by a text box which allows writing the 
 desired string which should be found and some buttons for closing the menu, actualizing the search 
 and going to next and previous coincidence.
 

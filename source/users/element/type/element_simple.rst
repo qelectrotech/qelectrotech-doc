@@ -5,7 +5,7 @@ Simple element
 ==================
 
 The simple element is used to represent devices such actuators (electric motors, cylinders, 
-pneumatic or hydraulic valves, etc.), control devices (PLC, microcontrollers, etc.), circuit 
+pneumatic or hydraulic valves, etc.), control devices (PLC, Microcontrollers, etc.), circuit 
 breakers, etc.
 
 .. figure:: /_external/_images/en/qet_element/qet_element_simple_element.png
@@ -38,8 +38,8 @@ Specific variables
 * **Manufacturer**: Internal variable, it cannot be a formula (group of other variables).
 * **Order number**: Internal variable, it cannot be a formula (group of other variables).
 * **Supplier**: Internal variable, it cannot be a formula (group of other variables).
-* **Auxiliry block 1**: Internal variable, it cannot be a formula (group of other variables).
-* **Auxiliry block 2**: Internal variable, it cannot be a formula (group of other variables).
+* **Auxiliary block 1**: Internal variable, it cannot be a formula (group of other variables).
+* **Auxiliary block 2**: Internal variable, it cannot be a formula (group of other variables).
 * **Internal number**: Internal variable, it cannot be a formula (group of other variables).
 * **Location**: Internal variable, it cannot be a formula (group of other variables).
 * **Function**: Internal variable, it cannot be a formula (group of other variables).

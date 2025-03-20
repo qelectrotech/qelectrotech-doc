@@ -16,7 +16,7 @@ This property field is provided to allow the user defining the author and/or lic
 To display/edit the extra information from the `title block`_:
 
 1. `Display title block`_ in the `title block editor`_.
-2. Go to **Edit > Edite extra information** menu item to display extra information PopUP window.
+2. Go to **Edit > Edit extra information** menu item to display extra information PopUP window.
 
 .. figure:: /_external/_images/en/qet_title/qet_title_blok_editor_menu_edit.png
     :align: center

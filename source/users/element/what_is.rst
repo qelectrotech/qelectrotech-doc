@@ -28,7 +28,7 @@ The element can be classified at different families:
 * `Terminal block`_
 
 The graphical representation information characteristics are the same for all families. 
-The element data properties fields and the possible interloking options are different 
+The element data properties fields and the possible interlocking options are different 
 between families.
 
 .. _Simple: ../element/type/element_simple.html

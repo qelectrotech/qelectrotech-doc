@@ -1,4 +1,4 @@
-.. _schema/element/references/index
+.. _schema/element/references/index:
 
 ============================
 Working with cross reference

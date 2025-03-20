@@ -1,4 +1,4 @@
-.. _users/schema/conductor/index
+.. _users/schema/conductor/index:
 
 =======================
 Working with conductors

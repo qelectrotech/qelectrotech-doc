@@ -23,7 +23,7 @@ The arc can only be added to `workspace`_ from `toolbar`_.
 Arc properties
 ##############
 
-Element part proterties can be displayed from `information panel`_ when the part is 
+Element part properties can be displayed from `information panel`_ when the part is 
 selected.
 
 .. note::
@@ -66,7 +66,7 @@ QElectroTech allows customizing different arc properties:
     
     :Point:
 
-        The position of initial point and end point are defined as angle of the radius betuen the center and the respective point with the horizontal diameter. The angle value follows the mathematical rules, anti-clockwise for positive angles.
+        The position of initial point and end point are defined as angle of the radius between the center and the respective point with the horizontal diameter. The angle value follows the mathematical rules, anti-clockwise for positive angles.
 
 Arc extreme points definition
 #############################
@@ -82,7 +82,7 @@ Arc extreme points definition from information panel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Select the arc to display the rectangle properties at `information panel`_.
-2. Define the start angle, the angle from the diamete of the start point and the horizontal axes.
+2. Define the start angle, the angle from the diameter of the start point and the horizontal axes.
 3. Define the angle from the initial point and the end point of the arc.
 4. Press intro.
 5. **Select none** from **Edit** menu or use ``Ctrl + Shift + a`` keyboard shortcut.

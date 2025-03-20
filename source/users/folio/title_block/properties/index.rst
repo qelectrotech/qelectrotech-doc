@@ -1,4 +1,4 @@
-.. _folio/title_block/properties/index
+.. _folio/title_block/properties/index:
 
 ======================
 Title block properties

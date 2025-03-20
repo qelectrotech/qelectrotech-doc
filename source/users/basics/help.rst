@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Qelectrotech Team <license@qelectrotech.org>
+.. SPDX-FileCopyrightText: 2024 QElectroTech Team <license@qelectrotech.org>
 ..
 .. SPDX-License-Identifier: GPL-2.0-only
 
@@ -50,7 +50,7 @@ Online Manual
 
 **Help** menu can address the user to the official online documentation. 
 
-* Select **Help > Online Manual** menu item to open the official QEletroTech online documentation at default browser.
+* Select **Help > Online Manual** menu item to open the official QElectroTech  online documentation at default browser.
 
 When the application is active on the computer, the user can also open the online manual at default browser using keyboard shortcut.
 
@@ -66,14 +66,14 @@ Youtube Channel
 
 Many different video tutorials about QElectroTech can be found on Internet. **Help** menu can address the user to the official `Youtube`_ channel of the project. 
 
-* Select **Help > Youtube Channel** menu item to open the QEletroTech `Youtube`_ channel at default browser.
+* Select **Help > Youtube Channel** menu item to open the QElectroTech `Youtube`_ channel at default browser.
 
 Support the project
 ~~~~~~~~~~~~~~~~~~~
 
 If the user is satisfied with the work already made by the developer team from QElectroTech and he wants to help the project with an economical donation, **Help** menu can address the user to the official `PayPal`_ account of the project.
 
-* Select **Help > Support the project with a donation** menu item to open the official `PayPal`_ account from QEletroTech at default browser.
+* Select **Help > Support the project with a donation** menu item to open the official `PayPal`_ account from QElectroTech at default browser.
 
 About Qt
 ~~~~~~~~

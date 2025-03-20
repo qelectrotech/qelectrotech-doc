@@ -4,7 +4,7 @@
 Select all objects
 ==================
 
-QElectroTech allows selecting all objet from `workspace`_, all objects from the actived `folio`_, 
+QElectroTech allows selecting all object from `workspace`_, all objects from the activated `folio`_, 
 at the same time. All objects can be selected from `menu bar`_, `workspace`_ or using the 
 corresponding keyboard shortcut.
 

@@ -30,7 +30,7 @@ To find an object which contains a string:
 
    If the `search menu`_ is not displayed, it can be displayed from **Edit > Search / Replace** menu item or using ``Ctrl + f`` shortcut keyboard.
 
-QElectrotech provides also some advanced properties for searching. Before searching, a filter can be 
+QElectroTech provides also some advanced properties for searching. Before searching, a filter can be 
 defined to reduce the list of matches according the following criteria:
 
 * `Text fields (Plain text)`_.

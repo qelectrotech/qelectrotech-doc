@@ -1,4 +1,4 @@
-.. _project/properties/new_folio/index
+.. _project/properties/new_folio/index:
 
 ====================
 New folio properties
