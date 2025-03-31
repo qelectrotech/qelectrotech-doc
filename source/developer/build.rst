@@ -85,28 +85,6 @@ IDE Setup
 
 2. After installation, click on "File">"Open File or Project" or use the shortcut ``ctrl+O`` to open your OS's file dialog. Click the *.pro* file to open the project and click "Build">"Run" to run the project.
 
-Coding Style Setup
-""""""""""""""""""
-
-#. First you'll want to download the corresponding :download:`XML file <../_external/_snippets/qtcreator-qet-style.xml>`.
-
-#. Second, you'll need to import it into the QT Creator IDE. To do this, follow those steps:
-
-   - Go to the "Project" tab and click on the "Code Style" element in the list.
-
-   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_1.png
-
-   - Click on the "Import" button and select the XML file.
-
-   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_2.png
-
-   - Select the "QET" Code Style in the dropdown
-
-   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_3.png
-
-
-
-
 CLI Compilation
 ^^^^^^^^^^^^^^^
 

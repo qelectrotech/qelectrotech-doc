@@ -29,9 +29,34 @@ Compile the app from source
 To set up a dev environment and compile the app locally, please refer to the :doc:`Build Guidelines<build>`.
 
 Submit code
-===========
+==================
 
-To add your additions to the QET codebase, you need to open a `Merge Request`_ in the `source code`_ Git repository. 
+To add your additions to the QET codebase, you need to open a `Merge Request`_ in the `source code`_ Git repository. This section will teach you the syntax used in the project and some basic guidelines when contributing.
+
+Coding Style Setup
+------------------
+
+.. note::
+  Make sure to follow the QET Coding style before submitting code.
+
+
+#. First you'll want to download the corresponding :download:`XML file <../_external/_snippets/qtcreator-qet-style.xml>`.
+
+#. Second, you'll need to import it into the QT Creator IDE. To do this, follow those steps:
+
+   - Go to the "Project" tab and click on the "Code Style" element in the list.
+
+   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_1.png
+
+   - Click on the "Import" button and select the XML file.
+
+   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_2.png
+
+   - Select the "QET" Code Style in the dropdown
+
+   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_3.png
+
+
 
 
 Do & Don't of contributing
@@ -43,20 +68,21 @@ Do & Don't of contributing
 
    * - Do
      - Don't
-   * - Always provide log files when opening an issue. Having no logs makes it really difficult to replicate your bug. 
-     - 
-   * - Make sure to follow the QET Coding style before submitting code 
-     - 
    * - After forking the repository, please **create another branch** for your changes. This will allow you to go back if something in the code breaks.
      - Don't use :code:`git pull` when updating your MR, prefer :code:`git rebase`. This will apply all the latest changes and make the commit history more readable, facilitating testing.  
    * - Structure your files so later contributors can easily make changes and additions to your files
-     -      
+     - Don't submit `spaghetti code`_. Unmaintainable code is a burden for users, maintainers and future developers.   
 
 
+Get Help
+========
 
+If you need help regarding building, compiling the app or more insight in the codebase, you can ask help on the `QET Forum`_.
 
 
 .. _source code: https://github.com/qelectrotech/qelectrotech-source-mirror
 .. _Git Documentation: https://git-scm.com/doc
 .. _Git: https://git-scm.com/
-.. _Merge Request: https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/
+.. _Merge Request: https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/\
+.. _QET Forum: https://qelectrotech.org/forum/index.php
+.. _spaghetti code: https://en.wikipedia.org/wiki/Spaghetti_code
