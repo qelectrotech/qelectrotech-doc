@@ -9,14 +9,13 @@ Building QET from source
 
 This section is for users and contributors wanting to build and/or improve QElectroTech (QET).
 
-This guide assumes that you have forked the source repo and that your system has the Git VCS (Version Control System) configured to point to that fork. \
-If you need help to setup Git, please take a look at the `Git Documentation <https://git-scm.com/doc>`_.
+This guide assumes that you have forked the source repo and that your system has the Git VCS (Version Control System) configured to point to that fork. 
 
-Before pushing code to the repo and/or creating a MR, please have a look at the `contribution guidelines <_developer/contributing>`_.
+If you need help to setup Git or you are unsure about something regarding pushing code to the repo, please have a look at the :doc:`Contributing guidelines <contributing>`.
 
-*************
+
 Prerequisites
-*************
+=============
 
 - Get the sources and initialize the submodules by running this command
 
@@ -26,10 +25,10 @@ Prerequisites
 
 
 Linux
-=====
+-----
 
 Native
-~~~~~~
+^^^^^^
 - For a Debian-like machine (Ubuntu, Linux Mint, etc), install the required packages 
 
 .. code-block:: bash
@@ -38,9 +37,9 @@ Native
 
 
 Containerized
-~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
-If you are worried about risks of dependency breakage, you can use a tool like `Distrobox <distrobox.it>`_ to easily setup a contained environment.
+If you are worried about risks of dependency breakage, you can use a tool like `Distrobox`_ to easily setup a contained environment.
 After creating the box with your choice OS, follow the package install guidelines in the "Native" part of the build docs.
 
 *Example of Debian box creation. Replace <name> with the one you want to give to it.*
@@ -49,17 +48,25 @@ After creating the box with your choice OS, follow the package install guideline
 
      distrobox-create -i debian:latest -n <name>
 
-**************
-How to compile
-**************
+
+Compilation instructions
+========================
+
+
+
+Windows
+-------
+
+Linux
+-----
 
 IDE Setup 
-=========
+^^^^^^^^^
 
-After installing the dependencies, install the QT Creator IDE. For that, you've got two choices:
+1. After installing the dependencies, install the QT Creator IDE. Depending on your OS type, you have two options:
     
     
-- If you are using a bleeding edge distro like Ubuntu **non LTS**, chances are that their builds of the app are up to date. Install it by running this command:
+- If you are using a bleeding edge distro like Fedora, Arch or `Ubuntu Non LTS`_ , chances are that their builds are up to date. Install it by running the :code:`apt` command:
     
 .. code-block:: bash
         
@@ -68,31 +75,53 @@ After installing the dependencies, install the QT Creator IDE. For that, you've 
 
 - If you are using a distro with a slower release cycle like Debian, you'll need to do two things:
    
-  #. First setup `Flatpak <https://flathub.org/setup>`_
-  #. Then use Flatpak to install the QTCreator IDE
+  #. First setup `Flatpak`_
+  #. Then use Flatpak to install the `QT Creator IDE`_
         
 .. code-block:: bash
 
     flatpak install flathub io.qt.QtCreator
 
 
+2. After installation, click on "File">"Open File or Project" or use the shortcut ``ctrl+O`` to open your OS's file dialog. Click the *.pro* file to open the project and click "Build">"Run" to run the project.
 
-.. _QET Coding style:
+Coding Style Setup
+""""""""""""""""""
 
-Get the QET Coding style for QTCreator and set it up.
+#. First you'll want to download the corresponding :download:`XML file <../_external/_snippets/qtcreator-qet-style.xml>`.
 
-#. First you'll want to download the corresponding XML file from . You've got two option:
-        
-   - Download it like a :download:`normal file <../_external/_snippets/qtcreator-qet-style.xml>` with the help of your browser (will satisfy most users)
-   - Download it using an utility like curl or wget.
+#. Second, you'll need to import it into the QT Creator IDE. To do this, follow those steps:
 
-#. After that, you'll need to import it into the QtCreator app as shown in the picture below
-    
-.. image:: /_external/_images/en/qet_developer/qet_developer_style_setup.png
+   - Go to the "Project" tab and click on the "Code Style" element in the list.
 
-- To produce a binary, run the .sh scripts for the different packaging options that are proposed.
+   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_1.png
+
+   - Click on the "Import" button and select the XML file.
+
+   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_2.png
+
+   - Select the "QET" Code Style in the dropdown
+
+   .. image:: /_external/_images/en/qet_developer/style_setup/qet_developer_style_setup_step_3.png
+
+
+
 
 CLI Compilation
-===============
+^^^^^^^^^^^^^^^
 
+If you do not want to use the QT Creator IDE or you are using another IDE (VSCode, Sublime Text, etc...), you can compile the codebase using these commands:
 
+.. code-block:: bash
+
+    cd qelectrotech-source-mirror.git
+    mkdir build && cd build
+    qmake  ../qelectrotech.pro
+    make -j$(nproc)
+
+This will instruct :code:`qmake` to prepare the required files in the :code:`build` directory and launch compilation with the :code:`make` command.  
+
+.. _Ubuntu Non LTS: https://ubuntu.com/about/release-cycle
+.. _Flatpak: https://flathub.org/setup
+.. _Distrobox: https://distrobox.it
+.. _QT Creator IDE: https://flathub.org/apps/io.qt.QtCreator

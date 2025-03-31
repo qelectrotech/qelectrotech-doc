@@ -29,8 +29,7 @@ Developer Manual
    :caption: Table of Content:
    :hidden:
    
-   
-   build
    contributing
+   build
    doxygen-ref
    
