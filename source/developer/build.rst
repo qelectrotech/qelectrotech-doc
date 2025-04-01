@@ -83,7 +83,7 @@ IDE Setup
     flatpak install flathub io.qt.QtCreator
 
 
-2. After installation, click on "File">"Open File or Project" or use the shortcut ``ctrl+O`` to open your OS's file dialog. Click the *.pro* file to open the project and click "Build">"Run" to run the project.
+2. After installation, click on "File">"Open File or Project" or use the shortcut ``ctrl+O`` to open your OS file dialog. Click the *.pro* file to open the project and click "Build">"Run" to run the project.
 
 CLI Compilation
 ^^^^^^^^^^^^^^^

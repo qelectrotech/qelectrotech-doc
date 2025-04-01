@@ -3,35 +3,13 @@ name: Deploy Sphinx documentation to Pages
 on:
   push:
   pull_request:
-    branches: [master] # branch to trigger deployment
+  # branch to trigger deployment
+    branches: [master,
+    #TESTING, REMOVE BEFORE MERGE            
+              MR-next ] 
 
 jobs:
-  doxygen:
-    runs-on: ubuntu-24.04
-    steps:
-    - uses: actions/checkout@v3
-    - name: Get latest code
-      run: |
-        rm -rf qelectrotech-source-mirror
-        # test only, remove when merging
-        git clone --recursive https://github.com/Int-Circuit/qelectrotech-source-mirror.git
-        cd qelectrotech-source-mirror
-        git fetch
-        git switch ci/cd
-        cd ..
-
-        # git clone --recursive https://github.com/qelectrotech/qelectrotech-source-mirror.git
-    - uses: mattnotmitt/doxygen-action@v1.9.5
-      with:
-        working-directory: 'qelectrotech-source-mirror/'
-        doxyfile-path: 'Doxyfile'
-        enable-latex: true
-    - uses: actions/upload-artifact@v4
-      with:
-       name: XML_Doxyfile 
-       path: qelectrotech-source-mirror/doc/xml/
   pages:
-    needs: [doxygen]
     runs-on: ubuntu-20.04
     environment:
       name: github-pages
@@ -41,12 +19,6 @@ jobs:
       id-token: write
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/download-artifact@v4
-      with:
-        name: XML_Doxyfile
-        path: xml
-    - name: Display structure of downloaded files
-      run: ls -R xml
     - name: spell
       uses: codespell-project/actions-codespell@v2
       with:
