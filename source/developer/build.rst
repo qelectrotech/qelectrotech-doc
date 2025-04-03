@@ -30,7 +30,7 @@ Linux
 Native
 ^^^^^^
 - For a Debian-like machine (Ubuntu, Linux Mint, etc), install the required packages 
-
+        
 .. code-block:: bash
 
     sudo apt install libqt5svg5-dev qt5-qmake qtbase5-dev libkf5widgetsaddons-dev libkf5coreaddons-dev libsqlite3-dev pkgconf
