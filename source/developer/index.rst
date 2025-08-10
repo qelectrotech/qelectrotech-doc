@@ -31,5 +31,4 @@ Developer Manual
    
    contributing
    build
-   doxygen-ref
    

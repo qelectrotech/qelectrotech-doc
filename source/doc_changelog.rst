@@ -8,6 +8,8 @@ Documentation Changelog
 =======================
 
 
+Adding Windows build instructions (Huge Thanks to  `ssweber`_` for the original Gist)
+
 .. towncrier release notes start
 
 QET Documentation Changelog 0.1 (2020-03-22)
@@ -39,3 +41,4 @@ Feature
 
 
 
+https://github.com/ssweber
