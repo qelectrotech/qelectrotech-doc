@@ -2,15 +2,17 @@ name: Deploy Sphinx documentation to Pages
 
 on:
   push:
+    branches: [master,MR-next ]
+    #TESTING, REMOVE BEFORE MERGE                 
   pull_request:
   # branch to trigger deployment
-    branches: [master,
+    branches: [master, MR-next ]
     #TESTING, REMOVE BEFORE MERGE            
-              MR-next ] 
+               
 
 jobs:
   pages:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -18,7 +20,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: spell
       uses: codespell-project/actions-codespell@v2
       with:
