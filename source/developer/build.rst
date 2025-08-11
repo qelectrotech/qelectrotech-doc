@@ -9,7 +9,11 @@ Building QET from source
 
 This section is for users and contributors wanting to build and/or improve QElectroTech (QET).
 
-This guide assumes that you have forked the source repo and that your system has the Git VCS (Version Control System) configured to point to that fork. 
+This guide assumes that you have forked the source repo and that your system has the Git VCS (Version Control System) configured to point to that fork. For installation instructions, please refer to the `Installing Git`_ instructions.
+
+.. warning::
+
+    Make sure to add Git to your ``PATH`` during the Windows installation.
 
 If you need help to setup Git or you are unsure about something regarding pushing code to the repo, please have a look at the :doc:`Contributing guidelines <contributing>`.
 
@@ -29,7 +33,7 @@ Linux
 
 Native
 ^^^^^^
-- For a Debian-like machine (Ubuntu, Linux Mint, etc), install the required packages 
+- For a Debian-like machine (Ubuntu, Linux Mint, etc), install the required packages. These include QT 5 and KDE 5.15.X Dev headers and other utilities like SQLite DB code utilities. 
         
 .. code-block:: bash
 
@@ -52,17 +56,47 @@ After creating the box with your choice OS, follow the package install guideline
 Windows
 -------
 
-*Due to the fact that Windows doesn't ship with a GCC version by default and uses its own C compiler (MSVC), the Prerequisites Step is a little bit more involved than on Linux.*
+*Due to the fact that Windows uses its own C compiler (MSVC) and doesn't ship with a GCC version by default, the Prerequisites Step is a little bit more involved than on Linux.*
+
+Install QT
+^^^^^^^^^^
 
 1. Download the `Qt Online Installer`_.
 2. During installation:
-   - Select **Custom Installation**.
-   - See Qt 5 by checking 'Archive' and clicking 'Filter' button
-   - Enable **Qt 5.15.2** → **MinGW 8.1.0 64-bit** under the `Archive` section.
-   - Enable **Build Tools** → **MinGW 8.1.0 64-bit**.
+
+   * Select **Custom Installation**.
+   * See Qt 5 by checking 'Archive' and clicking 'Filter' button
+   * Enable **Qt 5.15.2** → **MinGW 8.1.0 64-bit** under the ``Archive`` section.
+   * Enable **Build Tools** → **MinGW 8.1.0 64-bit**.
+
 3. After installation:
-   - Qt will be installed at: `C:\Qt\5.15.2\mingw81_64`.
-   - MinGW will be available at: `C:\Qt\Tools\mingw810_64\bin`.
+
+   * Qt will be installed at: ``C:\Qt\5.15.2\mingw81_64``.
+   * MinGW will be available at: ``C:\Qt\Tools\mingw810_64\bin``.
+
+Install CMake
+^^^^^^^^^^^^^
+
+1. Download and install `CMake`_.
+2. Add CMake to your system ``PATH`` during installation.
+3. Verify the installation:
+
+.. code-block:: shell
+
+   cmake --version
+
+Add MinGW to PATH
+^^^^^^^^^^^^^^^^^
+
+1. Add the following directory to your ``PATH`` environment variable:
+   ``C:\Qt\Tools\mingw810_64\bin``
+
+2. Verify installation:
+
+.. code-block:: shell   
+   
+   mingw32-make --version
+   
 
 
 Compilation instructions
@@ -125,8 +159,10 @@ If you do not want to use the QT Creator IDE or you are using another IDE (VSCod
 
 This will instruct :code:`qmake` to prepare the required files in the :code:`build` directory and launch compilation with the :code:`make` command.  
 
+.. _Installing Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 .. _Ubuntu Non LTS: https://ubuntu.com/about/release-cycle
 .. _Flatpak: https://flathub.org/setup
 .. _Distrobox: https://distrobox.it
 .. _QT Creator IDE: https://flathub.org/apps/io.qt.QtCreator
 .. _QT Online Installer: https://doc.qt.io/qtcreator/creator-how-to-install.html
+.. _CMake: https://cmake.org/download/

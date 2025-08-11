@@ -19,7 +19,7 @@ Welcome to the QET Documentation
         :link-type: ref
         :width: 75%
     .. grid-item-card:: Developer Docs
-        :img-top: /_external/_images/_site-assets/user/ico/256x256/interface.png
+        :img-top: /_external/_images/_site-assets/user/ico/128x128/plasmagik.png
         :img-alt: Image showing QET's interface wizard 
         :link: developer/index
         :link-type: ref

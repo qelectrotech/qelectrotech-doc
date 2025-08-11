@@ -17,7 +17,7 @@ To contribute to QElectroTech (QET), you need to have access to the `source code
 
 Source control is provided by `Git`_.
 
-If you need help to setup Git, please take a look at the `Git Documentation`_.
+If you need help to setup or use Git, please take a look at the `Git Documentation`_.
 
 Access the code documentation
 =============================
