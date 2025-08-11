@@ -56,7 +56,9 @@ After creating the box with your choice OS, follow the package install guideline
 Windows
 -------
 
-*Due to the fact that Windows uses its own C compiler (MSVC) and doesn't ship with a GCC version by default, the Prerequisites Step is a little bit more involved than on Linux.*
+.. note::
+
+    Due to the fact that Windows uses its own C compiler (MSVC) and doesn't ship with a GCC version by default, the Prerequisites Step is a little bit more involved than on Linux.
 
 Install QT
 ^^^^^^^^^^
@@ -74,6 +76,28 @@ Install QT
    * Qt will be installed at: ``C:\Qt\5.15.2\mingw81_64``.
    * MinGW will be available at: ``C:\Qt\Tools\mingw810_64\bin``.
 
+After completing the installation, set the two PATH Variables for the KDE Step.   
+
+Set the QTPATH Variable
+"""""""""""""""""""""""
+Set the ``QTPATH`` environment variable to point to your Qt installation directory. For example:
+
+.. code-block:: shell
+
+    SET QTPATH=C:\Qt\5.15.2\mingw81_64
+
+Add MinGW to PATH
+"""""""""""""""""
+
+1. Add the following directory to your ``PATH`` environment variable:
+   ``C:\Qt\Tools\mingw810_64\bin``
+
+2. Verify installation:
+
+.. code-block:: shell   
+   
+   mingw32-make --version
+
 Install CMake
 ^^^^^^^^^^^^^
 
@@ -85,18 +109,11 @@ Install CMake
 
    cmake --version
 
-Add MinGW to PATH
-^^^^^^^^^^^^^^^^^
 
-1. Add the following directory to your ``PATH`` environment variable:
-   ``C:\Qt\Tools\mingw810_64\bin``
-
-2. Verify installation:
-
-.. code-block:: shell   
    
-   mingw32-make --version
-   
+Download and Compile KDE Components
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 Compilation instructions
