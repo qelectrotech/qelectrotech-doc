@@ -7,7 +7,7 @@
 Documentation Changelog
 =======================
 
-QET Documentation Changelog 0.2 (2025-12-18)
+QET Documentation Changelog 0.9 (2025-12-18)
 ============================================
 
 Adding Windows build instructions (Huge Thanks to  `ssweber`_` for the original Gist)
@@ -37,7 +37,7 @@ Bugfix
 
 
 
-QET Documentation Changelog 0.1 (2020-03-22)
+QET Documentation Changelog 0.8 (2020-03-22)
 ============================================
 
 Bugfix

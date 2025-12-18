@@ -26,7 +26,7 @@ jobs:
       with:
         path: source
         exclude_file: ${{ github.workspace }}/source/conf.py
-        skip:  .svg, .po, .sh, .py 
+        skip:  '*.svg,*.py'
       continue-on-error: true
     - name: deployment
       uses: sphinx-notes/pages@v3
