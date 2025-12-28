@@ -1,0 +1,20 @@
+name: Codespell
+
+on:
+  pull_request:
+    branches: 
+     - master
+     - MR-next 
+    #TESTING, REMOVE BEFORE MERGE                 
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: spell
+      uses: codespell-project/actions-codespell@v2
+      with:
+        path: source
+        exclude_file: ${{ github.workspace }}/source/conf.py
+        skip:  '*.svg,*.py'
+

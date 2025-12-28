@@ -2,14 +2,10 @@ name: Deploy Sphinx documentation to Pages
 
 on:
   push:
-    branches: [master,MR-next ]
+    branches: 
+    - master
+    - MR-next 
     #TESTING, REMOVE BEFORE MERGE                 
-  pull_request:
-  # branch to trigger deployment
-    branches: [master, MR-next ]
-    #TESTING, REMOVE BEFORE MERGE            
-               
-
 jobs:
   pages:
     runs-on: ubuntu-latest
@@ -21,13 +17,6 @@ jobs:
       id-token: write
     steps:
     - uses: actions/checkout@v4
-    - name: spell
-      uses: codespell-project/actions-codespell@v2
-      with:
-        path: source
-        exclude_file: ${{ github.workspace }}/source/conf.py
-        skip:  '*.svg,*.py'
-      continue-on-error: true
     - name: deployment
       uses: sphinx-notes/pages@v3
       with:
