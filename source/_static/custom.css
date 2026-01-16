@@ -1,105 +1,27 @@
-.redtext {
-    color: red;
+:root {
+    --sd-color-card-background: white;
 }
-.bluetext {
-    color: blue;
+.bluetext{
+    color: #2424ff;
 }
-.orangetext {
-    color: orange;
-}
-.yellowtext {
+.yellowtext{
     color: yellow;
 }
-.greentext {
+.greentext{
     color: green;
 }
-.lilactext {
+.orangetext{
+    color: orange;
+}
+.redtext{
+    color: red;
+}
+.lilactext{
     color: darkviolet;
 }
-.browntext {
+.browntext{
     color: brown;
 }
-.pinktext {
-    color: palevioletred;
-}
-
-/* drawing page grid display */
-
-.grid {
-    list-style-type: none !important;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    margin: 1rem auto;
-    max-width: calc((250px + 2rem) * 3);
-}
-
-.grid-item {
-    list-style-type: none !important;
-    -webkit-box-flex: 0;
-        -ms-flex: 0 0 auto;
-            flex: 0 0 auto;
-    width: 200px;
-    text-align: center;
-    margin: 1rem;
-}
-
-.grid-item a {
-    display: block;
-    width: 200px;
-    height: 200px;
-    padding: 20px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    border: 1px solid #c6cbce;
-    background-color: white;
-    border-radius: 30px;
-    color: black;
-}
-
-.grid-item h2 {
-    font-size: 1.1rem;
-    color: black;    
-}
-
-.grid-item img {
-    /* max-width: 50%;
-    max-height: 50%; */
-    margin-bottom: 0.7rem;
-}
-
-
-.grid-item a:hover {
-    background-color: white;
-    color: black;
-}
-
-
-.grid-item p {
-    margin-top: 0.5rem;
-    font-size: 85%;
-    line-height:1.2;
-    color: #404040;
-}
-
-.grid-icon {
-   line-height: 1.8;
-   font-size: 4rem;
-   color: #114B4F;
+.pinktext{
+    color: pink;
 }

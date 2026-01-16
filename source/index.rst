@@ -1,101 +1,51 @@
-.. _index
 
-==========================
-QElectroTech documentation
-==========================
+.. _home:
 
-.. raw:: html
+=============================================
+Welcome to the QET Documentation
+=============================================
 
-   <ul class="grid">
-       <li class="grid-item">
-           <a href="basics/index.html">
-               <img alt="" src="_images/icon-128x128-qelectrotech.png"/>
-               <h2>Basics</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="interface/index.html">
-               <img alt="" src="_images/qet_gui.png"/>
-               <h2>Interface</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="preferences/index.html">
-               <img alt="" src="_images/icon-128x128-plasmagik.png"/>
-               <h2>Preferences</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="project/index.html">
-               <img alt="" src="_images/icon-128x128-project.png"/>
-               <h2>Project</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="folio/index.html">
-               <img alt="" src="_images/icon-128x128-folio.png"/>
-               <h2>Folio</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="element/index.html">
-               <img alt="" src="_images/icon-128x128-element.png"/>
-               <h2>Element</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="conductor/index.html">
-               <img alt="" src="_images/icon-128x128-conductor.png"/>
-               <h2>Conductor</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="schema/index.html">
-               <img alt="" src="_images/icon-128x128-diagram.png"/>
-               <h2>Schema</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="drawing/index.html">
-               <img alt="" src="_images/qet_lop.png"/>
-               <h2>Drawing</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="reports/index.html">
-               <img alt="" src="_images/qet_list_folios.png"/>
-               <h2>Reports</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="export&print/index.html">
-               <img alt="" src="_images/icon-128x128-print.png"/>
-               <h2>Export & Print</h2>
-           </a>
-       </li>
-       <li class="grid-item">
-           <a href="annex/index.html">
-               <img alt="" src="_images/icon-128x128-qelectrotech.png"/>
-               <h2>Annex</h2>
-           </a>
-       </li>
-   </ul>
+.. grid::  2
+    :gutter: 2
+    :margin: auto
 
+
+    .. grid-item-card:: User Docs
+        :img-top: /_external/_images/_site-assets/user/ico/256x256/qelectrotech.png
+        :img-alt: Image showing the QET app icon
+        :link: users/index
+        :link-type: ref
+        :width: 75%
+    .. grid-item-card:: Developer Docs
+        :img-top: /_external/_images/_site-assets/user/ico/128x128/plasmagik.png
+        :img-alt: Image showing QET's interface wizard 
+        :link: developer/index
+        :link-type: ref
+        :width: 75%
+    .. grid-item-card:: FAQ
+        :img-top: /_external/_images/_site-assets/user/ico/128x128/settings.png
+        :img-alt: Image showing QET's preferences icon
+        :link: faq
+        :link-type: ref
+        :width: 75%
+    .. grid-item-card:: Documentation Changelog
+        :img-top: /_external/_images/_site-assets/user/ico/128x128/project.png
+        :img-alt: Image showing a QET Project folder icon
+        :link: doc_changelog
+        :link-type: ref
+        :width: 75%
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :hidden:
+
+   Home <self>
+   users/index
+   developer/index
+   app_changelog
+   doc_changelog
+   faq
+   QET Homepage <https://qelectrotech.org>
+   QET Forum <https://qelectrotech.org/forum/index.php>
 
 
-   basics/index
-   interface/index
-   preferences/index
-   project/index
-   folio/index
-   element/index
-   conductor/index
-   schema/index
-   drawing/index
-   reports/index
-   export&print/index
-   annex/index
 
-here is the pdf version :download:`pdf <downloads/QElectroTechdoc-0.8.pdf>`

@@ -1,0 +1,92 @@
+
+
+.. _basics/help:
+
+QElectroTech help menu
+======================
+
+QElectroTech has been designed with some tools which help the user and makes easier the searching of information. All those tools can be found at **Help** menu from `menu bar`_.
+
+.. figure:: /_external/_images/en/qet_menu/qet_menu_help.png
+   :align: center
+
+   Figure: Help menu QElectroTech
+
+Tooltips
+~~~~~~~~
+
+To support the user, tooltips are displayed when the mouse arrow is placed on an icon from the `toolbars`_. A tooltip is a short message which defines the action corresponding to the icon. 
+
+QElectroTech also allows the display from tooltips, or short description panels, at many different areas and objects from the main window. These panels are not displayed automatically with the placement of the mouse arrow on the object or area. 
+
+1. Select **Help > What's this?** menu item.
+2. Press on the object or area to display the description.
+
+.. figure:: /_external/_images/en/qet_tooltip_workspace.png
+   :align: center
+
+   Figure: Message which appears when hovering an element
+
+To increase the working efficiency, the description panel can also be displayed using keyboard shortcut. The user does not need to resort to the **Help** menu. 
+
+1. Press ``shift + f1``.
+2. Press on the object or area to display the description. 
+
+.. note::
+
+   The tool **What's this?** does not give the description from everything, it gives only the description for the different type of collections (`title blocks`_ and `elements`_), the `workspace`_, `project`_ area and a few objects and areas more.
+
+About QElectroTech
+~~~~~~~~~~~~~~~~~~
+
+Many information related to QElectroTech can be found at the application without searching on Internet. Everybody who launch the application can find the license text, version of the application launched, developers and collaborators. 
+
+* Select **Help > About QElectroTech** menu item to display the PopUp window with the basic information from QElectroTech project.  
+
+Online Manual
+~~~~~~~~~~~~~
+
+**Help** menu can address the user to the official online documentation. 
+
+* Select **Help > Online Manual** menu item to open the official QElectroTech  online documentation at default browser.
+
+When the application is active on the computer, the user can also open the online manual at default browser using keyboard shortcut.
+
+* Press ``f1`` to open the official online manual on the browser.
+
+.. seealso::
+
+    For more information about QElectroTech keyboard shortcut, refer to `menu bar`_ section.
+
+
+Youtube Channel
+~~~~~~~~~~~~~~~
+
+Many different video tutorials about QElectroTech can be found on Internet. **Help** menu can address the user to the official `Youtube`_ channel of the project. 
+
+* Select **Help > Youtube Channel** menu item to open the QElectroTech `Youtube`_ channel at default browser.
+
+Support the project
+~~~~~~~~~~~~~~~~~~~
+
+If the user is satisfied with the work already made by the developer team from QElectroTech and he wants to help the project with an economical donation, **Help** menu can address the user to the official `PayPal`_ account of the project.
+
+* Select **Help > Support the project with a donation** menu item to open the official `PayPal`_ account from QElectroTech at default browser.
+
+About Qt
+~~~~~~~~
+
+QElectroTech has been designed using `Qt`_ framework and widget toolkit. **Help** menu allows going to the official web from `Qt`_ project without the need of searching on Internet.
+
+* Select **Help > About Qt** menu item to open the official `Qt`_ website from  in the default browser. 
+
+.. _Qt: https://www.qt.io/
+.. _Youtube: https://www.youtube.com/user/scorpio8101/videos
+.. _PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZZHC9D7C3MDPC
+
+.. _menu bar: ../interface/menu_bar.html
+.. _toolbars: ../interface/toolbars.html
+.. _workspace: ../interface/workspace.html
+.. _project: ../project/index.html
+.. _elements: ../element/index.html
+.. _title blocks: ../folio/title_block/index.html
