@@ -4,8 +4,6 @@ on:
   pull_request:
     branches: 
      - master
-     - MR-next 
-    #TESTING, REMOVE BEFORE MERGE                 
 jobs:
   pages:
     runs-on: ubuntu-latest

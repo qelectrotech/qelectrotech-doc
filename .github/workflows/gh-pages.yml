@@ -3,9 +3,7 @@ name: Deploy Sphinx documentation to Pages
 on:
   push:
     branches: 
-    - master
-    - MR-next 
-    #TESTING, REMOVE BEFORE MERGE                 
+    - master            
 jobs:
   pages:
     runs-on: ubuntu-latest
