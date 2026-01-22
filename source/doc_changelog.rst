@@ -18,8 +18,8 @@ Feature
 -------
 
 - Added Dev docs on how to build the app
-- Added GitHub CI to automaticaly build, publish and licence files on push/merge/ pull request to branch. Using Sphinx-note's page action
-- Added app changelog in developper/app_changelog.rst + Documentation changelog
+- Added GitHub CI to automatically build, publish and licence files on push/merge/ pull request to branch. Using Sphinx-note's page action
+- Added app changelog in developer/app_changelog.rst + Documentation changelog
 - Created doc hub on homepage instead of going directly in user doc
 - Added automatic Doxygen doc support
 - Add spellchecking system on deploy
