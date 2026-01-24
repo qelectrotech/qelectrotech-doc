@@ -15,4 +15,6 @@ jobs:
         path: source
         exclude_file: ${{ github.workspace }}/source/conf.py
         skip:  '*.svg,*.py'
+    - name: REUSE Compliance Check
+      uses: fsfe/reuse-action@v6  
 
