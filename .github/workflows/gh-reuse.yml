@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2018-Present Qelectrotech Team <license@qelectrotech.org>
+#
+# SPDX-License-Identifier: GPL-2.0-only
+
 name: REUSE
 
 
@@ -17,14 +21,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Setup venv and activate it
-      run: python3 -m venv venv/ && source venv/bin/activate
-      shell: bash
-    - name: Install REUSE
-      run: pip install reuse
-      shell: bash
-    - name: Make source files REUSE-compliant
-      run: reuse download GPL-2.0-only && reuse annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" source/developer/* source/users/* source/index.rst source/doc_changelog.rst --skip-unrecognised --recursive
+    - name: REUSE SPDX SBOM
+      uses: fsfe/reuse-action@v6
+      with:
+        args: annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" --fallback-dot-license --recursive --year="2018-Present" $(find source -name '*.rst')
+
+    - name: REUSE Compliance Check
+      uses: fsfe/reuse-action@v6  
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v8
       with:
