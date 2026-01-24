@@ -1,3 +1,8 @@
+.. SPDX-FileCopyrightText: 2018-Present Qelectrotech Team <license@qelectrotech.org>
+
+.. SPDX-License-Identifier: GPL-2.0-only
+
+
 .. _export&print/export_internal_project_database:
 
 Export internal project database

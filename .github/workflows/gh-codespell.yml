@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2018-Present Qelectrotech Team <license@qelectrotech.org>
+#
+# SPDX-License-Identifier: GPL-2.0-only
+
 name: Codespell
 
 on:
@@ -15,6 +19,5 @@ jobs:
         path: source
         exclude_file: ${{ github.workspace }}/source/conf.py
         skip:  '*.svg,*.py'
-    - name: REUSE Compliance Check
-      uses: fsfe/reuse-action@v6  
+
 
