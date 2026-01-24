@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - master
+      - Int-Circuit-patch-1
     paths-ignore:
       - 'LICENSES/*'
     
