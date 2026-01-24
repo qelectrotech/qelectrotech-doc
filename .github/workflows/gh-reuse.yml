@@ -24,7 +24,7 @@ jobs:
     - name: REUSE SPDX SBOM
       uses: fsfe/reuse-action@v6
       with:
-        args: annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" --fallback-dot-license --recursive --year="2018-Present" $(find source -name '*.rst')
+        args: annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" --fallback-dot-license --recursive --year="2018-Present"  ${{ github.workspace }}/source/*.rst
 
     - name: REUSE Compliance Check
       uses: fsfe/reuse-action@v6  
