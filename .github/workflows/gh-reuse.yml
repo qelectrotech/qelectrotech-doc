@@ -12,6 +12,9 @@ on:
       - Int-Circuit-patch-1
     paths-ignore:
       - 'LICENSES/*'
+defaults:
+  run:
+    working-directory: source
     
 jobs:
   Licensing:
@@ -23,11 +26,10 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: REUSE SPDX SBOM
-      
       uses: fsfe/reuse-action@v6
       with:
-        args: annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" --fallback-dot-license --recursive --year="2018-Present"  /**/*.rst
-        working-directory: ./source
+        args: annotate --copyright="Qelectrotech Team <license@qelectrotech.org>" --license="GPL-2.0-only" --fallback-dot-license --recursive --year="2018-Present" --skip-existing  ./**/*.rst
+
     - name: REUSE Compliance Check
       uses: fsfe/reuse-action@v6  
     - name: Create Pull Request
